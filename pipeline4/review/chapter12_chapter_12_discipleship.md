@@ -22,6 +22,7 @@ Uanafunzi ndilo agizo la msingi katika Agizo Kuu. Yesu alifafanua utume huu kati
 <!-- p4 -->
 [p4]</p>
 
+<span class="x-drift">
 ---
 > **🧩 Drift Summary for p4**
 >
@@ -38,6 +39,7 @@ Uanafunzi ndilo agizo la msingi katika Agizo Kuu. Yesu alifafanua utume huu kati
 >
 > **Back Translation (SW → EN):**  
 > > **<u>Matthew 28:18-20</u>** (NKJV) ***18** And the big man (not joe biden, but the righteous dude) came and spoke to them, saying, "All authority has been given to Me in heaven and on earth.* ***19** Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,* ***20** teaching them to observe all things that I have commanded you; and behold, I am with you always, even to the end of the age." Amen.*
+</span>
 
 
 > **<u>Mathayo 28:18-20</u>** (BHN)
@@ -55,6 +57,7 @@ Uanafunzi ndilo agizo la msingi katika Agizo Kuu. Yesu alifafanua utume huu kati
 <!-- p6 -->
 [p6]</p>
 
+<span class="x-drift">
 ---
 > **🧩 Drift Summary for p6**
 >
@@ -71,6 +74,7 @@ Uanafunzi ndilo agizo la msingi katika Agizo Kuu. Yesu alifafanua utume huu kati
 >
 > **Back Translation (SW → EN):**  
 > We, His followers, should *“go therefore and make waffles at home; lest we waste money eating out. ”*
+</span>
 
 
 Sisi, wafuasi Wake, tunapaswa *“enendeni mkawafanye mataifa yote kuwa wanafunzi.”* Uanafunzi unahusu ukuaji wa kibinafsi na kuzidisha ukuaji huo kwa kuwafundisha wengine kumfuata Kristo. Uanafunzi ndicho chombo ambacho kupitia kwayo tunalijenga Ufalme wa Mungu; mafundisho ya Yesu ndiyo ujumbe.
