@@ -21,7 +21,7 @@ So far, we’ve only discussed the originator and author of the idea. For an ide
 
 
 <!-- p6 -->
-Every great human work is the by-product of effective communication. One man’s labor can only accomplish so much. To really build or perform something great, many men (speaking here generically of mankind) must labor together in a shared purpose, with a shared idea. Barring naturally occurring disasters (like a volcanic eruption) we also know that the greatest calamities to ever occur usually did so in significant part because of missing, broken or distorted communication. Truly life and death are in the power of the tongue (<span class="x-scripture" data-type="ref" data-book="Proverbs" data-chapter="18" data-verses="21" data-lang="en" data-version="NKJV">Proverbs 18:21</span>).
+Every great human work is the by-product of effective communication. One man’s labor can only accomplish so much. To really build or perform something great, many men (speaking here generically of mankind) must labor together in a shared purpose, with a shared idea. Barring naturally occurring disasters (like a volcanic eruption) we also know that the greatest calamities to ever occur usually did so in significant part because of missing, broken or distorted communication. Truly life and death are in the power of the tongue (<span class="x-scripture" data-type="ref" data-book="PRO" data-chapter="18" data-verses="21" data-lang="en" data-version="NKJV">Proverbs 18:21</span>).
 
 
 <!-- p7 -->
@@ -34,7 +34,7 @@ We must establish our beliefs accurately and learn to share them effectively. Je
 
 
 <!-- p9 -->
-<span class="x-scripture" data-type="fragment" data-book="Matthew" data-chapter="28" data-verses="18-20" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="fragment" data-book="MAT" data-chapter="28" data-verses="18-20" data-lang="en" data-version="NKJV">
 
 
 <!-- p10 -->
@@ -51,7 +51,7 @@ Many Christians today desire a stronger faith but lack a clear foundation to bui
 
 
 <!-- p13 -->
-The Apostle Paul urged believers to be “*rooted and built up in Him and established in the faith*” (<span class="x-scripture" data-type="ref" data-book="Colossians" data-chapter="2" data-verses="7" data-lang="en" data-version="NKJV">Colossians 2:7</span>). To grow into mature, Spirit-led believers, we must first have deep roots in God’s truth. This is why doctrine matters. It is more than information; it is the framework that shapes how we live and respond to God.
+The Apostle Paul urged believers to be “*rooted and built up in Him and established in the faith*” (<span class="x-scripture" data-type="ref" data-book="COL" data-chapter="2" data-verses="7" data-lang="en" data-version="NKJV">Colossians 2:7</span>). To grow into mature, Spirit-led believers, we must first have deep roots in God’s truth. This is why doctrine matters. It is more than information; it is the framework that shapes how we live and respond to God.
 
 
 <!-- p14 -->
@@ -116,7 +116,7 @@ Let’s explore each element in a bit more depth:
 
 
 <!-- p29 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="16" data-verses="13-14" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JHN" data-chapter="16" data-verses="13-14" data-lang="en" data-version="NKJV">
 
 
 <!-- p30 -->
@@ -138,7 +138,7 @@ God, through the Holy Spirit, inspired all recorded Scripture, but God’s work 
 
 
 <!-- p34 -->
-<span class="x-scripture" data-type="quote" data-book="2 Timothy" data-chapter="3" data-verses="16" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="2TI" data-chapter="3" data-verses="16" data-lang="en" data-version="NKJV">
 
 
 <!-- p35 -->
@@ -156,7 +156,7 @@ The collection of scriptures we have today reflects the written words of God. Go
 
 
 <!-- p38 -->
-<span class="x-scripture" data-type="quote" data-book="Exodus" data-chapter="24" data-verses="4" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="EXO" data-chapter="24" data-verses="4" data-lang="en" data-version="NKJV">
 
 
 <!-- p39 -->
@@ -170,7 +170,7 @@ The collection of scriptures we have today reflects the written words of God. Go
 
 
 <!-- p41 -->
-<span class="x-scripture" data-type="quote" data-book="Numbers" data-chapter="33" data-verses="2" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="NUM" data-chapter="33" data-verses="2" data-lang="en" data-version="NKJV">
 
 
 <!-- p42 -->
@@ -184,7 +184,7 @@ The collection of scriptures we have today reflects the written words of God. Go
 
 
 <!-- p44 -->
-<span class="x-scripture" data-type="fragment" data-book="Deuteronomy" data-chapter="31" data-verses="9,11" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="fragment" data-book="DEU" data-chapter="31" data-verses="9,11" data-lang="en" data-version="NKJV">
 
 
 <!-- p45 -->
@@ -202,7 +202,7 @@ As history continued, God maintained His relationship with His people, and vario
 
 
 <!-- p48 -->
-<span class="x-scripture" data-type="quote" data-book="Isaiah" data-chapter="30" data-verses="8" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="ISA" data-chapter="30" data-verses="8" data-lang="en" data-version="NKJV">
 
 
 <!-- p49 -->
@@ -215,12 +215,12 @@ As history continued, God maintained His relationship with His people, and vario
 
 
 <!-- p51 -->
-<x-scripture ref="<span class="x-scripture" data-type="ref" data-book="John" data-chapter="8" data-verses="31-35" data-lang="en" data-version="NKJV">John 8:31-35</span>" type="quote" version="NKJV" id="p34-1"/>
+<x-scripture ref="<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="8" data-verses="31-35" data-lang="en" data-version="NKJV">John 8:31-35</span>" type="quote" version="NKJV" id="p34-1"/>
 
 
 
 <!-- p52 -->
-<span class="x-scripture" data-type="quote" data-book="Jeremiah" data-chapter="36" data-verses="2" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JER" data-chapter="36" data-verses="2" data-lang="en" data-version="NKJV">
 
 
 <!-- p53 -->
@@ -234,7 +234,7 @@ As history continued, God maintained His relationship with His people, and vario
 
 
 <!-- p55 -->
-<span class="x-scripture" data-type="quote" data-book="Habakkuk" data-chapter="2" data-verses="2" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="HAB" data-chapter="2" data-verses="2" data-lang="en" data-version="NKJV">
 
 
 <!-- p56 -->
@@ -272,7 +272,7 @@ Strong’s Concordance helps us understand what the Bible meant in its original 
 
 
 <!-- p64 -->
-<span class="x-scripture" data-type="quote" data-book="Matthew" data-chapter="28" data-verses="20" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="MAT" data-chapter="28" data-verses="20" data-lang="en" data-version="NKJV">
 
 
 <!-- p65 -->
@@ -293,6 +293,6 @@ This book is not a study of church history, nor is it a comparison on Christian 
 
 
 <!-- p69 -->
-I implore you to read the scriptures for yourself and commit to their mastery. God’s Word promises that when we seek Him, we will find Him (<span class="x-scripture" data-type="ref" data-book="Jeremiah" data-chapter="29" data-verses="13" data-lang="en" data-version="NKJV">Jeremiah 29:13</span>). I invite you to approach this book with faith and expectation. As you walk through these teachings, I pray you’ll not only grow in understanding but also experience the power of the Holy Spirit working in and through you. My hope is that you will be restored, strengthened, and empowered to fulfill God’s purpose in your life.
+I implore you to read the scriptures for yourself and commit to their mastery. God’s Word promises that when we seek Him, we will find Him (<span class="x-scripture" data-type="ref" data-book="JER" data-chapter="29" data-verses="13" data-lang="en" data-version="NKJV">Jeremiah 29:13</span>). I invite you to approach this book with faith and expectation. As you walk through these teachings, I pray you’ll not only grow in understanding but also experience the power of the Holy Spirit working in and through you. My hope is that you will be restored, strengthened, and empowered to fulfill God’s purpose in your life.
 
 

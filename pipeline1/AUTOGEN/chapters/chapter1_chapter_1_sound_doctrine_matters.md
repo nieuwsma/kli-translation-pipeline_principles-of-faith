@@ -10,7 +10,7 @@ When Jesus instructed His church to ‘teach’, He was instructing them to shar
 
 
 <!-- p3 -->
-<span class="x-scripture" data-type="quote" data-book="Matthew" data-chapter="28" data-verses="18-20" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="MAT" data-chapter="28" data-verses="18-20" data-lang="en" data-version="NKJV">
 
 
 <!-- p4 -->
@@ -31,23 +31,23 @@ In other words, Jesus is instructing all of us to learn His teachings and to rep
 
 
 <!-- p8 -->
-Jesus is the Way, the Truth, and the Life (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="14" data-verses="6" data-lang="en" data-version="NKJV">John 14:6</span>), fully embodying God’s truth, wisdom, and revelation. This embodiment, the Word (logos), existed from the beginning and became flesh to dwell among us (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="1" data-verses="1" data-lang="en" data-version="NKJV">John 1:1</span>, 14). The structured teachings of Jesus is His doctrine (***didaskalia***), in observing (obeying, guarding, protecting) His commands (***entolē)*** we become His disciples (***mathētēs***).
+Jesus is the Way, the Truth, and the Life (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="14" data-verses="6" data-lang="en" data-version="NKJV">John 14:6</span>), fully embodying God’s truth, wisdom, and revelation. This embodiment, the Word (logos), existed from the beginning and became flesh to dwell among us (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="1" data-verses="1" data-lang="en" data-version="NKJV">John 1:1</span>, 14). The structured teachings of Jesus is His doctrine (***didaskalia***), in observing (obeying, guarding, protecting) His commands (***entolē)*** we become His disciples (***mathētēs***).
 
 
 <!-- p9 -->
-Imagine a master architect, the greatest builder in all history, whose vision, knowledge, and wisdom surpass all others. He alone understands the perfect design for an enduring, unshakable structure. His understanding is not derived from others-it is inherent within Him. He is the source of all architectural wisdom, and every sound building finds its origin in His design. This architect represents Jesus, the Logos-the full and complete embodiment of God’s truth, wisdom, and revelation (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="1" data-verses="1" data-lang="en" data-version="NKJV">John 1:1</span>, <span class="x-scripture" data-type="ref" data-book="John" data-chapter="14" data-verses="6" data-lang="en" data-version="NKJV">John 14:6</span>).
+Imagine a master architect, the greatest builder in all history, whose vision, knowledge, and wisdom surpass all others. He alone understands the perfect design for an enduring, unshakable structure. His understanding is not derived from others-it is inherent within Him. He is the source of all architectural wisdom, and every sound building finds its origin in His design. This architect represents Jesus, the Logos-the full and complete embodiment of God’s truth, wisdom, and revelation (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="1" data-verses="1" data-lang="en" data-version="NKJV">John 1:1</span>, <span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="14" data-verses="6" data-lang="en" data-version="NKJV">John 14:6</span>).
 
 
 <!-- p10 -->
-To bring His design to life, the architect creates a **detailed blueprint**-a structured plan that contains the principles, proportions, and foundational truths necessary for constructing a building that will stand firm. Without this blueprint, no one could build correctly. This blueprint represents Jesus’ structured teaching, His doctrine **(Didaskalia)-**the framework through which divine truth is understood and applied (<span class="x-scripture" data-type="ref" data-book="Titus" data-chapter="2" data-verses="1" data-lang="en" data-version="NKJV">Titus 2:1</span>, <span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="4" data-verses="13" data-lang="en" data-version="NKJV">1 Timothy 4:13</span>). His doctrine is not merely theoretical knowledge; it is the means by which His wisdom is communicated and preserved so that all who follow Him can build their lives on the right foundation.
+To bring His design to life, the architect creates a **detailed blueprint**-a structured plan that contains the principles, proportions, and foundational truths necessary for constructing a building that will stand firm. Without this blueprint, no one could build correctly. This blueprint represents Jesus’ structured teaching, His doctrine **(Didaskalia)-**the framework through which divine truth is understood and applied (<span class="x-scripture" data-type="ref" data-book="TIT" data-chapter="2" data-verses="1" data-lang="en" data-version="NKJV">Titus 2:1</span>, <span class="x-scripture" data-type="ref" data-book="1TI" data-chapter="4" data-verses="13" data-lang="en" data-version="NKJV">1 Timothy 4:13</span>). His doctrine is not merely theoretical knowledge; it is the means by which His wisdom is communicated and preserved so that all who follow Him can build their lives on the right foundation.
 
 
 <!-- p11 -->
-However, a blueprint alone is not enough. The architect also provides **precise instructions**, detailing how each part of the structure should be assembled, where each beam must be placed, and how every element should align with His perfect design. These specific instructions represent His commands **(Entolē**)-the actionable directives that govern obedience (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="14" data-verses="15" data-lang="en" data-version="NKJV">John 14:15</span>, <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="28" data-verses="20" data-lang="en" data-version="NKJV">Matthew 28:20</span>). His commands are not arbitrary rules; they are the necessary steps to ensure the building stands strong, aligned with the original blueprint. To ignore or alter His commands would be to compromise the integrity of the entire structure.
+However, a blueprint alone is not enough. The architect also provides **precise instructions**, detailing how each part of the structure should be assembled, where each beam must be placed, and how every element should align with His perfect design. These specific instructions represent His commands **(Entolē**)-the actionable directives that govern obedience (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="14" data-verses="15" data-lang="en" data-version="NKJV">John 14:15</span>, <span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="28" data-verses="20" data-lang="en" data-version="NKJV">Matthew 28:20</span>). His commands are not arbitrary rules; they are the necessary steps to ensure the building stands strong, aligned with the original blueprint. To ignore or alter His commands would be to compromise the integrity of the entire structure.
 
 
 <!-- p12 -->
-Now, imagine that the architect gathers a group of **apprentices**-those who desire to learn from Him, build under His guidance, and one day teach others how to construct buildings that endure. These apprentices study His blueprint carefully, listen to His instructions attentively, and apply His commands faithfully in their work. They do not build according to their own ideas but according to the master’s design. These apprentices represent the disciples **(Mathētēs**)-those who observe, obey, and internalize Jesus’ teachings, aligning their lives with His Word (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="28" data-verses="19-20" data-lang="en" data-version="NKJV">Matthew 28:19-20</span>, <span class="x-scripture" data-type="ref" data-book="John" data-chapter="8" data-verses="31" data-lang="en" data-version="NKJV">John 8:31</span>). The more they study under the architect, the more skilled they become, eventually teaching and training others in His ways.
+Now, imagine that the architect gathers a group of **apprentices**-those who desire to learn from Him, build under His guidance, and one day teach others how to construct buildings that endure. These apprentices study His blueprint carefully, listen to His instructions attentively, and apply His commands faithfully in their work. They do not build according to their own ideas but according to the master’s design. These apprentices represent the disciples **(Mathētēs**)-those who observe, obey, and internalize Jesus’ teachings, aligning their lives with His Word (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="28" data-verses="19-20" data-lang="en" data-version="NKJV">Matthew 28:19-20</span>, <span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="8" data-verses="31" data-lang="en" data-version="NKJV">John 8:31</span>). The more they study under the architect, the more skilled they become, eventually teaching and training others in His ways.
 
 
 <!-- p13 -->
@@ -60,7 +60,7 @@ Jesus’ teaching is the bedrock of our faith! He is the master architect who ha
 
 
 <!-- p15 -->
-<span class="x-scripture" data-type="fragment" data-book="Psalm" data-chapter="127" data-verses="1" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="fragment" data-book="PSA" data-chapter="127" data-verses="1" data-lang="en" data-version="NKJV">
 
 
 <!-- p16 -->
@@ -89,16 +89,16 @@ Why should we study doctrine and become disciplined? To build our lives on the r
 
 
 <!-- p22 -->
-However, this is more than just a benefit, it also stands as a warning to us. If we do not build our lives on the rock, we build our lives on the sand, and a strong storm will break our house. (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="7" data-verses="24-27" data-lang="en" data-version="NKJV">Matthew 7:24-27</span>).
+However, this is more than just a benefit, it also stands as a warning to us. If we do not build our lives on the rock, we build our lives on the sand, and a strong storm will break our house. (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="7" data-verses="24-27" data-lang="en" data-version="NKJV">Matthew 7:24-27</span>).
 
 
 <!-- p23 -->
-Our beliefs dictate our actions and our destiny. Proverbs teaches us that as a man thinks, so is he! (<span class="x-scripture" data-type="ref" data-book="Proverbs" data-chapter="23" data-verses="7" data-lang="en" data-version="NKJV">Proverbs 23:7</span>). We don’t get to stay neutral-we’re all building on something. Jesus calls us to build on the rock so we can stand strong and walk in His salvation. The promise of truth and freedom is for us!
+Our beliefs dictate our actions and our destiny. Proverbs teaches us that as a man thinks, so is he! (<span class="x-scripture" data-type="ref" data-book="PRO" data-chapter="23" data-verses="7" data-lang="en" data-version="NKJV">Proverbs 23:7</span>). We don’t get to stay neutral-we’re all building on something. Jesus calls us to build on the rock so we can stand strong and walk in His salvation. The promise of truth and freedom is for us!
 
 
 
 <!-- p24 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="8" data-verses="31-32" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JHN" data-chapter="8" data-verses="31-32" data-lang="en" data-version="NKJV">
 
 
 <!-- p25 -->
@@ -152,7 +152,7 @@ Christianity is a team sport, and we have a perfect coach who knows exactly what
 
 
 <!-- p37 -->
-<span class="x-scripture" data-type="quote" data-book="Ephesians" data-chapter="4" data-verses="11-16" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="EPH" data-chapter="4" data-verses="11-16" data-lang="en" data-version="NKJV">
 
 
 <!-- p38 -->
@@ -242,7 +242,7 @@ Paul charged his spiritual son in the Lord Timothy saying:
 
 
 <!-- p56 -->
-<span class="x-scripture" data-type="quote" data-book="2 Timothy" data-chapter="4" data-verses="1-4" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="2TI" data-chapter="4" data-verses="1-4" data-lang="en" data-version="NKJV">
 
 
 <!-- p57 -->
@@ -260,7 +260,7 @@ Timothy, an aspiring leader in the church, was instructed to have a great depth 
 
 
 <!-- p60 -->
-<span class="x-scripture" data-type="quote" data-book="2 Timothy" data-chapter="3" data-verses="1-9" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="2TI" data-chapter="3" data-verses="1-9" data-lang="en" data-version="NKJV">
 
 
 <!-- p61 -->
@@ -312,7 +312,7 @@ The scriptures warn us:
 
 
 <!-- p68 -->
-<span class="x-scripture" data-type="quote" data-book="Colossians" data-chapter="2" data-verses="8" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="COL" data-chapter="2" data-verses="8" data-lang="en" data-version="NKJV">
 
 
 <!-- p69 -->
@@ -326,7 +326,7 @@ The scriptures warn us:
 
 
 <!-- p71 -->
-<span class="x-scripture" data-type="fragment" data-book="Mark" data-chapter="7" data-verses="9,13" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="fragment" data-book="MRK" data-chapter="7" data-verses="9,13" data-lang="en" data-version="NKJV">
 
 
 <!-- p72 -->
@@ -344,7 +344,7 @@ Men can twist sound doctrine through private interpretation. This is sadly clear
 
 
 <!-- p75 -->
-<span class="x-scripture" data-type="quote" data-book="2 Peter" data-chapter="1" data-verses="20-21" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="2PE" data-chapter="1" data-verses="20-21" data-lang="en" data-version="NKJV">
 
 
 <!-- p76 -->
@@ -366,7 +366,7 @@ In both cases, whether through group tradition or private interpretation we know
 
 
 <!-- p80 -->
-<span class="x-scripture" data-type="quote" data-book="1 Timothy" data-chapter="4" data-verses="1" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="1TI" data-chapter="4" data-verses="1" data-lang="en" data-version="NKJV">
 
 
 <!-- p81 -->
@@ -384,7 +384,7 @@ Just like a parent must protect their children, mature disciples protect the imm
 
 
 <!-- p84 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="15" data-verses="8" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JHN" data-chapter="15" data-verses="8" data-lang="en" data-version="NKJV">
 
 
 <!-- p85 -->
@@ -406,7 +406,7 @@ In this work we will primarily study foundational doctrines of the New Testament
 
 
 <!-- p89 -->
-<span class="x-scripture" data-type="quote" data-book="Hebrews" data-chapter="6" data-verses="1-2" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="HEB" data-chapter="6" data-verses="1-2" data-lang="en" data-version="NKJV">
 
 
 <!-- p90 -->
@@ -483,7 +483,7 @@ We will study each of these in the context of the church, and study them so we c
 
 
 <!-- p108 -->
-2.  What does it mean to be “rooted and built up in Him” (<span class="x-scripture" data-type="ref" data-book="Colossians" data-chapter="2" data-verses="7" data-lang="en" data-version="NKJV">Colossians 2:7</span>)? How does doctrine help with this?
+2.  What does it mean to be “rooted and built up in Him” (<span class="x-scripture" data-type="ref" data-book="COL" data-chapter="2" data-verses="7" data-lang="en" data-version="NKJV">Colossians 2:7</span>)? How does doctrine help with this?
 
 
 <!-- p109 -->

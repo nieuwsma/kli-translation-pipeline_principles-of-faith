@@ -10,7 +10,7 @@ Discipleship is the primary command in the Great Commission. Jesus defined this 
 
 
 <!-- p3 -->
-<span class="x-scripture" data-type="quote" data-book="Matthew" data-chapter="28" data-verses="18-20" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="MAT" data-chapter="28" data-verses="18-20" data-lang="en" data-version="NKJV">
 
 
 <!-- p4 -->
@@ -27,7 +27,7 @@ We, His followers, are to *“go and make disciples of all nations.”* Disciple
 
 
 <!-- p7 -->
-The call to be a disciple is more than attending church or learning Bible verses-it is an invitation to live like Jesus and to partner with Him in advancing God’s Kingdom. Genuine discipleship helps believers become spiritually mature and effective for ministry (<span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="4" data-verses="13" data-lang="en" data-version="NKJV">Ephesians 4:13</span>). It shapes both the heart and skills needed to serve others and share the Gospel. As Paul instructed Timothy in <span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="2" data-verses="2" data-lang="en" data-version="NKJV">2 Timothy 2:2</span>, discipleship follows a pattern of spiritual multiplication, where trained disciples continue raising up new followers to lead other to Christ.
+The call to be a disciple is more than attending church or learning Bible verses-it is an invitation to live like Jesus and to partner with Him in advancing God’s Kingdom. Genuine discipleship helps believers become spiritually mature and effective for ministry (<span class="x-scripture" data-type="ref" data-book="EPH" data-chapter="4" data-verses="13" data-lang="en" data-version="NKJV">Ephesians 4:13</span>). It shapes both the heart and skills needed to serve others and share the Gospel. As Paul instructed Timothy in <span class="x-scripture" data-type="ref" data-book="2TI" data-chapter="2" data-verses="2" data-lang="en" data-version="NKJV">2 Timothy 2:2</span>, discipleship follows a pattern of spiritual multiplication, where trained disciples continue raising up new followers to lead other to Christ.
 
 
 <!-- p8 -->
@@ -39,7 +39,7 @@ Discipleship is both an individual calling and a global mission. On a personal l
 
 
 <!-- p10 -->
-The impact of discipleship goes beyond personal transformation-it has a Kingdom impact. Paul reminded Timothy in <span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="2" data-verses="2" data-lang="en" data-version="NKJV">2 Timothy 2:2</span> to entrust what He had learned to faithful men who would then teach others also. This generational pattern highlights how discipleship is the engine that drives the growth and sustainability of the Church. Discipleship matters because it was Jesus’ chosen method for spreading the Gospel and building His Church.
+The impact of discipleship goes beyond personal transformation-it has a Kingdom impact. Paul reminded Timothy in <span class="x-scripture" data-type="ref" data-book="2TI" data-chapter="2" data-verses="2" data-lang="en" data-version="NKJV">2 Timothy 2:2</span> to entrust what He had learned to faithful men who would then teach others also. This generational pattern highlights how discipleship is the engine that drives the growth and sustainability of the Church. Discipleship matters because it was Jesus’ chosen method for spreading the Gospel and building His Church.
 
 
 <!-- p11 -->
@@ -47,7 +47,7 @@ Rather than focusing on large crowds, Jesus intentionally invested in a small gr
 
 
 <!-- p12 -->
-At its core, discipleship is central to fulfilling the Great Commission (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="28" data-verses="19-20" data-lang="en" data-version="NKJV">Matthew 28:19-20</span>). Jesus did not just call us to make converts but to make disciples-followers who are grounded in God’s Word, empowered by the Holy Spirit, and equipped for ministry. Through discipleship, believers grow in their knowledge of Scripture, develop spiritual disciplines, and learn to walk in obedience to Christ. It prepares the Church to impact the world, advance the Gospel, and reflect the glory of God to all nations.
+At its core, discipleship is central to fulfilling the Great Commission (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="28" data-verses="19-20" data-lang="en" data-version="NKJV">Matthew 28:19-20</span>). Jesus did not just call us to make converts but to make disciples-followers who are grounded in God’s Word, empowered by the Holy Spirit, and equipped for ministry. Through discipleship, believers grow in their knowledge of Scripture, develop spiritual disciplines, and learn to walk in obedience to Christ. It prepares the Church to impact the world, advance the Gospel, and reflect the glory of God to all nations.
 
 
 <!-- p13 -->
@@ -108,7 +108,7 @@ Jesus describes the apprentice model in:
 
 
 <!-- p27 -->
-<span class="x-scripture" data-type="quote" data-book="Luke" data-chapter="6" data-verses="40" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="LUK" data-chapter="6" data-verses="40" data-lang="en" data-version="NKJV">
 
 
 <!-- p28 -->
@@ -201,7 +201,7 @@ The eight phases of discipleship are:
 
 
 <!-- p50 -->
-Discipleship begins with a personal invitation from Jesus to follow Him. In <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="4" data-verses="19" data-lang="en" data-version="NKJV">Matthew 4:19</span>, Jesus called His first disciples, saying, *“Follow me, and I will make you fishers of men.”* This invitation was both relational and transformational-it required leaving behind old ways of life and stepping into a new purpose centered on God’s mission. Jesus’ call wasn’t to spectatorship but to participation in His ministry and Kingdom work.
+Discipleship begins with a personal invitation from Jesus to follow Him. In <span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="4" data-verses="19" data-lang="en" data-version="NKJV">Matthew 4:19</span>, Jesus called His first disciples, saying, *“Follow me, and I will make you fishers of men.”* This invitation was both relational and transformational-it required leaving behind old ways of life and stepping into a new purpose centered on God’s mission. Jesus’ call wasn’t to spectatorship but to participation in His ministry and Kingdom work.
 
 
 <!-- p51 -->
@@ -213,7 +213,7 @@ Modern disciple-makers must invite others into authentic relationships that insp
 
 
 <!-- p53 -->
-Teaching is at the heart of discipleship. Jesus spent much of His ministry teaching the principles of the Kingdom of God, most notably in the Sermon on the Mount (Matthew 5-7). His teachings provided a foundation for living righteously, loving others, and walking in obedience to God. Instruction in the Word of God remains central to discipleship today, as Scripture is the primary tool for spiritual growth, correction, and training in righteousness (<span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="3" data-verses="16-17" data-lang="en" data-version="NKJV">2 Timothy 3:16-17</span>).
+Teaching is at the heart of discipleship. Jesus spent much of His ministry teaching the principles of the Kingdom of God, most notably in the Sermon on the Mount (Matthew 5-7). His teachings provided a foundation for living righteously, loving others, and walking in obedience to God. Instruction in the Word of God remains central to discipleship today, as Scripture is the primary tool for spiritual growth, correction, and training in righteousness (<span class="x-scripture" data-type="ref" data-book="2TI" data-chapter="3" data-verses="16-17" data-lang="en" data-version="NKJV">2 Timothy 3:16-17</span>).
 
 
 <!-- p54 -->
@@ -225,7 +225,7 @@ Disciple-makers must commit to teaching the Bible faithfully, helping others und
 
 
 <!-- p56 -->
-Jesus didn’t just teach His disciples- He demonstrated how to live out the truths He proclaimed. Jesus showed what it means to love, serve, and minister in practical ways. Some examples from the gospels are Jesus washing the disciples’ feet as an act of humility and service (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="13" data-verses="12-15" data-lang="en" data-version="NKJV">John 13:12-15</span>), healing the sick, and feeding the hungry. Through His actions, He modeled compassion, faith, and boldness, leaving a clear example for His followers to imitate.
+Jesus didn’t just teach His disciples- He demonstrated how to live out the truths He proclaimed. Jesus showed what it means to love, serve, and minister in practical ways. Some examples from the gospels are Jesus washing the disciples’ feet as an act of humility and service (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="13" data-verses="12-15" data-lang="en" data-version="NKJV">John 13:12-15</span>), healing the sick, and feeding the hungry. Through His actions, He modeled compassion, faith, and boldness, leaving a clear example for His followers to imitate.
 
 
 <!-- p57 -->
@@ -237,7 +237,7 @@ Discipleship requires showing, not just telling. Modern disciple-makers must be 
 
 
 <!-- p59 -->
-Jesus didn’t keep His disciples on the sidelines- He actively involved them in ministry experiences. In <span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="9" data-verses="1-6" data-lang="en" data-version="NKJV">Luke 9:1-6</span> and <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="10" data-verses="5-15" data-lang="en" data-version="NKJV">Matthew 10:5-15</span>, Jesus sent the disciples out to preach the Gospel, heal the sick, and cast out demons. These hands-on opportunities allowed the disciples to learn by doing, gaining confidence and skills under His guidance.
+Jesus didn’t keep His disciples on the sidelines- He actively involved them in ministry experiences. In <span class="x-scripture" data-type="ref" data-book="LUK" data-chapter="9" data-verses="1-6" data-lang="en" data-version="NKJV">Luke 9:1-6</span> and <span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="10" data-verses="5-15" data-lang="en" data-version="NKJV">Matthew 10:5-15</span>, Jesus sent the disciples out to preach the Gospel, heal the sick, and cast out demons. These hands-on opportunities allowed the disciples to learn by doing, gaining confidence and skills under His guidance.
 
 
 <!-- p60 -->
@@ -249,11 +249,11 @@ Modern discipleship should also include practical involvement. Disciple-makers m
 
 
 <!-- p62 -->
-Growth often requires correction, and Jesus lovingly corrected His disciples when they misunderstood His teachings or failed in their tasks. In <span class="x-scripture" data-type="ref" data-book="Mark" data-chapter="9" data-verses="33-37" data-lang="en" data-version="NKJV">Mark 9:33-37</span>, He addressed their pride by teaching them about servant leadership. In <span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="22" data-verses="31-32" data-lang="en" data-version="NKJV">Luke 22:31-32</span>, He prayed for Peter, preparing Him to recover from failure and strengthen others.
+Growth often requires correction, and Jesus lovingly corrected His disciples when they misunderstood His teachings or failed in their tasks. In <span class="x-scripture" data-type="ref" data-book="MRK" data-chapter="9" data-verses="33-37" data-lang="en" data-version="NKJV">Mark 9:33-37</span>, He addressed their pride by teaching them about servant leadership. In <span class="x-scripture" data-type="ref" data-book="LUK" data-chapter="22" data-verses="31-32" data-lang="en" data-version="NKJV">Luke 22:31-32</span>, He prayed for Peter, preparing Him to recover from failure and strengthen others.
 
 
 <!-- p63 -->
-Correction in discipleship should be grace-filled and constructive-rooted in Scripture and aimed at restoration (<span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="4" data-verses="2" data-lang="en" data-version="NKJV">2 Timothy 4:2</span>). It is not about condemnation but about helping disciples grow and avoid pitfalls. Disciple-makers should provide accountability, using God’s Word to guide and encourage growth while modeling humility in receiving correction themselves.
+Correction in discipleship should be grace-filled and constructive-rooted in Scripture and aimed at restoration (<span class="x-scripture" data-type="ref" data-book="2TI" data-chapter="4" data-verses="2" data-lang="en" data-version="NKJV">2 Timothy 4:2</span>). It is not about condemnation but about helping disciples grow and avoid pitfalls. Disciple-makers should provide accountability, using God’s Word to guide and encourage growth while modeling humility in receiving correction themselves.
 
 
 <!-- p64 -->
@@ -261,11 +261,11 @@ Correction in discipleship should be grace-filled and constructive-rooted in Scr
 
 
 <!-- p65 -->
-Jesus didn’t just teach and correct- He empowered His disciples to carry out His mission. He gave them authority to preach the Gospel, heal the sick, and cast out demons (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="28" data-verses="18-20" data-lang="en" data-version="NKJV">Matthew 28:18-20</span>). After His resurrection, He promised the Holy Spirit as the source of power for their ministry (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="1" data-verses="8" data-lang="en" data-version="NKJV">Acts 1:8</span>).
+Jesus didn’t just teach and correct- He empowered His disciples to carry out His mission. He gave them authority to preach the Gospel, heal the sick, and cast out demons (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="28" data-verses="18-20" data-lang="en" data-version="NKJV">Matthew 28:18-20</span>). After His resurrection, He promised the Holy Spirit as the source of power for their ministry (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="1" data-verses="8" data-lang="en" data-version="NKJV">Acts 1:8</span>).
 
 
 <!-- p66 -->
-Modern discipleship should include empowering others to operate in their spiritual gifts and minister effectively. This involves identifying gifts (<span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="4" data-verses="11-13" data-lang="en" data-version="NKJV">Ephesians 4:11-13</span>), encouraging their use, and releasing disciples to serve. Empowerment also emphasizes reliance on the Holy Spirit for strength, boldness, and wisdom, ensuring disciples are spiritually equipped for the work God has called them to do.
+Modern discipleship should include empowering others to operate in their spiritual gifts and minister effectively. This involves identifying gifts (<span class="x-scripture" data-type="ref" data-book="EPH" data-chapter="4" data-verses="11-13" data-lang="en" data-version="NKJV">Ephesians 4:11-13</span>), encouraging their use, and releasing disciples to serve. Empowerment also emphasizes reliance on the Holy Spirit for strength, boldness, and wisdom, ensuring disciples are spiritually equipped for the work God has called them to do.
 
 
 <!-- p67 -->
@@ -273,11 +273,11 @@ Modern discipleship should include empowering others to operate in their spiritu
 
 
 <!-- p68 -->
-The goal of discipleship isn’t just personal growth-it’s multiplication. Jesus modeled this by training the disciples to make more disciples (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="28" data-verses="19-20" data-lang="en" data-version="NKJV">Matthew 28:19-20</span>). After His resurrection, the apostles continued this multiplying mission, spreading the Gospel and planting churches across the known world. Paul’s instructions in <span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="2" data-verses="2" data-lang="en" data-version="NKJV">2 Timothy 2:2</span> reinforce this principle, urging Timothy to teach others who will teach others.
+The goal of discipleship isn’t just personal growth-it’s multiplication. Jesus modeled this by training the disciples to make more disciples (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="28" data-verses="19-20" data-lang="en" data-version="NKJV">Matthew 28:19-20</span>). After His resurrection, the apostles continued this multiplying mission, spreading the Gospel and planting churches across the known world. Paul’s instructions in <span class="x-scripture" data-type="ref" data-book="2TI" data-chapter="2" data-verses="2" data-lang="en" data-version="NKJV">2 Timothy 2:2</span> reinforce this principle, urging Timothy to teach others who will teach others.
 
 
 <!-- p69 -->
-Discipleship involves equipping disciples to disciple others, creating a chain reaction of faith that expands the Kingdom of God. This process requires intentionality-teaching disciples how to mentor, teach, and train others, while sending them out with confidence and purpose (<span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="10" data-verses="15" data-lang="en" data-version="NKJV">Romans 10:15</span>).
+Discipleship involves equipping disciples to disciple others, creating a chain reaction of faith that expands the Kingdom of God. This process requires intentionality-teaching disciples how to mentor, teach, and train others, while sending them out with confidence and purpose (<span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="10" data-verses="15" data-lang="en" data-version="NKJV">Romans 10:15</span>).
 
 
 <!-- p70 -->
@@ -285,7 +285,7 @@ Discipleship involves equipping disciples to disciple others, creating a chain r
 
 
 <!-- p71 -->
-Discipleship doesn’t end when someone is sent out. Jesus modeled ongoing connection with His disciples, continuing to encourage and instruct them even after His resurrection (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="21" data-verses="15-19" data-lang="en" data-version="NKJV">John 21:15-19</span>). The early church maintained this pattern, gathering regularly for teaching, fellowship, and prayer (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="2" data-verses="42-47" data-lang="en" data-version="NKJV">Acts 2:42-47</span>).
+Discipleship doesn’t end when someone is sent out. Jesus modeled ongoing connection with His disciples, continuing to encourage and instruct them even after His resurrection (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="21" data-verses="15-19" data-lang="en" data-version="NKJV">John 21:15-19</span>). The early church maintained this pattern, gathering regularly for teaching, fellowship, and prayer (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="2" data-verses="42-47" data-lang="en" data-version="NKJV">Acts 2:42-47</span>).
 
 
 <!-- p72 -->
@@ -297,7 +297,7 @@ Modern discipleship should also foster ongoing relationships, providing accounta
 
 
 <!-- p74 -->
-Everyone in the body of Christ is responsible first to become a disciple, then to contribute to the process of discipleship making. There are diversities of gifts and functions, so our contributions may look different, but we are all responsible. The people ultimately most responsible for the state and health of discipleship in the local church are the leaders (**elders and deacons - <span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="14" data-verses="23" data-lang="en" data-version="NKJV">Acts 14:23</span>**), but everyone plays a part.
+Everyone in the body of Christ is responsible first to become a disciple, then to contribute to the process of discipleship making. There are diversities of gifts and functions, so our contributions may look different, but we are all responsible. The people ultimately most responsible for the state and health of discipleship in the local church are the leaders (**elders and deacons - <span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="14" data-verses="23" data-lang="en" data-version="NKJV">Acts 14:23</span>**), but everyone plays a part.
 
 
 <!-- p75 -->
@@ -321,7 +321,7 @@ A disciple-maker is someone who not only follows Christ but is also committed to
 
 
 <!-- p80 -->
-The foundation of a disciple-maker’s life must be deeply rooted in Christ. Jesus said, *“I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing”* (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="15" data-verses="5" data-lang="en" data-version="NKJV">John 15:5</span>). Effective disciple-makers know that the ability to grow and help others comes from staying close to Jesus every day. However, resistance to personal growth and spiritual change can hinder this dependence. Disciple-makers must continually cultivate their personal relationship with Jesus through prayer, study of Scripture, and obedience, modeling what it means to abide in Christ for those they are discipling.
+The foundation of a disciple-maker’s life must be deeply rooted in Christ. Jesus said, *“I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing”* (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="15" data-verses="5" data-lang="en" data-version="NKJV">John 15:5</span>). Effective disciple-makers know that the ability to grow and help others comes from staying close to Jesus every day. However, resistance to personal growth and spiritual change can hinder this dependence. Disciple-makers must continually cultivate their personal relationship with Jesus through prayer, study of Scripture, and obedience, modeling what it means to abide in Christ for those they are discipling.
 
 
 <!-- p81 -->
@@ -329,7 +329,7 @@ The foundation of a disciple-maker’s life must be deeply rooted in Christ. Jes
 
 
 <!-- p82 -->
-A disciple-maker must remain committed to the mission of making disciples as commanded by Jesus in the Great Commission (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="28" data-verses="19-20" data-lang="en" data-version="NKJV">Matthew 28:19-20</span>). This mission requires intentional focus and prioritization, recognizing that disciple-making is not an optional task but the core purpose of the church. Yet, challenges such as time constraints, busyness, and personal distractions can make it difficult to stay focused. Disciple-makers must intentionally schedule time for mentoring, teaching, and relationship-building, viewing disciple-making as a lifestyle rather than an occasional activity (<span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="19" data-verses="10" data-lang="en" data-version="NKJV">Luke 19:10</span>).
+A disciple-maker must remain committed to the mission of making disciples as commanded by Jesus in the Great Commission (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="28" data-verses="19-20" data-lang="en" data-version="NKJV">Matthew 28:19-20</span>). This mission requires intentional focus and prioritization, recognizing that disciple-making is not an optional task but the core purpose of the church. Yet, challenges such as time constraints, busyness, and personal distractions can make it difficult to stay focused. Disciple-makers must intentionally schedule time for mentoring, teaching, and relationship-building, viewing disciple-making as a lifestyle rather than an occasional activity (<span class="x-scripture" data-type="ref" data-book="LUK" data-chapter="19" data-verses="10" data-lang="en" data-version="NKJV">Luke 19:10</span>).
 
 
 <!-- p83 -->
@@ -337,7 +337,7 @@ A disciple-maker must remain committed to the mission of making disciples as com
 
 
 <!-- p84 -->
-Disciple-making cannot be accomplished in human strength alone; it requires the guidance and empowerment of the Holy Spirit. Jesus promised His disciples that they would receive power when the Holy Spirit came upon them (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="1" data-verses="8" data-lang="en" data-version="NKJV">Acts 1:8</span>), equipping them to be witnesses and ministers of the Gospel. Disciple-makers must be sensitive to the Spirit’s leading, relying on His wisdom to navigate complex situations, cultural barriers, and difficult conversations. This reliance on the Holy Spirit enables disciple-makers to operate in love, boldness, and spiritual discernment, ensuring their efforts are Spirit-directed rather than self-directed.
+Disciple-making cannot be accomplished in human strength alone; it requires the guidance and empowerment of the Holy Spirit. Jesus promised His disciples that they would receive power when the Holy Spirit came upon them (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="1" data-verses="8" data-lang="en" data-version="NKJV">Acts 1:8</span>), equipping them to be witnesses and ministers of the Gospel. Disciple-makers must be sensitive to the Spirit’s leading, relying on His wisdom to navigate complex situations, cultural barriers, and difficult conversations. This reliance on the Holy Spirit enables disciple-makers to operate in love, boldness, and spiritual discernment, ensuring their efforts are Spirit-directed rather than self-directed.
 
 
 <!-- p85 -->
@@ -345,7 +345,7 @@ Disciple-making cannot be accomplished in human strength alone; it requires the 
 
 
 <!-- p86 -->
-Humility is a hallmark of an effective disciple-maker. As Paul instructed, *“Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves”* (<span class="x-scripture" data-type="ref" data-book="Philippians" data-chapter="2" data-verses="3" data-lang="en" data-version="NKJV">Philippians 2:3</span>). Disciple-makers recognize that they, too, are lifelong learners who must remain teachable and accountable. They invite correction and feedback, modeling humility for those they mentor. Pride can be a significant barrier to growth, both for disciple-makers and their disciples. Embracing accountability and maintaining a servant’s heart fosters trust and creates an environment for growth and transparency.
+Humility is a hallmark of an effective disciple-maker. As Paul instructed, *“Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves”* (<span class="x-scripture" data-type="ref" data-book="PHP" data-chapter="2" data-verses="3" data-lang="en" data-version="NKJV">Philippians 2:3</span>). Disciple-makers recognize that they, too, are lifelong learners who must remain teachable and accountable. They invite correction and feedback, modeling humility for those they mentor. Pride can be a significant barrier to growth, both for disciple-makers and their disciples. Embracing accountability and maintaining a servant’s heart fosters trust and creates an environment for growth and transparency.
 
 
 <!-- p87 -->
@@ -353,7 +353,7 @@ Humility is a hallmark of an effective disciple-maker. As Paul instructed, *“D
 
 
 <!-- p88 -->
-Discipleship is rarely instantaneous-it is a long-term process that requires patience and persistence. Paul reminds believers to *“not grow weary in doing good, for at the proper time we will reap a harvest if we do not give up”* (<span class="x-scripture" data-type="ref" data-book="Galatians" data-chapter="6" data-verses="9" data-lang="en" data-version="NKJV">Galatians 6:9</span>). Growth in faith often involves setbacks, questions, and failures, but disciple-makers are called to walk alongside others, offering encouragement and support through every step. It is easy to become discouraged when progress seems slow, but disciple-makers trust that God is at work, even when results are not immediately visible.
+Discipleship is rarely instantaneous-it is a long-term process that requires patience and persistence. Paul reminds believers to *“not grow weary in doing good, for at the proper time we will reap a harvest if we do not give up”* (<span class="x-scripture" data-type="ref" data-book="GAL" data-chapter="6" data-verses="9" data-lang="en" data-version="NKJV">Galatians 6:9</span>). Growth in faith often involves setbacks, questions, and failures, but disciple-makers are called to walk alongside others, offering encouragement and support through every step. It is easy to become discouraged when progress seems slow, but disciple-makers trust that God is at work, even when results are not immediately visible.
 
 
 <!-- p89 -->
@@ -373,11 +373,11 @@ Effective discipleship requires intentional tools and practices that foster spir
 
 
 <!-- p93 -->
-Engaging deeply with Scripture is the foundation of discipleship. Jesus emphasized the importance of God’s Word in spiritual growth, declaring that *“man shall not live by bread alone, but by every word that proceeds out of the mouth of God”* (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="4" data-verses="4" data-lang="en" data-version="NKJV">Matthew 4:4</span>). Regular Bible study and memorization enable disciples to internalize truth, combat falsehoods, and apply God’s wisdom to daily life.
+Engaging deeply with Scripture is the foundation of discipleship. Jesus emphasized the importance of God’s Word in spiritual growth, declaring that *“man shall not live by bread alone, but by every word that proceeds out of the mouth of God”* (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="4" data-verses="4" data-lang="en" data-version="NKJV">Matthew 4:4</span>). Regular Bible study and memorization enable disciples to internalize truth, combat falsehoods, and apply God’s wisdom to daily life.
 
 
 <!-- p94 -->
-Disciples must be encouraged to immerse themselves in Scripture, not merely as an academic exercise but to know God and transform their hearts (<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="119" data-verses="105" data-lang="en" data-version="NKJV">Psalm 119:105</span>). Practical approaches, such as reading plans, study guides, and group discussions, provide opportunities to explore doctrine and discuss application in community. By building habits of regular study, disciples lay a solid foundation for spiritual maturity and fruitful ministry (<span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="3" data-verses="16-17" data-lang="en" data-version="NKJV">2 Timothy 3:16-17</span>).
+Disciples must be encouraged to immerse themselves in Scripture, not merely as an academic exercise but to know God and transform their hearts (<span class="x-scripture" data-type="ref" data-book="PSA" data-chapter="119" data-verses="105" data-lang="en" data-version="NKJV">Psalm 119:105</span>). Practical approaches, such as reading plans, study guides, and group discussions, provide opportunities to explore doctrine and discuss application in community. By building habits of regular study, disciples lay a solid foundation for spiritual maturity and fruitful ministry (<span class="x-scripture" data-type="ref" data-book="2TI" data-chapter="3" data-verses="16-17" data-lang="en" data-version="NKJV">2 Timothy 3:16-17</span>).
 
 
 <!-- p95 -->
@@ -385,11 +385,11 @@ Disciples must be encouraged to immerse themselves in Scripture, not merely as a
 
 
 <!-- p96 -->
-Prayer is the lifeline of discipleship, connecting believers to God’s presence, power, and guidance. Jesus taught His disciples how to pray in <span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="11" data-verses="1-4" data-lang="en" data-version="NKJV">Luke 11:1-4</span>, emphasizing both dependence on God and spiritual alignment with His will. Through prayer, disciples learn to seek God’s wisdom, intercede for others, and receive strength for ministry.
+Prayer is the lifeline of discipleship, connecting believers to God’s presence, power, and guidance. Jesus taught His disciples how to pray in <span class="x-scripture" data-type="ref" data-book="LUK" data-chapter="11" data-verses="1-4" data-lang="en" data-version="NKJV">Luke 11:1-4</span>, emphasizing both dependence on God and spiritual alignment with His will. Through prayer, disciples learn to seek God’s wisdom, intercede for others, and receive strength for ministry.
 
 
 <!-- p97 -->
-Teaching disciples how to pray-both individually and corporately-equips them to cultivate intimacy with God and discern His leading (<span class="x-scripture" data-type="ref" data-book="Philippians" data-chapter="4" data-verses="6-7" data-lang="en" data-version="NKJV">Philippians 4:6-7</span>). Incorporating prayer journals, prayer groups, and fasting practices fosters spiritual discipline and empowerment, ensuring disciples remain Spirit-led and mission-focused.
+Teaching disciples how to pray-both individually and corporately-equips them to cultivate intimacy with God and discern His leading (<span class="x-scripture" data-type="ref" data-book="PHP" data-chapter="4" data-verses="6-7" data-lang="en" data-version="NKJV">Philippians 4:6-7</span>). Incorporating prayer journals, prayer groups, and fasting practices fosters spiritual discipline and empowerment, ensuring disciples remain Spirit-led and mission-focused.
 
 
 <!-- p98 -->
@@ -397,11 +397,11 @@ Teaching disciples how to pray-both individually and corporately-equips them to 
 
 
 <!-- p99 -->
-Discipleship thrives in community. The early church modeled relational discipleship through fellowship, prayer, and breaking bread together (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="2" data-verses="42-47" data-lang="en" data-version="NKJV">Acts 2:42-47</span>). Small groups and accountability partnerships provide a safe space for disciples to grow together, share struggles, and celebrate victories.
+Discipleship thrives in community. The early church modeled relational discipleship through fellowship, prayer, and breaking bread together (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="2" data-verses="42-47" data-lang="en" data-version="NKJV">Acts 2:42-47</span>). Small groups and accountability partnerships provide a safe space for disciples to grow together, share struggles, and celebrate victories.
 
 
 <!-- p100 -->
-The local church serves as the central hub for discipleship relationships, offering opportunities for group Bible studies, prayer meetings, and fellowship events. These gatherings allow disciples to practice love, bear one another’s burdens (<span class="x-scripture" data-type="ref" data-book="Galatians" data-chapter="6" data-verses="2" data-lang="en" data-version="NKJV">Galatians 6:2</span>), and encourage one another toward spiritual maturity (<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="10" data-verses="24-25" data-lang="en" data-version="NKJV">Hebrews 10:24-25</span>). Small groups also provide a framework for multiplying leaders, as mature disciples train and send others to lead groups and mentor new believers.
+The local church serves as the central hub for discipleship relationships, offering opportunities for group Bible studies, prayer meetings, and fellowship events. These gatherings allow disciples to practice love, bear one another’s burdens (<span class="x-scripture" data-type="ref" data-book="GAL" data-chapter="6" data-verses="2" data-lang="en" data-version="NKJV">Galatians 6:2</span>), and encourage one another toward spiritual maturity (<span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="10" data-verses="24-25" data-lang="en" data-version="NKJV">Hebrews 10:24-25</span>). Small groups also provide a framework for multiplying leaders, as mature disciples train and send others to lead groups and mentor new believers.
 
 
 <!-- p101 -->
@@ -413,7 +413,7 @@ Mentorship provides a personal and intentional approach to discipleship. Jesus m
 
 
 <!-- p103 -->
-Mentors serve as accountability partners, offering support, prayer, and wisdom during times of growth and struggle. Practical tools like spiritual assessments, goal-setting, and regular check-ins ensure that disciples stay focused and motivated. Peer relationships within mentorship structures also foster mutual growth, as both mentor and disciple learn from shared experiences (<span class="x-scripture" data-type="ref" data-book="Proverbs" data-chapter="27" data-verses="17" data-lang="en" data-version="NKJV">Proverbs 27:17</span>).
+Mentors serve as accountability partners, offering support, prayer, and wisdom during times of growth and struggle. Practical tools like spiritual assessments, goal-setting, and regular check-ins ensure that disciples stay focused and motivated. Peer relationships within mentorship structures also foster mutual growth, as both mentor and disciple learn from shared experiences (<span class="x-scripture" data-type="ref" data-book="PRO" data-chapter="27" data-verses="17" data-lang="en" data-version="NKJV">Proverbs 27:17</span>).
 
 
 <!-- p104 -->
@@ -449,11 +449,11 @@ Mentors serve as accountability partners, offering support, prayer, and wisdom d
 
 
 <!-- p112 -->
-2.  **Exploring Jesus’ Model:** Read <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="4" data-verses="19" data-lang="en" data-version="NKJV">Matthew 4:19</span>. How does Jesus’ invitation to ‘follow Me’ encapsulate the heart of discipleship? What does this look like today?
+2.  **Exploring Jesus’ Model:** Read <span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="4" data-verses="19" data-lang="en" data-version="NKJV">Matthew 4:19</span>. How does Jesus’ invitation to ‘follow Me’ encapsulate the heart of discipleship? What does this look like today?
 
 
 <!-- p113 -->
-3.  **The Call to Make Disciples:** Discuss <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="28" data-verses="19-20" data-lang="en" data-version="NKJV">Matthew 28:19-20</span>. Why is making disciples central to the mission of the church? How can we, as individuals, participate in this mission?
+3.  **The Call to Make Disciples:** Discuss <span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="28" data-verses="19-20" data-lang="en" data-version="NKJV">Matthew 28:19-20</span>. Why is making disciples central to the mission of the church? How can we, as individuals, participate in this mission?
 
 
 <!-- p114 -->

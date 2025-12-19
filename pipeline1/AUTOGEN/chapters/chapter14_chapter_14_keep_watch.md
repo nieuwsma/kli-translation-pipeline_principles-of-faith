@@ -54,7 +54,7 @@ For each point we will review what the concept is, look at reference scriptures,
 
 
 <!-- p14 -->
-<span class="x-scripture" data-type="quote" data-book="Acts" data-chapter="1" data-verses="11" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="ACT" data-chapter="1" data-verses="11" data-lang="en" data-version="NKJV">
 
 
 <!-- p15 -->
@@ -68,7 +68,7 @@ For each point we will review what the concept is, look at reference scriptures,
 
 
 <!-- p17 -->
-<span class="x-scripture" data-type="quote" data-book="Revelation" data-chapter="22" data-verses="12" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="REV" data-chapter="22" data-verses="12" data-lang="en" data-version="NKJV">
 
 
 <!-- p18 -->
@@ -93,7 +93,7 @@ For each point we will review what the concept is, look at reference scriptures,
 
 
 <!-- p23 -->
-- **Stay Faithful:** Carry out the Great Commission (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="28" data-verses="19-20" data-lang="en" data-version="NKJV">Matthew 28:19-20</span>) with purpose and diligence.
+- **Stay Faithful:** Carry out the Great Commission (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="28" data-verses="19-20" data-lang="en" data-version="NKJV">Matthew 28:19-20</span>) with purpose and diligence.
 
 
 <!-- p24 -->
@@ -106,7 +106,7 @@ For each point we will review what the concept is, look at reference scriptures,
 
 
 <!-- p26 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="5" data-verses="28-29" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JHN" data-chapter="5" data-verses="28-29" data-lang="en" data-version="NKJV">
 
 
 <!-- p27 -->
@@ -120,7 +120,7 @@ For each point we will review what the concept is, look at reference scriptures,
 
 
 <!-- p29 -->
-<span class="x-scripture" data-type="fragment" data-book="1 Thessalonians" data-chapter="4" data-verses="16" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="fragment" data-book="1TH" data-chapter="4" data-verses="16" data-lang="en" data-version="NKJV">
 
 
 <!-- p30 -->
@@ -162,7 +162,7 @@ For each point we will review what the concept is, look at reference scriptures,
 
 
 <!-- p39 -->
-<span class="x-scripture" data-type="fragment" data-book="Revelation" data-chapter="20" data-verses="11-12" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="fragment" data-book="REV" data-chapter="20" data-verses="11-12" data-lang="en" data-version="NKJV">
 
 
 <!-- p40 -->
@@ -188,7 +188,7 @@ As believers our names have been put in the **Lamb's *Book of Life*** *(*See the
 
 
 <!-- p45 -->
-<span class="x-scripture" data-type="quote" data-book="2 Corinthians" data-chapter="5" data-verses="10" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="2CO" data-chapter="5" data-verses="10" data-lang="en" data-version="NKJV">
 
 
 <!-- p46 -->
@@ -202,7 +202,7 @@ As believers our names have been put in the **Lamb's *Book of Life*** *(*See the
 
 
 <!-- p48 -->
-<span class="x-scripture" data-type="quote" data-book="1 Corinthians" data-chapter="3" data-verses="12-15" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="1CO" data-chapter="3" data-verses="12-15" data-lang="en" data-version="NKJV">
 
 
 <!-- p49 -->
@@ -231,23 +231,23 @@ The rewards:
 
 
 <!-- p53 -->
-1.  **The Crown of Righteousness** *(<span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="4" data-verses="8" data-lang="en" data-version="NKJV">2 Timothy 4:8</span>)* - For those who long for Christ’s appearing and live godly lives.
+1.  **The Crown of Righteousness** *(<span class="x-scripture" data-type="ref" data-book="2TI" data-chapter="4" data-verses="8" data-lang="en" data-version="NKJV">2 Timothy 4:8</span>)* - For those who long for Christ’s appearing and live godly lives.
 
 
 <!-- p54 -->
-2.  **The Incorruptible Crown** *(<span class="x-scripture" data-type="ref" data-book="1 Corinthians" data-chapter="9" data-verses="24-25" data-lang="en" data-version="NKJV">1 Corinthians 9:24-25</span>)* - For believers who practice self-discipline and faithfulness.
+2.  **The Incorruptible Crown** *(<span class="x-scripture" data-type="ref" data-book="1CO" data-chapter="9" data-verses="24-25" data-lang="en" data-version="NKJV">1 Corinthians 9:24-25</span>)* - For believers who practice self-discipline and faithfulness.
 
 
 <!-- p55 -->
-3.  **The Crown of Life** *(<span class="x-scripture" data-type="ref" data-book="James" data-chapter="1" data-verses="12" data-lang="en" data-version="NKJV">James 1:12</span>; <span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="2" data-verses="10" data-lang="en" data-version="NKJV">Revelation 2:10</span>)* - For those who endure trials, persecution, and testing.
+3.  **The Crown of Life** *(<span class="x-scripture" data-type="ref" data-book="JAS" data-chapter="1" data-verses="12" data-lang="en" data-version="NKJV">James 1:12</span>; <span class="x-scripture" data-type="ref" data-book="REV" data-chapter="2" data-verses="10" data-lang="en" data-version="NKJV">Revelation 2:10</span>)* - For those who endure trials, persecution, and testing.
 
 
 <!-- p56 -->
-4.  **The Crown of Glory** *(<span class="x-scripture" data-type="ref" data-book="1 Peter" data-chapter="5" data-verses="2-4" data-lang="en" data-version="NKJV">1 Peter 5:2-4</span>)* - For leaders and shepherds who faithfully guide God’s people.
+4.  **The Crown of Glory** *(<span class="x-scripture" data-type="ref" data-book="1PE" data-chapter="5" data-verses="2-4" data-lang="en" data-version="NKJV">1 Peter 5:2-4</span>)* - For leaders and shepherds who faithfully guide God’s people.
 
 
 <!-- p57 -->
-5.  **The Crown of Rejoicing** *(<span class="x-scripture" data-type="ref" data-book="1 Thessalonians" data-chapter="2" data-verses="19-20" data-lang="en" data-version="NKJV">1 Thessalonians 2:19-20</span>)* - For those who lead others to Christ and make disciples.
+5.  **The Crown of Rejoicing** *(<span class="x-scripture" data-type="ref" data-book="1TH" data-chapter="2" data-verses="19-20" data-lang="en" data-version="NKJV">1 Thessalonians 2:19-20</span>)* - For those who lead others to Christ and make disciples.
 
 
 <!-- p58 -->
@@ -272,7 +272,7 @@ The rewards:
 
 
 <!-- p63 -->
-<span class="x-scripture" data-type="quote" data-book="Matthew" data-chapter="25" data-verses="46" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="MAT" data-chapter="25" data-verses="46" data-lang="en" data-version="NKJV">
 
 
 <!-- p64 -->
@@ -310,7 +310,7 @@ The rewards:
 
 
 <!-- p72 -->
-<span class="x-scripture" data-type="quote" data-book="Revelation" data-chapter="20" data-verses="10" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="REV" data-chapter="20" data-verses="10" data-lang="en" data-version="NKJV">
 
 
 <!-- p73 -->
@@ -348,7 +348,7 @@ The rewards:
 
 
 <!-- p81 -->
-<span class="x-scripture" data-type="fragment" data-book="Revelation" data-chapter="21" data-verses="1,3" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="fragment" data-book="REV" data-chapter="21" data-verses="1,3" data-lang="en" data-version="NKJV">
 
 
 <!-- p82 -->
@@ -409,7 +409,7 @@ It is great to study eschatology, but let's remember as D.L. Browning said, “A
 
 
 <!-- p96 -->
-The return of Christ is the culmination of God’s plan and the reason we live and labor with urgency and purpose. The parables of the ten virgins (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="25" data-verses="1-13" data-lang="en" data-version="NKJV">Matthew 25:1-13</span>) and the two men in the field (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="24" data-verses="40-42" data-lang="en" data-version="NKJV">Matthew 24:40-42</span>) remind us to be watchful and faithful, always prepared for His return. Whether through the rewards of crowns or the hope of resurrection, our motivation is clear-Christ is coming back!
+The return of Christ is the culmination of God’s plan and the reason we live and labor with urgency and purpose. The parables of the ten virgins (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="25" data-verses="1-13" data-lang="en" data-version="NKJV">Matthew 25:1-13</span>) and the two men in the field (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="24" data-verses="40-42" data-lang="en" data-version="NKJV">Matthew 24:40-42</span>) remind us to be watchful and faithful, always prepared for His return. Whether through the rewards of crowns or the hope of resurrection, our motivation is clear-Christ is coming back!
 
 
 <!-- p97 -->
@@ -425,7 +425,7 @@ The return of Christ is the culmination of God’s plan and the reason we live a
 
 
 <!-- p100 -->
-2.  Reflect on the parable of the ten virgins (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="25" data-verses="1-13" data-lang="en" data-version="NKJV">Matthew 25:1-13</span>). How can you ensure your “lamp” is prepared and full? What does that look like practically?
+2.  Reflect on the parable of the ten virgins (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="25" data-verses="1-13" data-lang="en" data-version="NKJV">Matthew 25:1-13</span>). How can you ensure your “lamp” is prepared and full? What does that look like practically?
 
 
 <!-- p101 -->
@@ -445,11 +445,11 @@ The return of Christ is the culmination of God’s plan and the reason we live a
 
 
 <!-- p105 -->
-2.  **Exploring Scripture:** Read <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="24" data-verses="42-44" data-lang="en" data-version="NKJV">Matthew 24:42-44</span>. What does it mean to ‘keep watch’? How can we balance readiness with the demands of everyday life?
+2.  **Exploring Scripture:** Read <span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="24" data-verses="42-44" data-lang="en" data-version="NKJV">Matthew 24:42-44</span>. What does it mean to ‘keep watch’? How can we balance readiness with the demands of everyday life?
 
 
 <!-- p106 -->
-3.  **Faithful Living:** Discuss the parable of the two men in the field (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="24" data-verses="40-41" data-lang="en" data-version="NKJV">Matthew 24:40-41</span>). How does this illustrate the suddenness of Christ’s return? How can we live prepared for that moment?
+3.  **Faithful Living:** Discuss the parable of the two men in the field (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="24" data-verses="40-41" data-lang="en" data-version="NKJV">Matthew 24:40-41</span>). How does this illustrate the suddenness of Christ’s return? How can we live prepared for that moment?
 
 
 <!-- p107 -->

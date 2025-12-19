@@ -33,15 +33,15 @@ Reinforce key biblical concepts about doctrine by exploring Scriptures that emph
 
 
 <!-- p9 -->
-    - **<span class="x-scripture" data-type="ref" data-book="Colossians" data-chapter="2" data-verses="7" data-lang="en" data-version="NKJV">Colossians 2:7</span>** - *Rooted and built up in Christ.*
+    - **<span class="x-scripture" data-type="ref" data-book="COL" data-chapter="2" data-verses="7" data-lang="en" data-version="NKJV">Colossians 2:7</span>** - *Rooted and built up in Christ.*
 
 
 <!-- p10 -->
-    - **<span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="4" data-verses="1-4" data-lang="en" data-version="NKJV">2 Timothy 4:1-4</span>** - *Preaching the Word and guarding against false doctrine.*
+    - **<span class="x-scripture" data-type="ref" data-book="2TI" data-chapter="4" data-verses="1-4" data-lang="en" data-version="NKJV">2 Timothy 4:1-4</span>** - *Preaching the Word and guarding against false doctrine.*
 
 
 <!-- p11 -->
-    - **<span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="4" data-verses="11-16" data-lang="en" data-version="NKJV">Ephesians 4:11-16</span>** - *Spiritual maturity and unity through sound teaching.*
+    - **<span class="x-scripture" data-type="ref" data-book="EPH" data-chapter="4" data-verses="11-16" data-lang="en" data-version="NKJV">Ephesians 4:11-16</span>** - *Spiritual maturity and unity through sound teaching.*
 
 
 <!-- p12 -->
@@ -161,23 +161,23 @@ Train participants to **discern truth from error** using Scripture as their foun
 
 
 <!-- p41 -->
-1.  *Faith alone saves us.* *(True - <span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="2" data-verses="8-9" data-lang="en" data-version="NKJV">Ephesians 2:8-9</span>)*
+1.  *Faith alone saves us.* *(True - <span class="x-scripture" data-type="ref" data-book="EPH" data-chapter="2" data-verses="8-9" data-lang="en" data-version="NKJV">Ephesians 2:8-9</span>)*
 
 
 <!-- p42 -->
-2.  *All roads lead to God if we’re sincere.* *(False - <span class="x-scripture" data-type="ref" data-book="John" data-chapter="14" data-verses="6" data-lang="en" data-version="NKJV">John 14:6</span>)*
+2.  *All roads lead to God if we’re sincere.* *(False - <span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="14" data-verses="6" data-lang="en" data-version="NKJV">John 14:6</span>)*
 
 
 <!-- p43 -->
-3.  *Sound doctrine isn’t as important as loving others.* *(False - <span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="4" data-verses="16" data-lang="en" data-version="NKJV">1 Timothy 4:16</span>)*
+3.  *Sound doctrine isn’t as important as loving others.* *(False - <span class="x-scripture" data-type="ref" data-book="1TI" data-chapter="4" data-verses="16" data-lang="en" data-version="NKJV">1 Timothy 4:16</span>)*
 
 
 <!-- p44 -->
-4.  *We need the Bible, but we also need modern revelations to guide us.* *(False - <span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="3" data-verses="16-17" data-lang="en" data-version="NKJV">2 Timothy 3:16-17</span>)*
+4.  *We need the Bible, but we also need modern revelations to guide us.* *(False - <span class="x-scripture" data-type="ref" data-book="2TI" data-chapter="3" data-verses="16-17" data-lang="en" data-version="NKJV">2 Timothy 3:16-17</span>)*
 
 
 <!-- p45 -->
-5.  *Good works are the result of salvation, not the cause of it.* *(True - <span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="2" data-verses="10" data-lang="en" data-version="NKJV">Ephesians 2:10</span>)*
+5.  *Good works are the result of salvation, not the cause of it.* *(True - <span class="x-scripture" data-type="ref" data-book="EPH" data-chapter="2" data-verses="10" data-lang="en" data-version="NKJV">Ephesians 2:10</span>)*
 
 
 <!-- p46 -->
@@ -374,15 +374,15 @@ Illustrate how sin’s **effects ripple outward**, impacting **relationships, co
 
 
 <!-- p94 -->
-      - **Adam and Eve** - <span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="3" data-verses="6-13" data-lang="en" data-version="NKJV">Genesis 3:6-13</span> (Shame and separation).
+      - **Adam and Eve** - <span class="x-scripture" data-type="ref" data-book="GEN" data-chapter="3" data-verses="6-13" data-lang="en" data-version="NKJV">Genesis 3:6-13</span> (Shame and separation).
 
 
 <!-- p95 -->
-      - **Cain and Abel** - <span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="4" data-verses="3-12" data-lang="en" data-version="NKJV">Genesis 4:3-12</span> (Jealousy, murder, and exile).
+      - **Cain and Abel** - <span class="x-scripture" data-type="ref" data-book="GEN" data-chapter="4" data-verses="3-12" data-lang="en" data-version="NKJV">Genesis 4:3-12</span> (Jealousy, murder, and exile).
 
 
 <!-- p96 -->
-      - **David and Bathsheba** - <span class="x-scripture" data-type="ref" data-book="2 Samuel" data-chapter="11" data-verses="2-27" data-lang="en" data-version="NKJV">2 Samuel 11:2-27</span> (Adultery and consequences).
+      - **David and Bathsheba** - <span class="x-scripture" data-type="ref" data-book="2SA" data-chapter="11" data-verses="2-27" data-lang="en" data-version="NKJV">2 Samuel 11:2-27</span> (Adultery and consequences).
 
 
 <!-- p97 -->
@@ -434,23 +434,23 @@ Trace God’s **redemptive plan** from **Genesis to Christ**, focusing on His **
 
 
 <!-- p109 -->
-    - **<span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="3" data-verses="21" data-lang="en" data-version="NKJV">Genesis 3:21</span>** - God provides coverings for Adam and Eve.
+    - **<span class="x-scripture" data-type="ref" data-book="GEN" data-chapter="3" data-verses="21" data-lang="en" data-version="NKJV">Genesis 3:21</span>** - God provides coverings for Adam and Eve.
 
 
 <!-- p110 -->
-    - **<span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="4" data-verses="6-7" data-lang="en" data-version="NKJV">Genesis 4:6-7</span>** - God warns Cain before his sin.
+    - **<span class="x-scripture" data-type="ref" data-book="GEN" data-chapter="4" data-verses="6-7" data-lang="en" data-version="NKJV">Genesis 4:6-7</span>** - God warns Cain before his sin.
 
 
 <!-- p111 -->
-    - **<span class="x-scripture" data-type="ref" data-book="Exodus" data-chapter="12" data-verses="13" data-lang="en" data-version="NKJV">Exodus 12:13</span>** - The Passover lamb protects Israel.
+    - **<span class="x-scripture" data-type="ref" data-book="EXO" data-chapter="12" data-verses="13" data-lang="en" data-version="NKJV">Exodus 12:13</span>** - The Passover lamb protects Israel.
 
 
 <!-- p112 -->
-    - **<span class="x-scripture" data-type="ref" data-book="Leviticus" data-chapter="16" data-verses="21-22" data-lang="en" data-version="NKJV">Leviticus 16:21-22</span>** - The scapegoat bears sin away.
+    - **<span class="x-scripture" data-type="ref" data-book="LEV" data-chapter="16" data-verses="21-22" data-lang="en" data-version="NKJV">Leviticus 16:21-22</span>** - The scapegoat bears sin away.
 
 
 <!-- p113 -->
-    - **<span class="x-scripture" data-type="ref" data-book="John" data-chapter="1" data-verses="29" data-lang="en" data-version="NKJV">John 1:29</span>** - Jesus, the Lamb of God, takes away sin.
+    - **<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="1" data-verses="29" data-lang="en" data-version="NKJV">John 1:29</span>** - Jesus, the Lamb of God, takes away sin.
 
 
 <!-- p114 -->
@@ -514,7 +514,7 @@ Lead participants to **personally process forgiveness**-both **receiving it** an
 
 
 <!-- p129 -->
-    - Read **<span class="x-scripture" data-type="ref" data-book="1 John" data-chapter="1" data-verses="9" data-lang="en" data-version="NKJV">1 John 1:9</span>**
+    - Read **<span class="x-scripture" data-type="ref" data-book="1JN" data-chapter="1" data-verses="9" data-lang="en" data-version="NKJV">1 John 1:9</span>**
 
 
 <!-- p130 -->
@@ -538,7 +538,7 @@ Lead participants to **personally process forgiveness**-both **receiving it** an
 
 
 <!-- p135 -->
-    - Read **<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="103" data-verses="12" data-lang="en" data-version="NKJV">Psalm 103:12</span>**
+    - Read **<span class="x-scripture" data-type="ref" data-book="PSA" data-chapter="103" data-verses="12" data-lang="en" data-version="NKJV">Psalm 103:12</span>**
 
 
 <!-- p136 -->
@@ -570,23 +570,23 @@ Explore the **names and titles of Jesus** and how they reveal His mission as the
 
 
 <!-- p143 -->
-    - **Emmanuel** (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="1" data-verses="23" data-lang="en" data-version="NKJV">Matthew 1:23</span>) - *God with us.*
+    - **Emmanuel** (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="1" data-verses="23" data-lang="en" data-version="NKJV">Matthew 1:23</span>) - *God with us.*
 
 
 <!-- p144 -->
-    - **Lamb of God** (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="1" data-verses="29" data-lang="en" data-version="NKJV">John 1:29</span>) - *Sacrifice for sin.*
+    - **Lamb of God** (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="1" data-verses="29" data-lang="en" data-version="NKJV">John 1:29</span>) - *Sacrifice for sin.*
 
 
 <!-- p145 -->
-    - **King of Kings** (<span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="19" data-verses="16" data-lang="en" data-version="NKJV">Revelation 19:16</span>) - *Supreme authority.*
+    - **King of Kings** (<span class="x-scripture" data-type="ref" data-book="REV" data-chapter="19" data-verses="16" data-lang="en" data-version="NKJV">Revelation 19:16</span>) - *Supreme authority.*
 
 
 <!-- p146 -->
-    - **High Priest** (<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="4" data-verses="14-16" data-lang="en" data-version="NKJV">Hebrews 4:14-16</span>) - *Mediator between God and man.*
+    - **High Priest** (<span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="4" data-verses="14-16" data-lang="en" data-version="NKJV">Hebrews 4:14-16</span>) - *Mediator between God and man.*
 
 
 <!-- p147 -->
-    - **The Word** (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="1" data-verses="1" data-lang="en" data-version="NKJV">John 1:1</span>) - *The revelation of God.*
+    - **The Word** (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="1" data-verses="1" data-lang="en" data-version="NKJV">John 1:1</span>) - *The revelation of God.*
 
 
 <!-- p148 -->
@@ -634,19 +634,19 @@ Trace key moments in Jesus’ mission to **connect prophecy with fulfillment**.
 
 
 <!-- p159 -->
-    - **Born of a Virgin:** <span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="7" data-verses="14" data-lang="en" data-version="NKJV">Isaiah 7:14</span> → <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="1" data-verses="22-23" data-lang="en" data-version="NKJV">Matthew 1:22-23</span>.
+    - **Born of a Virgin:** <span class="x-scripture" data-type="ref" data-book="ISA" data-chapter="7" data-verses="14" data-lang="en" data-version="NKJV">Isaiah 7:14</span> → <span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="1" data-verses="22-23" data-lang="en" data-version="NKJV">Matthew 1:22-23</span>.
 
 
 <!-- p160 -->
-    - **Healing the Brokenhearted:** <span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="61" data-verses="1-2" data-lang="en" data-version="NKJV">Isaiah 61:1-2</span> → <span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="4" data-verses="18-19" data-lang="en" data-version="NKJV">Luke 4:18-19</span>.
+    - **Healing the Brokenhearted:** <span class="x-scripture" data-type="ref" data-book="ISA" data-chapter="61" data-verses="1-2" data-lang="en" data-version="NKJV">Isaiah 61:1-2</span> → <span class="x-scripture" data-type="ref" data-book="LUK" data-chapter="4" data-verses="18-19" data-lang="en" data-version="NKJV">Luke 4:18-19</span>.
 
 
 <!-- p161 -->
-    - **A Suffering Servant:** <span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="53" data-verses="4-7" data-lang="en" data-version="NKJV">Isaiah 53:4-7</span> → <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="27" data-verses="26-31" data-lang="en" data-version="NKJV">Matthew 27:26-31</span>.
+    - **A Suffering Servant:** <span class="x-scripture" data-type="ref" data-book="ISA" data-chapter="53" data-verses="4-7" data-lang="en" data-version="NKJV">Isaiah 53:4-7</span> → <span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="27" data-verses="26-31" data-lang="en" data-version="NKJV">Matthew 27:26-31</span>.
 
 
 <!-- p162 -->
-    - **Resurrection Victory:** <span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="16" data-verses="10" data-lang="en" data-version="NKJV">Psalm 16:10</span> → <span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="2" data-verses="31" data-lang="en" data-version="NKJV">Acts 2:31</span>.
+    - **Resurrection Victory:** <span class="x-scripture" data-type="ref" data-book="PSA" data-chapter="16" data-verses="10" data-lang="en" data-version="NKJV">Psalm 16:10</span> → <span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="2" data-verses="31" data-lang="en" data-version="NKJV">Acts 2:31</span>.
 
 
 <!-- p163 -->
@@ -930,7 +930,7 @@ Draw lessons from David’s repentance to inspire participants to embrace a life
 
 
 <!-- p233 -->
-    - Reflect on David’s heartfelt plea for forgiveness, focusing on verses like <span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="51" data-verses="10-12" data-lang="en" data-version="NKJV">Psalm 51:10-12</span>.
+    - Reflect on David’s heartfelt plea for forgiveness, focusing on verses like <span class="x-scripture" data-type="ref" data-book="PSA" data-chapter="51" data-verses="10-12" data-lang="en" data-version="NKJV">Psalm 51:10-12</span>.
 
 
 <!-- p234 -->
@@ -986,7 +986,7 @@ Help participants understand how **faith comes by hearing** and recognize moment
 
 
 <!-- p247 -->
-    - Read <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="10" data-verses="17" data-lang="en" data-version="NKJV">Romans 10:17</span> (*“So then faith comes by hearing, and hearing by the word of God”*) and <span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="55" data-verses="11" data-lang="en" data-version="NKJV">Isaiah 55:11</span> (*“So is My word that goes out from My mouth; it will not return to Me empty.”*).
+    - Read <span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="10" data-verses="17" data-lang="en" data-version="NKJV">Romans 10:17</span> (*“So then faith comes by hearing, and hearing by the word of God”*) and <span class="x-scripture" data-type="ref" data-book="ISA" data-chapter="55" data-verses="11" data-lang="en" data-version="NKJV">Isaiah 55:11</span> (*“So is My word that goes out from My mouth; it will not return to Me empty.”*).
 
 
 <!-- p248 -->
@@ -1034,7 +1034,7 @@ Illustrate the connection between **faith and obedience** and encourage particip
 
 
 <!-- p259 -->
-    - Read <span class="x-scripture" data-type="ref" data-book="James" data-chapter="2" data-verses="17" data-lang="en" data-version="NKJV">James 2:17</span> (*“Faith by itself, if it does not have works, is dead.”*).
+    - Read <span class="x-scripture" data-type="ref" data-book="JAS" data-chapter="2" data-verses="17" data-lang="en" data-version="NKJV">James 2:17</span> (*“Faith by itself, if it does not have works, is dead.”*).
 
 
 <!-- p260 -->
@@ -1154,15 +1154,15 @@ Encourage participants to implement practical disciplines that cultivate faith a
 
 
 <!-- p289 -->
-    - ***Prophet:** Read <span class="x-scripture" data-type="ref" data-book="Deuteronomy" data-chapter="18" data-verses="15-19" data-lang="en" data-version="NKJV">Deuteronomy 18:15-19</span> and <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="21" data-verses="11" data-lang="en" data-version="NKJV">Matthew 21:11</span>.*
+    - ***Prophet:** Read <span class="x-scripture" data-type="ref" data-book="DEU" data-chapter="18" data-verses="15-19" data-lang="en" data-version="NKJV">Deuteronomy 18:15-19</span> and <span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="21" data-verses="11" data-lang="en" data-version="NKJV">Matthew 21:11</span>.*
 
 
 <!-- p290 -->
-    - ***Priest:** Read <span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="4" data-verses="14-16" data-lang="en" data-version="NKJV">Hebrews 4:14-16</span> and 10:11-14.*
+    - ***Priest:** Read <span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="4" data-verses="14-16" data-lang="en" data-version="NKJV">Hebrews 4:14-16</span> and 10:11-14.*
 
 
 <!-- p291 -->
-    - ***King:** Read <span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="2" data-verses="6-8" data-lang="en" data-version="NKJV">Psalm 2:6-8</span> and <span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="19" data-verses="16" data-lang="en" data-version="NKJV">Revelation 19:16</span>.*
+    - ***King:** Read <span class="x-scripture" data-type="ref" data-book="PSA" data-chapter="2" data-verses="6-8" data-lang="en" data-version="NKJV">Psalm 2:6-8</span> and <span class="x-scripture" data-type="ref" data-book="REV" data-chapter="19" data-verses="16" data-lang="en" data-version="NKJV">Revelation 19:16</span>.*
 
 
 <!-- p292 -->
@@ -1242,7 +1242,7 @@ Encourage participants to implement practical disciplines that cultivate faith a
 
 
 <!-- p311 -->
-1.  ***Read <span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="9" data-verses="15" data-lang="en" data-version="NKJV">Hebrews 9:15</span> and <span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="2" data-verses="5-6" data-lang="en" data-version="NKJV">1 Timothy 2:5-6</span> Together (10 Minutes):***
+1.  ***Read <span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="9" data-verses="15" data-lang="en" data-version="NKJV">Hebrews 9:15</span> and <span class="x-scripture" data-type="ref" data-book="1TI" data-chapter="2" data-verses="5-6" data-lang="en" data-version="NKJV">1 Timothy 2:5-6</span> Together (10 Minutes):***
 
 
 <!-- p312 -->
@@ -1514,7 +1514,7 @@ Reassure participants that sanctification is a lifelong journey and encourage th
 
 
 <!-- p379 -->
-    - Read <span class="x-scripture" data-type="ref" data-book="Philippians" data-chapter="1" data-verses="6" data-lang="en" data-version="NKJV">Philippians 1:6</span> (*“He who began a good work in you will carry it on to completion until the day of Christ Jesus.”*).
+    - Read <span class="x-scripture" data-type="ref" data-book="PHP" data-chapter="1" data-verses="6" data-lang="en" data-version="NKJV">Philippians 1:6</span> (*“He who began a good work in you will carry it on to completion until the day of Christ Jesus.”*).
 
 
 <!-- p380 -->
@@ -1758,7 +1758,7 @@ Help participants reflect on the theological and personal significance of baptis
 
 
 <!-- p440 -->
-    - Read <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="6" data-verses="3-4" data-lang="en" data-version="NKJV">Romans 6:3-4</span> and <span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="19" data-verses="1-6" data-lang="en" data-version="NKJV">Acts 19:1-6</span>.
+    - Read <span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="6" data-verses="3-4" data-lang="en" data-version="NKJV">Romans 6:3-4</span> and <span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="19" data-verses="1-6" data-lang="en" data-version="NKJV">Acts 19:1-6</span>.
 
 
 <!-- p441 -->
@@ -1830,7 +1830,7 @@ Encourage participants to seek the baptism of the Holy Spirit and understand its
 
 
 <!-- p458 -->
-    - Encourage participants to pray with expectancy, using <span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="1" data-verses="8" data-lang="en" data-version="NKJV">Acts 1:8</span> and <span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="11" data-verses="13" data-lang="en" data-version="NKJV">Luke 11:13</span> as their foundation.
+    - Encourage participants to pray with expectancy, using <span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="1" data-verses="8" data-lang="en" data-version="NKJV">Acts 1:8</span> and <span class="x-scripture" data-type="ref" data-book="LUK" data-chapter="11" data-verses="13" data-lang="en" data-version="NKJV">Luke 11:13</span> as their foundation.
 
 
 <!-- p459 -->
@@ -1862,7 +1862,7 @@ Help participants explore the rich symbolism of baptism and connect it to their 
 
 
 <!-- p466 -->
-    - Read <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="6" data-verses="3-4" data-lang="en" data-version="NKJV">Romans 6:3-4</span> (*“We were therefore buried with Him through baptism into death in order that, just as Christ was raised from the dead through the glory of the Father, we too may live a new life.”*).
+    - Read <span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="6" data-verses="3-4" data-lang="en" data-version="NKJV">Romans 6:3-4</span> (*“We were therefore buried with Him through baptism into death in order that, just as Christ was raised from the dead through the glory of the Father, we too may live a new life.”*).
 
 
 <!-- p467 -->
@@ -2138,23 +2138,23 @@ Help participants identify examples of spiritual authority in the Bible and refl
 
 
 <!-- p535 -->
-      - Calming the storm: *<span class="x-scripture" data-type="ref" data-book="Mark" data-chapter="4" data-verses="35-41" data-lang="en" data-version="NKJV">Mark 4:35-41</span>.*
+      - Calming the storm: *<span class="x-scripture" data-type="ref" data-book="MRK" data-chapter="4" data-verses="35-41" data-lang="en" data-version="NKJV">Mark 4:35-41</span>.*
 
 
 <!-- p536 -->
-      - Casting out a demon in the synagogue: *<span class="x-scripture" data-type="ref" data-book="Mark" data-chapter="1" data-verses="21-28" data-lang="en" data-version="NKJV">Mark 1:21-28</span>.*
+      - Casting out a demon in the synagogue: *<span class="x-scripture" data-type="ref" data-book="MRK" data-chapter="1" data-verses="21-28" data-lang="en" data-version="NKJV">Mark 1:21-28</span>.*
 
 
 <!-- p537 -->
-      - Healing the centurion’s servant: *<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="8" data-verses="5-13" data-lang="en" data-version="NKJV">Matthew 8:5-13</span>.*
+      - Healing the centurion’s servant: *<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="8" data-verses="5-13" data-lang="en" data-version="NKJV">Matthew 8:5-13</span>.*
 
 
 <!-- p538 -->
-      - Raising Lazarus from the dead: *<span class="x-scripture" data-type="ref" data-book="John" data-chapter="11" data-verses="38-44" data-lang="en" data-version="NKJV">John 11:38-44</span>.*
+      - Raising Lazarus from the dead: *<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="11" data-verses="38-44" data-lang="en" data-version="NKJV">John 11:38-44</span>.*
 
 
 <!-- p539 -->
-      - Feeding the 5,000: *<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="14" data-verses="13-21" data-lang="en" data-version="NKJV">Matthew 14:13-21</span>.*
+      - Feeding the 5,000: *<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="14" data-verses="13-21" data-lang="en" data-version="NKJV">Matthew 14:13-21</span>.*
 
 
 <!-- p540 -->
@@ -2162,23 +2162,23 @@ Help participants identify examples of spiritual authority in the Bible and refl
 
 
 <!-- p541 -->
-      - Healing a lame man: *<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="3" data-verses="1-10" data-lang="en" data-version="NKJV">Acts 3:1-10</span>.*
+      - Healing a lame man: *<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="3" data-verses="1-10" data-lang="en" data-version="NKJV">Acts 3:1-10</span>.*
 
 
 <!-- p542 -->
-      - Casting out a spirit in Philippi: *<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="16" data-verses="16-18" data-lang="en" data-version="NKJV">Acts 16:16-18</span>.*
+      - Casting out a spirit in Philippi: *<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="16" data-verses="16-18" data-lang="en" data-version="NKJV">Acts 16:16-18</span>.*
 
 
 <!-- p543 -->
-      - Paul’s declaration over Elymas the sorcerer: *<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="13" data-verses="8-12" data-lang="en" data-version="NKJV">Acts 13:8-12</span>.*
+      - Paul’s declaration over Elymas the sorcerer: *<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="13" data-verses="8-12" data-lang="en" data-version="NKJV">Acts 13:8-12</span>.*
 
 
 <!-- p544 -->
-      - Peter raising Tabitha (Dorcas) from the dead: *<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="9" data-verses="36-42" data-lang="en" data-version="NKJV">Acts 9:36-42</span>.*
+      - Peter raising Tabitha (Dorcas) from the dead: *<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="9" data-verses="36-42" data-lang="en" data-version="NKJV">Acts 9:36-42</span>.*
 
 
 <!-- p545 -->
-      - Paul surviving a snake bite: *<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="28" data-verses="3-6" data-lang="en" data-version="NKJV">Acts 28:3-6</span>.*
+      - Paul surviving a snake bite: *<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="28" data-verses="3-6" data-lang="en" data-version="NKJV">Acts 28:3-6</span>.*
 
 
 <!-- p546 -->
@@ -2283,15 +2283,15 @@ Deepen participants’ understanding of angels as part of God’s kingdom and th
 
 
 <!-- p571 -->
-      - Guarding believers: *<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="91" data-verses="11-12" data-lang="en" data-version="NKJV">Psalm 91:11-12</span>.*
+      - Guarding believers: *<span class="x-scripture" data-type="ref" data-book="PSA" data-chapter="91" data-verses="11-12" data-lang="en" data-version="NKJV">Psalm 91:11-12</span>.*
 
 
 <!-- p572 -->
-      - Protecting Elisha and his servant: *<span class="x-scripture" data-type="ref" data-book="2 Kings" data-chapter="6" data-verses="15-17" data-lang="en" data-version="NKJV">2 Kings 6:15-17</span>.*
+      - Protecting Elisha and his servant: *<span class="x-scripture" data-type="ref" data-book="2KI" data-chapter="6" data-verses="15-17" data-lang="en" data-version="NKJV">2 Kings 6:15-17</span>.*
 
 
 <!-- p573 -->
-      - Guiding Philip to the Ethiopian eunuch: *<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="8" data-verses="26" data-lang="en" data-version="NKJV">Acts 8:26</span>.*
+      - Guiding Philip to the Ethiopian eunuch: *<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="8" data-verses="26" data-lang="en" data-version="NKJV">Acts 8:26</span>.*
 
 
 <!-- p574 -->
@@ -2299,15 +2299,15 @@ Deepen participants’ understanding of angels as part of God’s kingdom and th
 
 
 <!-- p575 -->
-      - Delivering Daniel from the lions: *<span class="x-scripture" data-type="ref" data-book="Daniel" data-chapter="6" data-verses="22" data-lang="en" data-version="NKJV">Daniel 6:22</span>.*
+      - Delivering Daniel from the lions: *<span class="x-scripture" data-type="ref" data-book="DAN" data-chapter="6" data-verses="22" data-lang="en" data-version="NKJV">Daniel 6:22</span>.*
 
 
 <!-- p576 -->
-      - Angelic warfare in response to prayer: *<span class="x-scripture" data-type="ref" data-book="Daniel" data-chapter="10" data-verses="12-14" data-lang="en" data-version="NKJV">Daniel 10:12-14</span>.*
+      - Angelic warfare in response to prayer: *<span class="x-scripture" data-type="ref" data-book="DAN" data-chapter="10" data-verses="12-14" data-lang="en" data-version="NKJV">Daniel 10:12-14</span>.*
 
 
 <!-- p577 -->
-      - Fighting on behalf of Israel: *<span class="x-scripture" data-type="ref" data-book="Exodus" data-chapter="23" data-verses="20-22" data-lang="en" data-version="NKJV">Exodus 23:20-22</span>.*
+      - Fighting on behalf of Israel: *<span class="x-scripture" data-type="ref" data-book="EXO" data-chapter="23" data-verses="20-22" data-lang="en" data-version="NKJV">Exodus 23:20-22</span>.*
 
 
 <!-- p578 -->
@@ -2315,15 +2315,15 @@ Deepen participants’ understanding of angels as part of God’s kingdom and th
 
 
 <!-- p579 -->
-      - Announcing Jesus’ birth: *<span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="1" data-verses="26-38" data-lang="en" data-version="NKJV">Luke 1:26-38</span>.*
+      - Announcing Jesus’ birth: *<span class="x-scripture" data-type="ref" data-book="LUK" data-chapter="1" data-verses="26-38" data-lang="en" data-version="NKJV">Luke 1:26-38</span>.*
 
 
 <!-- p580 -->
-      - Guiding Joseph: *<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="1" data-verses="20-24" data-lang="en" data-version="NKJV">Matthew 1:20-24</span>.*
+      - Guiding Joseph: *<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="1" data-verses="20-24" data-lang="en" data-version="NKJV">Matthew 1:20-24</span>.*
 
 
 <!-- p581 -->
-      - Delivering the apostles from prison: *<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="5" data-verses="19-20" data-lang="en" data-version="NKJV">Acts 5:19-20</span>.*
+      - Delivering the apostles from prison: *<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="5" data-verses="19-20" data-lang="en" data-version="NKJV">Acts 5:19-20</span>.*
 
 
 <!-- p582 -->
@@ -2423,7 +2423,7 @@ Dive deeper into the parable of the ten virgins to explore spiritual preparednes
 
 
 <!-- p606 -->
-    - Read <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="25" data-verses="1-13" data-lang="en" data-version="NKJV">Matthew 25:1-13</span> aloud as a group.
+    - Read <span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="25" data-verses="1-13" data-lang="en" data-version="NKJV">Matthew 25:1-13</span> aloud as a group.
 
 
 <!-- p607 -->

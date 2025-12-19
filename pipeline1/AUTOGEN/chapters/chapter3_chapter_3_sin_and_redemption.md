@@ -29,7 +29,7 @@ In our modern criminal justice systems, we have similar distinctions: degrees of
 
 
 <!-- p8 -->
-The various Greek and Hebrew words for sin have a high level of overlap. All sin is broadly described under the umbrella term ‘missing the mark’, ***Hamartia*** in Greek, and ***Chata’*** in Hebrew. This umbrella term is used for the most severe sins, adultery, murder, but also less severe sins, like showing partiality to wealthy people in our church gatherings (<span class="x-scripture" data-type="ref" data-book="James" data-chapter="2" data-verses="9" data-lang="en" data-version="NKJV">James 2:9</span>).
+The various Greek and Hebrew words for sin have a high level of overlap. All sin is broadly described under the umbrella term ‘missing the mark’, ***Hamartia*** in Greek, and ***Chata’*** in Hebrew. This umbrella term is used for the most severe sins, adultery, murder, but also less severe sins, like showing partiality to wealthy people in our church gatherings (<span class="x-scripture" data-type="ref" data-book="JAS" data-chapter="2" data-verses="9" data-lang="en" data-version="NKJV">James 2:9</span>).
 
 
 <!-- p9 -->
@@ -54,7 +54,7 @@ Let's consider Cain’s murder of his brother Able in Genesis 4.
 
 
 <!-- p14 -->
-<span class="x-scripture" data-type="quote" data-book="Genesis" data-chapter="4" data-verses="1-16" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="GEN" data-chapter="4" data-verses="1-16" data-lang="en" data-version="NKJV">
 
 
 <!-- p15 -->
@@ -164,7 +164,7 @@ God is a holy (pure, innocent, blameless) God. When man sins, a person separates
 
 
 <!-- p33 -->
-<span class="x-scripture" data-type="quote" data-book="Isaiah" data-chapter="59" data-verses="2" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="ISA" data-chapter="59" data-verses="2" data-lang="en" data-version="NKJV">
 
 
 <!-- p34 -->
@@ -178,7 +178,7 @@ God is a holy (pure, innocent, blameless) God. When man sins, a person separates
 
 
 <!-- p36 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="6" data-verses="23" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="ROM" data-chapter="6" data-verses="23" data-lang="en" data-version="NKJV">
 
 
 <!-- p37 -->
@@ -192,7 +192,7 @@ God is a holy (pure, innocent, blameless) God. When man sins, a person separates
 
 
 <!-- p39 -->
-<span class="x-scripture" data-type="quote" data-book="Galatians" data-chapter="6" data-verses="7-8" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="GAL" data-chapter="6" data-verses="7-8" data-lang="en" data-version="NKJV">
 
 
 <!-- p40 -->
@@ -213,12 +213,12 @@ God cannot have fellowship with unrighteousness. The pain and effect of sin is t
 
 
 <!-- p44 -->
-The scriptures declare that there will be final judgement for every man according to his deed. This judgement, called the ***Great White Throne Judgement,** happens* after the **resurrection of the dead to condemnation** (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="5" data-verses="28-29" data-lang="en" data-version="NKJV">John 5:28-29</span>), and is for everyone whose name is not in the ***Lamb’s Book of Life**.* <u>This judgement is not for the believer, but for the unbeliever</u>, believers face the ***Judgement Seat of Christ*** (read the final chapter for more details). The scriptures say God will pour out His wrath upon those who have broken His laws; His judgment will be eternal separation and misery. Jesus says in <span class="x-scripture" data-type="ref" data-book="John" data-chapter="5" data-verses="26-27" data-lang="en" data-version="NKJV">John 5:26-27</span> that the Father has given Him authority to carry out this judgement.
+The scriptures declare that there will be final judgement for every man according to his deed. This judgement, called the ***Great White Throne Judgement,** happens* after the **resurrection of the dead to condemnation** (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="5" data-verses="28-29" data-lang="en" data-version="NKJV">John 5:28-29</span>), and is for everyone whose name is not in the ***Lamb’s Book of Life**.* <u>This judgement is not for the believer, but for the unbeliever</u>, believers face the ***Judgement Seat of Christ*** (read the final chapter for more details). The scriptures say God will pour out His wrath upon those who have broken His laws; His judgment will be eternal separation and misery. Jesus says in <span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="5" data-verses="26-27" data-lang="en" data-version="NKJV">John 5:26-27</span> that the Father has given Him authority to carry out this judgement.
 
 
 
 <!-- p45 -->
-<span class="x-scripture" data-type="fragment" data-book="Revelation" data-chapter="20" data-verses="12-13" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="fragment" data-book="REV" data-chapter="20" data-verses="12-13" data-lang="en" data-version="NKJV">
 
 
 <!-- p46 -->
@@ -232,7 +232,7 @@ The scriptures declare that there will be final judgement for every man accordin
 
 
 <!-- p48 -->
-<span class="x-scripture" data-type="quote" data-book="Matthew" data-chapter="12" data-verses="36-37" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="MAT" data-chapter="12" data-verses="36-37" data-lang="en" data-version="NKJV">
 
 
 <!-- p49 -->
@@ -250,7 +250,7 @@ We will likely face the consequence of sin in our natural lives. We may perhaps 
 
 
 <!-- p52 -->
-<span class="x-scripture" data-type="quote" data-book="Hebrews" data-chapter="9" data-verses="27" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="HEB" data-chapter="9" data-verses="27" data-lang="en" data-version="NKJV">
 
 
 <!-- p53 -->
@@ -264,7 +264,7 @@ We will likely face the consequence of sin in our natural lives. We may perhaps 
 
 
 <!-- p55 -->
-<span class="x-scripture" data-type="quote" data-book="Ecclesiastes" data-chapter="12" data-verses="14" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="ECC" data-chapter="12" data-verses="14" data-lang="en" data-version="NKJV">
 
 
 <!-- p56 -->
@@ -278,7 +278,7 @@ We will likely face the consequence of sin in our natural lives. We may perhaps 
 
 
 <!-- p58 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="2" data-verses="5-6" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="ROM" data-chapter="2" data-verses="5-6" data-lang="en" data-version="NKJV">
 
 
 <!-- p59 -->
@@ -303,7 +303,7 @@ Even in the midst of judgment, God’s heart for redemption shines through. From
 
 
 <!-- p64 -->
-In the story of Adam and Eve, God kills animals and makes clothes for them from their skins (<span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="3" data-verses="20" data-lang="en" data-version="NKJV">Genesis 3:20</span>). This was the first shedding of blood to cover the consequence of sin. There are a few other similar accounts in the book of Genesis, but God formally institutes a method of sacrifice for sin in the book of Leviticus.
+In the story of Adam and Eve, God kills animals and makes clothes for them from their skins (<span class="x-scripture" data-type="ref" data-book="GEN" data-chapter="3" data-verses="20" data-lang="en" data-version="NKJV">Genesis 3:20</span>). This was the first shedding of blood to cover the consequence of sin. There are a few other similar accounts in the book of Genesis, but God formally institutes a method of sacrifice for sin in the book of Leviticus.
 
 
 <!-- p65 -->
@@ -376,7 +376,7 @@ The Day of Atonement was a profound expression of God’s forgiveness and purifi
 
 
 <!-- p82 -->
-<span class="x-scripture" data-type="quote" data-book="Hebrews" data-chapter="10" data-verses="1-4" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="HEB" data-chapter="10" data-verses="1-4" data-lang="en" data-version="NKJV">
 
 
 <!-- p83 -->
@@ -422,7 +422,7 @@ The reality is we are all guilty of sin, and we must all pay the price for our t
 
 
 <!-- p91 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="3" data-verses="23" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="ROM" data-chapter="3" data-verses="23" data-lang="en" data-version="NKJV">
 
 
 <!-- p92 -->
@@ -440,7 +440,7 @@ Every one of us has sinned, separated ourselves from God, and will stand a befor
 
 
 <!-- p95 -->
-<span class="x-scripture" data-type="quote" data-book="1 John" data-chapter="1" data-verses="8-10" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="1JN" data-chapter="1" data-verses="8-10" data-lang="en" data-version="NKJV">
 
 
 <!-- p96 -->
@@ -458,7 +458,7 @@ As we have all sinned, we are all in need of redemption, else we will experience
 
 
 <!-- p99 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="3" data-verses="16" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JHN" data-chapter="3" data-verses="16" data-lang="en" data-version="NKJV">
 
 
 <!-- p100 -->
@@ -491,7 +491,7 @@ From the first sacrifice in Genesis to the cross of Christ, God’s plan has alw
 
 
 <!-- p107 -->
-4.  How do the Old Testament sacrifices point to Christ’s work on the cross? (<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="9" data-verses="13-10" data-lang="en" data-version="NKJV">Hebrews 9:13-10</span>:18)
+4.  How do the Old Testament sacrifices point to Christ’s work on the cross? (<span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="9" data-verses="13-10" data-lang="en" data-version="NKJV">Hebrews 9:13-10</span>:18)
 
 
 <!-- p108 -->
@@ -507,7 +507,7 @@ From the first sacrifice in Genesis to the cross of Christ, God’s plan has alw
 
 
 <!-- p111 -->
-2.  **Scripture Discussion:** *Read <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="6" data-verses="23" data-lang="en" data-version="NKJV">Romans 6:23</span>. Why does sin carry such serious consequences, and how does Christ’s gift of eternal life resolve this tension?*
+2.  **Scripture Discussion:** *Read <span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="6" data-verses="23" data-lang="en" data-version="NKJV">Romans 6:23</span>. Why does sin carry such serious consequences, and how does Christ’s gift of eternal life resolve this tension?*
 
 
 <!-- p112 -->

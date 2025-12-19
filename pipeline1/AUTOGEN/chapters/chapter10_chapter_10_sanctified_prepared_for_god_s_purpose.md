@@ -21,7 +21,7 @@ We were set aside, consecrated to God at salvation. Through the act of purifying
 
 
 <!-- p6 -->
-When we received Jesus through salvation, we were born-again. We were justified, our sins forgiven. Our spirit was regenerated, we became alive in Christ. We were adopted into the family of God and became the literal temple of the Holy Spirit. Such a marvelous transformation that the scriptures say, “*there is joy before the angels of God over one sinner who repents.” (*<span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="15" data-verses="10" data-lang="en" data-version="NKJV">Luke 15:10</span>).
+When we received Jesus through salvation, we were born-again. We were justified, our sins forgiven. Our spirit was regenerated, we became alive in Christ. We were adopted into the family of God and became the literal temple of the Holy Spirit. Such a marvelous transformation that the scriptures say, “*there is joy before the angels of God over one sinner who repents.” (*<span class="x-scripture" data-type="ref" data-book="LUK" data-chapter="15" data-verses="10" data-lang="en" data-version="NKJV">Luke 15:10</span>).
 
 
 <!-- p7 -->
@@ -46,7 +46,7 @@ Part of growing up is maturing past our childish ways, but when pressed we very 
 
 
 <!-- p12 -->
-<span class="x-scripture" data-type="quote" data-book="James" data-chapter="4" data-verses="1" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JAS" data-chapter="4" data-verses="1" data-lang="en" data-version="NKJV">
 
 
 <!-- p13 -->
@@ -68,7 +68,7 @@ This conflict between flesh and spirit exists in each of us, and it’s our job 
 
 
 <!-- p17 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="8" data-verses="6-8" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="ROM" data-chapter="8" data-verses="6-8" data-lang="en" data-version="NKJV">
 
 
 <!-- p18 -->
@@ -90,7 +90,7 @@ Take courage, there is hope for us! We must walk after the Spirit and be led by 
 
 
 <!-- p22 -->
-<span class="x-scripture" data-type="fragment" data-book="Romans" data-chapter="8" data-verses="1,13,14" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="fragment" data-book="ROM" data-chapter="8" data-verses="1,13,14" data-lang="en" data-version="NKJV">
 
 
 <!-- p23 -->
@@ -118,7 +118,7 @@ Likewise, God cannot walk out our faith for us. He will teach us, but we must pu
   
 
 <!-- p27 -->
-<span class="x-scripture" data-type="quote" data-book="Philippians" data-chapter="2" data-verses="12-13" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="PHP" data-chapter="2" data-verses="12-13" data-lang="en" data-version="NKJV">
 
 
 <!-- p28 -->
@@ -131,7 +131,7 @@ Likewise, God cannot walk out our faith for us. He will teach us, but we must pu
 
 
 <!-- p30 -->
-We must work out our own salvation. That doesn't mean that we climb atop a wooden cross and are physically crucified, but we do have to crucify our fleshly nature (<span class="x-scripture" data-type="ref" data-book="Galatians" data-chapter="5" data-verses="24" data-lang="en" data-version="NKJV">Galatians 5:24</span>). God promises that He will work in us and help us, but we must make a choice to walk this out, and we must stick to it.
+We must work out our own salvation. That doesn't mean that we climb atop a wooden cross and are physically crucified, but we do have to crucify our fleshly nature (<span class="x-scripture" data-type="ref" data-book="GAL" data-chapter="5" data-verses="24" data-lang="en" data-version="NKJV">Galatians 5:24</span>). God promises that He will work in us and help us, but we must make a choice to walk this out, and we must stick to it.
 
 
 <!-- p31 -->
@@ -144,7 +144,7 @@ This process is collaborative. God helps, aids, guides, directs, and corrects. W
 
 
 <!-- p33 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="15" data-verses="1-4" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JHN" data-chapter="15" data-verses="1-4" data-lang="en" data-version="NKJV">
 
 
 <!-- p34 -->
@@ -165,11 +165,11 @@ This process is collaborative. God helps, aids, guides, directs, and corrects. W
 
 
 <!-- p36 -->
-Pruning is incredibly healthy for a plant. Thinking back to our chapter on repentance, we are called to turn away from dead works (those works that are no longer bearing fruit) and turn toward God. The result of this turning away from the dead places in our life, and towards God, empowers the great gardener of our life to prune branches, improve growth, and produce greater spiritual fruit (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="15" data-verses="2" data-lang="en" data-version="NKJV">John 15:2</span>).
+Pruning is incredibly healthy for a plant. Thinking back to our chapter on repentance, we are called to turn away from dead works (those works that are no longer bearing fruit) and turn toward God. The result of this turning away from the dead places in our life, and towards God, empowers the great gardener of our life to prune branches, improve growth, and produce greater spiritual fruit (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="15" data-verses="2" data-lang="en" data-version="NKJV">John 15:2</span>).
 
 
 <!-- p37 -->
-While pruning can feel painful, it reflects God’s loving care as He shapes us into vessels for His purpose (<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="12" data-verses="11" data-lang="en" data-version="NKJV">Hebrews 12:11</span>). Some may feel a sense of loss, even fear, when undergoing the pruning process. However, God is gentle, and even a bruised reed He will not break (<span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="42" data-verses="3" data-lang="en" data-version="NKJV">Isaiah 42:3</span>). Grapevines are pruned during their dormant season to minimize stress on the plant. The gardener tending the growth will cut back old and woody growth that no longer produces fruit like it used to, this allows the vine to direct energy into the branches with the most potential for good fruit.
+While pruning can feel painful, it reflects God’s loving care as He shapes us into vessels for His purpose (<span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="12" data-verses="11" data-lang="en" data-version="NKJV">Hebrews 12:11</span>). Some may feel a sense of loss, even fear, when undergoing the pruning process. However, God is gentle, and even a bruised reed He will not break (<span class="x-scripture" data-type="ref" data-book="ISA" data-chapter="42" data-verses="3" data-lang="en" data-version="NKJV">Isaiah 42:3</span>). Grapevines are pruned during their dormant season to minimize stress on the plant. The gardener tending the growth will cut back old and woody growth that no longer produces fruit like it used to, this allows the vine to direct energy into the branches with the most potential for good fruit.
 
 
 <!-- p38 -->
@@ -177,7 +177,7 @@ Like a gardener trimming branches to direct growth, God may allow seasons of cor
 
 
 <!-- p39 -->
-<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="12" data-verses="11" data-lang="en" data-version="NKJV">Hebrews 12:11</span> reminds us that pruning “*yields the peaceful fruit of righteousness*” to those who are trained by it.
+<span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="12" data-verses="11" data-lang="en" data-version="NKJV">Hebrews 12:11</span> reminds us that pruning “*yields the peaceful fruit of righteousness*” to those who are trained by it.
 
 
 <!-- p40 -->
@@ -186,7 +186,7 @@ How are we trained by righteousness? By being transformed through the renewal of
 
 
 <!-- p41 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="12" data-verses="1-2" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="ROM" data-chapter="12" data-verses="1-2" data-lang="en" data-version="NKJV">
 
 
 <!-- p42 -->
@@ -228,7 +228,7 @@ Our fight against the flesh will not be won by our flesh, but rather by God’s 
 
 
 <!-- p51 -->
-<span class="x-scripture" data-type="quote" data-book="2 Corinthians" data-chapter="10" data-verses="3-6" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="2CO" data-chapter="10" data-verses="3-6" data-lang="en" data-version="NKJV">
 
 
 <!-- p52 -->
@@ -253,7 +253,7 @@ When the authorities arrest some, they place them in shackles and put them in a 
 
 
 <!-- p55 -->
-We are renewed by obedience and experience with truth. Jesus said if we continued in His words, we would be His disciples, experience (<u>know</u>) truth, and that would make us free (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="8" data-verses="31-32" data-lang="en" data-version="NKJV">John 8:31-32</span>)!
+We are renewed by obedience and experience with truth. Jesus said if we continued in His words, we would be His disciples, experience (<u>know</u>) truth, and that would make us free (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="8" data-verses="31-32" data-lang="en" data-version="NKJV">John 8:31-32</span>)!
 
 
 <!-- p56 -->
@@ -261,7 +261,7 @@ The experience of truth is different than the knowledge of truth. Experience is 
 
 
 <!-- p57 -->
-It is not our academic knowledge of truth that transforms us and renews our minds, it is our personal experience of truth. We are sanctified by His truth! (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="17" data-verses="17" data-lang="en" data-version="NKJV">John 17:17</span>).
+It is not our academic knowledge of truth that transforms us and renews our minds, it is our personal experience of truth. We are sanctified by His truth! (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="17" data-verses="17" data-lang="en" data-version="NKJV">John 17:17</span>).
 
 
 <!-- p58 -->
@@ -297,11 +297,11 @@ In the next section I will describe each of the memory systems, their purpose an
 
 
 <!-- p66 -->
-- **Study Scripture** to shape our worldview (<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="119" data-verses="105" data-lang="en" data-version="NKJV">Psalm 119:105</span>).
+- **Study Scripture** to shape our worldview (<span class="x-scripture" data-type="ref" data-book="PSA" data-chapter="119" data-verses="105" data-lang="en" data-version="NKJV">Psalm 119:105</span>).
 
 
 <!-- p67 -->
-- **Memorize truths** and doctrines to stand firm in faith (<span class="x-scripture" data-type="ref" data-book="Colossians" data-chapter="3" data-verses="16" data-lang="en" data-version="NKJV">Colossians 3:16</span>).
+- **Memorize truths** and doctrines to stand firm in faith (<span class="x-scripture" data-type="ref" data-book="COL" data-chapter="3" data-verses="16" data-lang="en" data-version="NKJV">Colossians 3:16</span>).
 
 
 <!-- p68 -->
@@ -317,11 +317,11 @@ In the next section I will describe each of the memory systems, their purpose an
 
 
 <!-- p71 -->
-- **Reflect and confess** to bring hidden pain into God’s light (<span class="x-scripture" data-type="ref" data-book="1 John" data-chapter="1" data-verses="9" data-lang="en" data-version="NKJV">1 John 1:9</span>).
+- **Reflect and confess** to bring hidden pain into God’s light (<span class="x-scripture" data-type="ref" data-book="1JN" data-chapter="1" data-verses="9" data-lang="en" data-version="NKJV">1 John 1:9</span>).
 
 
 <!-- p72 -->
-- **Reframe past experiences** through the lens of God’s grace (<span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="8" data-verses="28" data-lang="en" data-version="NKJV">Romans 8:28</span>).
+- **Reframe past experiences** through the lens of God’s grace (<span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="8" data-verses="28" data-lang="en" data-version="NKJV">Romans 8:28</span>).
 
 
 <!-- p73 -->
@@ -345,11 +345,11 @@ In the next section I will describe each of the memory systems, their purpose an
 
 
 <!-- p78 -->
-- **Practice spiritual disciplines** like prayer and fasting to build godly habits (<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="5" data-verses="14" data-lang="en" data-version="NKJV">Hebrews 5:14</span>).
+- **Practice spiritual disciplines** like prayer and fasting to build godly habits (<span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="5" data-verses="14" data-lang="en" data-version="NKJV">Hebrews 5:14</span>).
 
 
 <!-- p79 -->
-- **Train in godliness** through repetition and obedience (<span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="4" data-verses="7" data-lang="en" data-version="NKJV">1 Timothy 4:7</span>).
+- **Train in godliness** through repetition and obedience (<span class="x-scripture" data-type="ref" data-book="1TI" data-chapter="4" data-verses="7" data-lang="en" data-version="NKJV">1 Timothy 4:7</span>).
 
 
 <!-- p80 -->
@@ -365,15 +365,15 @@ In the next section I will describe each of the memory systems, their purpose an
 
 
 <!-- p83 -->
-- **Pray for healing** from past wounds (<span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="41" data-verses="10" data-lang="en" data-version="NKJV">Isaiah 41:10</span>).
+- **Pray for healing** from past wounds (<span class="x-scripture" data-type="ref" data-book="ISA" data-chapter="41" data-verses="10" data-lang="en" data-version="NKJV">Isaiah 41:10</span>).
 
 
 <!-- p84 -->
-- **Practice forgiveness** and release bitterness (<span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="4" data-verses="31-32" data-lang="en" data-version="NKJV">Ephesians 4:31-32</span>).
+- **Practice forgiveness** and release bitterness (<span class="x-scripture" data-type="ref" data-book="EPH" data-chapter="4" data-verses="31-32" data-lang="en" data-version="NKJV">Ephesians 4:31-32</span>).
 
 
 <!-- p85 -->
-- **Replace fear with God’s promises** (<span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="1" data-verses="7" data-lang="en" data-version="NKJV">2 Timothy 1:7</span>).
+- **Replace fear with God’s promises** (<span class="x-scripture" data-type="ref" data-book="2TI" data-chapter="1" data-verses="7" data-lang="en" data-version="NKJV">2 Timothy 1:7</span>).
 
 
 <!-- p86 -->
@@ -393,11 +393,11 @@ In the next section I will describe each of the memory systems, their purpose an
 
 
 <!-- p90 -->
-- **Focus and meditate** on God’s Word daily (<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="1" data-verses="2" data-lang="en" data-version="NKJV">Psalm 1:2</span>).
+- **Focus and meditate** on God’s Word daily (<span class="x-scripture" data-type="ref" data-book="PSA" data-chapter="1" data-verses="2" data-lang="en" data-version="NKJV">Psalm 1:2</span>).
 
 
 <!-- p91 -->
-- **Renew your thoughts** through intentional thinking (<span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="12" data-verses="2" data-lang="en" data-version="NKJV">Romans 12:2</span>).
+- **Renew your thoughts** through intentional thinking (<span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="12" data-verses="2" data-lang="en" data-version="NKJV">Romans 12:2</span>).
 
 
 <!-- p92 -->
@@ -413,11 +413,11 @@ In the next section I will describe each of the memory systems, their purpose an
 
 
 <!-- p95 -->
-Renewing the mind isn’t a quick fix-it’s a process of gradual transformation that is lifelong. Each memory system plays a role in shaping how we think, feel, and act. By intentionally working with the Holy Spirit, applying Scripture, and developing godly habits, we can train our minds to align with God’s truth. Whether addressing past wounds, learning new habits, or staying focused in the moment, God has provided both **spiritual tools** and **practical wisdom** to help us walk in renewal and freedom (<span class="x-scripture" data-type="ref" data-book="2 Corinthians" data-chapter="10" data-verses="5" data-lang="en" data-version="NKJV">2 Corinthians 10:5</span>).
+Renewing the mind isn’t a quick fix-it’s a process of gradual transformation that is lifelong. Each memory system plays a role in shaping how we think, feel, and act. By intentionally working with the Holy Spirit, applying Scripture, and developing godly habits, we can train our minds to align with God’s truth. Whether addressing past wounds, learning new habits, or staying focused in the moment, God has provided both **spiritual tools** and **practical wisdom** to help us walk in renewal and freedom (<span class="x-scripture" data-type="ref" data-book="2CO" data-chapter="10" data-verses="5" data-lang="en" data-version="NKJV">2 Corinthians 10:5</span>).
 
 
 <!-- p96 -->
-Our world is full of trouble, tribulation, and trial. Through the disciplined renewing of the mind, our souls become transformed, and we can live a life of freedom unto God full of the fruit of His Spirit (<span class="x-scripture" data-type="ref" data-book="Galatians" data-chapter="5" data-verses="22-25" data-lang="en" data-version="NKJV">Galatians 5:22-25</span>).
+Our world is full of trouble, tribulation, and trial. Through the disciplined renewing of the mind, our souls become transformed, and we can live a life of freedom unto God full of the fruit of His Spirit (<span class="x-scripture" data-type="ref" data-book="GAL" data-chapter="5" data-verses="22-25" data-lang="en" data-version="NKJV">Galatians 5:22-25</span>).
 
 
 <!-- p97 -->
@@ -453,7 +453,7 @@ The description of the memory systems contained in this chapter is borrowed from
 
 
 <!-- p105 -->
-6.  Where do you need renewal today? Start by identifying the areas where your mind feels stuck and trust that God will finish the good work He began in you (<span class="x-scripture" data-type="ref" data-book="Philippians" data-chapter="1" data-verses="6" data-lang="en" data-version="NKJV">Philippians 1:6</span>).
+6.  Where do you need renewal today? Start by identifying the areas where your mind feels stuck and trust that God will finish the good work He began in you (<span class="x-scripture" data-type="ref" data-book="PHP" data-chapter="1" data-verses="6" data-lang="en" data-version="NKJV">Philippians 1:6</span>).
 
 
 <!-- p106 -->
@@ -465,11 +465,11 @@ The description of the memory systems contained in this chapter is borrowed from
 
 
 <!-- p108 -->
-2.  **Exploring Scripture:** Read <span class="x-scripture" data-type="ref" data-book="John" data-chapter="15" data-verses="1-5" data-lang="en" data-version="NKJV">John 15:1-5</span>. How does the image of pruning and bearing fruit help us understand sanctification?
+2.  **Exploring Scripture:** Read <span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="15" data-verses="1-5" data-lang="en" data-version="NKJV">John 15:1-5</span>. How does the image of pruning and bearing fruit help us understand sanctification?
 
 
 <!-- p109 -->
-3.  **Renewing the Mind:** Discuss <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="12" data-verses="2" data-lang="en" data-version="NKJV">Romans 12:2</span>. What does it mean to “renew your mind,” and how does this relate to sanctification?
+3.  **Renewing the Mind:** Discuss <span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="12" data-verses="2" data-lang="en" data-version="NKJV">Romans 12:2</span>. What does it mean to “renew your mind,” and how does this relate to sanctification?
 
 
 <!-- p110 -->

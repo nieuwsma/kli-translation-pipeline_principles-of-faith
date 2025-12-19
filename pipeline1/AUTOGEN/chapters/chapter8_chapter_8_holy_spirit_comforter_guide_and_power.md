@@ -1,7 +1,7 @@
 # Chapter 8 - Holy Spirit-Comforter, Guide, and Power
 
 <!-- p1 -->
-The Holy Spirit is not a new spirit but is of God and has been with God since the very beginning. In <span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="1" data-verses="2" data-lang="en" data-version="NKJV">Genesis 1:2</span> the Spirit of God is hovering on the waters during creation. In <span class="x-scripture" data-type="ref" data-book="Nehemiah" data-chapter="9" data-verses="20" data-lang="en" data-version="NKJV">Nehemiah 9:20</span>, the scriptures say that it was the Spirit who instructed the people in the wilderness. It was by this same Holy Spirit that God anointed the kings, judges, and prophets in the Old Testament. In <span class="x-scripture" data-type="ref" data-book="Joel" data-chapter="2" data-verses="28-29" data-lang="en" data-version="NKJV">Joel 2:28-29</span> the Spirit is promised to be poured out on all mankind. It was by this same Holy Spirit that God raised Jesus from the dead, and now dwells in us (<span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="8" data-verses="11" data-lang="en" data-version="NKJV">Romans 8:11</span>). There is only one Holy Spirit, and He has always been the same. How He works with people has looked different at different times, but His heart has never changed.
+The Holy Spirit is not a new spirit but is of God and has been with God since the very beginning. In <span class="x-scripture" data-type="ref" data-book="GEN" data-chapter="1" data-verses="2" data-lang="en" data-version="NKJV">Genesis 1:2</span> the Spirit of God is hovering on the waters during creation. In <span class="x-scripture" data-type="ref" data-book="NEH" data-chapter="9" data-verses="20" data-lang="en" data-version="NKJV">Nehemiah 9:20</span>, the scriptures say that it was the Spirit who instructed the people in the wilderness. It was by this same Holy Spirit that God anointed the kings, judges, and prophets in the Old Testament. In <span class="x-scripture" data-type="ref" data-book="JOL" data-chapter="2" data-verses="28-29" data-lang="en" data-version="NKJV">Joel 2:28-29</span> the Spirit is promised to be poured out on all mankind. It was by this same Holy Spirit that God raised Jesus from the dead, and now dwells in us (<span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="8" data-verses="11" data-lang="en" data-version="NKJV">Romans 8:11</span>). There is only one Holy Spirit, and He has always been the same. How He works with people has looked different at different times, but His heart has never changed.
 
 
 <!-- p2 -->
@@ -10,7 +10,7 @@ Jesus gave His disciples, and all of us, the powerful promise of the Holy Spirit
 
 
 <!-- p3 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="14" data-verses="16-18" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JHN" data-chapter="14" data-verses="16-18" data-lang="en" data-version="NKJV">
 
 
 <!-- p4 -->
@@ -27,7 +27,7 @@ While Jesus walked the earth in His physical body, He was limited as we are, His
 
 
 <!-- p7 -->
-For the work of the Father to be multiplied Jesus needed to raise up disciples, and for them to carry on this work. Jesus knew that a crucial aspect of His ministry on the earth depended upon Him connecting with and abiding with His Father. In fact, Jesus said He could do nothing unless His Father did it through Him and showed Him to do it (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="5" data-verses="19" data-lang="en" data-version="NKJV">John 5:19</span>). God in His wisdom sent His Holy Spirit to dwell within us, to lead us and guide us, empowering us to do the work of the Father.
+For the work of the Father to be multiplied Jesus needed to raise up disciples, and for them to carry on this work. Jesus knew that a crucial aspect of His ministry on the earth depended upon Him connecting with and abiding with His Father. In fact, Jesus said He could do nothing unless His Father did it through Him and showed Him to do it (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="5" data-verses="19" data-lang="en" data-version="NKJV">John 5:19</span>). God in His wisdom sent His Holy Spirit to dwell within us, to lead us and guide us, empowering us to do the work of the Father.
 
 
 <!-- p8 -->
@@ -40,7 +40,7 @@ Jesus said:
 
 
 <!-- p10 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="16" data-verses="7" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JHN" data-chapter="16" data-verses="7" data-lang="en" data-version="NKJV">
 
 
 <!-- p11 -->
@@ -53,24 +53,24 @@ Jesus said:
 
 
 <!-- p13 -->
-After Jesus was crucified, His death made it possible for God’s Spirit to dwell inside us. Until that point, God's tangible Spirit was mostly contained behind a thick veil in the temple. From time to time, select individuals were chosen by God and anointed (consecrated and set apart for unique service), and received the Holy Spirit upon them. God’s anointing and the Spirit upon them, was special, temporary, and conditional. David prayed after his sin with Bathsheba ‘*Take not your Holy Spirit from me!*’ (<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="51" data-verses="11" data-lang="en" data-version="NKJV">Psalm 51:11</span>), because David had seen the Spirit lift off King Saul for his acts of disobedience.
+After Jesus was crucified, His death made it possible for God’s Spirit to dwell inside us. Until that point, God's tangible Spirit was mostly contained behind a thick veil in the temple. From time to time, select individuals were chosen by God and anointed (consecrated and set apart for unique service), and received the Holy Spirit upon them. God’s anointing and the Spirit upon them, was special, temporary, and conditional. David prayed after his sin with Bathsheba ‘*Take not your Holy Spirit from me!*’ (<span class="x-scripture" data-type="ref" data-book="PSA" data-chapter="51" data-verses="11" data-lang="en" data-version="NKJV">Psalm 51:11</span>), because David had seen the Spirit lift off King Saul for his acts of disobedience.
 
 
 <!-- p14 -->
-We (Mankind) could not receive the Holy Spirit inside us because of our sinful nature, but when Jesus dealt with the sin issue through His sacrifice, it made a way through faith that we might become children and heirs of God (<span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="8" data-verses="17" data-lang="en" data-version="NKJV">Romans 8:17</span>).
+We (Mankind) could not receive the Holy Spirit inside us because of our sinful nature, but when Jesus dealt with the sin issue through His sacrifice, it made a way through faith that we might become children and heirs of God (<span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="8" data-verses="17" data-lang="en" data-version="NKJV">Romans 8:17</span>).
 
 
 <!-- p15 -->
-In John 20, after His resurrection, Jesus appears to His disciples in the middle of a locked room and breathes on them saying ‘*Receive the Holy Spirit*’ (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="20" data-verses="22" data-lang="en" data-version="NKJV">John 20:22</span>). The theology is somewhat debated on precisely what occurred at that moment, but most Pentecostal interpretations view this as the disciples receiving the Spirit of God inside them, signifying the new birth, being born-again. This was not, however when they received the Spirit of God upon them, empowering them with boldness for ministry. This was when they received the Holy Spirit within them, allowing them to abide and commune with God. This will be discussed at greater depth later in this chapter as well as the chapters on sanctification and baptism.
+In John 20, after His resurrection, Jesus appears to His disciples in the middle of a locked room and breathes on them saying ‘*Receive the Holy Spirit*’ (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="20" data-verses="22" data-lang="en" data-version="NKJV">John 20:22</span>). The theology is somewhat debated on precisely what occurred at that moment, but most Pentecostal interpretations view this as the disciples receiving the Spirit of God inside them, signifying the new birth, being born-again. This was not, however when they received the Spirit of God upon them, empowering them with boldness for ministry. This was when they received the Holy Spirit within them, allowing them to abide and commune with God. This will be discussed at greater depth later in this chapter as well as the chapters on sanctification and baptism.
 
 
 <!-- p16 -->
-Later at the conclusion of the 40-day period between resurrection and ascension (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="1" data-verses="3" data-lang="en" data-version="NKJV">Acts 1:3</span>), Jesus gives the promise of the Holy Spirit:
+Later at the conclusion of the 40-day period between resurrection and ascension (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="1" data-verses="3" data-lang="en" data-version="NKJV">Acts 1:3</span>), Jesus gives the promise of the Holy Spirit:
 
 
 
 <!-- p17 -->
-<span class="x-scripture" data-type="quote" data-book="Acts" data-chapter="1" data-verses="4-9" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="ACT" data-chapter="1" data-verses="4-9" data-lang="en" data-version="NKJV">
 
 
 <!-- p18 -->
@@ -119,31 +119,31 @@ The Spirit of:
 
 
 <!-- p26 -->
-- **Truth** - <span class="x-scripture" data-type="ref" data-book="John" data-chapter="14" data-verses="17" data-lang="en" data-version="NKJV">John 14:17</span>, <span class="x-scripture" data-type="ref" data-book="John" data-chapter="16" data-verses="13" data-lang="en" data-version="NKJV">John 16:13</span> Refers to the Spirit's role in guiding believers into all truth, revealing God's will and the reality of Christ.
+- **Truth** - <span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="14" data-verses="17" data-lang="en" data-version="NKJV">John 14:17</span>, <span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="16" data-verses="13" data-lang="en" data-version="NKJV">John 16:13</span> Refers to the Spirit's role in guiding believers into all truth, revealing God's will and the reality of Christ.
 
 
 <!-- p27 -->
-- **Life** - <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="8" data-verses="2" data-lang="en" data-version="NKJV">Romans 8:2</span>, <span class="x-scripture" data-type="ref" data-book="Galatians" data-chapter="6" data-verses="8" data-lang="en" data-version="NKJV">Galatians 6:8</span> Highlights the Spirit's role in imparting spiritual and eternal life to believers, freeing them from the law of sin and death.
+- **Life** - <span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="8" data-verses="2" data-lang="en" data-version="NKJV">Romans 8:2</span>, <span class="x-scripture" data-type="ref" data-book="GAL" data-chapter="6" data-verses="8" data-lang="en" data-version="NKJV">Galatians 6:8</span> Highlights the Spirit's role in imparting spiritual and eternal life to believers, freeing them from the law of sin and death.
 
 
 <!-- p28 -->
-- **Grace** - <span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="10" data-verses="29" data-lang="en" data-version="NKJV">Hebrews 10:29</span>, <span class="x-scripture" data-type="ref" data-book="Zechariah" data-chapter="12" data-verses="10" data-lang="en" data-version="NKJV">Zechariah 12:10</span> Reflects the Spirit's work in dispensing God's favor, forgiveness, and undeserved kindness to humanity.
+- **Grace** - <span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="10" data-verses="29" data-lang="en" data-version="NKJV">Hebrews 10:29</span>, <span class="x-scripture" data-type="ref" data-book="ZEC" data-chapter="12" data-verses="10" data-lang="en" data-version="NKJV">Zechariah 12:10</span> Reflects the Spirit's work in dispensing God's favor, forgiveness, and undeserved kindness to humanity.
 
 
 <!-- p29 -->
-- **Glory** - <span class="x-scripture" data-type="ref" data-book="1 Peter" data-chapter="4" data-verses="14" data-lang="en" data-version="NKJV">1 Peter 4:14</span> Indicates the Spirit's role in revealing and manifesting God's glory, particularly in times of suffering and persecution.
+- **Glory** - <span class="x-scripture" data-type="ref" data-book="1PE" data-chapter="4" data-verses="14" data-lang="en" data-version="NKJV">1 Peter 4:14</span> Indicates the Spirit's role in revealing and manifesting God's glory, particularly in times of suffering and persecution.
 
 
 <!-- p30 -->
-- **Adoption** - <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="8" data-verses="15" data-lang="en" data-version="NKJV">Romans 8:15</span>, <span class="x-scripture" data-type="ref" data-book="Galatians" data-chapter="4" data-verses="5" data-lang="en" data-version="NKJV">Galatians 4:5</span> Refers to the Spirit's work in making believers children of God, granting them the status of sons and daughters.
+- **Adoption** - <span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="8" data-verses="15" data-lang="en" data-version="NKJV">Romans 8:15</span>, <span class="x-scripture" data-type="ref" data-book="GAL" data-chapter="4" data-verses="5" data-lang="en" data-version="NKJV">Galatians 4:5</span> Refers to the Spirit's work in making believers children of God, granting them the status of sons and daughters.
 
 
 <!-- p31 -->
-- **Holiness** - <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="1" data-verses="4" data-lang="en" data-version="NKJV">Romans 1:4</span> Points to the Spirit's sanctifying work, setting apart believers for God's purposes.
+- **Holiness** - <span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="1" data-verses="4" data-lang="en" data-version="NKJV">Romans 1:4</span> Points to the Spirit's sanctifying work, setting apart believers for God's purposes.
 
 
 <!-- p32 -->
-- **Power** - <span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="1" data-verses="7" data-lang="en" data-version="NKJV">2 Timothy 1:7</span>, <span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="1" data-verses="8" data-lang="en" data-version="NKJV">Acts 1:8</span> Describes the Spirit's empowerment of believers for boldness, ministry, and the ability to live out their faith effectively.
+- **Power** - <span class="x-scripture" data-type="ref" data-book="2TI" data-chapter="1" data-verses="7" data-lang="en" data-version="NKJV">2 Timothy 1:7</span>, <span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="1" data-verses="8" data-lang="en" data-version="NKJV">Acts 1:8</span> Describes the Spirit's empowerment of believers for boldness, ministry, and the ability to live out their faith effectively.
 
 
 <!-- p33 -->
@@ -171,7 +171,7 @@ The Holy Spirit has several distinct purposes and roles in His ministry. His wor
 
 
 <!-- p39 -->
-Before Jesus did any miracles or launched His public ministry, He was baptized by John the Baptist and God's Spirit descended upon him, and a voice from heaven proclaimed, ‘This is my beloved Son in whom I am well pleased’ (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="3" data-verses="17" data-lang="en" data-version="NKJV">Matthew 3:17</span>).
+Before Jesus did any miracles or launched His public ministry, He was baptized by John the Baptist and God's Spirit descended upon him, and a voice from heaven proclaimed, ‘This is my beloved Son in whom I am well pleased’ (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="3" data-verses="17" data-lang="en" data-version="NKJV">Matthew 3:17</span>).
 
 
 <!-- p40 -->
@@ -180,7 +180,7 @@ When we accept Jesus by faith, we receive salvation and the seal of the Holy Spi
 
 
 <!-- p41 -->
-<span class="x-scripture" data-type="quote" data-book="Ephesians" data-chapter="1" data-verses="13-14" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="EPH" data-chapter="1" data-verses="13-14" data-lang="en" data-version="NKJV">
 
 
 <!-- p42 -->
@@ -193,11 +193,11 @@ When we accept Jesus by faith, we receive salvation and the seal of the Holy Spi
 
 
 <!-- p44 -->
-This seal is not metaphorical but is literal. It serves as a sign of our redemption and is a down payment on the full inheritance we receive as children of God. Romans 8 describes that through the new birth we receive the same exact Spirit of God that raised Christ from the dead in our mortal bodies and we become the literal temple of the Holy Spirit (<span class="x-scripture" data-type="ref" data-book="2 Corinthians" data-chapter="6" data-verses="16" data-lang="en" data-version="NKJV">2 Corinthians 6:16</span>).
+This seal is not metaphorical but is literal. It serves as a sign of our redemption and is a down payment on the full inheritance we receive as children of God. Romans 8 describes that through the new birth we receive the same exact Spirit of God that raised Christ from the dead in our mortal bodies and we become the literal temple of the Holy Spirit (<span class="x-scripture" data-type="ref" data-book="2CO" data-chapter="6" data-verses="16" data-lang="en" data-version="NKJV">2 Corinthians 6:16</span>).
 
 
 <!-- p45 -->
-This receiving of God's Spirit transforms us, and it causes rivers of living water to flow from us (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="7" data-verses="38" data-lang="en" data-version="NKJV">John 7:38</span>). This renewal is immediate and complete but continues through our entire lives. The river of the Holy Spirit should never stop flowing in our lives!
+This receiving of God's Spirit transforms us, and it causes rivers of living water to flow from us (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="7" data-verses="38" data-lang="en" data-version="NKJV">John 7:38</span>). This renewal is immediate and complete but continues through our entire lives. The river of the Holy Spirit should never stop flowing in our lives!
 
 
 <!-- p46 -->
@@ -213,24 +213,24 @@ There is much more to say about the inward work of the Holy Spirit and His role 
 
 
 <!-- p49 -->
-The Holy Spirit is from God and is of God. As Jesus said He did nothing except the father show Him (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="5" data-verses="19" data-lang="en" data-version="NKJV">John 5:19</span>), the Holy Spirit too does nothing unless it's directed from the father. Because the Holy Spirit is the helper, He does not work on His own accord, but works in perfect harmony with the father.
+The Holy Spirit is from God and is of God. As Jesus said He did nothing except the father show Him (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="5" data-verses="19" data-lang="en" data-version="NKJV">John 5:19</span>), the Holy Spirit too does nothing unless it's directed from the father. Because the Holy Spirit is the helper, He does not work on His own accord, but works in perfect harmony with the father.
 
 
 <!-- p50 -->
-The Spirit testifies of Jesus (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="15" data-verses="26" data-lang="en" data-version="NKJV">John 15:26</span>), glorifies Jesus, and announces and declares what Jesus has for us (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="16" data-verses="14" data-lang="en" data-version="NKJV">John 16:14</span>).
+The Spirit testifies of Jesus (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="15" data-verses="26" data-lang="en" data-version="NKJV">John 15:26</span>), glorifies Jesus, and announces and declares what Jesus has for us (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="16" data-verses="14" data-lang="en" data-version="NKJV">John 16:14</span>).
 
 
 <!-- p51 -->
-The Holy Spirit will testify of Jesus, glorify him, teach, and bring to our remembrance the teaching of Jesus (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="14" data-verses="26" data-lang="en" data-version="NKJV">John 14:26</span>), and guide us into all truth (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="16" data-verses="13" data-lang="en" data-version="NKJV">John 16:13</span>). Jesus told His disciples that He had much more to teach them, but they could not yet bear it, but that the Holy Spirit would guide them into all truth. This is another nuanced point in theology. These teachings that Jesus needed His disciples to know were communicated in several ways. Jesus taught them in person both before his crucifixion, as well as after the resurrection and before His ascension.
+The Holy Spirit will testify of Jesus, glorify him, teach, and bring to our remembrance the teaching of Jesus (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="14" data-verses="26" data-lang="en" data-version="NKJV">John 14:26</span>), and guide us into all truth (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="16" data-verses="13" data-lang="en" data-version="NKJV">John 16:13</span>). Jesus told His disciples that He had much more to teach them, but they could not yet bear it, but that the Holy Spirit would guide them into all truth. This is another nuanced point in theology. These teachings that Jesus needed His disciples to know were communicated in several ways. Jesus taught them in person both before his crucifixion, as well as after the resurrection and before His ascension.
 
 
 <!-- p52 -->
-Jesus also promised that the Spirit of Truth, that was poured out upon them on the day of Pentecost would lead them into all truth through divine revelation. Is there still divine revelation today? **Certainly yes!** The gifts of the Holy Spirit, including prophecy and words of knowledge and wisdom have not yet ceased! However, no prophecy or word from a spirit is of private interpretation (<span class="x-scripture" data-type="ref" data-book="2 Peter" data-chapter="1" data-verses="20" data-lang="en" data-version="NKJV">2 Peter 1:20</span>). This is crucial. Some people will claim in error they are listening to the Holy Spirit, but their actions and words do not testify of Jesus. <span class="x-scripture" data-type="ref" data-book="1 John" data-chapter="4" data-verses="3" data-lang="en" data-version="NKJV">1 John 4:3</span> warns against any Spirit that does not testify of Jesus, saying that spirit is of the antichrist. This bears repeating, if any spirit strays from the teaching of Christ it is not the Holy Spirit, but a profane one!
+Jesus also promised that the Spirit of Truth, that was poured out upon them on the day of Pentecost would lead them into all truth through divine revelation. Is there still divine revelation today? **Certainly yes!** The gifts of the Holy Spirit, including prophecy and words of knowledge and wisdom have not yet ceased! However, no prophecy or word from a spirit is of private interpretation (<span class="x-scripture" data-type="ref" data-book="2PE" data-chapter="1" data-verses="20" data-lang="en" data-version="NKJV">2 Peter 1:20</span>). This is crucial. Some people will claim in error they are listening to the Holy Spirit, but their actions and words do not testify of Jesus. <span class="x-scripture" data-type="ref" data-book="1JN" data-chapter="4" data-verses="3" data-lang="en" data-version="NKJV">1 John 4:3</span> warns against any Spirit that does not testify of Jesus, saying that spirit is of the antichrist. This bears repeating, if any spirit strays from the teaching of Christ it is not the Holy Spirit, but a profane one!
 
 
 
 <!-- p53 -->
-<span class="x-scripture" data-type="quote" data-book="1 John" data-chapter="4" data-verses="1" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="1JN" data-chapter="4" data-verses="1" data-lang="en" data-version="NKJV">
 
 
 <!-- p54 -->
@@ -243,7 +243,7 @@ Jesus also promised that the Spirit of Truth, that was poured out upon them on t
 
 
 <!-- p56 -->
-Throughout Scripture, we see examples of claims made in error, often by false prophets or well-meaning individuals who spoke contrary to God’s will. For instance, Jeremiah warned against prophets who spoke visions of their own minds, claiming peace while destruction loomed (<span class="x-scripture" data-type="ref" data-book="Jeremiah" data-chapter="23" data-verses="16-17" data-lang="en" data-version="NKJV">Jeremiah 23:16-17</span>). Similarly, in <span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="16" data-verses="16-18" data-lang="en" data-version="NKJV">Acts 16:16-18</span>, a slave girl’s words about Paul and Silas were accurate but inspired by a demonic spirit, not the Holy Spirit. These examples remind us that even words that seem true can originate from ungodly sources.
+Throughout Scripture, we see examples of claims made in error, often by false prophets or well-meaning individuals who spoke contrary to God’s will. For instance, Jeremiah warned against prophets who spoke visions of their own minds, claiming peace while destruction loomed (<span class="x-scripture" data-type="ref" data-book="JER" data-chapter="23" data-verses="16-17" data-lang="en" data-version="NKJV">Jeremiah 23:16-17</span>). Similarly, in <span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="16" data-verses="16-18" data-lang="en" data-version="NKJV">Acts 16:16-18</span>, a slave girl’s words about Paul and Silas were accurate but inspired by a demonic spirit, not the Holy Spirit. These examples remind us that even words that seem true can originate from ungodly sources.
 
 
 <!-- p57 -->
@@ -267,7 +267,7 @@ By applying these tests, we can distinguish the true guidance of the Holy Spirit
 
 
 <!-- p62 -->
-God is in the habit of providing us with ample & abundant wisdom and direction (<span class="x-scripture" data-type="ref" data-book="James" data-chapter="1" data-verses="5" data-lang="en" data-version="NKJV">James 1:5</span> & <span class="x-scripture" data-type="ref" data-book="Jeremiah" data-chapter="33" data-verses="3" data-lang="en" data-version="NKJV">Jeremiah 33:3</span>). God’s divine wisdom will not violate the scriptures, but they will go beyond the scope of the scriptures. His *entolē* *(*commandments*)* are immediate prescriptions to be obeyed, they are *rhema* words (as discussed in the chapter on faith).
+God is in the habit of providing us with ample & abundant wisdom and direction (<span class="x-scripture" data-type="ref" data-book="JAS" data-chapter="1" data-verses="5" data-lang="en" data-version="NKJV">James 1:5</span> & <span class="x-scripture" data-type="ref" data-book="JER" data-chapter="33" data-verses="3" data-lang="en" data-version="NKJV">Jeremiah 33:3</span>). God’s divine wisdom will not violate the scriptures, but they will go beyond the scope of the scriptures. His *entolē* *(*commandments*)* are immediate prescriptions to be obeyed, they are *rhema* words (as discussed in the chapter on faith).
 
 
 <!-- p63 -->
@@ -284,7 +284,7 @@ Jesus gave us His mission, the Great Commission:
 
 
 <!-- p66 -->
-<span class="x-scripture" data-type="quote" data-book="Matthew" data-chapter="28" data-verses="18-20" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="MAT" data-chapter="28" data-verses="18-20" data-lang="en" data-version="NKJV">
 
 
 <!-- p67 -->
@@ -302,7 +302,7 @@ The Holy Spirit has an integral part in the mission, convicting the world of sin
 
 
 <!-- p70 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="16" data-verses="8-11" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JHN" data-chapter="16" data-verses="8-11" data-lang="en" data-version="NKJV">
 
 
 <!-- p71 -->
@@ -336,7 +336,7 @@ The Holy Spirit also empowers the mission. The Holy Spirit gives believers the p
 
 
 <!-- p78 -->
-<span class="x-scripture" data-type="quote" data-book="Acts" data-chapter="1" data-verses="8" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="ACT" data-chapter="1" data-verses="8" data-lang="en" data-version="NKJV">
 
 
 <!-- p79 -->
@@ -382,7 +382,7 @@ God knew that this opposition would occur, Jesus prophesied concerning it:
 
 
 <!-- p89 -->
-<span class="x-scripture" data-type="quote" data-book="Luke" data-chapter="12" data-verses="11-12" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="LUK" data-chapter="12" data-verses="11-12" data-lang="en" data-version="NKJV">
 
 
 <!-- p90 -->
@@ -400,7 +400,7 @@ Do not fear! Jesus promised us that:
 
 
 <!-- p93 -->
-<span class="x-scripture" data-type="fragment" data-book="Matthew" data-chapter="16" data-verses="18" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="fragment" data-book="MAT" data-chapter="16" data-verses="18" data-lang="en" data-version="NKJV">
 
 
 <!-- p94 -->
@@ -417,11 +417,11 @@ This is an amazing and comforting promise. Gates are fixed defensive armaments. 
 
 
 <!-- p97 -->
-The Holy Spirit brings supernatural boldness to proclaim the witness of the Gospel in the face of persecution. The outcome of this empowerment can be described, but it's best experienced. It’s a supernatural (greater than human) boldness that motivates believers to share. This boldness of preaching is often accompanied by supernatural acts of demonstration of the Spirit and of power (<span class="x-scripture" data-type="ref" data-book="1 Corinthians" data-chapter="2" data-verses="1-5" data-lang="en" data-version="NKJV">1 Corinthians 2:1-5</span>). People are healed physically and emotionally, the dead raised, those tormented by evil spirits are set free, people with hard hearts turn and repent.
+The Holy Spirit brings supernatural boldness to proclaim the witness of the Gospel in the face of persecution. The outcome of this empowerment can be described, but it's best experienced. It’s a supernatural (greater than human) boldness that motivates believers to share. This boldness of preaching is often accompanied by supernatural acts of demonstration of the Spirit and of power (<span class="x-scripture" data-type="ref" data-book="1CO" data-chapter="2" data-verses="1-5" data-lang="en" data-version="NKJV">1 Corinthians 2:1-5</span>). People are healed physically and emotionally, the dead raised, those tormented by evil spirits are set free, people with hard hearts turn and repent.
 
 
 <!-- p98 -->
-Jesus said these works and greater would we do! (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="14" data-verses="12" data-lang="en" data-version="NKJV">John 14:12</span>). These collective works are supernatural, divine, and desperately needed in a world tearing itself apart, miserable, full of pain, waiting for the mature sons of God to be made clearly manifest! (<span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="8" data-verses="22-23" data-lang="en" data-version="NKJV">Romans 8:22-23</span>)
+Jesus said these works and greater would we do! (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="14" data-verses="12" data-lang="en" data-version="NKJV">John 14:12</span>). These collective works are supernatural, divine, and desperately needed in a world tearing itself apart, miserable, full of pain, waiting for the mature sons of God to be made clearly manifest! (<span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="8" data-verses="22-23" data-lang="en" data-version="NKJV">Romans 8:22-23</span>)
 
 
 <!-- p99 -->
@@ -493,7 +493,7 @@ Well in all effective relationships you speak for a bit, then you pause and list
 
 
 <!-- p116 -->
-God speaks in many ways, but He wants to do it personally, and internally. It will likely not be an audible voice (like if your best friend was to say your name aloud) but it will be an internal voice that speaks to your heart and mind. Elijah refers to this as the ‘still small voice’ (<span class="x-scripture" data-type="ref" data-book="1 Kings" data-chapter="19" data-verses="11-13" data-lang="en" data-version="NKJV">1 Kings 19:11-13</span>).
+God speaks in many ways, but He wants to do it personally, and internally. It will likely not be an audible voice (like if your best friend was to say your name aloud) but it will be an internal voice that speaks to your heart and mind. Elijah refers to this as the ‘still small voice’ (<span class="x-scripture" data-type="ref" data-book="1KI" data-chapter="19" data-verses="11-13" data-lang="en" data-version="NKJV">1 Kings 19:11-13</span>).
 
 
 <!-- p117 -->
@@ -549,7 +549,7 @@ The Holy Spirit is the Helper. The Helper helps us! The work goes much more smoo
 
 
 <!-- p130 -->
-We serve a God who wants to communicate with us. Jesus said that His sheep know His voice (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="10" data-verses="27" data-lang="en" data-version="NKJV">John 10:27</span>), we have built into us all already the natural abilities we need, but we may lack experienced proficiency.
+We serve a God who wants to communicate with us. Jesus said that His sheep know His voice (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="10" data-verses="27" data-lang="en" data-version="NKJV">John 10:27</span>), we have built into us all already the natural abilities we need, but we may lack experienced proficiency.
 
 
 <!-- p131 -->
@@ -601,7 +601,7 @@ Our discussion on the work of the Holy Spirit is not finished in this chapter. H
 
 
 <!-- p143 -->
-2.  **Exploring Scripture:** Read <span class="x-scripture" data-type="ref" data-book="John" data-chapter="14" data-verses="26" data-lang="en" data-version="NKJV">John 14:26</span>. How does the Holy Spirit’s role as Teacher and Helper encourage you in your faith journey?
+2.  **Exploring Scripture:** Read <span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="14" data-verses="26" data-lang="en" data-version="NKJV">John 14:26</span>. How does the Holy Spirit’s role as Teacher and Helper encourage you in your faith journey?
 
 
 <!-- p144 -->

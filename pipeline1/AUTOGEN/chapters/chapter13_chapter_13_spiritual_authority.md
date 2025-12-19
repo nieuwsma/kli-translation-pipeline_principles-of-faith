@@ -6,7 +6,7 @@ Jesus is the ultimate and complete source of spiritual authority. As the triumph
 
 
 <!-- p2 -->
-<span class="x-scripture" data-type="quote" data-book="Matthew" data-chapter="28" data-verses="18-20" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="MAT" data-chapter="28" data-verses="18-20" data-lang="en" data-version="NKJV">
 
 
 <!-- p3 -->
@@ -96,7 +96,7 @@ As Jesus said in Matthew, ‘All authority’ has been given. Let's look at prec
 
 
 <!-- p24 -->
-<span class="x-scripture" data-type="quote" data-book="Matthew" data-chapter="28" data-verses="18" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="MAT" data-chapter="28" data-verses="18" data-lang="en" data-version="NKJV">
 
 
 <!-- p25 -->
@@ -109,7 +109,7 @@ As Jesus said in Matthew, ‘All authority’ has been given. Let's look at prec
 
 
 <!-- p27 -->
-Christ’s authority extends to everything in creation, including the physical and spiritual realms. This authority establishes His sovereign rule as King of kings and Lord of lords (<span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="19" data-verses="16" data-lang="en" data-version="NKJV">Revelation 19:16</span>). It forms the foundation for the Great Commission, empowering believers to spread the Gospel.
+Christ’s authority extends to everything in creation, including the physical and spiritual realms. This authority establishes His sovereign rule as King of kings and Lord of lords (<span class="x-scripture" data-type="ref" data-book="REV" data-chapter="19" data-verses="16" data-lang="en" data-version="NKJV">Revelation 19:16</span>). It forms the foundation for the Great Commission, empowering believers to spread the Gospel.
 
 
 <!-- p28 -->
@@ -118,7 +118,7 @@ Christ’s authority extends to everything in creation, including the physical a
 
 
 <!-- p29 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="10" data-verses="17-18" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JHN" data-chapter="10" data-verses="17-18" data-lang="en" data-version="NKJV">
 
 
 <!-- p30 -->
@@ -131,7 +131,7 @@ Christ’s authority extends to everything in creation, including the physical a
 
 
 <!-- p32 -->
-Jesus has complete control over life and death, demonstrated in His death and resurrection. He holds the key to eternal life, offering victory over death and fear for those who believe (<span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="1" data-verses="10" data-lang="en" data-version="NKJV">2 Timothy 1:10</span>).
+Jesus has complete control over life and death, demonstrated in His death and resurrection. He holds the key to eternal life, offering victory over death and fear for those who believe (<span class="x-scripture" data-type="ref" data-book="2TI" data-chapter="1" data-verses="10" data-lang="en" data-version="NKJV">2 Timothy 1:10</span>).
 
 
 <!-- p33 -->
@@ -140,7 +140,7 @@ Jesus has complete control over life and death, demonstrated in His death and re
 
 
 <!-- p34 -->
-<span class="x-scripture" data-type="fragment" data-book="Mark" data-chapter="2" data-verses="10" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="fragment" data-book="MRK" data-chapter="2" data-verses="10" data-lang="en" data-version="NKJV">
 
 
 <!-- p35 -->
@@ -153,7 +153,7 @@ Jesus has complete control over life and death, demonstrated in His death and re
 
 
 <!-- p37 -->
-Christ has the authority to forgive sins, reconciling humanity to God through His atoning sacrifice. This authority demonstrates His divine nature and role as the Savior (<span class="x-scripture" data-type="ref" data-book="1 John" data-chapter="2" data-verses="2" data-lang="en" data-version="NKJV">1 John 2:2</span>).
+Christ has the authority to forgive sins, reconciling humanity to God through His atoning sacrifice. This authority demonstrates His divine nature and role as the Savior (<span class="x-scripture" data-type="ref" data-book="1JN" data-chapter="2" data-verses="2" data-lang="en" data-version="NKJV">1 John 2:2</span>).
 
 
 <!-- p38 -->
@@ -162,7 +162,7 @@ Christ has the authority to forgive sins, reconciling humanity to God through Hi
 
 
 <!-- p39 -->
-<span class="x-scripture" data-type="quote" data-book="Luke" data-chapter="10" data-verses="19" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="LUK" data-chapter="10" data-verses="19" data-lang="en" data-version="NKJV">
 
 
 <!-- p40 -->
@@ -175,7 +175,7 @@ Christ has the authority to forgive sins, reconciling humanity to God through Hi
 
 
 <!-- p42 -->
-Jesus commands demons and spiritual powers, enforcing His victory over Satan (<span class="x-scripture" data-type="ref" data-book="1 John" data-chapter="3" data-verses="8" data-lang="en" data-version="NKJV">1 John 3:8</span>). He delegates this authority to believers, enabling them to cast out demons and minister deliverance (<span class="x-scripture" data-type="ref" data-book="Mark" data-chapter="16" data-verses="17" data-lang="en" data-version="NKJV">Mark 16:17</span>).
+Jesus commands demons and spiritual powers, enforcing His victory over Satan (<span class="x-scripture" data-type="ref" data-book="1JN" data-chapter="3" data-verses="8" data-lang="en" data-version="NKJV">1 John 3:8</span>). He delegates this authority to believers, enabling them to cast out demons and minister deliverance (<span class="x-scripture" data-type="ref" data-book="MRK" data-chapter="16" data-verses="17" data-lang="en" data-version="NKJV">Mark 16:17</span>).
 
 
 <!-- p43 -->
@@ -184,7 +184,7 @@ Jesus commands demons and spiritual powers, enforcing His victory over Satan (<s
 
 
 <!-- p44 -->
-<span class="x-scripture" data-type="quote" data-book="Matthew" data-chapter="8" data-verses="16-17" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="MAT" data-chapter="8" data-verses="16-17" data-lang="en" data-version="NKJV">
 
 
 <!-- p45 -->
@@ -206,7 +206,7 @@ Jesus healed all types of diseases, fulfilling prophecy and demonstrating His au
 
 
 <!-- p49 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="5" data-verses="22-23" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JHN" data-chapter="5" data-verses="22-23" data-lang="en" data-version="NKJV">
 
 
 <!-- p50 -->
@@ -219,7 +219,7 @@ Jesus healed all types of diseases, fulfilling prophecy and demonstrating His au
 
 
 <!-- p52 -->
-Christ is the appointed judge over all people, both the living and the dead (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="10" data-verses="42" data-lang="en" data-version="NKJV">Acts 10:42</span>). His judgments are righteous, ensuring that evil is punished, and faithfulness is rewarded. Believers face the Judgment Seat of Christ for rewards (<span class="x-scripture" data-type="ref" data-book="2 Corinthians" data-chapter="5" data-verses="10" data-lang="en" data-version="NKJV">2 Corinthians 5:10</span>), while unbelievers face the Great White Throne Judgment for eternal separation (<span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="20" data-verses="11-15" data-lang="en" data-version="NKJV">Revelation 20:11-15</span>).
+Christ is the appointed judge over all people, both the living and the dead (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="10" data-verses="42" data-lang="en" data-version="NKJV">Acts 10:42</span>). His judgments are righteous, ensuring that evil is punished, and faithfulness is rewarded. Believers face the Judgment Seat of Christ for rewards (<span class="x-scripture" data-type="ref" data-book="2CO" data-chapter="5" data-verses="10" data-lang="en" data-version="NKJV">2 Corinthians 5:10</span>), while unbelievers face the Great White Throne Judgment for eternal separation (<span class="x-scripture" data-type="ref" data-book="REV" data-chapter="20" data-verses="11-15" data-lang="en" data-version="NKJV">Revelation 20:11-15</span>).
 
 
 <!-- p53 -->
@@ -228,7 +228,7 @@ Christ is the appointed judge over all people, both the living and the dead (<sp
 
 
 <!-- p54 -->
-<span class="x-scripture" data-type="quote" data-book="Ephesians" data-chapter="1" data-verses="22-23" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="EPH" data-chapter="1" data-verses="22-23" data-lang="en" data-version="NKJV">
 
 
 <!-- p55 -->
@@ -241,7 +241,7 @@ Christ is the appointed judge over all people, both the living and the dead (<sp
 
 
 <!-- p57 -->
-Christ is the head of the Church, guiding and equipping believers through His Word and Spirit. He delegates spiritual gifts and appoints leaders to nurture, protect, and equip the Church (<span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="4" data-verses="11-13" data-lang="en" data-version="NKJV">Ephesians 4:11-13</span>).
+Christ is the head of the Church, guiding and equipping believers through His Word and Spirit. He delegates spiritual gifts and appoints leaders to nurture, protect, and equip the Church (<span class="x-scripture" data-type="ref" data-book="EPH" data-chapter="4" data-verses="11-13" data-lang="en" data-version="NKJV">Ephesians 4:11-13</span>).
 
 
 <!-- p58 -->
@@ -250,7 +250,7 @@ Christ is the head of the Church, guiding and equipping believers through His Wo
 
 
 <!-- p59 -->
-<span class="x-scripture" data-type="fragment" data-book="Colossians" data-chapter="1" data-verses="16-17" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="fragment" data-book="COL" data-chapter="1" data-verses="16-17" data-lang="en" data-version="NKJV">
 
 
 <!-- p60 -->
@@ -263,7 +263,7 @@ Christ is the head of the Church, guiding and equipping believers through His Wo
 
 
 <!-- p62 -->
-Jesus is the Creator and Sustainer of the universe, demonstrating sovereignty over all natural forces. He commands storms to be still (<span class="x-scripture" data-type="ref" data-book="Mark" data-chapter="4" data-verses="39" data-lang="en" data-version="NKJV">Mark 4:39</span>) and multiplies food, showing His power over nature.
+Jesus is the Creator and Sustainer of the universe, demonstrating sovereignty over all natural forces. He commands storms to be still (<span class="x-scripture" data-type="ref" data-book="MRK" data-chapter="4" data-verses="39" data-lang="en" data-version="NKJV">Mark 4:39</span>) and multiplies food, showing His power over nature.
 
 
 <!-- p63 -->
@@ -272,7 +272,7 @@ Jesus is the Creator and Sustainer of the universe, demonstrating sovereignty ov
 
 
 <!-- p64 -->
-<span class="x-scripture" data-type="quote" data-book="Revelation" data-chapter="1" data-verses="18" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="REV" data-chapter="1" data-verses="18" data-lang="en" data-version="NKJV">
 
 
 <!-- p65 -->
@@ -285,7 +285,7 @@ Jesus is the Creator and Sustainer of the universe, demonstrating sovereignty ov
 
 
 <!-- p67 -->
-Christ has victory over death, hell, and the grave, symbolized by His possession of the keys. This guarantees eternal life for believers and establishes His sovereignty over the afterlife (<span class="x-scripture" data-type="ref" data-book="1 Corinthians" data-chapter="15" data-verses="54-57" data-lang="en" data-version="NKJV">1 Corinthians 15:54-57</span>).
+Christ has victory over death, hell, and the grave, symbolized by His possession of the keys. This guarantees eternal life for believers and establishes His sovereignty over the afterlife (<span class="x-scripture" data-type="ref" data-book="1CO" data-chapter="15" data-verses="54-57" data-lang="en" data-version="NKJV">1 Corinthians 15:54-57</span>).
 
 
 <!-- p68 -->
@@ -294,7 +294,7 @@ Christ has victory over death, hell, and the grave, symbolized by His possession
 
 
 <!-- p69 -->
-<span class="x-scripture" data-type="quote" data-book="Acts" data-chapter="1" data-verses="8" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="ACT" data-chapter="1" data-verses="8" data-lang="en" data-version="NKJV">
 
 
 <!-- p70 -->
@@ -307,7 +307,7 @@ Christ has victory over death, hell, and the grave, symbolized by His possession
 
 
 <!-- p72 -->
-Christ empowers believers through the Holy Spirit to proclaim the Gospel, perform miracles, and minister effectively. Believers act under His authority while relying on the Holy Spirit’s power to fulfill their mission (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="28" data-verses="18-20" data-lang="en" data-version="NKJV">Matthew 28:18-20</span>).
+Christ empowers believers through the Holy Spirit to proclaim the Gospel, perform miracles, and minister effectively. Believers act under His authority while relying on the Holy Spirit’s power to fulfill their mission (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="28" data-verses="18-20" data-lang="en" data-version="NKJV">Matthew 28:18-20</span>).
 
 
 <!-- p73 -->
@@ -319,7 +319,7 @@ Now that we have looked at precisely what authority is we need to know who the s
 
 
 <!-- p75 -->
-Jesus’ authority is rooted in His divine identity as the Son of God and is granted by the Father. The Father entrusted all authority to Christ, including judgment and rule over heaven and earth (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="11" data-verses="27" data-lang="en" data-version="NKJV">Matthew 11:27</span>). Jesus’ authority reflects the unity and love within the Trinity, where the Son carries out the Father’s plan perfectly (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="3" data-verses="35" data-lang="en" data-version="NKJV">John 3:35</span>).
+Jesus’ authority is rooted in His divine identity as the Son of God and is granted by the Father. The Father entrusted all authority to Christ, including judgment and rule over heaven and earth (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="11" data-verses="27" data-lang="en" data-version="NKJV">Matthew 11:27</span>). Jesus’ authority reflects the unity and love within the Trinity, where the Son carries out the Father’s plan perfectly (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="3" data-verses="35" data-lang="en" data-version="NKJV">John 3:35</span>).
 
 
 <!-- p76 -->
@@ -328,7 +328,7 @@ While Jesus had inherent authority as God’s Son, His victory over sin, death, 
 
 
 <!-- p77 -->
-<span class="x-scripture" data-type="quote" data-book="Revelation" data-chapter="1" data-verses="18" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="REV" data-chapter="1" data-verses="18" data-lang="en" data-version="NKJV">
 
 
 <!-- p78 -->
@@ -346,7 +346,7 @@ Even though Jesus has all authority, He uses it in full agreement with the Fathe
 
 
 <!-- p81 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="5" data-verses="19" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JHN" data-chapter="5" data-verses="19" data-lang="en" data-version="NKJV">
 
 
 <!-- p82 -->
@@ -359,7 +359,7 @@ Even though Jesus has all authority, He uses it in full agreement with the Fathe
 
 
 <!-- p84 -->
-Jesus does not act independently; instead, He mirrors the Father’s actions, ensuring His authority is always just and righteous. Even His words and teachings reflect the father’s intent, emphasizing their unity in purpose (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="12" data-verses="49" data-lang="en" data-version="NKJV">John 12:49</span>).
+Jesus does not act independently; instead, He mirrors the Father’s actions, ensuring His authority is always just and righteous. Even His words and teachings reflect the father’s intent, emphasizing their unity in purpose (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="12" data-verses="49" data-lang="en" data-version="NKJV">John 12:49</span>).
 
 
 <!-- p85 -->
@@ -368,7 +368,7 @@ Jesus never forces anyone to obey. He respects our freedom and gently invites us
 
 
 <!-- p86 -->
-<span class="x-scripture" data-type="quote" data-book="Revelation" data-chapter="3" data-verses="20" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="REV" data-chapter="3" data-verses="20" data-lang="en" data-version="NKJV">
 
 
 <!-- p87 -->
@@ -386,7 +386,7 @@ Christ’s authority works through love and grace to restore broken lives and em
 
 
 <!-- p90 -->
-<span class="x-scripture" data-type="quote" data-book="Galatians" data-chapter="6" data-verses="7-8" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="GAL" data-chapter="6" data-verses="7-8" data-lang="en" data-version="NKJV">
 
 
 <!-- p91 -->
@@ -408,7 +408,7 @@ Jesus delegated specific areas of authority to believers. This authority is rela
 
 
 <!-- p95 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="14" data-verses="12-14" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JHN" data-chapter="14" data-verses="12-14" data-lang="en" data-version="NKJV">
 
 
 <!-- p96 -->
@@ -426,7 +426,7 @@ Jesus said these greater works were tied to His name (His rightful authority), n
 
 
 <!-- p99 -->
-<span class="x-scripture" data-type="fragment" data-book="James" data-chapter="4" data-verses="2-3" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="fragment" data-book="JAS" data-chapter="4" data-verses="2-3" data-lang="en" data-version="NKJV">
 
 
 <!-- p100 -->
@@ -439,16 +439,16 @@ Jesus said these greater works were tied to His name (His rightful authority), n
 
 
 <!-- p102 -->
-To know the will of God, renew your mind! Paul says renewing the mind and being transformed is key to knowing the good, acceptable, and perfect will of God (<span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="12" data-verses="1-2" data-lang="en" data-version="NKJV">Romans 12:1-2</span>).
+To know the will of God, renew your mind! Paul says renewing the mind and being transformed is key to knowing the good, acceptable, and perfect will of God (<span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="12" data-verses="1-2" data-lang="en" data-version="NKJV">Romans 12:1-2</span>).
 
 
 <!-- p103 -->
-When we ask, we are to ask in faith (<span class="x-scripture" data-type="ref" data-book="Mark" data-chapter="11" data-verses="24" data-lang="en" data-version="NKJV">Mark 11:24</span>, <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="21" data-verses="22" data-lang="en" data-version="NKJV">Matthew 21:22</span>). Reminding ourselves that **faith is not magic but is persuasion and trust**. Jesus as the source of complete and perfect truth is able to persuade us of His will and His ability to deliver on His promises (Hebrews 11).
+When we ask, we are to ask in faith (<span class="x-scripture" data-type="ref" data-book="MRK" data-chapter="11" data-verses="24" data-lang="en" data-version="NKJV">Mark 11:24</span>, <span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="21" data-verses="22" data-lang="en" data-version="NKJV">Matthew 21:22</span>). Reminding ourselves that **faith is not magic but is persuasion and trust**. Jesus as the source of complete and perfect truth is able to persuade us of His will and His ability to deliver on His promises (Hebrews 11).
 
 
 
 <!-- p104 -->
-<span class="x-scripture" data-type="quote" data-book="Mark" data-chapter="16" data-verses="15-20" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="MRK" data-chapter="16" data-verses="15-20" data-lang="en" data-version="NKJV">
 
 
 <!-- p105 -->
@@ -477,11 +477,11 @@ Jesus gave us His authority to:
 
 
 <!-- p108 -->
-- **Preach the Gospel & Baptize Believers** - This is Christ’s authority to build His church and make disciples (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="28" data-verses="19-20" data-lang="en" data-version="NKJV">Matthew 28:19-20</span>). Boldly proclaiming the message of reconciliation and forgiveness of sins. This is the authority to lead in the Body of Christ as faithful under shepherds and servants and to practice discipline (train, correct, rebuke) in our gatherings (1 Peter 5).
+- **Preach the Gospel & Baptize Believers** - This is Christ’s authority to build His church and make disciples (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="28" data-verses="19-20" data-lang="en" data-version="NKJV">Matthew 28:19-20</span>). Boldly proclaiming the message of reconciliation and forgiveness of sins. This is the authority to lead in the Body of Christ as faithful under shepherds and servants and to practice discipline (train, correct, rebuke) in our gatherings (1 Peter 5).
 
 
 <!-- p109 -->
-- **Cast Out Devils** - This is Christ's authority over the works of the devil and evil spirits. We have the authority to resist the devil individually and to bring deliverance to those impacted and oppressed by him (<span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="10" data-verses="19" data-lang="en" data-version="NKJV">Luke 10:19</span>).
+- **Cast Out Devils** - This is Christ's authority over the works of the devil and evil spirits. We have the authority to resist the devil individually and to bring deliverance to those impacted and oppressed by him (<span class="x-scripture" data-type="ref" data-book="LUK" data-chapter="10" data-verses="19" data-lang="en" data-version="NKJV">Luke 10:19</span>).
 
 
 <!-- p110 -->
@@ -489,15 +489,15 @@ Jesus gave us His authority to:
 
 
 <!-- p111 -->
-- **Protection from Serpents and from Poison** - This is Christ's authority and provision to keep us safe from harms and injury in our work. We are not to put God to a foolish test (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="4" data-verses="7" data-lang="en" data-version="NKJV">Matthew 4:7</span>).
+- **Protection from Serpents and from Poison** - This is Christ's authority and provision to keep us safe from harms and injury in our work. We are not to put God to a foolish test (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="4" data-verses="7" data-lang="en" data-version="NKJV">Matthew 4:7</span>).
 
 
 <!-- p112 -->
-- **Heal the Sick** - This is Christ’s authority to heal the sick, physically, emotionally, and spiritually (<span class="x-scripture" data-type="ref" data-book="James" data-chapter="5" data-verses="14-15" data-lang="en" data-version="NKJV">James 5:14-15</span>). To bind up the broken hearted, open the (spiritual and physical) eyes of the blind, to set at liberty those who are held in captivity (Isaiah 61 / Luke 4).
+- **Heal the Sick** - This is Christ’s authority to heal the sick, physically, emotionally, and spiritually (<span class="x-scripture" data-type="ref" data-book="JAS" data-chapter="5" data-verses="14-15" data-lang="en" data-version="NKJV">James 5:14-15</span>). To bind up the broken hearted, open the (spiritual and physical) eyes of the blind, to set at liberty those who are held in captivity (Isaiah 61 / Luke 4).
 
 
 <!-- p113 -->
-This authority is not given for personal gain but as a tool to advance God’s Kingdom, bring healing, and set people free. It requires humility, dependence on the Holy Spirit, and alignment with God’s will. As we step into this authority, we do so in faith, knowing that all power ultimately belongs to Christ (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="28" data-verses="18" data-lang="en" data-version="NKJV">Matthew 28:18</span>).
+This authority is not given for personal gain but as a tool to advance God’s Kingdom, bring healing, and set people free. It requires humility, dependence on the Holy Spirit, and alignment with God’s will. As we step into this authority, we do so in faith, knowing that all power ultimately belongs to Christ (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="28" data-verses="18" data-lang="en" data-version="NKJV">Matthew 28:18</span>).
 
 
 <!-- p114 -->
@@ -513,15 +513,15 @@ The laying on of hands is a significant biblical practice used throughout both t
 
 
 <!-- p117 -->
-In the Old Testament, the laying on of hands was often associated with blessing and dedication. For example, Jacob blessed his grandchildren, Ephraim, and Manasseh, by laying his hands on them (<span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="48" data-verses="14" data-lang="en" data-version="NKJV">Genesis 48:14</span>). Similarly, Moses laid hands on Joshua to commission him as his successor, imparting leadership authority and wisdom (<span class="x-scripture" data-type="ref" data-book="Numbers" data-chapter="27" data-verses="18-23" data-lang="en" data-version="NKJV">Numbers 27:18-23</span>, <span class="x-scripture" data-type="ref" data-book="Deuteronomy" data-chapter="34" data-verses="9" data-lang="en" data-version="NKJV">Deuteronomy 34:9</span>). This act publicly signified God’s selection and empowerment for the task ahead.
+In the Old Testament, the laying on of hands was often associated with blessing and dedication. For example, Jacob blessed his grandchildren, Ephraim, and Manasseh, by laying his hands on them (<span class="x-scripture" data-type="ref" data-book="GEN" data-chapter="48" data-verses="14" data-lang="en" data-version="NKJV">Genesis 48:14</span>). Similarly, Moses laid hands on Joshua to commission him as his successor, imparting leadership authority and wisdom (<span class="x-scripture" data-type="ref" data-book="NUM" data-chapter="27" data-verses="18-23" data-lang="en" data-version="NKJV">Numbers 27:18-23</span>, <span class="x-scripture" data-type="ref" data-book="DEU" data-chapter="34" data-verses="9" data-lang="en" data-version="NKJV">Deuteronomy 34:9</span>). This act publicly signified God’s selection and empowerment for the task ahead.
 
 
 <!-- p118 -->
-In the New Testament, the laying on of hands is closely tied to the ministry of Jesus and the early church. Jesus regularly laid hands on the sick to heal them (<span class="x-scripture" data-type="ref" data-book="Mark" data-chapter="6" data-verses="5" data-lang="en" data-version="NKJV">Mark 6:5</span>, <span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="4" data-verses="40" data-lang="en" data-version="NKJV">Luke 4:40</span>), demonstrating both compassion and authority over sickness and disease. The apostles continued this practice, using it to impart the Holy Spirit (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="8" data-verses="17" data-lang="en" data-version="NKJV">Acts 8:17</span>), spiritual gifts (<span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="4" data-verses="14" data-lang="en" data-version="NKJV">1 Timothy 4:14</span>, <span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="1" data-verses="6" data-lang="en" data-version="NKJV">2 Timothy 1:6</span>), and blessings to believers. It also played a role in commissioning leaders and missionaries for ministry (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="13" data-verses="3" data-lang="en" data-version="NKJV">Acts 13:3</span>).
+In the New Testament, the laying on of hands is closely tied to the ministry of Jesus and the early church. Jesus regularly laid hands on the sick to heal them (<span class="x-scripture" data-type="ref" data-book="MRK" data-chapter="6" data-verses="5" data-lang="en" data-version="NKJV">Mark 6:5</span>, <span class="x-scripture" data-type="ref" data-book="LUK" data-chapter="4" data-verses="40" data-lang="en" data-version="NKJV">Luke 4:40</span>), demonstrating both compassion and authority over sickness and disease. The apostles continued this practice, using it to impart the Holy Spirit (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="8" data-verses="17" data-lang="en" data-version="NKJV">Acts 8:17</span>), spiritual gifts (<span class="x-scripture" data-type="ref" data-book="1TI" data-chapter="4" data-verses="14" data-lang="en" data-version="NKJV">1 Timothy 4:14</span>, <span class="x-scripture" data-type="ref" data-book="2TI" data-chapter="1" data-verses="6" data-lang="en" data-version="NKJV">2 Timothy 1:6</span>), and blessings to believers. It also played a role in commissioning leaders and missionaries for ministry (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="13" data-verses="3" data-lang="en" data-version="NKJV">Acts 13:3</span>).
 
 
 <!-- p119 -->
-The laying on of hands symbolizes an act of faith and obedience to God’s Word. It is not a mechanical ritual, but a spiritual practice rooted in dependence on the Holy Spirit. For example, in <span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="6" data-verses="6" data-lang="en" data-version="NKJV">Acts 6:6</span>, the apostles laid hands on those selected to serve as deacons, committing them to God’s service and publicly acknowledging their calling. In <span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="19" data-verses="6" data-lang="en" data-version="NKJV">Acts 19:6</span>, Paul laid hands on believers, and they received the Holy Spirit, demonstrating its role in spiritual empowerment.
+The laying on of hands symbolizes an act of faith and obedience to God’s Word. It is not a mechanical ritual, but a spiritual practice rooted in dependence on the Holy Spirit. For example, in <span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="6" data-verses="6" data-lang="en" data-version="NKJV">Acts 6:6</span>, the apostles laid hands on those selected to serve as deacons, committing them to God’s service and publicly acknowledging their calling. In <span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="19" data-verses="6" data-lang="en" data-version="NKJV">Acts 19:6</span>, Paul laid hands on believers, and they received the Holy Spirit, demonstrating its role in spiritual empowerment.
 
 
 <!-- p120 -->
@@ -530,7 +530,7 @@ However, the Bible also gives warnings about the practice:
 
 
 <!-- p121 -->
-<span class="x-scripture" data-type="quote" data-book="1 Timothy" data-chapter="5" data-verses="22" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="1TI" data-chapter="5" data-verses="22" data-lang="en" data-version="NKJV">
 
 
 <!-- p122 -->
@@ -587,7 +587,7 @@ The term "angel" itself means "messenger," highlighting their primary function. 
 
 
 <!-- p135 -->
-In the scriptures angels are seen as **messengers**, **servants**, and **warriors**. Angels frequently act as messengers, delivering important announcements, warnings, and encouragements. They reveal God’s plans and provide guidance in times of need (<span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="1" data-verses="26-38" data-lang="en" data-version="NKJV">Luke 1:26-38</span>; <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="2" data-verses="13" data-lang="en" data-version="NKJV">Matthew 2:13</span>; <span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="1" data-verses="1" data-lang="en" data-version="NKJV">Revelation 1:1</span>). Angels are actively involved in protecting, strengthening, and delivering believers. They minister to God’s people in times of distress and provide supernatural aid (<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="91" data-verses="11" data-lang="en" data-version="NKJV">Psalm 91:11</span>; <span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="12" data-verses="7-11" data-lang="en" data-version="NKJV">Acts 12:7-11</span>; <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="4" data-verses="11" data-lang="en" data-version="NKJV">Matthew 4:11</span>). Angels engage in spiritual warfare, battling demonic forces to advance God’s kingdom and defend believers (<span class="x-scripture" data-type="ref" data-book="Daniel" data-chapter="10" data-verses="13" data-lang="en" data-version="NKJV">Daniel 10:13</span>; <span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="12" data-verses="7-9" data-lang="en" data-version="NKJV">Revelation 12:7-9</span>).
+In the scriptures angels are seen as **messengers**, **servants**, and **warriors**. Angels frequently act as messengers, delivering important announcements, warnings, and encouragements. They reveal God’s plans and provide guidance in times of need (<span class="x-scripture" data-type="ref" data-book="LUK" data-chapter="1" data-verses="26-38" data-lang="en" data-version="NKJV">Luke 1:26-38</span>; <span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="2" data-verses="13" data-lang="en" data-version="NKJV">Matthew 2:13</span>; <span class="x-scripture" data-type="ref" data-book="REV" data-chapter="1" data-verses="1" data-lang="en" data-version="NKJV">Revelation 1:1</span>). Angels are actively involved in protecting, strengthening, and delivering believers. They minister to God’s people in times of distress and provide supernatural aid (<span class="x-scripture" data-type="ref" data-book="PSA" data-chapter="91" data-verses="11" data-lang="en" data-version="NKJV">Psalm 91:11</span>; <span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="12" data-verses="7-11" data-lang="en" data-version="NKJV">Acts 12:7-11</span>; <span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="4" data-verses="11" data-lang="en" data-version="NKJV">Matthew 4:11</span>). Angels engage in spiritual warfare, battling demonic forces to advance God’s kingdom and defend believers (<span class="x-scripture" data-type="ref" data-book="DAN" data-chapter="10" data-verses="13" data-lang="en" data-version="NKJV">Daniel 10:13</span>; <span class="x-scripture" data-type="ref" data-book="REV" data-chapter="12" data-verses="7-9" data-lang="en" data-version="NKJV">Revelation 12:7-9</span>).
 
 
 <!-- p136 -->
@@ -611,23 +611,23 @@ Though the Bible highlights several roles and titles for angels, it does not giv
 
 
 <!-- p141 -->
-- **The Angel of the Lord** - Often considered a pre-incarnate appearance of Christ, appearing with divine authority. (*<span class="x-scripture" data-type="ref" data-book="Exodus" data-chapter="23" data-verses="20-23" data-lang="en" data-version="NKJV">Exodus 23:20-23</span>; <span class="x-scripture" data-type="ref" data-book="Judges" data-chapter="6" data-verses="11-24" data-lang="en" data-version="NKJV">Judges 6:11-24</span>*)
+- **The Angel of the Lord** - Often considered a pre-incarnate appearance of Christ, appearing with divine authority. (*<span class="x-scripture" data-type="ref" data-book="EXO" data-chapter="23" data-verses="20-23" data-lang="en" data-version="NKJV">Exodus 23:20-23</span>; <span class="x-scripture" data-type="ref" data-book="JDG" data-chapter="6" data-verses="11-24" data-lang="en" data-version="NKJV">Judges 6:11-24</span>*)
 
 
 <!-- p142 -->
-- **Archangels** - High-ranking angels like Michael, who leads armies, and Gabriel, who delivers divine messages. (*Jude 9; <span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="12" data-verses="7" data-lang="en" data-version="NKJV">Revelation 12:7</span>; <span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="1" data-verses="19-26" data-lang="en" data-version="NKJV">Luke 1:19-26</span>*)
+- **Archangels** - High-ranking angels like Michael, who leads armies, and Gabriel, who delivers divine messages. (*Jude 9; <span class="x-scripture" data-type="ref" data-book="REV" data-chapter="12" data-verses="7" data-lang="en" data-version="NKJV">Revelation 12:7</span>; <span class="x-scripture" data-type="ref" data-book="LUK" data-chapter="1" data-verses="19-26" data-lang="en" data-version="NKJV">Luke 1:19-26</span>*)
 
 
 <!-- p143 -->
-- **Cherubim** - Guardians of God’s glory and presence, such as at Eden and the Ark of the Covenant. (*<span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="3" data-verses="24" data-lang="en" data-version="NKJV">Genesis 3:24</span>; <span class="x-scripture" data-type="ref" data-book="Exodus" data-chapter="25" data-verses="22" data-lang="en" data-version="NKJV">Exodus 25:22</span>*)
+- **Cherubim** - Guardians of God’s glory and presence, such as at Eden and the Ark of the Covenant. (*<span class="x-scripture" data-type="ref" data-book="GEN" data-chapter="3" data-verses="24" data-lang="en" data-version="NKJV">Genesis 3:24</span>; <span class="x-scripture" data-type="ref" data-book="EXO" data-chapter="25" data-verses="22" data-lang="en" data-version="NKJV">Exodus 25:22</span>*)
 
 
 <!-- p144 -->
-- **Seraphim** - Worshipers of God, continually declaring His holiness. (*<span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="6" data-verses="1-6" data-lang="en" data-version="NKJV">Isaiah 6:1-6</span>*)
+- **Seraphim** - Worshipers of God, continually declaring His holiness. (*<span class="x-scripture" data-type="ref" data-book="ISA" data-chapter="6" data-verses="1-6" data-lang="en" data-version="NKJV">Isaiah 6:1-6</span>*)
 
 
 <!-- p145 -->
-- **Elect Angels** - Faithful angels who resisted Satan’s rebellion and remain loyal to God. (*<span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="5" data-verses="21" data-lang="en" data-version="NKJV">1 Timothy 5:21</span>; <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="25" data-verses="41" data-lang="en" data-version="NKJV">Matthew 25:41</span>*)
+- **Elect Angels** - Faithful angels who resisted Satan’s rebellion and remain loyal to God. (*<span class="x-scripture" data-type="ref" data-book="1TI" data-chapter="5" data-verses="21" data-lang="en" data-version="NKJV">1 Timothy 5:21</span>; <span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="25" data-verses="41" data-lang="en" data-version="NKJV">Matthew 25:41</span>*)
 
 
 <!-- p146 -->
@@ -639,15 +639,15 @@ These classifications emphasize the diversity and organization within the angeli
 
 
 <!-- p148 -->
-Humans often encounter angels in Scripture, but we are never instructed to command or pray to them. Instead, angels act according to God’s direction. They minister to believers as **servants of God** (<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="1" data-verses="14" data-lang="en" data-version="NKJV">Hebrews 1:14</span>). Their interactions include protection, guidance, and deliverance, always pointing us back to God’s power and sovereignty.
+Humans often encounter angels in Scripture, but we are never instructed to command or pray to them. Instead, angels act according to God’s direction. They minister to believers as **servants of God** (<span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="1" data-verses="14" data-lang="en" data-version="NKJV">Hebrews 1:14</span>). Their interactions include protection, guidance, and deliverance, always pointing us back to God’s power and sovereignty.
 
 
 <!-- p149 -->
-- **Warnings Against Angel Worship**: Scripture forbids worshiping angels or seeking encounters with them (<span class="x-scripture" data-type="ref" data-book="Colossians" data-chapter="2" data-verses="18" data-lang="en" data-version="NKJV">Colossians 2:18</span>; <span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="22" data-verses="8-9" data-lang="en" data-version="NKJV">Revelation 22:8-9</span>).
+- **Warnings Against Angel Worship**: Scripture forbids worshiping angels or seeking encounters with them (<span class="x-scripture" data-type="ref" data-book="COL" data-chapter="2" data-verses="18" data-lang="en" data-version="NKJV">Colossians 2:18</span>; <span class="x-scripture" data-type="ref" data-book="REV" data-chapter="22" data-verses="8-9" data-lang="en" data-version="NKJV">Revelation 22:8-9</span>).
 
 
 <!-- p150 -->
-- **Prayer to God, Not Angels**: Believers should pray to God, who dispatches angels as He wills (<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="91" data-verses="11" data-lang="en" data-version="NKJV">Psalm 91:11</span>).
+- **Prayer to God, Not Angels**: Believers should pray to God, who dispatches angels as He wills (<span class="x-scripture" data-type="ref" data-book="PSA" data-chapter="91" data-verses="11" data-lang="en" data-version="NKJV">Psalm 91:11</span>).
 
 
 <!-- p151 -->
@@ -671,11 +671,11 @@ Just as the study of angels is necessary to understand the spiritual world, so t
 
 
 <!-- p156 -->
-Demons are fallen angels who followed Satan’s rebellion against God. *(<span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="12" data-verses="7-9" data-lang="en" data-version="NKJV">Revelation 12:7-9</span>; <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="25" data-verses="41" data-lang="en" data-version="NKJV">Matthew 25:41</span>).* Satan, formerly known as Lucifer (“light bearer”), an exalted angel, sought to exalt himself above God and was cast out of heaven along with other rebellious angels. *(<span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="14" data-verses="12-15" data-lang="en" data-version="NKJV">Isaiah 14:12-15</span>; <span class="x-scripture" data-type="ref" data-book="Ezekiel" data-chapter="28" data-verses="12-17" data-lang="en" data-version="NKJV">Ezekiel 28:12-17</span>).*
+Demons are fallen angels who followed Satan’s rebellion against God. *(<span class="x-scripture" data-type="ref" data-book="REV" data-chapter="12" data-verses="7-9" data-lang="en" data-version="NKJV">Revelation 12:7-9</span>; <span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="25" data-verses="41" data-lang="en" data-version="NKJV">Matthew 25:41</span>).* Satan, formerly known as Lucifer (“light bearer”), an exalted angel, sought to exalt himself above God and was cast out of heaven along with other rebellious angels. *(<span class="x-scripture" data-type="ref" data-book="ISA" data-chapter="14" data-verses="12-15" data-lang="en" data-version="NKJV">Isaiah 14:12-15</span>; <span class="x-scripture" data-type="ref" data-book="EZK" data-chapter="28" data-verses="12-17" data-lang="en" data-version="NKJV">Ezekiel 28:12-17</span>).*
 
 
 <!-- p157 -->
-Demons are spirits without physical bodies but can oppress and torment humans and animals. *(<span class="x-scripture" data-type="ref" data-book="Mark" data-chapter="5" data-verses="11-13" data-lang="en" data-version="NKJV">Mark 5:11-13</span>).* They seek to deceive, tempt, oppress, and destroy. *(<span class="x-scripture" data-type="ref" data-book="John" data-chapter="10" data-verses="10" data-lang="en" data-version="NKJV">John 10:10</span>; <span class="x-scripture" data-type="ref" data-book="2 Corinthians" data-chapter="11" data-verses="14" data-lang="en" data-version="NKJV">2 Corinthians 11:14</span>). Unlike God,* they have limits, and are not omnipresent (everywhere), omniscient (all knowing), omnipotent (all powerful)*.* Their ultimate defeat is certain, and they will face eternal punishment. *(<span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="20" data-verses="10" data-lang="en" data-version="NKJV">Revelation 20:10</span>)*
+Demons are spirits without physical bodies but can oppress and torment humans and animals. *(<span class="x-scripture" data-type="ref" data-book="MRK" data-chapter="5" data-verses="11-13" data-lang="en" data-version="NKJV">Mark 5:11-13</span>).* They seek to deceive, tempt, oppress, and destroy. *(<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="10" data-verses="10" data-lang="en" data-version="NKJV">John 10:10</span>; <span class="x-scripture" data-type="ref" data-book="2CO" data-chapter="11" data-verses="14" data-lang="en" data-version="NKJV">2 Corinthians 11:14</span>). Unlike God,* they have limits, and are not omnipresent (everywhere), omniscient (all knowing), omnipotent (all powerful)*.* Their ultimate defeat is certain, and they will face eternal punishment. *(<span class="x-scripture" data-type="ref" data-book="REV" data-chapter="20" data-verses="10" data-lang="en" data-version="NKJV">Revelation 20:10</span>)*
 
 
 <!-- p158 -->
@@ -683,19 +683,19 @@ The scriptures describe the work and activity of the devil as:
 
 
 <!-- p159 -->
-- Opposes God’s Work *(<span class="x-scripture" data-type="ref" data-book="1 Thessalonians" data-chapter="2" data-verses="18" data-lang="en" data-version="NKJV">1 Thessalonians 2:18</span>)*
+- Opposes God’s Work *(<span class="x-scripture" data-type="ref" data-book="1TH" data-chapter="2" data-verses="18" data-lang="en" data-version="NKJV">1 Thessalonians 2:18</span>)*
 
 
 <!-- p160 -->
-- Deceives the World *(<span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="12" data-verses="9" data-lang="en" data-version="NKJV">Revelation 12:9</span>; <span class="x-scripture" data-type="ref" data-book="2 Corinthians" data-chapter="4" data-verses="4" data-lang="en" data-version="NKJV">2 Corinthians 4:4</span>)*
+- Deceives the World *(<span class="x-scripture" data-type="ref" data-book="REV" data-chapter="12" data-verses="9" data-lang="en" data-version="NKJV">Revelation 12:9</span>; <span class="x-scripture" data-type="ref" data-book="2CO" data-chapter="4" data-verses="4" data-lang="en" data-version="NKJV">2 Corinthians 4:4</span>)*
 
 
 <!-- p161 -->
-- Tempts and Accuses Believers *(<span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="22" data-verses="31" data-lang="en" data-version="NKJV">Luke 22:31</span>; <span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="12" data-verses="10" data-lang="en" data-version="NKJV">Revelation 12:10</span>)*
+- Tempts and Accuses Believers *(<span class="x-scripture" data-type="ref" data-book="LUK" data-chapter="22" data-verses="31" data-lang="en" data-version="NKJV">Luke 22:31</span>; <span class="x-scripture" data-type="ref" data-book="REV" data-chapter="12" data-verses="10" data-lang="en" data-version="NKJV">Revelation 12:10</span>)*
 
 
 <!-- p162 -->
-- Afflicts and Harms *(<span class="x-scripture" data-type="ref" data-book="Job" data-chapter="1" data-verses="12" data-lang="en" data-version="NKJV">Job 1:12</span>; <span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="13" data-verses="16" data-lang="en" data-version="NKJV">Luke 13:16</span>)*
+- Afflicts and Harms *(<span class="x-scripture" data-type="ref" data-book="JOB" data-chapter="1" data-verses="12" data-lang="en" data-version="NKJV">Job 1:12</span>; <span class="x-scripture" data-type="ref" data-book="LUK" data-chapter="13" data-verses="16" data-lang="en" data-version="NKJV">Luke 13:16</span>)*
 
 
 <!-- p163 -->
@@ -707,7 +707,7 @@ There are many names and descriptions for the devil, each describing a different
 
 
 <!-- p165 -->
-The gospels and epistles further clarify the work of the enemy. Evil spirits, as disembodied, largely must do their work through willing and open vessels. God works through people, so does the devil. This oppression is often marked by torment, self-harm, and destructive behaviors *(<span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="8" data-verses="27-29" data-lang="en" data-version="NKJV">Luke 8:27-29</span>).* Their attacks cause fear, temptation, and discouragement *(<span class="x-scripture" data-type="ref" data-book="2 Corinthians" data-chapter="12" data-verses="7" data-lang="en" data-version="NKJV">2 Corinthians 12:7</span>).* The most common source of their power (not authority) in someone's life is through the influence of lies and emotional strongholds *(<span class="x-scripture" data-type="ref" data-book="2 Corinthians" data-chapter="10" data-verses="3-5" data-lang="en" data-version="NKJV">2 Corinthians 10:3-5</span>).*
+The gospels and epistles further clarify the work of the enemy. Evil spirits, as disembodied, largely must do their work through willing and open vessels. God works through people, so does the devil. This oppression is often marked by torment, self-harm, and destructive behaviors *(<span class="x-scripture" data-type="ref" data-book="LUK" data-chapter="8" data-verses="27-29" data-lang="en" data-version="NKJV">Luke 8:27-29</span>).* Their attacks cause fear, temptation, and discouragement *(<span class="x-scripture" data-type="ref" data-book="2CO" data-chapter="12" data-verses="7" data-lang="en" data-version="NKJV">2 Corinthians 12:7</span>).* The most common source of their power (not authority) in someone's life is through the influence of lies and emotional strongholds *(<span class="x-scripture" data-type="ref" data-book="2CO" data-chapter="10" data-verses="3-5" data-lang="en" data-version="NKJV">2 Corinthians 10:3-5</span>).*
 
 
 <!-- p166 -->
@@ -719,7 +719,7 @@ It's important to note that not every lie a person believes, infirmity in their 
 
 
 <!-- p168 -->
-Do not fear, Jesus has complete and total authority over the works of the enemy. Jesus Demonstrated power over demons during His ministry *(<span class="x-scripture" data-type="ref" data-book="Mark" data-chapter="1" data-verses="34" data-lang="en" data-version="NKJV">Mark 1:34</span>; <span class="x-scripture" data-type="ref" data-book="Mark" data-chapter="5" data-verses="1-20" data-lang="en" data-version="NKJV">Mark 5:1-20</span>).* The works of the enemy and Satan himself are defeated through Jesus’ death and resurrection *(<span class="x-scripture" data-type="ref" data-book="Colossians" data-chapter="2" data-verses="15" data-lang="en" data-version="NKJV">Colossians 2:15</span>).*
+Do not fear, Jesus has complete and total authority over the works of the enemy. Jesus Demonstrated power over demons during His ministry *(<span class="x-scripture" data-type="ref" data-book="MRK" data-chapter="1" data-verses="34" data-lang="en" data-version="NKJV">Mark 1:34</span>; <span class="x-scripture" data-type="ref" data-book="MRK" data-chapter="5" data-verses="1-20" data-lang="en" data-version="NKJV">Mark 5:1-20</span>).* The works of the enemy and Satan himself are defeated through Jesus’ death and resurrection *(<span class="x-scripture" data-type="ref" data-book="COL" data-chapter="2" data-verses="15" data-lang="en" data-version="NKJV">Colossians 2:15</span>).*
 
 
 <!-- p169 -->
@@ -728,7 +728,7 @@ As believers we have been given authority delegated by Jesus to cast out demons 
 
 
 <!-- p170 -->
-<span class="x-scripture" data-type="fragment" data-book="Mark" data-chapter="16" data-verses="17" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="fragment" data-book="MRK" data-chapter="16" data-verses="17" data-lang="en" data-version="NKJV">
 
 
 <!-- p171 -->
@@ -741,15 +741,15 @@ As believers we have been given authority delegated by Jesus to cast out demons 
 
 
 <!-- p173 -->
-Furthermore, as heirs of salvation we have the authority to submit ourselves to God, resist the devil and He will flee from us! (<span class="x-scripture" data-type="ref" data-book="James" data-chapter="4" data-verses="7" data-lang="en" data-version="NKJV">James 4:7</span>).
+Furthermore, as heirs of salvation we have the authority to submit ourselves to God, resist the devil and He will flee from us! (<span class="x-scripture" data-type="ref" data-book="JAS" data-chapter="4" data-verses="7" data-lang="en" data-version="NKJV">James 4:7</span>).
 
 
 <!-- p174 -->
-To deal with an evil or unclean spirit the pattern expressed in the scriptures is to take authority over it in the name of Jesus and command it to leave. The Holy Spirit promises to give us wisdom and discernment if we ask! (<span class="x-scripture" data-type="ref" data-book="James" data-chapter="1" data-verses="5" data-lang="en" data-version="NKJV">James 1:5</span>). We don’t need to make it a production, or a drama like in the movies, or to even talk with them, that is a trick of the devil to distract us. Satan's power is established and maintained only by the lies He can get us to believe. 
+To deal with an evil or unclean spirit the pattern expressed in the scriptures is to take authority over it in the name of Jesus and command it to leave. The Holy Spirit promises to give us wisdom and discernment if we ask! (<span class="x-scripture" data-type="ref" data-book="JAS" data-chapter="1" data-verses="5" data-lang="en" data-version="NKJV">James 1:5</span>). We don’t need to make it a production, or a drama like in the movies, or to even talk with them, that is a trick of the devil to distract us. Satan's power is established and maintained only by the lies He can get us to believe. 
 
 
 <!-- p175 -->
-<span class="x-scripture" data-type="quote" data-book="Matthew" data-chapter="18" data-verses="18" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="MAT" data-chapter="18" data-verses="18" data-lang="en" data-version="NKJV">
 
 
 <!-- p176 -->
@@ -770,15 +770,15 @@ There are two major cautions in the scriptures when dealing with the demonic:
 
 
 <!-- p180 -->
-1.  **Only those with a relationship with Jesus have the authority over the demonic**. <span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="19" data-verses="11-20" data-lang="en" data-version="NKJV">Acts 19:11-20</span> talks about sons of a Jewish Chief Priest named Sceva. They tried to intervene in the life of someone who was oppressed and tormented by the devil and the evil spirit refused to leave because they didn’t have a relationship with Jesus. The man who was oppressed leapt on them, stripped them naked and beat them. Just as you should not impersonate a police officer, **don't impersonate someone with a relationship with Jesus, instead have a relationship with Jesus**!
+1.  **Only those with a relationship with Jesus have the authority over the demonic**. <span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="19" data-verses="11-20" data-lang="en" data-version="NKJV">Acts 19:11-20</span> talks about sons of a Jewish Chief Priest named Sceva. They tried to intervene in the life of someone who was oppressed and tormented by the devil and the evil spirit refused to leave because they didn’t have a relationship with Jesus. The man who was oppressed leapt on them, stripped them naked and beat them. Just as you should not impersonate a police officer, **don't impersonate someone with a relationship with Jesus, instead have a relationship with Jesus**!
 
 
 <!-- p181 -->
-2.  **When an evil spirit leaves, it goes away for a time and will try to come back**. If it finds the place it had dwelled empty, it will come back worse. <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="12" data-verses="43-45" data-lang="en" data-version="NKJV">Matthew 12:43-45</span>. When we minister to a person oppressed of the devil, that person needs to fill the void that evil spirit occupied in their lives. That means at a minimum establishing a personal relationship with Jesus and strengthening it by obedience to the Holy Spirit. Often an evil or unclean spirit has power to operate in someone’s life through the choices they made, based on their beliefs. Anyone delivered from the devil needs to replace that old belief system and be transformed by the renewal of their minds (<span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="12" data-verses="1-2" data-lang="en" data-version="NKJV">Romans 12:1-2</span>).
+2.  **When an evil spirit leaves, it goes away for a time and will try to come back**. If it finds the place it had dwelled empty, it will come back worse. <span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="12" data-verses="43-45" data-lang="en" data-version="NKJV">Matthew 12:43-45</span>. When we minister to a person oppressed of the devil, that person needs to fill the void that evil spirit occupied in their lives. That means at a minimum establishing a personal relationship with Jesus and strengthening it by obedience to the Holy Spirit. Often an evil or unclean spirit has power to operate in someone’s life through the choices they made, based on their beliefs. Anyone delivered from the devil needs to replace that old belief system and be transformed by the renewal of their minds (<span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="12" data-verses="1-2" data-lang="en" data-version="NKJV">Romans 12:1-2</span>).
 
 
 <!-- p182 -->
-We serve an awesome and mighty God, and we are ‘more than conquerors’ (<span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="8" data-verses="37" data-lang="en" data-version="NKJV">Romans 8:37</span>) over the defeated enemy. We have no need to fear our defeated enemy, for Jesus has given us His authority to crush his head! The devil’s time is short, and He will ultimately be judged along with every principality and power on the earth that rejects the dominion of Christ.
+We serve an awesome and mighty God, and we are ‘more than conquerors’ (<span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="8" data-verses="37" data-lang="en" data-version="NKJV">Romans 8:37</span>) over the defeated enemy. We have no need to fear our defeated enemy, for Jesus has given us His authority to crush his head! The devil’s time is short, and He will ultimately be judged along with every principality and power on the earth that rejects the dominion of Christ.
 
 
 <!-- p183 -->
@@ -822,7 +822,7 @@ The section on Angels & Demons was, by permission, based on a prior outline and 
 
 
 <!-- p193 -->
-2.  **Exploring Scripture:** Read <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="28" data-verses="18-20" data-lang="en" data-version="NKJV">Matthew 28:18-20</span>. How does Jesus’ authority form the foundation of the Great Commission? What does this mean for us as disciples?
+2.  **Exploring Scripture:** Read <span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="28" data-verses="18-20" data-lang="en" data-version="NKJV">Matthew 28:18-20</span>. How does Jesus’ authority form the foundation of the Great Commission? What does this mean for us as disciples?
 
 
 <!-- p194 -->

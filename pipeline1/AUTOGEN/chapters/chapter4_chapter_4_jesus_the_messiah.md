@@ -37,7 +37,7 @@ The Jewish people had long awaited a coming Messiah. Jewish beliefs about the Me
 
 
 <!-- p10 -->
-- **Scriptures Referenced:** <span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="9" data-verses="6-7" data-lang="en" data-version="NKJV">Isaiah 9:6-7</span>, <span class="x-scripture" data-type="ref" data-book="Jeremiah" data-chapter="23" data-verses="5-6" data-lang="en" data-version="NKJV">Jeremiah 23:5-6</span>, <span class="x-scripture" data-type="ref" data-book="Zechariah" data-chapter="9" data-verses="9-10" data-lang="en" data-version="NKJV">Zechariah 9:9-10</span>.
+- **Scriptures Referenced:** <span class="x-scripture" data-type="ref" data-book="ISA" data-chapter="9" data-verses="6-7" data-lang="en" data-version="NKJV">Isaiah 9:6-7</span>, <span class="x-scripture" data-type="ref" data-book="JER" data-chapter="23" data-verses="5-6" data-lang="en" data-version="NKJV">Jeremiah 23:5-6</span>, <span class="x-scripture" data-type="ref" data-book="ZEC" data-chapter="9" data-verses="9-10" data-lang="en" data-version="NKJV">Zechariah 9:9-10</span>.
 
 
 <!-- p11 -->
@@ -45,7 +45,7 @@ The Jewish people had long awaited a coming Messiah. Jewish beliefs about the Me
 
 
 <!-- p12 -->
-- **Truth:** Jesus is a King, but His kingdom is not earthly (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="18" data-verses="36" data-lang="en" data-version="NKJV">John 18:36</span>). He established a spiritual kingdom through His first coming, but He will return as a conquering King to judge and rule in righteousness, as described in the book of Revelation (<span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="19" data-verses="11-16" data-lang="en" data-version="NKJV">Revelation 19:11-16</span>).
+- **Truth:** Jesus is a King, but His kingdom is not earthly (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="18" data-verses="36" data-lang="en" data-version="NKJV">John 18:36</span>). He established a spiritual kingdom through His first coming, but He will return as a conquering King to judge and rule in righteousness, as described in the book of Revelation (<span class="x-scripture" data-type="ref" data-book="REV" data-chapter="19" data-verses="11-16" data-lang="en" data-version="NKJV">Revelation 19:11-16</span>).
 
 
 <!-- p13 -->
@@ -57,7 +57,7 @@ The Jewish people had long awaited a coming Messiah. Jewish beliefs about the Me
 
 
 <!-- p15 -->
-- **Scriptures Referenced:** <span class="x-scripture" data-type="ref" data-book="2 Samuel" data-chapter="7" data-verses="12-16" data-lang="en" data-version="NKJV">2 Samuel 7:12-16</span>, <span class="x-scripture" data-type="ref" data-book="Amos" data-chapter="9" data-verses="11" data-lang="en" data-version="NKJV">Amos 9:11</span>.
+- **Scriptures Referenced:** <span class="x-scripture" data-type="ref" data-book="2SA" data-chapter="7" data-verses="12-16" data-lang="en" data-version="NKJV">2 Samuel 7:12-16</span>, <span class="x-scripture" data-type="ref" data-book="AMO" data-chapter="9" data-verses="11" data-lang="en" data-version="NKJV">Amos 9:11</span>.
 
 
 <!-- p16 -->
@@ -65,7 +65,7 @@ The Jewish people had long awaited a coming Messiah. Jewish beliefs about the Me
 
 
 <!-- p17 -->
-- **Truth:** Jesus, as the descendant of David, fulfills this promise by establishing an eternal kingdom. While this kingdom is spiritual in nature now, it will culminate in a physical reign during His second coming (<span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="1" data-verses="32-33" data-lang="en" data-version="NKJV">Luke 1:32-33</span>, <span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="20" data-verses="4-6" data-lang="en" data-version="NKJV">Revelation 20:4-6</span>).
+- **Truth:** Jesus, as the descendant of David, fulfills this promise by establishing an eternal kingdom. While this kingdom is spiritual in nature now, it will culminate in a physical reign during His second coming (<span class="x-scripture" data-type="ref" data-book="LUK" data-chapter="1" data-verses="32-33" data-lang="en" data-version="NKJV">Luke 1:32-33</span>, <span class="x-scripture" data-type="ref" data-book="REV" data-chapter="20" data-verses="4-6" data-lang="en" data-version="NKJV">Revelation 20:4-6</span>).
 
 
 <!-- p18 -->
@@ -77,7 +77,7 @@ The Jewish people had long awaited a coming Messiah. Jewish beliefs about the Me
 
 
 <!-- p20 -->
-- **Scriptures Referenced:** <span class="x-scripture" data-type="ref" data-book="Deuteronomy" data-chapter="18" data-verses="15-19" data-lang="en" data-version="NKJV">Deuteronomy 18:15-19</span>.
+- **Scriptures Referenced:** <span class="x-scripture" data-type="ref" data-book="DEU" data-chapter="18" data-verses="15-19" data-lang="en" data-version="NKJV">Deuteronomy 18:15-19</span>.
 
 
 <!-- p21 -->
@@ -85,7 +85,7 @@ The Jewish people had long awaited a coming Messiah. Jewish beliefs about the Me
 
 
 <!-- p22 -->
-- **Truth:** Jesus fulfilled this prophecy as the ultimate Prophet, speaking God’s Word and revealing the Father directly (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="1" data-verses="18" data-lang="en" data-version="NKJV">John 1:18</span>, <span class="x-scripture" data-type="ref" data-book="John" data-chapter="14" data-verses="10" data-lang="en" data-version="NKJV">John 14:10</span>). His prophetic role goes beyond Moses, as He mediates a new and better covenant (<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="8" data-verses="6-7" data-lang="en" data-version="NKJV">Hebrews 8:6-7</span>).
+- **Truth:** Jesus fulfilled this prophecy as the ultimate Prophet, speaking God’s Word and revealing the Father directly (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="1" data-verses="18" data-lang="en" data-version="NKJV">John 1:18</span>, <span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="14" data-verses="10" data-lang="en" data-version="NKJV">John 14:10</span>). His prophetic role goes beyond Moses, as He mediates a new and better covenant (<span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="8" data-verses="6-7" data-lang="en" data-version="NKJV">Hebrews 8:6-7</span>).
 
 
 <!-- p23 -->
@@ -97,7 +97,7 @@ The Jewish people had long awaited a coming Messiah. Jewish beliefs about the Me
 
 
 <!-- p25 -->
-- **Scriptures Referenced:** <span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="11" data-verses="3-5" data-lang="en" data-version="NKJV">Isaiah 11:3-5</span>, <span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="72" data-verses="1-4" data-lang="en" data-version="NKJV">Psalm 72:1-4</span>.
+- **Scriptures Referenced:** <span class="x-scripture" data-type="ref" data-book="ISA" data-chapter="11" data-verses="3-5" data-lang="en" data-version="NKJV">Isaiah 11:3-5</span>, <span class="x-scripture" data-type="ref" data-book="PSA" data-chapter="72" data-verses="1-4" data-lang="en" data-version="NKJV">Psalm 72:1-4</span>.
 
 
 <!-- p26 -->
@@ -105,7 +105,7 @@ The Jewish people had long awaited a coming Messiah. Jewish beliefs about the Me
 
 
 <!-- p27 -->
-- **Truth:** Jesus brings ultimate justice. In His first coming, He offered spiritual redemption and justice through the cross (<span class="x-scripture" data-type="ref" data-book="Colossians" data-chapter="2" data-verses="13-15" data-lang="en" data-version="NKJV">Colossians 2:13-15</span>). At His second coming, He will execute judgment on the wicked and establish perfect justice for all eternity (<span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="20" data-verses="11-15" data-lang="en" data-version="NKJV">Revelation 20:11-15</span>).
+- **Truth:** Jesus brings ultimate justice. In His first coming, He offered spiritual redemption and justice through the cross (<span class="x-scripture" data-type="ref" data-book="COL" data-chapter="2" data-verses="13-15" data-lang="en" data-version="NKJV">Colossians 2:13-15</span>). At His second coming, He will execute judgment on the wicked and establish perfect justice for all eternity (<span class="x-scripture" data-type="ref" data-book="REV" data-chapter="20" data-verses="11-15" data-lang="en" data-version="NKJV">Revelation 20:11-15</span>).
 
 
 <!-- p28 -->
@@ -158,7 +158,7 @@ Instead, Jesus established a kingdom that cannot be shaken. His mission was not 
 
 
 <!-- p40 -->
-<span class="x-scripture" data-type="quote" data-book="Luke" data-chapter="4" data-verses="16-21" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="LUK" data-chapter="4" data-verses="16-21" data-lang="en" data-version="NKJV">
 
 
 <!-- p41 -->
@@ -259,15 +259,15 @@ To fully reconcile humanity to God, the Messiah's mission required not only proc
 
 
 <!-- p62 -->
-The book of Hebrews explains at great length across its 13 chapters how Jesus became the perfect sacrifice, and was both the offering for sin, and the High Priest to offer it (Hebrews 3 & 4). The priesthood of Jesus is not of the Levitical line (after the tribe of Levi), but was in the manner of Melchizedek, who is said to have no beginning or end, meaning it’s not constrained to the patterns and habits of men (<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="7" data-verses="3" data-lang="en" data-version="NKJV">Hebrews 7:3</span>). The limitation of the Levitical priesthood is that it depends on the blood of bulls and goats (<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="9" data-verses="12-13" data-lang="en" data-version="NKJV">Hebrews 9:12-13</span>) whose sacrifice is insufficient for the permanent and lasting remission of sins. From our study on sin and sacrifice, we know that the consequence for sins of the people could be put off for a year (<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="10" data-verses="3" data-lang="en" data-version="NKJV">Hebrews 10:3</span>) during the day of atonement, but that this sacrifice had to be renewed constantly.
+The book of Hebrews explains at great length across its 13 chapters how Jesus became the perfect sacrifice, and was both the offering for sin, and the High Priest to offer it (Hebrews 3 & 4). The priesthood of Jesus is not of the Levitical line (after the tribe of Levi), but was in the manner of Melchizedek, who is said to have no beginning or end, meaning it’s not constrained to the patterns and habits of men (<span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="7" data-verses="3" data-lang="en" data-version="NKJV">Hebrews 7:3</span>). The limitation of the Levitical priesthood is that it depends on the blood of bulls and goats (<span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="9" data-verses="12-13" data-lang="en" data-version="NKJV">Hebrews 9:12-13</span>) whose sacrifice is insufficient for the permanent and lasting remission of sins. From our study on sin and sacrifice, we know that the consequence for sins of the people could be put off for a year (<span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="10" data-verses="3" data-lang="en" data-version="NKJV">Hebrews 10:3</span>) during the day of atonement, but that this sacrifice had to be renewed constantly.
 
 
 <!-- p63 -->
-Jesus, in dying on the cross (the accounts of which are in Matthew 27, Mark 15, John 19 and Luke 23) shed His blood, and made payment for the sins, past, present, and future, for of all of humanity. Isaiah 53 reveals Jesus as the suffering servant, who took the full weight of punishment and anguish on Himself. His one-time death became the final, ultimate sacrifice. Jesus is the lamb of God (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="1" data-verses="29" data-lang="en" data-version="NKJV">John 1:29</span>), without spot or wrinkle (sin); because He was perfect and complete and holy, the shedding of His innocent blood made atonement possible. **No more sacrifices are needed or acceptable. The old ones were only temporary-but Jesus’ was complete and final.**
+Jesus, in dying on the cross (the accounts of which are in Matthew 27, Mark 15, John 19 and Luke 23) shed His blood, and made payment for the sins, past, present, and future, for of all of humanity. Isaiah 53 reveals Jesus as the suffering servant, who took the full weight of punishment and anguish on Himself. His one-time death became the final, ultimate sacrifice. Jesus is the lamb of God (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="1" data-verses="29" data-lang="en" data-version="NKJV">John 1:29</span>), without spot or wrinkle (sin); because He was perfect and complete and holy, the shedding of His innocent blood made atonement possible. **No more sacrifices are needed or acceptable. The old ones were only temporary-but Jesus’ was complete and final.**
 
 
 <!-- p64 -->
-Through death and resurrection, we have a new and better covenant (<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="8" data-verses="6" data-lang="en" data-version="NKJV">Hebrews 8:6</span>), one secured with the blood of God's own son, Jesus is the mediator of the covenant, He is the go-between. Through the sacrifice of Christ, we receive salvation, and He is the author of *‘eternal salvation to all those who obey Him*’ (<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="5" data-verses="9" data-lang="en" data-version="NKJV">Hebrews 5:9</span>).
+Through death and resurrection, we have a new and better covenant (<span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="8" data-verses="6" data-lang="en" data-version="NKJV">Hebrews 8:6</span>), one secured with the blood of God's own son, Jesus is the mediator of the covenant, He is the go-between. Through the sacrifice of Christ, we receive salvation, and He is the author of *‘eternal salvation to all those who obey Him*’ (<span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="5" data-verses="9" data-lang="en" data-version="NKJV">Hebrews 5:9</span>).
 
 
 <!-- p65 -->
@@ -307,12 +307,12 @@ Jesus’s sacrifice paid the price for us to be forgiven and made a way for us t
 
 
 <!-- p74 -->
-When we accept Jesus, by faith (discussed later), we receive His salvation. This salvation connects us with God and puts our name in the ***Lamb’s Book of Life*** (<span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="20" data-verses="11-15" data-lang="en" data-version="NKJV">Revelation 20:11-15</span>). The Gospel of John says:
+When we accept Jesus, by faith (discussed later), we receive His salvation. This salvation connects us with God and puts our name in the ***Lamb’s Book of Life*** (<span class="x-scripture" data-type="ref" data-book="REV" data-chapter="20" data-verses="11-15" data-lang="en" data-version="NKJV">Revelation 20:11-15</span>). The Gospel of John says:
 
 
 
 <!-- p75 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="3" data-verses="16" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JHN" data-chapter="3" data-verses="16" data-lang="en" data-version="NKJV">
 
 
 <!-- p76 -->
@@ -334,7 +334,7 @@ To perish means to be ruined-like fruit that goes bad before it can be enjoyed. 
 
 
 <!-- p80 -->
-<span class="x-scripture" data-type="quote" data-book="2 Corinthians" data-chapter="5" data-verses="17" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="2CO" data-chapter="5" data-verses="17" data-lang="en" data-version="NKJV">
 
 
 <!-- p81 -->
@@ -347,12 +347,12 @@ To perish means to be ruined-like fruit that goes bad before it can be enjoyed. 
 
 
 <!-- p83 -->
-When we accept Jesus, we become ‘born-again’. This phrase is used by Jesus to describe a transition point, where we become born of the spirit (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="3" data-verses="1-15" data-lang="en" data-version="NKJV">John 3:1-15</span>). It happens through faith-by choosing to trust Him fully, like entering a marriage covenant, with both heart and words.
+When we accept Jesus, we become ‘born-again’. This phrase is used by Jesus to describe a transition point, where we become born of the spirit (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="3" data-verses="1-15" data-lang="en" data-version="NKJV">John 3:1-15</span>). It happens through faith-by choosing to trust Him fully, like entering a marriage covenant, with both heart and words.
 
 
 
 <!-- p84 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="10" data-verses="9-10" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="ROM" data-chapter="10" data-verses="9-10" data-lang="en" data-version="NKJV">
 
 
 <!-- p85 -->
@@ -373,19 +373,19 @@ When we put our trust in Jesus and receive him, we become born again, not of fle
 
 
 <!-- p89 -->
-1.  When we accepted Jesus, God wiped away our sins and declared us forgiven (**justified**). He gave us a fresh start. The dividing wall between us and Him is removed. (<span class="x-scripture" data-type="ref" data-book="Titus" data-chapter="3" data-verses="5" data-lang="en" data-version="NKJV">Titus 3:5</span>)
+1.  When we accepted Jesus, God wiped away our sins and declared us forgiven (**justified**). He gave us a fresh start. The dividing wall between us and Him is removed. (<span class="x-scripture" data-type="ref" data-book="TIT" data-chapter="3" data-verses="5" data-lang="en" data-version="NKJV">Titus 3:5</span>)
 
 
 <!-- p90 -->
-2.  We became spiritually **regenerated** and received the indwelling of the Holy Spirit. (<span class="x-scripture" data-type="ref" data-book="1 Corinthians" data-chapter="6" data-verses="19" data-lang="en" data-version="NKJV">1 Corinthians 6:19</span>).
+2.  We became spiritually **regenerated** and received the indwelling of the Holy Spirit. (<span class="x-scripture" data-type="ref" data-book="1CO" data-chapter="6" data-verses="19" data-lang="en" data-version="NKJV">1 Corinthians 6:19</span>).
 
 
 <!-- p91 -->
-3.  We became **adopted** into the family of God and became heirs. (<span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="1" data-verses="5" data-lang="en" data-version="NKJV">Ephesians 1:5</span>)
+3.  We became **adopted** into the family of God and became heirs. (<span class="x-scripture" data-type="ref" data-book="EPH" data-chapter="1" data-verses="5" data-lang="en" data-version="NKJV">Ephesians 1:5</span>)
 
 
 <!-- p92 -->
-4.  We receive a source of spiritual nourishment, and eternal protection. (<span class="x-scripture" data-type="ref" data-book="1 Peter" data-chapter="2" data-verses="2" data-lang="en" data-version="NKJV">1 Peter 2:2</span>)
+4.  We receive a source of spiritual nourishment, and eternal protection. (<span class="x-scripture" data-type="ref" data-book="1PE" data-chapter="2" data-verses="2" data-lang="en" data-version="NKJV">1 Peter 2:2</span>)
 
 
 <!-- p93 -->
@@ -421,7 +421,7 @@ When we put our trust in Jesus and receive him, we become born again, not of fle
 
 
 <!-- p101 -->
-2.  **Exploring Scripture:** *Read <span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="61" data-verses="1-3" data-lang="en" data-version="NKJV">Isaiah 61:1-3</span> and <span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="4" data-verses="16-21" data-lang="en" data-version="NKJV">Luke 4:16-21</span>. How did Jesus fulfill these prophecies, and what does that mean for us today?*
+2.  **Exploring Scripture:** *Read <span class="x-scripture" data-type="ref" data-book="ISA" data-chapter="61" data-verses="1-3" data-lang="en" data-version="NKJV">Isaiah 61:1-3</span> and <span class="x-scripture" data-type="ref" data-book="LUK" data-chapter="4" data-verses="16-21" data-lang="en" data-version="NKJV">Luke 4:16-21</span>. How did Jesus fulfill these prophecies, and what does that mean for us today?*
 
 
 <!-- p102 -->
@@ -433,6 +433,6 @@ When we put our trust in Jesus and receive him, we become born again, not of fle
 
 
 <!-- p104 -->
-5.  **Born-Again Reflection:** *How does the idea of being “born again” (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="3" data-verses="3-7" data-lang="en" data-version="NKJV">John 3:3-7</span>) relate to Jesus’ mission as the Messiah? How does it shape our identity and purpose?*
+5.  **Born-Again Reflection:** *How does the idea of being “born again” (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="3" data-verses="3-7" data-lang="en" data-version="NKJV">John 3:3-7</span>) relate to Jesus’ mission as the Messiah? How does it shape our identity and purpose?*
 
 

@@ -55,10 +55,10 @@
 <p><strong>Examples in Scripture</strong></p>
 </blockquote></td>
 <td><blockquote>
-<p>Jesus' authority to forgive sins (<em><span class="x-scripture" data-type="ref" data-book="Mark" data-chapter="2" data-verses="10" data-lang="en" data-version="NKJV">Mark 2:10</span></em>).</p>
+<p>Jesus' authority to forgive sins (<em><span class="x-scripture" data-type="ref" data-book="MRK" data-chapter="2" data-verses="10" data-lang="en" data-version="NKJV">Mark 2:10</span></em>).</p>
 </blockquote></td>
 <td><blockquote>
-<p>Jesus' miraculous works through the Holy Spirit (<em><span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="6" data-verses="19" data-lang="en" data-version="NKJV">Luke 6:19</span></em>).</p>
+<p>Jesus' miraculous works through the Holy Spirit (<em><span class="x-scripture" data-type="ref" data-book="LUK" data-chapter="6" data-verses="19" data-lang="en" data-version="NKJV">Luke 6:19</span></em>).</p>
 </blockquote></td>
 </tr>
 <tr>

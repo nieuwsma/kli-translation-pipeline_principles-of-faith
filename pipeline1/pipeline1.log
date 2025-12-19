@@ -1,0 +1,139 @@
+Checking: /Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md
+------------------------------------------------------------
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:4546: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:4634: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:4710: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:4817: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:4901: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:5025: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:5219: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:5289: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:5411: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:5515: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:5595: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:5718: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:2923: WARNING: [length] Line length 1147 exceeds 1000.
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:5827: WARNING: [length] Line length 1105 exceeds 1000.
+------------------------------------------------------------
+CSV report written: /Users/andrew/repo/translate_principles_of_faith/pipeline1/preflight/check_report.csv
+Fixed file written: /Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md (0 fixes)
+------------------------------------------------------------
+Summary: 0 error(s), 14 warning(s), 0 fix(es)
+[OK] principles_of_faith.md → principles_of_faith_annotated.md (blocks=136, inline_refs=928, lines=6687)
+
+Done. Files: 1 | Blocks: 136 | Inline refs: 928 | Lines: 6687
+🗑️  Deleted existing /Users/andrew/repo/translate_principles_of_faith/pipeline1/AUTOGEN/
+✅ Saved chapter0_0_intro.md
+✅ Saved chapter0_1_dedication.md
+✅ Saved chapter0_2_acknowledgements.md
+✅ Saved chapter0_3_table_of_contents.md
+✅ Saved chapter0_4_list_of_tables.md
+✅ Saved chapter0_5_foreword.md
+✅ Saved chapter0_6_preface.md
+📊 Extracted table1.md
+✅ Saved chapter1_chapter_1_sound_doctrine_matters.md
+✅ Saved chapter2_chapter_2_god_eternal_creator_and_loving_father.md
+📊 Extracted table2.md
+📊 Extracted table3.md
+✅ Saved chapter3_chapter_3_sin_and_redemption.md
+✅ Saved chapter4_chapter_4_jesus_the_messiah.md
+📊 Extracted table4.md
+✅ Saved chapter5_chapter_5_repentance_from_dead_works.md
+📊 Extracted table5.md
+✅ Saved chapter6_chapter_6_faith_toward_god.md
+✅ Saved chapter7_chapter_7_jesus_the_foundation_of_our_faith.md
+✅ Saved chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md
+✅ Saved chapter9_chapter_9_the_church_our_role_in_it.md
+✅ Saved chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md
+✅ Saved chapter11_chapter_11_baptisms_water_and_spirit.md
+📊 Extracted table6.md
+✅ Saved chapter12_chapter_12_discipleship.md
+📊 Extracted table7.md
+📊 Extracted table8.md
+📊 Extracted table9.md
+✅ Saved chapter13_chapter_13_spiritual_authority.md
+✅ Saved chapter14_chapter_14_keep_watch.md
+✅ Saved chapter14_back_1_postscript.md
+Skipping empty chapter: chapter14_back_2_appendix.md
+📊 Extracted table10.md
+📊 Extracted table11.md
+📊 Extracted table12.md
+✅ Saved chapter14_back_3_extended_reference_tables.md
+✅ Saved chapter14_back_4_end_of_chapter_activities.md
+✅ Saved chapter14_back_5_hearing_the_voice_of_god.md
+
+✅ Finished splitting /Users/andrew/repo/translate_principles_of_faith/pipeline1/annotated/principles_of_faith_annotated.md
+📁 Chapters saved to: /Users/andrew/repo/translate_principles_of_faith/pipeline1/AUTOGEN/chapters
+📊 Tables saved to: /Users/andrew/repo/translate_principles_of_faith/pipeline1/AUTOGEN/tables
+Traceback (most recent call last):
+  File "/Users/andrew/repo/ai_translation/./scripts/build_requested_verses.py", line 15, in <module>
+    from bs4 import BeautifulSoup
+ModuleNotFoundError: No module named 'bs4'
+Checking: /Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md
+------------------------------------------------------------
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:4546: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:4634: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:4710: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:4817: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:4901: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:5025: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:5219: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:5289: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:5411: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:5515: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:5595: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:5718: WARNING: [heading] Found '## Chapter ...' (use single '#' for top-level chapters).
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:2923: WARNING: [length] Line length 1147 exceeds 1000.
+/Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md:5827: WARNING: [length] Line length 1105 exceeds 1000.
+------------------------------------------------------------
+CSV report written: /Users/andrew/repo/translate_principles_of_faith/pipeline1/preflight/check_report.csv
+Fixed file written: /Users/andrew/repo/translate_principles_of_faith/pipeline1/raw/principles_of_faith.md (0 fixes)
+------------------------------------------------------------
+Summary: 0 error(s), 14 warning(s), 0 fix(es)
+[OK] principles_of_faith.md → principles_of_faith_annotated.md (blocks=136, inline_refs=928, lines=6687)
+
+Done. Files: 1 | Blocks: 136 | Inline refs: 928 | Lines: 6687
+🗑️  Deleted existing /Users/andrew/repo/translate_principles_of_faith/pipeline1/AUTOGEN/
+✅ Saved chapter0_0_intro.md
+✅ Saved chapter0_1_dedication.md
+✅ Saved chapter0_2_acknowledgements.md
+✅ Saved chapter0_3_table_of_contents.md
+✅ Saved chapter0_4_list_of_tables.md
+✅ Saved chapter0_5_foreword.md
+✅ Saved chapter0_6_preface.md
+📊 Extracted table1.md
+✅ Saved chapter1_chapter_1_sound_doctrine_matters.md
+✅ Saved chapter2_chapter_2_god_eternal_creator_and_loving_father.md
+📊 Extracted table2.md
+📊 Extracted table3.md
+✅ Saved chapter3_chapter_3_sin_and_redemption.md
+✅ Saved chapter4_chapter_4_jesus_the_messiah.md
+📊 Extracted table4.md
+✅ Saved chapter5_chapter_5_repentance_from_dead_works.md
+📊 Extracted table5.md
+✅ Saved chapter6_chapter_6_faith_toward_god.md
+✅ Saved chapter7_chapter_7_jesus_the_foundation_of_our_faith.md
+✅ Saved chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md
+✅ Saved chapter9_chapter_9_the_church_our_role_in_it.md
+✅ Saved chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md
+✅ Saved chapter11_chapter_11_baptisms_water_and_spirit.md
+📊 Extracted table6.md
+✅ Saved chapter12_chapter_12_discipleship.md
+📊 Extracted table7.md
+📊 Extracted table8.md
+📊 Extracted table9.md
+✅ Saved chapter13_chapter_13_spiritual_authority.md
+✅ Saved chapter14_chapter_14_keep_watch.md
+✅ Saved chapter14_back_1_postscript.md
+Skipping empty chapter: chapter14_back_2_appendix.md
+📊 Extracted table10.md
+📊 Extracted table11.md
+📊 Extracted table12.md
+✅ Saved chapter14_back_3_extended_reference_tables.md
+✅ Saved chapter14_back_4_end_of_chapter_activities.md
+✅ Saved chapter14_back_5_hearing_the_voice_of_god.md
+
+✅ Finished splitting /Users/andrew/repo/translate_principles_of_faith/pipeline1/annotated/principles_of_faith_annotated.md
+📁 Chapters saved to: /Users/andrew/repo/translate_principles_of_faith/pipeline1/AUTOGEN/chapters
+📊 Tables saved to: /Users/andrew/repo/translate_principles_of_faith/pipeline1/AUTOGEN/tables
+✅ Wrote /Users/andrew/repo/translate_principles_of_faith/pipeline1/requested_verses.json (books: 48)

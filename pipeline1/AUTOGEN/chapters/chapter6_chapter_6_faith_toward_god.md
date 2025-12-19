@@ -10,7 +10,7 @@ The writer of Hebrews instructs us that we are to have ‘faith towards God’.
 
 
 <!-- p3 -->
-<span class="x-scripture" data-type="quote" data-book="Hebrews" data-chapter="6" data-verses="1-2" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="HEB" data-chapter="6" data-verses="1-2" data-lang="en" data-version="NKJV">
 
 
 <!-- p4 -->
@@ -47,7 +47,7 @@ Faith is a commonly misunderstood and misrepresented aspect of Christianity. As 
 
 
 <!-- p12 -->
-Faith misrepresented <u>abstractly</u> has no specific conviction or persuasion. This is often evident with a bit of probing as this representation of faith cannot be made specific. If you ask, ‘what do you believe’ or ‘why do you believe’ the person with this understanding of faith often cannot clarify beyond ‘I believe’. <span class="x-scripture" data-type="ref" data-book="1 Peter" data-chapter="3" data-verses="15" data-lang="en" data-version="NKJV">1 Peter 3:15</span> says we should be ready to give an answer for the hope that is in us.
+Faith misrepresented <u>abstractly</u> has no specific conviction or persuasion. This is often evident with a bit of probing as this representation of faith cannot be made specific. If you ask, ‘what do you believe’ or ‘why do you believe’ the person with this understanding of faith often cannot clarify beyond ‘I believe’. <span class="x-scripture" data-type="ref" data-book="1PE" data-chapter="3" data-verses="15" data-lang="en" data-version="NKJV">1 Peter 3:15</span> says we should be ready to give an answer for the hope that is in us.
 
 
 <!-- p13 -->
@@ -95,7 +95,7 @@ Developing faith, persuasion, and trust in a relationship takes time and experie
 
 
 <!-- p24 -->
-Jesus is the author and perfecter of our faith (<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="12" data-verses="2" data-lang="en" data-version="NKJV">Hebrews 12:2</span>). Our faith is designed to be continually growing and expanding. We don’t reach a single point where we have enough ‘faith’, but rather our faith increases. Consider a deep and personal relationship you have in your life today. As in any relationship we don't arrive at a specific milestone where now we ‘know’ the person. We continue to know them, and increase our knowledge of them, and this refines, shapes, and grows our relationship.
+Jesus is the author and perfecter of our faith (<span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="12" data-verses="2" data-lang="en" data-version="NKJV">Hebrews 12:2</span>). Our faith is designed to be continually growing and expanding. We don’t reach a single point where we have enough ‘faith’, but rather our faith increases. Consider a deep and personal relationship you have in your life today. As in any relationship we don't arrive at a specific milestone where now we ‘know’ the person. We continue to know them, and increase our knowledge of them, and this refines, shapes, and grows our relationship.
 
 
 <!-- p25 -->
@@ -132,7 +132,7 @@ Consider this passage from Romans:
 
 
 <!-- p33 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="10" data-verses="16-17" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="ROM" data-chapter="10" data-verses="16-17" data-lang="en" data-version="NKJV">
 
 
 <!-- p34 -->
@@ -185,11 +185,11 @@ Three of four months passed, I kept working hard and faithfully, keeping my atti
 
 
 <!-- p46 -->
-I could have continued my job search; I could have left. I could have started somewhere new. No doubt someone else would have gotten that promotion! But because I sought the Lord’s counsel and was persuaded in His **rhema word**, I obeyed, and received the benefit. God’s words are **alive and personal**, and He promises to give us manifold and liberal wisdom (<span class="x-scripture" data-type="ref" data-book="James" data-chapter="1" data-verses="5" data-lang="en" data-version="NKJV">James 1:5</span>).
+I could have continued my job search; I could have left. I could have started somewhere new. No doubt someone else would have gotten that promotion! But because I sought the Lord’s counsel and was persuaded in His **rhema word**, I obeyed, and received the benefit. God’s words are **alive and personal**, and He promises to give us manifold and liberal wisdom (<span class="x-scripture" data-type="ref" data-book="JAS" data-chapter="1" data-verses="5" data-lang="en" data-version="NKJV">James 1:5</span>).
 
 
 <!-- p47 -->
-I have dozens if not hundreds of times where I have prayed and asked God what to do and He has given me a rhema word. Not each had the same spectacular outcome, but they all brought a sense of peace and confidence that I was obeying God and that He would work things out. They were the words I needed for the moment! Many times, when God brings a rhema word, it's from the logos. He will bring to my memory a passage of scripture, “*Fear not for I am with you!*” (<span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="41" data-verses="10" data-lang="en" data-version="NKJV">Isaiah 41:10</span>), “*By his stripes we are healed”* (<span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="53" data-verses="5" data-lang="en" data-version="NKJV">Isaiah 53:5</span>), “*Do not grow weary in doing good!”* (<span class="x-scripture" data-type="ref" data-book="Galatians" data-chapter="6" data-verses="9" data-lang="en" data-version="NKJV">Galatians 6:9</span>), manifold examples continue!
+I have dozens if not hundreds of times where I have prayed and asked God what to do and He has given me a rhema word. Not each had the same spectacular outcome, but they all brought a sense of peace and confidence that I was obeying God and that He would work things out. They were the words I needed for the moment! Many times, when God brings a rhema word, it's from the logos. He will bring to my memory a passage of scripture, “*Fear not for I am with you!*” (<span class="x-scripture" data-type="ref" data-book="ISA" data-chapter="41" data-verses="10" data-lang="en" data-version="NKJV">Isaiah 41:10</span>), “*By his stripes we are healed”* (<span class="x-scripture" data-type="ref" data-book="ISA" data-chapter="53" data-verses="5" data-lang="en" data-version="NKJV">Isaiah 53:5</span>), “*Do not grow weary in doing good!”* (<span class="x-scripture" data-type="ref" data-book="GAL" data-chapter="6" data-verses="9" data-lang="en" data-version="NKJV">Galatians 6:9</span>), manifold examples continue!
 
 
 <!-- p48 -->
@@ -197,7 +197,7 @@ Receiving a rhema word not only strengthens our faith but also deepens our relat
 
 
 <!-- p49 -->
-Our faith is also strengthened by what we see God do, but sometimes what we see in the natural world challenges what we hear from God. Reconciling the inconsistency between what we see and hear is an important ministry of the Holy Spirit, who promises to lead us in to all truth (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="16" data-verses="13" data-lang="en" data-version="NKJV">John 16:13</span>).
+Our faith is also strengthened by what we see God do, but sometimes what we see in the natural world challenges what we hear from God. Reconciling the inconsistency between what we see and hear is an important ministry of the Holy Spirit, who promises to lead us in to all truth (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="16" data-verses="13" data-lang="en" data-version="NKJV">John 16:13</span>).
 
 
 <!-- p50 -->
@@ -210,7 +210,7 @@ After His resurrection, Jesus appeared multiple times to many of His disciples. 
 
 
 <!-- p52 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="20" data-verses="24-29" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JHN" data-chapter="20" data-verses="24-29" data-lang="en" data-version="NKJV">
 
 
 <!-- p53 -->
@@ -235,7 +235,7 @@ After His resurrection, Jesus appeared multiple times to many of His disciples. 
 
 
 <!-- p55 -->
-When Jesus appeared to His disciples and calmed them down (I imagine it's quite alarming when someone appears in your midst, having come through locked doors), He spoke to Thomas. He did not criticize or blame Thomas or accuse him as part of the wicked and perverse generation seeking a sign (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="16" data-verses="4" data-lang="en" data-version="NKJV">Matthew 16:4</span>) but revealed Himself to Thomas.
+When Jesus appeared to His disciples and calmed them down (I imagine it's quite alarming when someone appears in your midst, having come through locked doors), He spoke to Thomas. He did not criticize or blame Thomas or accuse him as part of the wicked and perverse generation seeking a sign (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="16" data-verses="4" data-lang="en" data-version="NKJV">Matthew 16:4</span>) but revealed Himself to Thomas.
 
 
 <!-- p56 -->
@@ -252,7 +252,7 @@ If we could only have faith in what we have seen demonstrated, then Paul's encou
 
 
 <!-- p59 -->
-<span class="x-scripture" data-type="quote" data-book="Philippians" data-chapter="4" data-verses="6-7" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="PHP" data-chapter="4" data-verses="6-7" data-lang="en" data-version="NKJV">
 
 
 <!-- p60 -->
@@ -270,7 +270,7 @@ How could God’s peace protect our hearts, if we could not have confidence in H
 
 
 <!-- p63 -->
-<span class="x-scripture" data-type="quote" data-book="2 Corinthians" data-chapter="5" data-verses="7" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="2CO" data-chapter="5" data-verses="7" data-lang="en" data-version="NKJV">
 
 
 <!-- p64 -->
@@ -288,7 +288,7 @@ It is in growing our relationship with God that we can move beyond merely what w
 
 
 <!-- p67 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="4" data-verses="19-22" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="ROM" data-chapter="4" data-verses="19-22" data-lang="en" data-version="NKJV">
 
 
 <!-- p68 -->
@@ -338,7 +338,7 @@ Consider again this passage from Romans:
 
 
 <!-- p79 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="10" data-verses="16-17" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="ROM" data-chapter="10" data-verses="16-17" data-lang="en" data-version="NKJV">
 
 
 <!-- p80 -->
@@ -384,7 +384,7 @@ When we really listen to God, it should lead us to action-to trust Him and obey.
 
 
 <!-- p90 -->
-<span class="x-scripture" data-type="quote" data-book="James" data-chapter="1" data-verses="22" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JAS" data-chapter="1" data-verses="22" data-lang="en" data-version="NKJV">
 
 
 <!-- p91 -->
@@ -401,12 +401,12 @@ Consider again the example of financial independence. A person in debt that long
 
 
 <!-- p94 -->
-The book of James says that our belief (faith) must produce works! We already know what works is (e.g., ‘dead’ works from <span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="6" data-verses="1" data-lang="en" data-version="NKJV">Hebrews 6:1</span>).
+The book of James says that our belief (faith) must produce works! We already know what works is (e.g., ‘dead’ works from <span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="6" data-verses="1" data-lang="en" data-version="NKJV">Hebrews 6:1</span>).
 
 
 
 <!-- p95 -->
-<span class="x-scripture" data-type="quote" data-book="James" data-chapter="2" data-verses="14-20" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JAS" data-chapter="2" data-verses="14-20" data-lang="en" data-version="NKJV">
 
 
 <!-- p96 -->
@@ -441,7 +441,7 @@ We do not receive salvation through works! When we receive salvation (through fa
 
 
 <!-- p100 -->
-The outcome of these works (obedience) is that they yield a good and beneficial harvest. The length of time it takes to receive the harvest, or the measure of that harvest is varied, but it will produce a good harvest! (<span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="8" data-verses="22" data-lang="en" data-version="NKJV">Genesis 8:22</span>).
+The outcome of these works (obedience) is that they yield a good and beneficial harvest. The length of time it takes to receive the harvest, or the measure of that harvest is varied, but it will produce a good harvest! (<span class="x-scripture" data-type="ref" data-book="GEN" data-chapter="8" data-verses="22" data-lang="en" data-version="NKJV">Genesis 8:22</span>).
 
 
 <!-- p101 -->
@@ -450,7 +450,7 @@ Recalling back to our study on sin and sacrifices, we know that several of the s
 
 
 <!-- p102 -->
-<span class="x-scripture" data-type="quote" data-book="1 Samuel" data-chapter="15" data-verses="22" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="1SA" data-chapter="15" data-verses="22" data-lang="en" data-version="NKJV">
 
 
 <!-- p103 -->
@@ -483,7 +483,7 @@ It's very important in the life of every believer that they strengthen their fai
 
 
 <!-- p110 -->
-<span class="x-scripture" data-type="fragment" data-book="Deuteronomy" data-chapter="28" data-verses="1-14" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="fragment" data-book="DEU" data-chapter="28" data-verses="1-14" data-lang="en" data-version="NKJV">
 
 
 <!-- p111 -->
@@ -500,7 +500,7 @@ It's very important in the life of every believer that they strengthen their fai
 
 
 <!-- p114 -->
-<span class="x-scripture" data-type="quote" data-book="Psalm" data-chapter="32" data-verses="8" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="PSA" data-chapter="32" data-verses="8" data-lang="en" data-version="NKJV">
 
 
 <!-- p115 -->
@@ -517,7 +517,7 @@ It's very important in the life of every believer that they strengthen their fai
 
 
 <!-- p118 -->
-<span class="x-scripture" data-type="quote" data-book="1 John" data-chapter="3" data-verses="22" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="1JN" data-chapter="3" data-verses="22" data-lang="en" data-version="NKJV">
 
 
 <!-- p119 -->
@@ -534,7 +534,7 @@ It's very important in the life of every believer that they strengthen their fai
 
 
 <!-- p122 -->
-<span class="x-scripture" data-type="quote" data-book="Psalm" data-chapter="34" data-verses="7" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="PSA" data-chapter="34" data-verses="7" data-lang="en" data-version="NKJV">
 
 
 <!-- p123 -->
@@ -551,7 +551,7 @@ It's very important in the life of every believer that they strengthen their fai
 
 
 <!-- p126 -->
-<span class="x-scripture" data-type="quote" data-book="Psalm" data-chapter="119" data-verses="165" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="PSA" data-chapter="119" data-verses="165" data-lang="en" data-version="NKJV">
 
 
 <!-- p127 -->
@@ -568,7 +568,7 @@ It's very important in the life of every believer that they strengthen their fai
 
 
 <!-- p130 -->
-<span class="x-scripture" data-type="quote" data-book="Isaiah" data-chapter="1" data-verses="19" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="ISA" data-chapter="1" data-verses="19" data-lang="en" data-version="NKJV">
 
 
 <!-- p131 -->
@@ -585,7 +585,7 @@ It's very important in the life of every believer that they strengthen their fai
 
 
 <!-- p134 -->
-<span class="x-scripture" data-type="quote" data-book="Psalm" data-chapter="37" data-verses="23-24" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="PSA" data-chapter="37" data-verses="23-24" data-lang="en" data-version="NKJV">
 
 
 <!-- p135 -->
@@ -602,7 +602,7 @@ It's very important in the life of every believer that they strengthen their fai
 
 
 <!-- p138 -->
-<span class="x-scripture" data-type="fragment" data-book="Isaiah" data-chapter="40" data-verses="31" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="fragment" data-book="ISA" data-chapter="40" data-verses="31" data-lang="en" data-version="NKJV">
 
 
 <!-- p139 -->
@@ -619,7 +619,7 @@ It's very important in the life of every believer that they strengthen their fai
 
 
 <!-- p142 -->
-<span class="x-scripture" data-type="quote" data-book="Exodus" data-chapter="20" data-verses="6" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="EXO" data-chapter="20" data-verses="6" data-lang="en" data-version="NKJV">
 
 
 <!-- p143 -->
@@ -636,7 +636,7 @@ It's very important in the life of every believer that they strengthen their fai
 
 
 <!-- p146 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="2" data-verses="7" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="ROM" data-chapter="2" data-verses="7" data-lang="en" data-version="NKJV">
 
 
 <!-- p147 -->
@@ -685,27 +685,27 @@ Beyond core relational skills, there are specific practices and disciplines that
 
 
 <!-- p158 -->
-- **Build and Maintain a Prayer Life, Listen and Communicate with God.** Regular, heartfelt prayer is essential to a close relationship with God. Through prayer, you can share your worries, joys, and gratitude, seeking His guidance and strength. (*<span class="x-scripture" data-type="ref" data-book="Philippians" data-chapter="4" data-verses="6-7" data-lang="en" data-version="NKJV">Philippians 4:6-7</span>*) Being sensitive to the Holy Spirit’s voice helps you discern God’s will, find wisdom in decisions, and grow in spiritual maturity. Take time for quiet reflection to hear His direction. (*<span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="8" data-verses="14" data-lang="en" data-version="NKJV">Romans 8:14</span>*)
+- **Build and Maintain a Prayer Life, Listen and Communicate with God.** Regular, heartfelt prayer is essential to a close relationship with God. Through prayer, you can share your worries, joys, and gratitude, seeking His guidance and strength. (*<span class="x-scripture" data-type="ref" data-book="PHP" data-chapter="4" data-verses="6-7" data-lang="en" data-version="NKJV">Philippians 4:6-7</span>*) Being sensitive to the Holy Spirit’s voice helps you discern God’s will, find wisdom in decisions, and grow in spiritual maturity. Take time for quiet reflection to hear His direction. (*<span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="8" data-verses="14" data-lang="en" data-version="NKJV">Romans 8:14</span>*)
 
 
 <!-- p159 -->
-- **Spend Time in Worship.** Worship is a powerful way to draw close to God, expressing love and reverence. Through praise, song, or quiet reflection, worship deepens your awareness of His presence. (*<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="100" data-verses="2-4" data-lang="en" data-version="NKJV">Psalm 100:2-4</span>*)
+- **Spend Time in Worship.** Worship is a powerful way to draw close to God, expressing love and reverence. Through praise, song, or quiet reflection, worship deepens your awareness of His presence. (*<span class="x-scripture" data-type="ref" data-book="PSA" data-chapter="100" data-verses="2-4" data-lang="en" data-version="NKJV">Psalm 100:2-4</span>*)
 
 
 <!-- p160 -->
-- **Read, Study, and Meditate on Scripture.** God’s Word reveals His character, promises, and instructions for life. Dedicating time to studying Scripture helps you grow in faith, understanding, and spiritual resilience. (*<span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="3" data-verses="16-17" data-lang="en" data-version="NKJV">2 Timothy 3:16-17</span>*)
+- **Read, Study, and Meditate on Scripture.** God’s Word reveals His character, promises, and instructions for life. Dedicating time to studying Scripture helps you grow in faith, understanding, and spiritual resilience. (*<span class="x-scripture" data-type="ref" data-book="2TI" data-chapter="3" data-verses="16-17" data-lang="en" data-version="NKJV">2 Timothy 3:16-17</span>*)
 
 
 <!-- p161 -->
-- **Obey His Commandments.** Obedience to God’s instructions demonstrates your love, respect, and trust in Him. Walking in obedience aligns your life with His purpose and brings blessings. (*<span class="x-scripture" data-type="ref" data-book="John" data-chapter="14" data-verses="15" data-lang="en" data-version="NKJV">John 14:15</span>*)
+- **Obey His Commandments.** Obedience to God’s instructions demonstrates your love, respect, and trust in Him. Walking in obedience aligns your life with His purpose and brings blessings. (*<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="14" data-verses="15" data-lang="en" data-version="NKJV">John 14:15</span>*)
 
 
 <!-- p162 -->
-- **Actively Attend a Local Church and Serve.** Engaging in a church community offers spiritual support, encouragement, and opportunities to serve others. Being involved helps build a sense of belonging and strengthens your commitment to God’s mission. (*<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="10" data-verses="24-25" data-lang="en" data-version="NKJV">Hebrews 10:24-25</span>*)
+- **Actively Attend a Local Church and Serve.** Engaging in a church community offers spiritual support, encouragement, and opportunities to serve others. Being involved helps build a sense of belonging and strengthens your commitment to God’s mission. (*<span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="10" data-verses="24-25" data-lang="en" data-version="NKJV">Hebrews 10:24-25</span>*)
 
 
 <!-- p163 -->
-- **Build Relationships with Other Believers.** Fellowship with other Christians provides accountability, encouragement, and shared wisdom. These relationships enrich your faith journey and help you grow through mutual support. (*<span class="x-scripture" data-type="ref" data-book="Proverbs" data-chapter="27" data-verses="17" data-lang="en" data-version="NKJV">Proverbs 27:17</span>*)
+- **Build Relationships with Other Believers.** Fellowship with other Christians provides accountability, encouragement, and shared wisdom. These relationships enrich your faith journey and help you grow through mutual support. (*<span class="x-scripture" data-type="ref" data-book="PRO" data-chapter="27" data-verses="17" data-lang="en" data-version="NKJV">Proverbs 27:17</span>*)
 
 
 <!-- p164 -->
@@ -745,7 +745,7 @@ Our ‘faith towards God’ is not a one-time occurrence for salvation but is an
 
 
 <!-- p173 -->
-2.  **Exploring Scripture:** Read <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="10" data-verses="17" data-lang="en" data-version="NKJV">Romans 10:17</span>. What does this verse teach us about how faith grows? How can we apply it in our daily lives?
+2.  **Exploring Scripture:** Read <span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="10" data-verses="17" data-lang="en" data-version="NKJV">Romans 10:17</span>. What does this verse teach us about how faith grows? How can we apply it in our daily lives?
 
 
 <!-- p174 -->

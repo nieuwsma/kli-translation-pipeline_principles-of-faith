@@ -40,7 +40,7 @@
 </tr>
 <tr>
 <td><p><strong>Sin Offering</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="Leviticus" data-chapter="4" data-verses="1-5" data-lang="en" data-version="NKJV">Leviticus 4:1-5</span>:13</p></td>
+<p><span class="x-scripture" data-type="ref" data-book="LEV" data-chapter="4" data-verses="1-5" data-lang="en" data-version="NKJV">Leviticus 4:1-5</span>:13</p></td>
 <td><p><strong>Chatat</strong></p>
 <p>khah-TAHT</p>
 <p><strong>H2403</strong></p></td>
@@ -48,7 +48,7 @@
 </tr>
 <tr>
 <td><p><strong>Guilt Offering</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="Leviticus" data-chapter="5" data-verses="14-6" data-lang="en" data-version="NKJV">Leviticus 5:14-6</span>:7</p></td>
+<p><span class="x-scripture" data-type="ref" data-book="LEV" data-chapter="5" data-verses="14-6" data-lang="en" data-version="NKJV">Leviticus 5:14-6</span>:7</p></td>
 <td><p><strong>Asham</strong></p>
 <p>ah-SHAHM</p>
 <p><strong>H817</strong></p></td>

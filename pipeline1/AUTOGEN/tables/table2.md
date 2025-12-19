@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td><p><strong>Missing the Mark</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="4" data-verses="7" data-lang="en" data-version="NKJV">Genesis 4:7</span> (OT), <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="3" data-verses="23" data-lang="en" data-version="NKJV">Romans 3:23</span> (NT)</p></td>
+<p><span class="x-scripture" data-type="ref" data-book="GEN" data-chapter="4" data-verses="7" data-lang="en" data-version="NKJV">Genesis 4:7</span> (OT), <span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="3" data-verses="23" data-lang="en" data-version="NKJV">Romans 3:23</span> (NT)</p></td>
 <td><p><strong>Chata'</strong></p>
 <p>khaw-TAH</p>
 <p><strong>H2398</strong></p>
@@ -27,7 +27,7 @@
 </tr>
 <tr>
 <td><p><strong>Moral Corruption</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="2 Samuel" data-chapter="11" data-verses="4" data-lang="en" data-version="NKJV">2 Samuel 11:4</span> (OT), <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="1" data-verses="18" data-lang="en" data-version="NKJV">Romans 1:18</span> (NT)</p></td>
+<p><span class="x-scripture" data-type="ref" data-book="2SA" data-chapter="11" data-verses="4" data-lang="en" data-version="NKJV">2 Samuel 11:4</span> (OT), <span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="1" data-verses="18" data-lang="en" data-version="NKJV">Romans 1:18</span> (NT)</p></td>
 <td><p><strong>Avon</strong></p>
 <p>ah-VONE</p>
 <p><strong>H5771</strong></p>
@@ -38,7 +38,7 @@
 </tr>
 <tr>
 <td><p><strong>Rebellion</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="Exodus" data-chapter="32" data-verses="1-4" data-lang="en" data-version="NKJV">Exodus 32:1-4</span> (OT), <span class="x-scripture" data-type="ref" data-book="Galatians" data-chapter="3" data-verses="19" data-lang="en" data-version="NKJV">Galatians 3:19</span> (NT)</p></td>
+<p><span class="x-scripture" data-type="ref" data-book="EXO" data-chapter="32" data-verses="1-4" data-lang="en" data-version="NKJV">Exodus 32:1-4</span> (OT), <span class="x-scripture" data-type="ref" data-book="GAL" data-chapter="3" data-verses="19" data-lang="en" data-version="NKJV">Galatians 3:19</span> (NT)</p></td>
 <td><p><strong>Pesha</strong></p>
 <p>PEH-shah</p>
 <p><strong>H6588</strong></p>
@@ -49,7 +49,7 @@
 </tr>
 <tr>
 <td><p><strong>Wicked and Idolatry</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="19" data-verses="4-5" data-lang="en" data-version="NKJV">Genesis 19:4-5</span> (OT), <span class="x-scripture" data-type="ref" data-book="1 John" data-chapter="3" data-verses="4" data-lang="en" data-version="NKJV">1 John 3:4</span> (NT)</p></td>
+<p><span class="x-scripture" data-type="ref" data-book="GEN" data-chapter="19" data-verses="4-5" data-lang="en" data-version="NKJV">Genesis 19:4-5</span> (OT), <span class="x-scripture" data-type="ref" data-book="1JN" data-chapter="3" data-verses="4" data-lang="en" data-version="NKJV">1 John 3:4</span> (NT)</p></td>
 <td><p><strong>Awen</strong></p>
 <p>AH-wen</p>
 <p><strong>H205</strong></p>
@@ -60,7 +60,7 @@
 </tr>
 <tr>
 <td><p><strong>Trespass or Offense</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="Joshua" data-chapter="7" data-verses="1" data-lang="en" data-version="NKJV">Joshua 7:1</span> (OT), <span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="2" data-verses="1" data-lang="en" data-version="NKJV">Ephesians 2:1</span> (NT)</p></td>
+<p><span class="x-scripture" data-type="ref" data-book="JOS" data-chapter="7" data-verses="1" data-lang="en" data-version="NKJV">Joshua 7:1</span> (OT), <span class="x-scripture" data-type="ref" data-book="EPH" data-chapter="2" data-verses="1" data-lang="en" data-version="NKJV">Ephesians 2:1</span> (NT)</p></td>
 <td><p><strong>Asham</strong> ah-SHAHM</p>
 <p><strong>H817</strong></p>
 <p><strong>Paraptoma</strong></p>
@@ -70,7 +70,7 @@
 </tr>
 <tr>
 <td><p><strong>Unintended Sin</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="Leviticus" data-chapter="4" data-verses="2" data-lang="en" data-version="NKJV">Leviticus 4:2</span> (OT), <span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="9" data-verses="7" data-lang="en" data-version="NKJV">Hebrews 9:7</span> (NT context)</p></td>
+<p><span class="x-scripture" data-type="ref" data-book="LEV" data-chapter="4" data-verses="2" data-lang="en" data-version="NKJV">Leviticus 4:2</span> (OT), <span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="9" data-verses="7" data-lang="en" data-version="NKJV">Hebrews 9:7</span> (NT context)</p></td>
 <td><p><strong>Shawgaw</strong></p>
 <p>shaw-GAW</p>
 <p><strong>H7683</strong></p>

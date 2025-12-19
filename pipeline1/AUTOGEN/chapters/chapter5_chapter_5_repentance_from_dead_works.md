@@ -10,7 +10,7 @@ The author of Hebrews sets ‘repentance from dead works’ as the first item in
 
 
 <!-- p3 -->
-<span class="x-scripture" data-type="quote" data-book="Hebrews" data-chapter="6" data-verses="1" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="HEB" data-chapter="6" data-verses="1" data-lang="en" data-version="NKJV">
 
 
 <!-- p4 -->
@@ -120,7 +120,7 @@ Dead works are not God’s desire for us. God wants to bring us life!
 
 
 <!-- p30 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="10" data-verses="10" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JHN" data-chapter="10" data-verses="10" data-lang="en" data-version="NKJV">
 
 
 <!-- p31 -->
@@ -173,7 +173,7 @@ The term used in Hebrews is *repentance*. This is contrasted with the term *repe
 
 
 <!-- p43 -->
-<span class="x-scripture" data-type="quote" data-book="Matthew" data-chapter="4" data-verses="17" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="MAT" data-chapter="4" data-verses="17" data-lang="en" data-version="NKJV">
 
 
 <!-- p44 -->
@@ -211,7 +211,7 @@ How do we change our minds? Intentionally, through an experience with truth.
 
 
 <!-- p52 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="8" data-verses="31-32" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JHN" data-chapter="8" data-verses="31-32" data-lang="en" data-version="NKJV">
 
 
 <!-- p53 -->
@@ -225,7 +225,7 @@ How do we change our minds? Intentionally, through an experience with truth.
 
 
 <!-- p55 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="16" data-verses="13" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="JHN" data-chapter="16" data-verses="13" data-lang="en" data-version="NKJV">
 
 
 <!-- p56 -->
@@ -335,7 +335,7 @@ Jesus deals with this slow process and sometimes inability to change by speaking
 
 
 <!-- p82 -->
-<span class="x-scripture" data-type="fragment" data-book="Matthew" data-chapter="13" data-verses="10,11,13,15" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="fragment" data-book="MAT" data-chapter="13" data-verses="10,11,13,15" data-lang="en" data-version="NKJV">
 
 
 <!-- p83 -->
@@ -356,7 +356,7 @@ Jesus deals with this slow process and sometimes inability to change by speaking
 
 
 <!-- p85 -->
-Jesus is saying that He is using parables to slowly open the minds and the eyes of people who cannot see or understand the truth. The truth is like a blinding light, too much of it at one time forces us to close our eyes, it's too painful. By exposing ourselves to a portion of the light it brings illumination which causes us to see what darkness we are actually in. As we experience this illumination, we realize that the word of God is like a lamp to our path and a light into our feet (<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="119" data-verses="110" data-lang="en" data-version="NKJV">Psalm 119:110</span>) and that we can use the words of truth to bring light to any aspect of our life.
+Jesus is saying that He is using parables to slowly open the minds and the eyes of people who cannot see or understand the truth. The truth is like a blinding light, too much of it at one time forces us to close our eyes, it's too painful. By exposing ourselves to a portion of the light it brings illumination which causes us to see what darkness we are actually in. As we experience this illumination, we realize that the word of God is like a lamp to our path and a light into our feet (<span class="x-scripture" data-type="ref" data-book="PSA" data-chapter="119" data-verses="110" data-lang="en" data-version="NKJV">Psalm 119:110</span>) and that we can use the words of truth to bring light to any aspect of our life.
 
 
 <!-- p86 -->
@@ -373,7 +373,7 @@ As we really embrace this transformation we can pray as King David:
 
 
 <!-- p89 -->
-<span class="x-scripture" data-type="quote" data-book="Psalm" data-chapter="139" data-verses="23-24" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="PSA" data-chapter="139" data-verses="23-24" data-lang="en" data-version="NKJV">
 
 
 <!-- p90 -->
@@ -399,7 +399,7 @@ While hitting rock-bottom is more a myth than a certain precondition to change, 
 
 
 <!-- p95 -->
-<span class="x-scripture" data-type="quote" data-book="2 Corinthians" data-chapter="7" data-verses="10" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="2CO" data-chapter="7" data-verses="10" data-lang="en" data-version="NKJV">
 
 
 <!-- p96 -->
@@ -432,7 +432,7 @@ Sorrow, suffering, and grief are closely related ideas. In the human condition w
 
 
 <!-- p103 -->
-The scriptures say every good and perfect gift is from God above (<span class="x-scripture" data-type="ref" data-book="James" data-chapter="1" data-verses="17" data-lang="en" data-version="NKJV">James 1:17</span>). He is a good Father who knows how to give good gifts to His children (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="7" data-verses="11" data-lang="en" data-version="NKJV">Matthew 7:11</span>). Godly sorrow will cause discomfort, but His discipline is just and loving. Just as a good father would not intentionally break his child’s arm to ‘teach him a lesson’, God will not inflict sickness or disease on His children to teach us.
+The scriptures say every good and perfect gift is from God above (<span class="x-scripture" data-type="ref" data-book="JAS" data-chapter="1" data-verses="17" data-lang="en" data-version="NKJV">James 1:17</span>). He is a good Father who knows how to give good gifts to His children (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="7" data-verses="11" data-lang="en" data-version="NKJV">Matthew 7:11</span>). Godly sorrow will cause discomfort, but His discipline is just and loving. Just as a good father would not intentionally break his child’s arm to ‘teach him a lesson’, God will not inflict sickness or disease on His children to teach us.
 
 
 <!-- p104 -->
@@ -477,7 +477,7 @@ God's unrelenting goodness, to be willing to redeem us and restore us if we come
 
 
 <!-- p114 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="2" data-verses="4" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="ROM" data-chapter="2" data-verses="4" data-lang="en" data-version="NKJV">
 
 
 <!-- p115 -->
@@ -503,7 +503,7 @@ I do not know why some people get stuck and others are so ready to change, but I
 
 
 <!-- p120 -->
-<span class="x-scripture" data-type="quote" data-book="Ephesians" data-chapter="2" data-verses="8-10" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="EPH" data-chapter="2" data-verses="8-10" data-lang="en" data-version="NKJV">
 
 
 <!-- p121 -->
@@ -520,7 +520,7 @@ The process of repentance begins before we accept Jesus as our personal Lord and
 
 
 <!-- p124 -->
-Repentance can be a purely natural process, but repentance is also the work of the Spirit calling out to us, opening our eyes to the truth, changing our hearts, beckoning us to be transformed. <span class="x-scripture" data-type="ref" data-book="Galatians" data-chapter="6" data-verses="1" data-lang="en" data-version="NKJV">Galatians 6:1</span> reminds us that some will be ‘stuck’ in a trespass (sin) and need help to get unstuck! That help comes in the form of mature men and women who help restore us in a spirit of gentleness.
+Repentance can be a purely natural process, but repentance is also the work of the Spirit calling out to us, opening our eyes to the truth, changing our hearts, beckoning us to be transformed. <span class="x-scripture" data-type="ref" data-book="GAL" data-chapter="6" data-verses="1" data-lang="en" data-version="NKJV">Galatians 6:1</span> reminds us that some will be ‘stuck’ in a trespass (sin) and need help to get unstuck! That help comes in the form of mature men and women who help restore us in a spirit of gentleness.
 
 
 <!-- p125 -->
@@ -544,23 +544,23 @@ To cover his actions, David recalls Uriah from the battlefield, hoping he will s
 
 
 <!-- p130 -->
-The Lord is displeased with David's actions and sends the prophet Nathan to confront him. When confronted by the prophet, David immediately admitted, "*I have sinned against the Lord*" (<span class="x-scripture" data-type="ref" data-book="2 Samuel" data-chapter="12" data-verses="13" data-lang="en" data-version="NKJV">2 Samuel 12:13</span>). David did not try to justify or excuse his actions. This confession was the first step in his repentance, acknowledging his wrongdoing directly to God.
+The Lord is displeased with David's actions and sends the prophet Nathan to confront him. When confronted by the prophet, David immediately admitted, "*I have sinned against the Lord*" (<span class="x-scripture" data-type="ref" data-book="2SA" data-chapter="12" data-verses="13" data-lang="en" data-version="NKJV">2 Samuel 12:13</span>). David did not try to justify or excuse his actions. This confession was the first step in his repentance, acknowledging his wrongdoing directly to God.
 
 
 <!-- p131 -->
-In Psalm 51, David’s words, “*For I know my transgressions, and my sin is always before me,*” show his complete ownership of his actions. He expresses grief not only for the sin itself but also for how it offended God, saying, “*Against you, you only, have I sinned.*” David displayed "*a broken and contrite heart,*" an essential part of true repentance (<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="51" data-verses="17" data-lang="en" data-version="NKJV">Psalm 51:17</span>). This sorrow wasn’t superficial; he deeply grieved over the sin he committed and the hurt it caused. This depth of remorse was a sign that he wanted not only forgiveness but a changed heart.
+In Psalm 51, David’s words, “*For I know my transgressions, and my sin is always before me,*” show his complete ownership of his actions. He expresses grief not only for the sin itself but also for how it offended God, saying, “*Against you, you only, have I sinned.*” David displayed "*a broken and contrite heart,*" an essential part of true repentance (<span class="x-scripture" data-type="ref" data-book="PSA" data-chapter="51" data-verses="17" data-lang="en" data-version="NKJV">Psalm 51:17</span>). This sorrow wasn’t superficial; he deeply grieved over the sin he committed and the hurt it caused. This depth of remorse was a sign that he wanted not only forgiveness but a changed heart.
 
 
 <!-- p132 -->
-David asked God to “*Create in me a pure heart, O God, and renew a steadfast spirit within me”* (<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="51" data-verses="10" data-lang="en" data-version="NKJV">Psalm 51:10</span>). He sought an inner transformation that would prevent him from repeating the same mistakes. Rather than just apologizing, David pleaded with God to cleanse him, saying, “*Wash me, and I will be whiter than snow*” (<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="51" data-verses="7" data-lang="en" data-version="NKJV">Psalm 51:7</span>). He recognized that only God could purify his heart and restore his joy.
+David asked God to “*Create in me a pure heart, O God, and renew a steadfast spirit within me”* (<span class="x-scripture" data-type="ref" data-book="PSA" data-chapter="51" data-verses="10" data-lang="en" data-version="NKJV">Psalm 51:10</span>). He sought an inner transformation that would prevent him from repeating the same mistakes. Rather than just apologizing, David pleaded with God to cleanse him, saying, “*Wash me, and I will be whiter than snow*” (<span class="x-scripture" data-type="ref" data-book="PSA" data-chapter="51" data-verses="7" data-lang="en" data-version="NKJV">Psalm 51:7</span>). He recognized that only God could purify his heart and restore his joy.
 
 
 <!-- p133 -->
-David’s desire to be renewed spiritually reflects a genuine commitment to walk in God’s ways moving forward. His request for a “*willing spirit*” (<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="51" data-verses="12" data-lang="en" data-version="NKJV">Psalm 51:12</span>) demonstrates his hope to be aligned with God in every part of his life.
+David’s desire to be renewed spiritually reflects a genuine commitment to walk in God’s ways moving forward. His request for a “*willing spirit*” (<span class="x-scripture" data-type="ref" data-book="PSA" data-chapter="51" data-verses="12" data-lang="en" data-version="NKJV">Psalm 51:12</span>) demonstrates his hope to be aligned with God in every part of his life.
 
 
 <!-- p134 -->
-Although God put away David’s sin, the Lord struck the child and he was very sick. David fasted, prayed, and pleaded with God to spare the child, but when the child died, David accepted it (<span class="x-scripture" data-type="ref" data-book="2 Samuel" data-chapter="12" data-verses="15-23" data-lang="en" data-version="NKJV">2 Samuel 12:15-23</span>).
+Although God put away David’s sin, the Lord struck the child and he was very sick. David fasted, prayed, and pleaded with God to spare the child, but when the child died, David accepted it (<span class="x-scripture" data-type="ref" data-book="2SA" data-chapter="12" data-verses="15-23" data-lang="en" data-version="NKJV">2 Samuel 12:15-23</span>).
 
 
 <!-- p135 -->
@@ -604,7 +604,7 @@ David’s repentance journey was not simply about feeling sorry; it was a profou
 
 
 <!-- p145 -->
-2.  **Exploring Scripture:** *Read <span class="x-scripture" data-type="ref" data-book="2 Corinthians" data-chapter="7" data-verses="10" data-lang="en" data-version="NKJV">2 Corinthians 7:10</span>. How does “godly sorrow” differ from the sorrow of the world? Why is this distinction important?*
+2.  **Exploring Scripture:** *Read <span class="x-scripture" data-type="ref" data-book="2CO" data-chapter="7" data-verses="10" data-lang="en" data-version="NKJV">2 Corinthians 7:10</span>. How does “godly sorrow” differ from the sorrow of the world? Why is this distinction important?*
 
 
 <!-- p146 -->
@@ -612,11 +612,11 @@ David’s repentance journey was not simply about feeling sorry; it was a profou
 
 
 <!-- p147 -->
-4.  **The Role of the Holy Spirit:** *Read <span class="x-scripture" data-type="ref" data-book="John" data-chapter="16" data-verses="13" data-lang="en" data-version="NKJV">John 16:13</span>. How does the Holy Spirit guide us in repentance and truth? Share personal experiences where you felt the Spirit leading you to change.*
+4.  **The Role of the Holy Spirit:** *Read <span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="16" data-verses="13" data-lang="en" data-version="NKJV">John 16:13</span>. How does the Holy Spirit guide us in repentance and truth? Share personal experiences where you felt the Spirit leading you to change.*
 
 
 <!-- p148 -->
-5.  **Practical Repentance:** *What does it mean to “renew a steadfast spirit” as David prayed in <span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="51" data-verses="10" data-lang="en" data-version="NKJV">Psalm 51:10</span>? How can we cultivate this in our lives?*
+5.  **Practical Repentance:** *What does it mean to “renew a steadfast spirit” as David prayed in <span class="x-scripture" data-type="ref" data-book="PSA" data-chapter="51" data-verses="10" data-lang="en" data-version="NKJV">Psalm 51:10</span>? How can we cultivate this in our lives?*
 
 
 <!-- p149 -->

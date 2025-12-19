@@ -18,7 +18,7 @@ Paul wrote
 
 
 <!-- p5 -->
-<span class="x-scripture" data-type="quote" data-book="Philippians" data-chapter="3" data-verses="12-14" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="PHP" data-chapter="3" data-verses="12-14" data-lang="en" data-version="NKJV">
 
 
 <!-- p6 -->

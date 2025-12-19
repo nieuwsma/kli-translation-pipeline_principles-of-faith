@@ -34,7 +34,7 @@ In the New Testament**,** it is used primarily to refer to the community of beli
 
 
 <!-- p9 -->
-<span class="x-scripture" data-type="quote" data-book="1 Corinthians" data-chapter="1" data-verses="2" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="1CO" data-chapter="1" data-verses="2" data-lang="en" data-version="NKJV">
 
 
 <!-- p10 -->
@@ -52,7 +52,7 @@ In the New Testament**,** it is used primarily to refer to the community of beli
 
 
 <!-- p13 -->
-<span class="x-scripture" data-type="fragment" data-book="Matthew" data-chapter="16" data-verses="18" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="fragment" data-book="MAT" data-chapter="16" data-verses="18" data-lang="en" data-version="NKJV">
 
 
 <!-- p14 -->
@@ -65,7 +65,7 @@ In the New Testament**,** it is used primarily to refer to the community of beli
 
 
 <!-- p16 -->
-The church is the people, not the building or location they meet. **Called-Out Ones**: Reflects the idea that Christians are called out of the world and set apart for God's purposes (e.g., <span class="x-scripture" data-type="ref" data-book="1 Peter" data-chapter="2" data-verses="9" data-lang="en" data-version="NKJV">1 Peter 2:9</span>) for a specific mission and purpose (the great commission). The church is technically any two or more believers meeting together (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="18" data-verses="20" data-lang="en" data-version="NKJV">Matthew 18:20</span>). Typically, the church is organized into regular meetings, with perhaps a set location and time, but wherever two or more people meet in Jesus’ name, that's where the church is!
+The church is the people, not the building or location they meet. **Called-Out Ones**: Reflects the idea that Christians are called out of the world and set apart for God's purposes (e.g., <span class="x-scripture" data-type="ref" data-book="1PE" data-chapter="2" data-verses="9" data-lang="en" data-version="NKJV">1 Peter 2:9</span>) for a specific mission and purpose (the great commission). The church is technically any two or more believers meeting together (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="18" data-verses="20" data-lang="en" data-version="NKJV">Matthew 18:20</span>). Typically, the church is organized into regular meetings, with perhaps a set location and time, but wherever two or more people meet in Jesus’ name, that's where the church is!
 
 
 <!-- p17 -->
@@ -117,7 +117,7 @@ Each analogy highlights a unique aspect of the church, yet together, they reveal
 
 
 <!-- p29 -->
-The church is often described as **the Body of Christ**, emphasizing both its unity and diversity. With Christ as the head, the church functions as a living organism where every believer plays an essential and potentially diverse role. Each member is uniquely gifted and contributes to the health and mission of the body according to their own function. This image highlights the interdependence of believers, specifically that the body must be connected to function, and that our function is collaborative not competitive. When every part works together, the body grows and thrives in unity and love (<span class="x-scripture" data-type="ref" data-book="1 Corinthians" data-chapter="12" data-verses="12-27" data-lang="en" data-version="NKJV">1 Corinthians 12:12-27</span>; <span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="4" data-verses="15-16" data-lang="en" data-version="NKJV">Ephesians 4:15-16</span>; <span class="x-scripture" data-type="ref" data-book="Colossians" data-chapter="1" data-verses="18" data-lang="en" data-version="NKJV">Colossians 1:18</span>).
+The church is often described as **the Body of Christ**, emphasizing both its unity and diversity. With Christ as the head, the church functions as a living organism where every believer plays an essential and potentially diverse role. Each member is uniquely gifted and contributes to the health and mission of the body according to their own function. This image highlights the interdependence of believers, specifically that the body must be connected to function, and that our function is collaborative not competitive. When every part works together, the body grows and thrives in unity and love (<span class="x-scripture" data-type="ref" data-book="1CO" data-chapter="12" data-verses="12-27" data-lang="en" data-version="NKJV">1 Corinthians 12:12-27</span>; <span class="x-scripture" data-type="ref" data-book="EPH" data-chapter="4" data-verses="15-16" data-lang="en" data-version="NKJV">Ephesians 4:15-16</span>; <span class="x-scripture" data-type="ref" data-book="COL" data-chapter="1" data-verses="18" data-lang="en" data-version="NKJV">Colossians 1:18</span>).
 
 
 <!-- p30 -->
@@ -125,7 +125,7 @@ The church is often described as **the Body of Christ**, emphasizing both its un
 
 
 <!-- p31 -->
-The church is described as **the Bride of Christ**, this reflects an intimate and loving relationship with Jesus. Just as a bride is cherished and made ready for her husband, the church is sanctified and purified by Christ’s sacrificial love. This metaphor captures the devotion and faithfulness expected of the church, as well as the deep affection Christ has for His people. The imagery also points to the ultimate union between Christ and the church, celebrated in the marriage supper of the Lamb, where the church is presented in glory without spot or blemish (<span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="5" data-verses="25-27" data-lang="en" data-version="NKJV">Ephesians 5:25-27</span>; <span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="19" data-verses="7-9" data-lang="en" data-version="NKJV">Revelation 19:7-9</span>; <span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="21" data-verses="2" data-lang="en" data-version="NKJV">Revelation 21:2</span>).
+The church is described as **the Bride of Christ**, this reflects an intimate and loving relationship with Jesus. Just as a bride is cherished and made ready for her husband, the church is sanctified and purified by Christ’s sacrificial love. This metaphor captures the devotion and faithfulness expected of the church, as well as the deep affection Christ has for His people. The imagery also points to the ultimate union between Christ and the church, celebrated in the marriage supper of the Lamb, where the church is presented in glory without spot or blemish (<span class="x-scripture" data-type="ref" data-book="EPH" data-chapter="5" data-verses="25-27" data-lang="en" data-version="NKJV">Ephesians 5:25-27</span>; <span class="x-scripture" data-type="ref" data-book="REV" data-chapter="19" data-verses="7-9" data-lang="en" data-version="NKJV">Revelation 19:7-9</span>; <span class="x-scripture" data-type="ref" data-book="REV" data-chapter="21" data-verses="2" data-lang="en" data-version="NKJV">Revelation 21:2</span>).
 
 
 <!-- p32 -->
@@ -133,7 +133,7 @@ The church is described as **the Bride of Christ**, this reflects an intimate an
 
 
 <!-- p33 -->
-The church is described as **the Temple of God**, the dwelling place of His Spirit. Believers are described as living stones being built together on the foundation of the apostles and prophets, with Christ Himself as the cornerstone. This holy structure signifies God’s presence among His people and their role as a community of worship and prayer. The temple imagery underscores the importance of holiness and the church’s collective purpose in glorifying God (<span class="x-scripture" data-type="ref" data-book="1 Corinthians" data-chapter="3" data-verses="16-17" data-lang="en" data-version="NKJV">1 Corinthians 3:16-17</span>; <span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="2" data-verses="19-22" data-lang="en" data-version="NKJV">Ephesians 2:19-22</span>; <span class="x-scripture" data-type="ref" data-book="1 Peter" data-chapter="2" data-verses="4-5" data-lang="en" data-version="NKJV">1 Peter 2:4-5</span>).
+The church is described as **the Temple of God**, the dwelling place of His Spirit. Believers are described as living stones being built together on the foundation of the apostles and prophets, with Christ Himself as the cornerstone. This holy structure signifies God’s presence among His people and their role as a community of worship and prayer. The temple imagery underscores the importance of holiness and the church’s collective purpose in glorifying God (<span class="x-scripture" data-type="ref" data-book="1CO" data-chapter="3" data-verses="16-17" data-lang="en" data-version="NKJV">1 Corinthians 3:16-17</span>; <span class="x-scripture" data-type="ref" data-book="EPH" data-chapter="2" data-verses="19-22" data-lang="en" data-version="NKJV">Ephesians 2:19-22</span>; <span class="x-scripture" data-type="ref" data-book="1PE" data-chapter="2" data-verses="4-5" data-lang="en" data-version="NKJV">1 Peter 2:4-5</span>).
 
 
 <!-- p34 -->
@@ -141,7 +141,7 @@ The church is described as **the Temple of God**, the dwelling place of His Spir
 
 
 <!-- p35 -->
-The church is described as **the Family of God**, emphasizing relational unity and care among its members. Through the Spirit of adoption, believers are made children of God and members of His household. This familial imagery highlights the love, belonging, and shared inheritance believers have in Christ. It also reflects the call to treat one another with compassion and humility as brothers and sisters in God’s family (<span class="x-scripture" data-type="ref" data-book="Galatians" data-chapter="6" data-verses="10" data-lang="en" data-version="NKJV">Galatians 6:10</span>; <span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="2" data-verses="19" data-lang="en" data-version="NKJV">Ephesians 2:19</span>; <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="8" data-verses="15-17" data-lang="en" data-version="NKJV">Romans 8:15-17</span>). Furthermore, through the family image it depicts how the members of the church are to become mature, that they would be taught and nourished by spiritual mothers and fathers (<span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="5" data-verses="1-2" data-lang="en" data-version="NKJV">1 Timothy 5:1-2</span>), that we could go from infants drinking the pure milk of the Word, to full grown adults able to eat the strong meat of the Word (Hebrews 5).
+The church is described as **the Family of God**, emphasizing relational unity and care among its members. Through the Spirit of adoption, believers are made children of God and members of His household. This familial imagery highlights the love, belonging, and shared inheritance believers have in Christ. It also reflects the call to treat one another with compassion and humility as brothers and sisters in God’s family (<span class="x-scripture" data-type="ref" data-book="GAL" data-chapter="6" data-verses="10" data-lang="en" data-version="NKJV">Galatians 6:10</span>; <span class="x-scripture" data-type="ref" data-book="EPH" data-chapter="2" data-verses="19" data-lang="en" data-version="NKJV">Ephesians 2:19</span>; <span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="8" data-verses="15-17" data-lang="en" data-version="NKJV">Romans 8:15-17</span>). Furthermore, through the family image it depicts how the members of the church are to become mature, that they would be taught and nourished by spiritual mothers and fathers (<span class="x-scripture" data-type="ref" data-book="1TI" data-chapter="5" data-verses="1-2" data-lang="en" data-version="NKJV">1 Timothy 5:1-2</span>), that we could go from infants drinking the pure milk of the Word, to full grown adults able to eat the strong meat of the Word (Hebrews 5).
 
 
 <!-- p36 -->
@@ -149,7 +149,7 @@ The church is described as **the Family of God**, emphasizing relational unity a
 
 
 <!-- p37 -->
-The church is described as **the Flock**, sheep under the care of Jesus, the Good Shepherd. This image conveys the church’s dependence on Christ for guidance, sustenance, and protection. It also emphasizes the responsibility of church leaders to faithfully shepherd God’s flock as under shepherds, mirroring Christ’s example of love and care. The flock imagery speaks to trust, obedience, and the close relationship between the Great Shepherd and His sheep (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="10" data-verses="14-16" data-lang="en" data-version="NKJV">John 10:14-16</span>; <span class="x-scripture" data-type="ref" data-book="1 Peter" data-chapter="5" data-verses="2" data-lang="en" data-version="NKJV">1 Peter 5:2</span>; <span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="20" data-verses="28" data-lang="en" data-version="NKJV">Acts 20:28</span>).
+The church is described as **the Flock**, sheep under the care of Jesus, the Good Shepherd. This image conveys the church’s dependence on Christ for guidance, sustenance, and protection. It also emphasizes the responsibility of church leaders to faithfully shepherd God’s flock as under shepherds, mirroring Christ’s example of love and care. The flock imagery speaks to trust, obedience, and the close relationship between the Great Shepherd and His sheep (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="10" data-verses="14-16" data-lang="en" data-version="NKJV">John 10:14-16</span>; <span class="x-scripture" data-type="ref" data-book="1PE" data-chapter="5" data-verses="2" data-lang="en" data-version="NKJV">1 Peter 5:2</span>; <span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="20" data-verses="28" data-lang="en" data-version="NKJV">Acts 20:28</span>).
 
 
 <!-- p38 -->
@@ -157,7 +157,7 @@ The church is described as **the Flock**, sheep under the care of Jesus, the Goo
 
 
 <!-- p39 -->
-The church is described as **the Vine and Branches**, illustrating the essential connection between believers and Christ. Jesus is the true vine, and believers are the branches that must remain in Him to bear fruit. This metaphor highlights dependence on Christ for spiritual vitality, growth, and productivity. Without Him, believers can do nothing, but by abiding in Him, they glorify God and fulfill their purpose. Jesus will prune so that He can bear more fruit in our lives (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="15" data-verses="1-5" data-lang="en" data-version="NKJV">John 15:1-5</span>).
+The church is described as **the Vine and Branches**, illustrating the essential connection between believers and Christ. Jesus is the true vine, and believers are the branches that must remain in Him to bear fruit. This metaphor highlights dependence on Christ for spiritual vitality, growth, and productivity. Without Him, believers can do nothing, but by abiding in Him, they glorify God and fulfill their purpose. Jesus will prune so that He can bear more fruit in our lives (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="15" data-verses="1-5" data-lang="en" data-version="NKJV">John 15:1-5</span>).
 
 
 <!-- p40 -->
@@ -173,7 +173,7 @@ The church’s mission, like the Holy Spirit's role, can be understood through t
 
 
 <!-- p43 -->
-The church’s first purpose is to worship and glorify God. Corporate worship, where believers gather to exalt God together, is a visible reflection of His glory and a response to His greatness. As the psalmist declares, “*Worship the Lord in the splendor of holiness; tremble before him, all the earth*” (<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="96" data-verses="9" data-lang="en" data-version="NKJV">Psalm 96:9</span>). Beyond corporate worship, the church is called to live lives of obedience and sacrifice, offering themselves as “living sacrifices” as an act of spiritual worship (<span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="12" data-verses="1-2" data-lang="en" data-version="NKJV">Romans 12:1-2</span>). This upward focus keeps the church centered on God’s majesty and aligns its priorities with His will.
+The church’s first purpose is to worship and glorify God. Corporate worship, where believers gather to exalt God together, is a visible reflection of His glory and a response to His greatness. As the psalmist declares, “*Worship the Lord in the splendor of holiness; tremble before him, all the earth*” (<span class="x-scripture" data-type="ref" data-book="PSA" data-chapter="96" data-verses="9" data-lang="en" data-version="NKJV">Psalm 96:9</span>). Beyond corporate worship, the church is called to live lives of obedience and sacrifice, offering themselves as “living sacrifices” as an act of spiritual worship (<span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="12" data-verses="1-2" data-lang="en" data-version="NKJV">Romans 12:1-2</span>). This upward focus keeps the church centered on God’s majesty and aligns its priorities with His will.
 
 
 <!-- p44 -->
@@ -193,11 +193,11 @@ Parents sacrifice for their children because they love them, because they are pa
 
 
 <!-- p48 -->
-The most well-known part of the church’s mission extends outward to reach the world with the gospel. Jesus’ Great Commission calls His followers to evangelize and make disciples of all nations (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="28" data-verses="19-20" data-lang="en" data-version="NKJV">Matthew 28:19-20</span>). Empowered by the Holy Spirit, the church is to be His witnesses to the ends of the earth (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="1" data-verses="8" data-lang="en" data-version="NKJV">Acts 1:8</span>).
+The most well-known part of the church’s mission extends outward to reach the world with the gospel. Jesus’ Great Commission calls His followers to evangelize and make disciples of all nations (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="28" data-verses="19-20" data-lang="en" data-version="NKJV">Matthew 28:19-20</span>). Empowered by the Holy Spirit, the church is to be His witnesses to the ends of the earth (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="1" data-verses="8" data-lang="en" data-version="NKJV">Acts 1:8</span>).
 
 
 <!-- p49 -->
-Jesus is the light of the world (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="8" data-verses="12" data-lang="en" data-version="NKJV">John 8:12</span>). Light shines in all directions outward from the source. His light shines through His manifestations: the Word, His Spirit, and us, His body. We are the light of the world; our lives we are to radiate His light in our darkened worlds and demonstrate good works that glorify God (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="5" data-verses="14-16" data-lang="en" data-version="NKJV">Matthew 5:14-16</span>). Practically this means the church is called to advocate for justice and mercy, both spiritual and physical. As James says, our pure worship is to care for the vulnerable, the fatherless, the widow (<span class="x-scripture" data-type="ref" data-book="James" data-chapter="1" data-verses="27" data-lang="en" data-version="NKJV">James 1:27</span>).
+Jesus is the light of the world (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="8" data-verses="12" data-lang="en" data-version="NKJV">John 8:12</span>). Light shines in all directions outward from the source. His light shines through His manifestations: the Word, His Spirit, and us, His body. We are the light of the world; our lives we are to radiate His light in our darkened worlds and demonstrate good works that glorify God (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="5" data-verses="14-16" data-lang="en" data-version="NKJV">Matthew 5:14-16</span>). Practically this means the church is called to advocate for justice and mercy, both spiritual and physical. As James says, our pure worship is to care for the vulnerable, the fatherless, the widow (<span class="x-scripture" data-type="ref" data-book="JAS" data-chapter="1" data-verses="27" data-lang="en" data-version="NKJV">James 1:27</span>).
 
 
 <!-- p50 -->
@@ -209,23 +209,23 @@ Across Christendom there are a wide variety of denominations, meetings, gatherin
 
 
 <!-- p52 -->
-1.  Jesus is the singular head of the Church. Everyone serves Him (<span class="x-scripture" data-type="ref" data-book="Colossians" data-chapter="1" data-verses="18" data-lang="en" data-version="NKJV">Colossians 1:18</span>).
+1.  Jesus is the singular head of the Church. Everyone serves Him (<span class="x-scripture" data-type="ref" data-book="COL" data-chapter="1" data-verses="18" data-lang="en" data-version="NKJV">Colossians 1:18</span>).
 
 
 <!-- p53 -->
-2.  There are high standards for those who lead, they are worthy of double honor, for they will receive double judgement (<span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="5" data-verses="17" data-lang="en" data-version="NKJV">1 Timothy 5:17</span>).
+2.  There are high standards for those who lead, they are worthy of double honor, for they will receive double judgement (<span class="x-scripture" data-type="ref" data-book="1TI" data-chapter="5" data-verses="17" data-lang="en" data-version="NKJV">1 Timothy 5:17</span>).
 
 
 <!-- p54 -->
-    1.  They should be mature, not puffed up, responsible (<span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="3" data-verses="1-13" data-lang="en" data-version="NKJV">1 Timothy 3:1-13</span>, <span class="x-scripture" data-type="ref" data-book="Titus" data-chapter="1" data-verses="5-9" data-lang="en" data-version="NKJV">Titus 1:5-9</span>).
+    1.  They should be mature, not puffed up, responsible (<span class="x-scripture" data-type="ref" data-book="1TI" data-chapter="3" data-verses="1-13" data-lang="en" data-version="NKJV">1 Timothy 3:1-13</span>, <span class="x-scripture" data-type="ref" data-book="TIT" data-chapter="1" data-verses="5-9" data-lang="en" data-version="NKJV">Titus 1:5-9</span>).
 
 
 <!-- p55 -->
-    2.  They must be servants of all (<span class="x-scripture" data-type="ref" data-book="Mark" data-chapter="10" data-verses="42-45" data-lang="en" data-version="NKJV">Mark 10:42-45</span>).
+    2.  They must be servants of all (<span class="x-scripture" data-type="ref" data-book="MRK" data-chapter="10" data-verses="42-45" data-lang="en" data-version="NKJV">Mark 10:42-45</span>).
 
 
 <!-- p56 -->
-    3.  They must commit themselves to the Word and to prayer (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="6" data-verses="4" data-lang="en" data-version="NKJV">Acts 6:4</span>).
+    3.  They must commit themselves to the Word and to prayer (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="6" data-verses="4" data-lang="en" data-version="NKJV">Acts 6:4</span>).
 
 
 <!-- p57 -->
@@ -241,7 +241,7 @@ Across Christendom there are a wide variety of denominations, meetings, gatherin
 
 
 <!-- p60 -->
-    2.  There is no division between Jew and Gentile, slave, or freedman, male or female (<span class="x-scripture" data-type="ref" data-book="Galatians" data-chapter="3" data-verses="27-28" data-lang="en" data-version="NKJV">Galatians 3:27-28</span>).
+    2.  There is no division between Jew and Gentile, slave, or freedman, male or female (<span class="x-scripture" data-type="ref" data-book="GAL" data-chapter="3" data-verses="27-28" data-lang="en" data-version="NKJV">Galatians 3:27-28</span>).
 
 
 <!-- p61 -->
@@ -265,23 +265,23 @@ Role and Responsibilities:
 
 
 <!-- p66 -->
-- **Spiritual Leadership** - Provide oversight, guidance, and pastoral care for the church (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="20" data-verses="28" data-lang="en" data-version="NKJV">Acts 20:28</span>; <span class="x-scripture" data-type="ref" data-book="1 Peter" data-chapter="5" data-verses="2" data-lang="en" data-version="NKJV">1 Peter 5:2</span>).
+- **Spiritual Leadership** - Provide oversight, guidance, and pastoral care for the church (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="20" data-verses="28" data-lang="en" data-version="NKJV">Acts 20:28</span>; <span class="x-scripture" data-type="ref" data-book="1PE" data-chapter="5" data-verses="2" data-lang="en" data-version="NKJV">1 Peter 5:2</span>).
 
 
 <!-- p67 -->
-- **Teaching and Preaching** - Responsible for teaching sound doctrine and protecting against false teaching (<span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="5" data-verses="17" data-lang="en" data-version="NKJV">1 Timothy 5:17</span>; <span class="x-scripture" data-type="ref" data-book="Titus" data-chapter="1" data-verses="9" data-lang="en" data-version="NKJV">Titus 1:9</span>).
+- **Teaching and Preaching** - Responsible for teaching sound doctrine and protecting against false teaching (<span class="x-scripture" data-type="ref" data-book="1TI" data-chapter="5" data-verses="17" data-lang="en" data-version="NKJV">1 Timothy 5:17</span>; <span class="x-scripture" data-type="ref" data-book="TIT" data-chapter="1" data-verses="9" data-lang="en" data-version="NKJV">Titus 1:9</span>).
 
 
 <!-- p68 -->
-- **Shepherding the Flock** - Care for the spiritual needs of the congregation, modeling humility and service (<span class="x-scripture" data-type="ref" data-book="1 Peter" data-chapter="5" data-verses="2-3" data-lang="en" data-version="NKJV">1 Peter 5:2-3</span>).
+- **Shepherding the Flock** - Care for the spiritual needs of the congregation, modeling humility and service (<span class="x-scripture" data-type="ref" data-book="1PE" data-chapter="5" data-verses="2-3" data-lang="en" data-version="NKJV">1 Peter 5:2-3</span>).
 
 
 <!-- p69 -->
-- **Guarding the Church** - Serve as watchmen, defending the church from false doctrine and division (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="20" data-verses="29-31" data-lang="en" data-version="NKJV">Acts 20:29-31</span>).
+- **Guarding the Church** - Serve as watchmen, defending the church from false doctrine and division (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="20" data-verses="29-31" data-lang="en" data-version="NKJV">Acts 20:29-31</span>).
 
 
 <!-- p70 -->
-- **Equipping the Saints** - Train and equip believers for works of ministry and discipleship (<span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="4" data-verses="11-12" data-lang="en" data-version="NKJV">Ephesians 4:11-12</span>).
+- **Equipping the Saints** - Train and equip believers for works of ministry and discipleship (<span class="x-scripture" data-type="ref" data-book="EPH" data-chapter="4" data-verses="11-12" data-lang="en" data-version="NKJV">Ephesians 4:11-12</span>).
 
 
 <!-- p71 -->
@@ -289,15 +289,15 @@ Selection Process:
 
 
 <!-- p72 -->
-- **Appointed in Every Church** - Elders were appointed by the apostles or their representatives, often through prayer and fasting (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="14" data-verses="23" data-lang="en" data-version="NKJV">Acts 14:23</span>; <span class="x-scripture" data-type="ref" data-book="Titus" data-chapter="1" data-verses="5" data-lang="en" data-version="NKJV">Titus 1:5</span>).
+- **Appointed in Every Church** - Elders were appointed by the apostles or their representatives, often through prayer and fasting (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="14" data-verses="23" data-lang="en" data-version="NKJV">Acts 14:23</span>; <span class="x-scripture" data-type="ref" data-book="TIT" data-chapter="1" data-verses="5" data-lang="en" data-version="NKJV">Titus 1:5</span>).
 
 
 <!-- p73 -->
-- **Confirmed by the Holy Spirit** - Their appointment was seen as Spirit-led, recognizing God’s calling and gifting (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="20" data-verses="28" data-lang="en" data-version="NKJV">Acts 20:28</span>).
+- **Confirmed by the Holy Spirit** - Their appointment was seen as Spirit-led, recognizing God’s calling and gifting (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="20" data-verses="28" data-lang="en" data-version="NKJV">Acts 20:28</span>).
 
 
 <!-- p74 -->
-- **Tested and Approved** - Candidates had to demonstrate maturity and faithfulness before being entrusted with leadership (<span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="3" data-verses="10" data-lang="en" data-version="NKJV">1 Timothy 3:10</span>). They cannot be recent converts! ((<span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="3" data-verses="6" data-lang="en" data-version="NKJV">1 Timothy 3:6</span>)
+- **Tested and Approved** - Candidates had to demonstrate maturity and faithfulness before being entrusted with leadership (<span class="x-scripture" data-type="ref" data-book="1TI" data-chapter="3" data-verses="10" data-lang="en" data-version="NKJV">1 Timothy 3:10</span>). They cannot be recent converts! ((<span class="x-scripture" data-type="ref" data-book="1TI" data-chapter="3" data-verses="6" data-lang="en" data-version="NKJV">1 Timothy 3:6</span>)
 
 
 <!-- p75 -->
@@ -309,23 +309,23 @@ Role and Responsibilities:
 
 
 <!-- p77 -->
-- **Practical Service** - Focused on meeting physical needs in the church, freeing elders to focus on prayer and teaching (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="6" data-verses="1-4" data-lang="en" data-version="NKJV">Acts 6:1-4</span>).
+- **Practical Service** - Focused on meeting physical needs in the church, freeing elders to focus on prayer and teaching (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="6" data-verses="1-4" data-lang="en" data-version="NKJV">Acts 6:1-4</span>).
 
 
 <!-- p78 -->
-- **Support Ministry** - Assist with hospitality, caring for the poor, and administrative tasks (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="6" data-verses="3" data-lang="en" data-version="NKJV">Acts 6:3</span>).
+- **Support Ministry** - Assist with hospitality, caring for the poor, and administrative tasks (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="6" data-verses="3" data-lang="en" data-version="NKJV">Acts 6:3</span>).
 
 
 <!-- p79 -->
-- **Promote Unity** - Address issues of fairness and care to prevent division (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="6" data-verses="1-7" data-lang="en" data-version="NKJV">Acts 6:1-7</span>).
+- **Promote Unity** - Address issues of fairness and care to prevent division (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="6" data-verses="1-7" data-lang="en" data-version="NKJV">Acts 6:1-7</span>).
 
 
 <!-- p80 -->
-- **Examples of Faith** - Serve as role models in humility, faith, and service (<span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="3" data-verses="13" data-lang="en" data-version="NKJV">1 Timothy 3:13</span>).
+- **Examples of Faith** - Serve as role models in humility, faith, and service (<span class="x-scripture" data-type="ref" data-book="1TI" data-chapter="3" data-verses="13" data-lang="en" data-version="NKJV">1 Timothy 3:13</span>).
 
 
 <!-- p81 -->
-Selection Process (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="6" data-verses="1-6" data-lang="en" data-version="NKJV">Acts 6:1-6</span>):
+Selection Process (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="6" data-verses="1-6" data-lang="en" data-version="NKJV">Acts 6:1-6</span>):
 
 
 <!-- p82 -->
@@ -337,7 +337,7 @@ Selection Process (<span class="x-scripture" data-type="ref" data-book="Acts" da
 
 
 <!-- p84 -->
-- **Confirmed in Service** - Deacons were first tested to prove their faithfulness before being officially appointed (<span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="3" data-verses="10" data-lang="en" data-version="NKJV">1 Timothy 3:10</span>).
+- **Confirmed in Service** - Deacons were first tested to prove their faithfulness before being officially appointed (<span class="x-scripture" data-type="ref" data-book="1TI" data-chapter="3" data-verses="10" data-lang="en" data-version="NKJV">1 Timothy 3:10</span>).
 
 
 <!-- p85 -->
@@ -349,23 +349,23 @@ Selection Process (<span class="x-scripture" data-type="ref" data-book="Acts" da
 
 
 <!-- p87 -->
-- Moral Character - Both must be above reproach, dignified, and demonstrate self-control (<span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="3" data-verses="2" data-lang="en" data-version="NKJV">1 Timothy 3:2</span>, 8).
+- Moral Character - Both must be above reproach, dignified, and demonstrate self-control (<span class="x-scripture" data-type="ref" data-book="1TI" data-chapter="3" data-verses="2" data-lang="en" data-version="NKJV">1 Timothy 3:2</span>, 8).
 
 
 <!-- p88 -->
-- Family Life - Both must be faithful in marriage (“husband of one wife”) and manage their households well (<span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="3" data-verses="4-5" data-lang="en" data-version="NKJV">1 Timothy 3:4-5</span>, 12).
+- Family Life - Both must be faithful in marriage (“husband of one wife”) and manage their households well (<span class="x-scripture" data-type="ref" data-book="1TI" data-chapter="3" data-verses="4-5" data-lang="en" data-version="NKJV">1 Timothy 3:4-5</span>, 12).
 
 
 <!-- p89 -->
-- Spiritual Maturity - Both must be tested and proven before appointment (<span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="3" data-verses="6" data-lang="en" data-version="NKJV">1 Timothy 3:6</span>, 10).
+- Spiritual Maturity - Both must be tested and proven before appointment (<span class="x-scripture" data-type="ref" data-book="1TI" data-chapter="3" data-verses="6" data-lang="en" data-version="NKJV">1 Timothy 3:6</span>, 10).
 
 
 <!-- p90 -->
-- Reputation - Both need a good reputation inside and outside the church (<span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="3" data-verses="7" data-lang="en" data-version="NKJV">1 Timothy 3:7</span>).
+- Reputation - Both need a good reputation inside and outside the church (<span class="x-scripture" data-type="ref" data-book="1TI" data-chapter="3" data-verses="7" data-lang="en" data-version="NKJV">1 Timothy 3:7</span>).
 
 
 <!-- p91 -->
-- Faith and Integrity - Both must hold to the faith with a clear conscience and live out their beliefs (<span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="3" data-verses="9" data-lang="en" data-version="NKJV">1 Timothy 3:9</span>).
+- Faith and Integrity - Both must hold to the faith with a clear conscience and live out their beliefs (<span class="x-scripture" data-type="ref" data-book="1TI" data-chapter="3" data-verses="9" data-lang="en" data-version="NKJV">1 Timothy 3:9</span>).
 
 
 <!-- p92 -->
@@ -381,7 +381,7 @@ Using what we’ve learned so far about rules and structures for leadership, let
 
 
 <!-- p95 -->
-The church at Jerusalem was led primarily by the **apostles**, who focused on teaching, prayer, and spiritual oversight (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="2" data-verses="42" data-lang="en" data-version="NKJV">Acts 2:42</span>, <span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="6" data-verses="4" data-lang="en" data-version="NKJV">Acts 6:4</span>). As the community grew, the need for administrative structure became apparent, particularly to address practical matters like caring for widows and distributing resources. This led to the appointment of **deacons** (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="6" data-verses="1-7" data-lang="en" data-version="NKJV">Acts 6:1-7</span>). These individuals, chosen for their spiritual maturity and good reputation, handled practical ministries to allow the apostles to focus on their spiritual responsibilities. Over time, **elders** also emerged as leaders in the Jerusalem church. For instance, during the Jerusalem Council (Acts 15), both apostles and elders were involved in decision-making, showing a collaborative leadership structure.
+The church at Jerusalem was led primarily by the **apostles**, who focused on teaching, prayer, and spiritual oversight (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="2" data-verses="42" data-lang="en" data-version="NKJV">Acts 2:42</span>, <span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="6" data-verses="4" data-lang="en" data-version="NKJV">Acts 6:4</span>). As the community grew, the need for administrative structure became apparent, particularly to address practical matters like caring for widows and distributing resources. This led to the appointment of **deacons** (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="6" data-verses="1-7" data-lang="en" data-version="NKJV">Acts 6:1-7</span>). These individuals, chosen for their spiritual maturity and good reputation, handled practical ministries to allow the apostles to focus on their spiritual responsibilities. Over time, **elders** also emerged as leaders in the Jerusalem church. For instance, during the Jerusalem Council (Acts 15), both apostles and elders were involved in decision-making, showing a collaborative leadership structure.
 
 
 <!-- p96 -->
@@ -389,11 +389,11 @@ The church at Jerusalem was led primarily by the **apostles**, who focused on te
 
 
 <!-- p97 -->
-The church at Antioch had a more decentralized and diverse leadership structure compared to Jerusalem. It was led by a group of **prophets and teachers**, including Barnabas, Saul (Paul), Simeon, Lucius, and Manaen (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="13" data-verses="1" data-lang="en" data-version="NKJV">Acts 13:1</span>). The church at Antioch was also much more oriented towards reaching the gentiles, where the church in Jerusalem reflected more of its Jewish roots. While the New Testament does not explicitly mention deacons in Antioch, it is likely that practical roles existed given the church's growing size and involvement in sending relief to Jerusalem (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="11" data-verses="29-30" data-lang="en" data-version="NKJV">Acts 11:29-30</span>). The church at Antioch became a model for commissioning missionaries, with leaders praying, fasting, and laying hands on Paul and Barnabas to send them out (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="13" data-verses="2-3" data-lang="en" data-version="NKJV">Acts 13:2-3</span>). This demonstrates a structure that balanced spiritual oversight (prophets and teachers) with missional outreach and practical support.
+The church at Antioch had a more decentralized and diverse leadership structure compared to Jerusalem. It was led by a group of **prophets and teachers**, including Barnabas, Saul (Paul), Simeon, Lucius, and Manaen (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="13" data-verses="1" data-lang="en" data-version="NKJV">Acts 13:1</span>). The church at Antioch was also much more oriented towards reaching the gentiles, where the church in Jerusalem reflected more of its Jewish roots. While the New Testament does not explicitly mention deacons in Antioch, it is likely that practical roles existed given the church's growing size and involvement in sending relief to Jerusalem (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="11" data-verses="29-30" data-lang="en" data-version="NKJV">Acts 11:29-30</span>). The church at Antioch became a model for commissioning missionaries, with leaders praying, fasting, and laying hands on Paul and Barnabas to send them out (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="13" data-verses="2-3" data-lang="en" data-version="NKJV">Acts 13:2-3</span>). This demonstrates a structure that balanced spiritual oversight (prophets and teachers) with missional outreach and practical support.
 
 
 <!-- p98 -->
-Unlike Paul’s corrections to the Corinthians and Galatians, the scriptures do not critique the leadership structures of Jerusalem or Antioch. This suggests that these churches, under the guidance of the Holy Spirit, were free to adapt their gatherings to meet their unique needs and circumstances within the framework of sound doctrine and apostolic teaching (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="2" data-verses="42" data-lang="en" data-version="NKJV">Acts 2:42</span>, <span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="3" data-verses="16-17" data-lang="en" data-version="NKJV">2 Timothy 3:16-17</span>).
+Unlike Paul’s corrections to the Corinthians and Galatians, the scriptures do not critique the leadership structures of Jerusalem or Antioch. This suggests that these churches, under the guidance of the Holy Spirit, were free to adapt their gatherings to meet their unique needs and circumstances within the framework of sound doctrine and apostolic teaching (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="2" data-verses="42" data-lang="en" data-version="NKJV">Acts 2:42</span>, <span class="x-scripture" data-type="ref" data-book="2TI" data-chapter="3" data-verses="16-17" data-lang="en" data-version="NKJV">2 Timothy 3:16-17</span>).
 
 
 <!-- p99 -->
@@ -410,7 +410,7 @@ Jesus established five distinct ministry gifts, often referred to as the **fivef
 
 
 <!-- p102 -->
-<span class="x-scripture" data-type="quote" data-book="Ephesians" data-chapter="4" data-verses="11-13" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="EPH" data-chapter="4" data-verses="11-13" data-lang="en" data-version="NKJV">
 
 
 <!-- p103 -->
@@ -427,23 +427,23 @@ The five gifts given to equip the saints for the work of the ministry are:
 
 
 <!-- p106 -->
-1.  **Apostles** - Pioneers and visionaries who establish foundations, plant churches, and advance the Kingdom of God (<span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="2" data-verses="20" data-lang="en" data-version="NKJV">Ephesians 2:20</span>). Apostles model boldness and faith, demonstrating how to step out into new territories and take spiritual initiative.
+1.  **Apostles** - Pioneers and visionaries who establish foundations, plant churches, and advance the Kingdom of God (<span class="x-scripture" data-type="ref" data-book="EPH" data-chapter="2" data-verses="20" data-lang="en" data-version="NKJV">Ephesians 2:20</span>). Apostles model boldness and faith, demonstrating how to step out into new territories and take spiritual initiative.
 
 
 <!-- p107 -->
-2.  **Prophets** - Messengers and guides who proclaim God’s truth, bringing encouragement, edification, and direction (<span class="x-scripture" data-type="ref" data-book="1 Corinthians" data-chapter="14" data-verses="3" data-lang="en" data-version="NKJV">1 Corinthians 14:3</span>). Prophets inspire faith, call others to align with God’s Word, and demonstrate reliance on hearing God’s voice.
+2.  **Prophets** - Messengers and guides who proclaim God’s truth, bringing encouragement, edification, and direction (<span class="x-scripture" data-type="ref" data-book="1CO" data-chapter="14" data-verses="3" data-lang="en" data-version="NKJV">1 Corinthians 14:3</span>). Prophets inspire faith, call others to align with God’s Word, and demonstrate reliance on hearing God’s voice.
 
 
 <!-- p108 -->
-3.  **Evangelists** - Proclaimers of the Gospel who focus on reaching the lost and stirring others to action in sharing Christ (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="8" data-verses="5-8" data-lang="en" data-version="NKJV">Acts 8:5-8</span>). Evangelists teach disciples how to share their faith effectively, model boldness in witnessing, and inspire compassion for the lost.
+3.  **Evangelists** - Proclaimers of the Gospel who focus on reaching the lost and stirring others to action in sharing Christ (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="8" data-verses="5-8" data-lang="en" data-version="NKJV">Acts 8:5-8</span>). Evangelists teach disciples how to share their faith effectively, model boldness in witnessing, and inspire compassion for the lost.
 
 
 <!-- p109 -->
-4.  **Pastors (Shepherds)** - Caretakers and nurturers who protect, guide, and provide spiritual oversight for the church (<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="20" data-verses="28" data-lang="en" data-version="NKJV">Acts 20:28</span>). Pastors teach disciples the importance of community, care for others, and accountability within the body of Christ.
+4.  **Pastors (Shepherds)** - Caretakers and nurturers who protect, guide, and provide spiritual oversight for the church (<span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="20" data-verses="28" data-lang="en" data-version="NKJV">Acts 20:28</span>). Pastors teach disciples the importance of community, care for others, and accountability within the body of Christ.
 
 
 <!-- p110 -->
-5.  **Teachers** - Instructors and trainers who clarify doctrine and help believers grow in understanding and application of God’s Word (<span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="2" data-verses="15" data-lang="en" data-version="NKJV">2 Timothy 2:15</span>). Teachers equip disciples to study Scripture deeply, apply it in their daily lives, and effectively teach others.
+5.  **Teachers** - Instructors and trainers who clarify doctrine and help believers grow in understanding and application of God’s Word (<span class="x-scripture" data-type="ref" data-book="2TI" data-chapter="2" data-verses="15" data-lang="en" data-version="NKJV">2 Timothy 2:15</span>). Teachers equip disciples to study Scripture deeply, apply it in their daily lives, and effectively teach others.
 
 
 <!-- p111 -->
@@ -487,7 +487,7 @@ So far in this chapter we’ve covered the leadership of the church and the core
 
 
 <!-- p121 -->
-The church, as the Body of Christ, depends on every member working together to fulfill its mission. Just as the body cannot function properly if one part is missing, the church needs each believer to actively participate, grow, and serve. Each member of the body has a very important role. To be part of the body means staying connected. A body can survive at diminished capacity without a limb, but the limb itself cannot live when separated from the body. We must be an active part of the church and not become dismembered. <span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="10" data-verses="24" data-lang="en" data-version="NKJV">Hebrews 10:24</span> says that we should gather and not forsake the assembly.
+The church, as the Body of Christ, depends on every member working together to fulfill its mission. Just as the body cannot function properly if one part is missing, the church needs each believer to actively participate, grow, and serve. Each member of the body has a very important role. To be part of the body means staying connected. A body can survive at diminished capacity without a limb, but the limb itself cannot live when separated from the body. We must be an active part of the church and not become dismembered. <span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="10" data-verses="24" data-lang="en" data-version="NKJV">Hebrews 10:24</span> says that we should gather and not forsake the assembly.
 
 
 <!-- p122 -->
@@ -495,7 +495,7 @@ To really work and function together you need to fellowship! You need to know ot
 
 
 <!-- p123 -->
-We don’t all have the same function. Some of us may share the Gospel from a stage, others around a dinner table. But we are ALL called to be ministers of reconciliation (<span class="x-scripture" data-type="ref" data-book="2 Corinthians" data-chapter="5" data-verses="18-19" data-lang="en" data-version="NKJV">2 Corinthians 5:18-19</span>). We have all been received into the priesthood of believers (<span class="x-scripture" data-type="ref" data-book="1 Peter" data-chapter="2" data-verses="9" data-lang="en" data-version="NKJV">1 Peter 2:9</span>, <span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="1" data-verses="6" data-lang="en" data-version="NKJV">Revelation 1:6</span>). This means that we're all supposed to be able to do the work of the ministry by the power of the Holy Spirit.
+We don’t all have the same function. Some of us may share the Gospel from a stage, others around a dinner table. But we are ALL called to be ministers of reconciliation (<span class="x-scripture" data-type="ref" data-book="2CO" data-chapter="5" data-verses="18-19" data-lang="en" data-version="NKJV">2 Corinthians 5:18-19</span>). We have all been received into the priesthood of believers (<span class="x-scripture" data-type="ref" data-book="1PE" data-chapter="2" data-verses="9" data-lang="en" data-version="NKJV">1 Peter 2:9</span>, <span class="x-scripture" data-type="ref" data-book="REV" data-chapter="1" data-verses="6" data-lang="en" data-version="NKJV">Revelation 1:6</span>). This means that we're all supposed to be able to do the work of the ministry by the power of the Holy Spirit.
 
 
 <!-- p124 -->
@@ -515,11 +515,11 @@ Believers must train and equip for their unique roles in the church, just as a r
 
 
 <!-- p128 -->
-Training for a marathon will bring about transformation. You need strength and you need to transform. It’s our responsibility to submit ourselves to God and let him transform us in renewal (<span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="12" data-verses="1-2" data-lang="en" data-version="NKJV">Romans 12:1-2</span>). Transformation should lead you to maturity, enabling you to bear your own loads and support others. You should be able to bear MUCH fruit. This will be discussed at length in the chapter on sanctification.
+Training for a marathon will bring about transformation. You need strength and you need to transform. It’s our responsibility to submit ourselves to God and let him transform us in renewal (<span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="12" data-verses="1-2" data-lang="en" data-version="NKJV">Romans 12:1-2</span>). Transformation should lead you to maturity, enabling you to bear your own loads and support others. You should be able to bear MUCH fruit. This will be discussed at length in the chapter on sanctification.
 
 
 <!-- p129 -->
-Training is hard, sometimes it’s uncomfortable. Sometimes the transformation you need to go through you’d much rather skip. But if you want to accomplish the goal, you need to stay on the narrow path. At times, you might need warning, comfort, or support-all offered with patience (<span class="x-scripture" data-type="ref" data-book="1 Thessalonians" data-chapter="5" data-verses="14" data-lang="en" data-version="NKJV">1 Thessalonians 5:14</span>).
+Training is hard, sometimes it’s uncomfortable. Sometimes the transformation you need to go through you’d much rather skip. But if you want to accomplish the goal, you need to stay on the narrow path. At times, you might need warning, comfort, or support-all offered with patience (<span class="x-scripture" data-type="ref" data-book="1TH" data-chapter="5" data-verses="14" data-lang="en" data-version="NKJV">1 Thessalonians 5:14</span>).
 
 
 <!-- p130 -->
@@ -527,7 +527,7 @@ Every great marathon runner has a coach to train them, you will need a trainer t
 
 
 <!-- p131 -->
-As individuals we need to submit ourselves first and foremost to God and secondly, in this context, to a body of believers. Submission in the church means honoring godly leadership (<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="13" data-verses="17" data-lang="en" data-version="NKJV">Hebrews 13:17</span>) and submitting to one another in humility (<span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="5" data-verses="21" data-lang="en" data-version="NKJV">Ephesians 5:21</span>).
+As individuals we need to submit ourselves first and foremost to God and secondly, in this context, to a body of believers. Submission in the church means honoring godly leadership (<span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="13" data-verses="17" data-lang="en" data-version="NKJV">Hebrews 13:17</span>) and submitting to one another in humility (<span class="x-scripture" data-type="ref" data-book="EPH" data-chapter="5" data-verses="21" data-lang="en" data-version="NKJV">Ephesians 5:21</span>).
 
 
 <!-- p132 -->
@@ -555,11 +555,11 @@ Here’s a practical approach to help you find your place, they are presented as
 
 
 <!-- p138 -->
-Start by **seeking God’s guidance through prayer**. God is the ultimate source of your purpose and calling (<span class="x-scripture" data-type="ref" data-book="Jeremiah" data-chapter="29" data-verses="11" data-lang="en" data-version="NKJV">Jeremiah 29:11</span>). Pray regularly for clarity about how you can serve in the church, asking Him to reveal your spiritual gifts and passions. Trust that He will direct your steps as you surrender your plans to His will (<span class="x-scripture" data-type="ref" data-book="Proverbs" data-chapter="3" data-verses="5-6" data-lang="en" data-version="NKJV">Proverbs 3:5-6</span>).
+Start by **seeking God’s guidance through prayer**. God is the ultimate source of your purpose and calling (<span class="x-scripture" data-type="ref" data-book="JER" data-chapter="29" data-verses="11" data-lang="en" data-version="NKJV">Jeremiah 29:11</span>). Pray regularly for clarity about how you can serve in the church, asking Him to reveal your spiritual gifts and passions. Trust that He will direct your steps as you surrender your plans to His will (<span class="x-scripture" data-type="ref" data-book="PRO" data-chapter="3" data-verses="5-6" data-lang="en" data-version="NKJV">Proverbs 3:5-6</span>).
 
 
 <!-- p139 -->
-**Study the Word of God** to deepen your understanding of the church’s mission and your role within it. Key passages such as 1 Corinthians 12 and <span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="4" data-verses="11-12" data-lang="en" data-version="NKJV">Ephesians 4:11-12</span> highlight spiritual gifts and the diversity of roles in the Body of Christ. Reflect on examples of individuals in Scripture who discovered and fulfilled their roles, like Paul, Timothy, and Lydia.
+**Study the Word of God** to deepen your understanding of the church’s mission and your role within it. Key passages such as 1 Corinthians 12 and <span class="x-scripture" data-type="ref" data-book="EPH" data-chapter="4" data-verses="11-12" data-lang="en" data-version="NKJV">Ephesians 4:11-12</span> highlight spiritual gifts and the diversity of roles in the Body of Christ. Reflect on examples of individuals in Scripture who discovered and fulfilled their roles, like Paul, Timothy, and Lydia.
 
 
 <!-- p140 -->
@@ -571,7 +571,7 @@ Identifying your **spiritual gifts** is an essential step. You may find taking a
 
 
 <!-- p142 -->
-- **Motivational Gifts** given by God: <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="12" data-verses="6-8" data-lang="en" data-version="NKJV">Romans 12:6-8</span>
+- **Motivational Gifts** given by God: <span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="12" data-verses="6-8" data-lang="en" data-version="NKJV">Romans 12:6-8</span>
 
 
 <!-- p143 -->
@@ -579,7 +579,7 @@ Identifying your **spiritual gifts** is an essential step. You may find taking a
 
 
 <!-- p144 -->
-- Five-Fold Ministry Gifts given by Jesus: <span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="4" data-verses="11-13" data-lang="en" data-version="NKJV">Ephesians 4:11-13</span>
+- Five-Fold Ministry Gifts given by Jesus: <span class="x-scripture" data-type="ref" data-book="EPH" data-chapter="4" data-verses="11-13" data-lang="en" data-version="NKJV">Ephesians 4:11-13</span>
 
 
 <!-- p145 -->
@@ -587,7 +587,7 @@ Identifying your **spiritual gifts** is an essential step. You may find taking a
 
 
 <!-- p146 -->
-- Manifestation Gifts given by the Holy Spirit: <span class="x-scripture" data-type="ref" data-book="1 Corinthians" data-chapter="12" data-verses="8-10" data-lang="en" data-version="NKJV">1 Corinthians 12:8-10</span>
+- Manifestation Gifts given by the Holy Spirit: <span class="x-scripture" data-type="ref" data-book="1CO" data-chapter="12" data-verses="8-10" data-lang="en" data-version="NKJV">1 Corinthians 12:8-10</span>
 
 
 <!-- p147 -->
@@ -595,7 +595,7 @@ Identifying your **spiritual gifts** is an essential step. You may find taking a
 
 
 <!-- p148 -->
-The **motivational gifts** reflect how a believer is wired to think, feel, and act. They motivate believers to serve in specific ways that build up the church. Each gift complements the others, ensuring the church operates as a unified body with diverse roles (<span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="12" data-verses="4-5" data-lang="en" data-version="NKJV">Romans 12:4-5</span>). They operate as grace-given abilities (Greek: ***charis** - khar'-ece - **G5463 -** an unearned gift*) meaning that they are given from God, not earned or learned. While the gifts come from God, a person who has a gift can become more proficient in using it.
+The **motivational gifts** reflect how a believer is wired to think, feel, and act. They motivate believers to serve in specific ways that build up the church. Each gift complements the others, ensuring the church operates as a unified body with diverse roles (<span class="x-scripture" data-type="ref" data-book="ROM" data-chapter="12" data-verses="4-5" data-lang="en" data-version="NKJV">Romans 12:4-5</span>). They operate as grace-given abilities (Greek: ***charis** - khar'-ece - **G5463 -** an unearned gift*) meaning that they are given from God, not earned or learned. While the gifts come from God, a person who has a gift can become more proficient in using it.
 
 
 <!-- p149 -->
@@ -647,11 +647,11 @@ The motivational gifts are:
 
 
 <!-- p161 -->
-As you identify your gifts, consider your **passions and skills**. God often calls us to serve in areas we’re passionate about or skilled in (<span class="x-scripture" data-type="ref" data-book="Exodus" data-chapter="31" data-verses="2-6" data-lang="en" data-version="NKJV">Exodus 31:2-6</span>). Reflect on what excites you about serving God and others, and think about how your professional skills, hobbies, and life experiences might contribute to ministry.
+As you identify your gifts, consider your **passions and skills**. God often calls us to serve in areas we’re passionate about or skilled in (<span class="x-scripture" data-type="ref" data-book="EXO" data-chapter="31" data-verses="2-6" data-lang="en" data-version="NKJV">Exodus 31:2-6</span>). Reflect on what excites you about serving God and others, and think about how your professional skills, hobbies, and life experiences might contribute to ministry.
 
 
 <!-- p162 -->
-Seek guidance from **leaders and mentors** who can provide wisdom and insight (<span class="x-scripture" data-type="ref" data-book="Proverbs" data-chapter="15" data-verses="22" data-lang="en" data-version="NKJV">Proverbs 15:22</span>). Meet with a pastor or ministry leader to discuss your interests and ask for honest feedback about where you might fit best. Pray about the feedback you receive. Consider joining a discipleship group to receive training and ongoing support.
+Seek guidance from **leaders and mentors** who can provide wisdom and insight (<span class="x-scripture" data-type="ref" data-book="PRO" data-chapter="15" data-verses="22" data-lang="en" data-version="NKJV">Proverbs 15:22</span>). Meet with a pastor or ministry leader to discuss your interests and ask for honest feedback about where you might fit best. Pray about the feedback you receive. Consider joining a discipleship group to receive training and ongoing support.
 
 
 <!-- p163 -->
@@ -659,7 +659,7 @@ Seek guidance from **leaders and mentors** who can provide wisdom and insight (<
 
 
 <!-- p164 -->
-The parable of the talents (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="25" data-verses="14-30" data-lang="en" data-version="NKJV">Matthew 25:14-30</span>) reminds us that we need to be faithful in little things to be trusted in great things (<span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="16" data-verses="10" data-lang="en" data-version="NKJV">Luke 16:10</span>).
+The parable of the talents (<span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="25" data-verses="14-30" data-lang="en" data-version="NKJV">Matthew 25:14-30</span>) reminds us that we need to be faithful in little things to be trusted in great things (<span class="x-scripture" data-type="ref" data-book="LUK" data-chapter="16" data-verses="10" data-lang="en" data-version="NKJV">Luke 16:10</span>).
 
 
 <!-- p165 -->
@@ -687,7 +687,7 @@ Practice giving. We can give to the church in many important ways, and we are in
 
 
 <!-- p171 -->
-- Resources - we can give of our resources. Most commonly today this is probably giving financially to the church and to ministries (not just the “institution”, but those in need in the church). Giving money is useful, because the church can buy needed resources with it, but people have given their physical resources beyond money, for example extra homes, clothing, cars, food, building materials, tools, etc. In <span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="4" data-verses="32-35" data-lang="en" data-version="NKJV">Acts 4:32-35</span> we see an example of early believers giving freely, sharing proceeds from sale of extra lands and homes and giving so that ‘none had need’.
+- Resources - we can give of our resources. Most commonly today this is probably giving financially to the church and to ministries (not just the “institution”, but those in need in the church). Giving money is useful, because the church can buy needed resources with it, but people have given their physical resources beyond money, for example extra homes, clothing, cars, food, building materials, tools, etc. In <span class="x-scripture" data-type="ref" data-book="ACT" data-chapter="4" data-verses="32-35" data-lang="en" data-version="NKJV">Acts 4:32-35</span> we see an example of early believers giving freely, sharing proceeds from sale of extra lands and homes and giving so that ‘none had need’.
 
 
 <!-- p172 -->
@@ -699,7 +699,7 @@ Working alongside others in ministry can reveal your strengths and deepen your u
 
 
 <!-- p174 -->
-Jesus said that in life we would experience trouble! (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="16" data-verses="33" data-lang="en" data-version="NKJV">John 16:33</span>) We are encouraged to not carry the weight of our burdens by ourselves but to cast them on God who cares for us! (<span class="x-scripture" data-type="ref" data-book="1 Peter" data-chapter="5" data-verses="7" data-lang="en" data-version="NKJV">1 Peter 5:7</span>)
+Jesus said that in life we would experience trouble! (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="16" data-verses="33" data-lang="en" data-version="NKJV">John 16:33</span>) We are encouraged to not carry the weight of our burdens by ourselves but to cast them on God who cares for us! (<span class="x-scripture" data-type="ref" data-book="1PE" data-chapter="5" data-verses="7" data-lang="en" data-version="NKJV">1 Peter 5:7</span>)
 
 
 <!-- p175 -->
@@ -711,7 +711,7 @@ Not all ‘falling’ is sin related, but some of it is, not all weakness is ‘
 
 
 <!-- p177 -->
-There is great freedom in seeking inner healing and restoration. We are called to cover the vulnerable parts of the body (<span class="x-scripture" data-type="ref" data-book="1 Corinthians" data-chapter="12" data-verses="23" data-lang="en" data-version="NKJV">1 Corinthians 12:23</span>) and to restore those caught in trespasses (<span class="x-scripture" data-type="ref" data-book="Galatians" data-chapter="6" data-verses="1" data-lang="en" data-version="NKJV">Galatians 6:1</span>).
+There is great freedom in seeking inner healing and restoration. We are called to cover the vulnerable parts of the body (<span class="x-scripture" data-type="ref" data-book="1CO" data-chapter="12" data-verses="23" data-lang="en" data-version="NKJV">1 Corinthians 12:23</span>) and to restore those caught in trespasses (<span class="x-scripture" data-type="ref" data-book="GAL" data-chapter="6" data-verses="1" data-lang="en" data-version="NKJV">Galatians 6:1</span>).
 
 
 <!-- p178 -->
@@ -727,7 +727,7 @@ Pay attention to confirmation from God and others. Often, God confirms your call
 
 
 <!-- p181 -->
-Be patient and trust God’s timing. Discovering your role may take time and involve trial and error (<span class="x-scripture" data-type="ref" data-book="Philippians" data-chapter="1" data-verses="6" data-lang="en" data-version="NKJV">Philippians 1:6</span>). Trust that God will guide you as you remain faithful and open to His leading. During this time, commit to growth and training by attending workshops, Bible studies, and other resources that equip you for service. Do this with the church, engage with the body of Christ to discover your gifting.
+Be patient and trust God’s timing. Discovering your role may take time and involve trial and error (<span class="x-scripture" data-type="ref" data-book="PHP" data-chapter="1" data-verses="6" data-lang="en" data-version="NKJV">Philippians 1:6</span>). Trust that God will guide you as you remain faithful and open to His leading. During this time, commit to growth and training by attending workshops, Bible studies, and other resources that equip you for service. Do this with the church, engage with the body of Christ to discover your gifting.
 
 
 <!-- p182 -->
@@ -767,7 +767,7 @@ Remember, the church is not a building or an institution; it is a living, breath
 
 
 <!-- p191 -->
-2.  **Exploring the Church as the Body of Christ:** Read <span class="x-scripture" data-type="ref" data-book="1 Corinthians" data-chapter="12" data-verses="12-27" data-lang="en" data-version="NKJV">1 Corinthians 12:12-27</span>. What does this passage teach us about the church’s unity and diversity? How can we celebrate and honor each other’s differences?
+2.  **Exploring the Church as the Body of Christ:** Read <span class="x-scripture" data-type="ref" data-book="1CO" data-chapter="12" data-verses="12-27" data-lang="en" data-version="NKJV">1 Corinthians 12:12-27</span>. What does this passage teach us about the church’s unity and diversity? How can we celebrate and honor each other’s differences?
 
 
 <!-- p192 -->
@@ -775,7 +775,7 @@ Remember, the church is not a building or an institution; it is a living, breath
 
 
 <!-- p193 -->
-4.  **Addressing Conflict and Growth:** <span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="12" data-verses="12-17" data-lang="en" data-version="NKJV">Hebrews 12:12-17</span> calls us to strengthen one another and avoid bitterness. How can we handle division or hurt within the church in ways that foster healing and unity?
+4.  **Addressing Conflict and Growth:** <span class="x-scripture" data-type="ref" data-book="HEB" data-chapter="12" data-verses="12-17" data-lang="en" data-version="NKJV">Hebrews 12:12-17</span> calls us to strengthen one another and avoid bitterness. How can we handle division or hurt within the church in ways that foster healing and unity?
 
 
 <!-- p194 -->

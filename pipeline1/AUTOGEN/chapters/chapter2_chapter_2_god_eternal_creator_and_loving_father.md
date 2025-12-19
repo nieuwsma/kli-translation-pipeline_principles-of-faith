@@ -85,7 +85,7 @@ In Genesis, God establishes relationship with select individuals.
 
 
 <!-- p22 -->
-Throughout this narrative God, who wants to dwell with His creation, has to settle for dwelling with select individuals, and ultimately through covenant with Abraham establishes a people (<span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="17" data-verses="7" data-lang="en" data-version="NKJV">Genesis 17:7</span>).
+Throughout this narrative God, who wants to dwell with His creation, has to settle for dwelling with select individuals, and ultimately through covenant with Abraham establishes a people (<span class="x-scripture" data-type="ref" data-book="GEN" data-chapter="17" data-verses="7" data-lang="en" data-version="NKJV">Genesis 17:7</span>).
 
 
 <!-- p23 -->
@@ -93,7 +93,7 @@ Throughout this narrative God, who wants to dwell with His creation, has to sett
 
 
 <!-- p24 -->
-God’s desire to dwell with His people is also clearly seen in the second book of the Bible, Exodus. In the book of the exodus the people of Israel, who had lived for a period of time in relative peace and harmony in Egypt, are now being oppressed by a Pharaoh who did not know of Joseph and feared the Hebrews (<span class="x-scripture" data-type="ref" data-book="Exodus" data-chapter="1" data-verses="6-8" data-lang="en" data-version="NKJV">Exodus 1:6-8</span>). God’s people lived in Egypt for roughly ~400 years (<span class="x-scripture" data-type="ref" data-book="Exodus" data-chapter="12" data-verses="40-41" data-lang="en" data-version="NKJV">Exodus 12:40-41</span>), of which the later portion of that was spent living as slaves (there is not a universal consensus on precisely how long Israel was in bondage to Egypt).
+God’s desire to dwell with His people is also clearly seen in the second book of the Bible, Exodus. In the book of the exodus the people of Israel, who had lived for a period of time in relative peace and harmony in Egypt, are now being oppressed by a Pharaoh who did not know of Joseph and feared the Hebrews (<span class="x-scripture" data-type="ref" data-book="EXO" data-chapter="1" data-verses="6-8" data-lang="en" data-version="NKJV">Exodus 1:6-8</span>). God’s people lived in Egypt for roughly ~400 years (<span class="x-scripture" data-type="ref" data-book="EXO" data-chapter="12" data-verses="40-41" data-lang="en" data-version="NKJV">Exodus 12:40-41</span>), of which the later portion of that was spent living as slaves (there is not a universal consensus on precisely how long Israel was in bondage to Egypt).
 
 
 <!-- p25 -->
@@ -102,7 +102,7 @@ In the powerful presence of the burning bush that was not consumed, God reveals 
 
 
 <!-- p26 -->
-<span class="x-scripture" data-type="quote" data-book="Exodus" data-chapter="3" data-verses="14" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="EXO" data-chapter="3" data-verses="14" data-lang="en" data-version="NKJV">
 
 
 <!-- p27 -->
@@ -124,7 +124,7 @@ God uses Moses to reveal Himself to Pharaoh:
 
 
 <!-- p31 -->
-<span class="x-scripture" data-type="quote" data-book="Exodus" data-chapter="7" data-verses="16" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="EXO" data-chapter="7" data-verses="16" data-lang="en" data-version="NKJV">
 
 
 <!-- p32 -->
@@ -146,7 +146,7 @@ Plagues and misery ensue, but ultimately Pharaoh relents and lets the Israelites
 
 
 <!-- p36 -->
-<span class="x-scripture" data-type="quote" data-book="Exodus" data-chapter="12" data-verses="31" data-lang="en" data-version="NKJV">
+<span class="x-scripture" data-type="quote" data-book="EXO" data-chapter="12" data-verses="31" data-lang="en" data-version="NKJV">
 
 
 <!-- p37 -->
@@ -167,7 +167,7 @@ God brings His people to Mount Sinai where God commands Moses to consecrate the 
 
 
 <!-- p41 -->
-Despite building a covenant with His people, the relationship is one of a loving and jealous God pursuing and abiding with very stubborn and ungrateful people (<span class="x-scripture" data-type="ref" data-book="Exodus" data-chapter="32" data-verses="9" data-lang="en" data-version="NKJV">Exodus 32:9</span>). Ignoring God's miraculous intervention, they keep a rebellious attitude for large parts of the text. God even brings them to the promised land and tells them they can inherit it (<span class="x-scripture" data-type="ref" data-book="Exodus" data-chapter="33" data-verses="3" data-lang="en" data-version="NKJV">Exodus 33:3</span>), but in fear and disobedience they ignore the supernatural deliverance that God has given them, and instead must wander the desert for 40 years until almost everyone from that generation had died (<span class="x-scripture" data-type="ref" data-book="Numbers" data-chapter="14" data-verses="33-34" data-lang="en" data-version="NKJV">Numbers 14:33-34</span>).
+Despite building a covenant with His people, the relationship is one of a loving and jealous God pursuing and abiding with very stubborn and ungrateful people (<span class="x-scripture" data-type="ref" data-book="EXO" data-chapter="32" data-verses="9" data-lang="en" data-version="NKJV">Exodus 32:9</span>). Ignoring God's miraculous intervention, they keep a rebellious attitude for large parts of the text. God even brings them to the promised land and tells them they can inherit it (<span class="x-scripture" data-type="ref" data-book="EXO" data-chapter="33" data-verses="3" data-lang="en" data-version="NKJV">Exodus 33:3</span>), but in fear and disobedience they ignore the supernatural deliverance that God has given them, and instead must wander the desert for 40 years until almost everyone from that generation had died (<span class="x-scripture" data-type="ref" data-book="NUM" data-chapter="14" data-verses="33-34" data-lang="en" data-version="NKJV">Numbers 14:33-34</span>).
 
 
 <!-- p42 -->
@@ -195,7 +195,7 @@ These names help us understand God-Father, Son, and Holy Spirit (the **Trinity**
 
 
 <!-- p48 -->
-God’s character and actions are fully expressed in the unity of Father, Son, and Spirit. The scriptures teach that God is one in essence, yet exists as three distinct persons: the Father, the Son, and the Holy Spirit. Scripture affirms God’s oneness, stating, “beside Him there is no God” (<span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="45" data-verses="5" data-lang="en" data-version="NKJV">Isaiah 45:5</span>). However, the Godhead is understood as a **compound unity**-three distinct persons who cooperate with a singular mind and purpose, united in the truest sense. Each person of the Trinity has a unique role: the **Father creates**, the **Son redeems**, and the **Holy Spirit sanctifies**. The term “Trinity” does not appear in the Bible; it was developed as a theological expression to describe this concept, which is revealed through Scripture.
+God’s character and actions are fully expressed in the unity of Father, Son, and Spirit. The scriptures teach that God is one in essence, yet exists as three distinct persons: the Father, the Son, and the Holy Spirit. Scripture affirms God’s oneness, stating, “beside Him there is no God” (<span class="x-scripture" data-type="ref" data-book="ISA" data-chapter="45" data-verses="5" data-lang="en" data-version="NKJV">Isaiah 45:5</span>). However, the Godhead is understood as a **compound unity**-three distinct persons who cooperate with a singular mind and purpose, united in the truest sense. Each person of the Trinity has a unique role: the **Father creates**, the **Son redeems**, and the **Holy Spirit sanctifies**. The term “Trinity” does not appear in the Bible; it was developed as a theological expression to describe this concept, which is revealed through Scripture.
 
 
 <!-- p49 -->
@@ -203,15 +203,15 @@ The Trinity can be illustrated by examples in nature, which help clarify this id
 
 
 <!-- p50 -->
-- **God the Father**: He is the creator and sustainer of all things, often understood as the initiator in the Godhead. His love for humanity is central to the biblical story, exemplified in <span class="x-scripture" data-type="ref" data-book="John" data-chapter="3" data-verses="16" data-lang="en" data-version="NKJV">John 3:16</span>. In our study we will examine God the father as the loving father and righteous judge, who made a path for our redemption.
+- **God the Father**: He is the creator and sustainer of all things, often understood as the initiator in the Godhead. His love for humanity is central to the biblical story, exemplified in <span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="3" data-verses="16" data-lang="en" data-version="NKJV">John 3:16</span>. In our study we will examine God the father as the loving father and righteous judge, who made a path for our redemption.
 
 
 <!-- p51 -->
-- **God the Son**: Co-existent and co-eternal with the Father, Jesus took on human nature, being conceived by the Holy Spirit and born of the virgin Mary. He lived a sinless life, died to redeem humanity, and rose again, defeating sin and death. He now sits at the Father’s right hand, interceding for us (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="1" data-verses="1-3" data-lang="en" data-version="NKJV">John 1:1-3</span>; <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="1" data-verses="23" data-lang="en" data-version="NKJV">Matthew 1:23</span>; <span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="2" data-verses="5" data-lang="en" data-version="NKJV">1 Timothy 2:5</span>). In our study we will examine Jesus as the perfect atoning sacrifice, the resurrected Lord, and head of the church.
+- **God the Son**: Co-existent and co-eternal with the Father, Jesus took on human nature, being conceived by the Holy Spirit and born of the virgin Mary. He lived a sinless life, died to redeem humanity, and rose again, defeating sin and death. He now sits at the Father’s right hand, interceding for us (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="1" data-verses="1-3" data-lang="en" data-version="NKJV">John 1:1-3</span>; <span class="x-scripture" data-type="ref" data-book="MAT" data-chapter="1" data-verses="23" data-lang="en" data-version="NKJV">Matthew 1:23</span>; <span class="x-scripture" data-type="ref" data-book="1TI" data-chapter="2" data-verses="5" data-lang="en" data-version="NKJV">1 Timothy 2:5</span>). In our study we will examine Jesus as the perfect atoning sacrifice, the resurrected Lord, and head of the church.
 
 
 <!-- p52 -->
-- **God the Holy Spirit**: The Holy Spirit, co-existent and equal with the Father and the Son, is sent by the Father through the Son to convict the world of sin and prepare believers as the Bride of Christ. He empowers, comforts, and sanctifies those who are in Christ (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="14" data-verses="26" data-lang="en" data-version="NKJV">John 14:26</span>; 15:26; 16:8). In our study we will examine the Holy Spirit as the comforter, given to us by God to equip, empower, sanctify, and abide with us.
+- **God the Holy Spirit**: The Holy Spirit, co-existent and equal with the Father and the Son, is sent by the Father through the Son to convict the world of sin and prepare believers as the Bride of Christ. He empowers, comforts, and sanctifies those who are in Christ (<span class="x-scripture" data-type="ref" data-book="JHN" data-chapter="14" data-verses="26" data-lang="en" data-version="NKJV">John 14:26</span>; 15:26; 16:8). In our study we will examine the Holy Spirit as the comforter, given to us by God to equip, empower, sanctify, and abide with us.
 
 
 <!-- p53 -->
@@ -243,7 +243,7 @@ Scriptures offer a context to these encounters, showing us God’s faithfulness 
 
 
 <!-- p60 -->
-2.  How does knowing God as “I AM” (<span class="x-scripture" data-type="ref" data-book="Exodus" data-chapter="3" data-verses="14" data-lang="en" data-version="NKJV">Exodus 3:14</span>) change the way you approach Him in prayer?
+2.  How does knowing God as “I AM” (<span class="x-scripture" data-type="ref" data-book="EXO" data-chapter="3" data-verses="14" data-lang="en" data-version="NKJV">Exodus 3:14</span>) change the way you approach Him in prayer?
 
 
 <!-- p61 -->
@@ -267,7 +267,7 @@ Scriptures offer a context to these encounters, showing us God’s faithfulness 
 
 
 <!-- p66 -->
-2.  **Exploring Scripture:** *Looking at <span class="x-scripture" data-type="ref" data-book="Exodus" data-chapter="3" data-verses="14" data-lang="en" data-version="NKJV">Exodus 3:14</span> and <span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="22" data-verses="14" data-lang="en" data-version="NKJV">Genesis 22:14</span>, how do God’s names reflect His character and actions in those stories?*
+2.  **Exploring Scripture:** *Looking at <span class="x-scripture" data-type="ref" data-book="EXO" data-chapter="3" data-verses="14" data-lang="en" data-version="NKJV">Exodus 3:14</span> and <span class="x-scripture" data-type="ref" data-book="GEN" data-chapter="22" data-verses="14" data-lang="en" data-version="NKJV">Genesis 22:14</span>, how do God’s names reflect His character and actions in those stories?*
 
 
 <!-- p67 -->
