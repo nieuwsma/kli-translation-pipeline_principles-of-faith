@@ -1,0 +1,5 @@
+# Drift explanation generated 2025-10-08T09:15:48.938009
+# Source drift file: analysis/drift_report_chapter14_chapter_14_keep_watch_vs_chapter14_chapter_14_keep_watch_20251008-071410.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"4","0.8003","LOW","no","paraphrase","Both phrases convey the same idea of consensus among a group, with no significant change in doctrinal meaning, logical relationship, or intent.","## Universally Agreed Upon Points:","## Things Agreed on by All:"
+"52","0.9139","MEDIUM","no","paraphrase","The back-translation simplifies the phrase by removing 'The' but retains the core concept of 'rewards,' indicating no change in meaning.","The rewards:","Rewards:"

@@ -1,0 +1,7 @@
+# Drift explanation generated 2025-10-08T09:06:08.097585
+# Source drift file: analysis/drift_report_chapter0_0_intro_vs_chapter0_0_intro_20251008-071345.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"1","0.8415","LOW","no","paraphrase","The back-translation 'Faith Principles' retains the same conceptual meaning as 'Principles of Faith,' simply altering the word order without changing the underlying theological concepts.","Principles of Faith","Faith Principles"
+"2","0.8416","LOW","no","paraphrase","The back-translation 'Faith Principles' retains the same conceptual meaning as 'Principles of Faith,' simply reordering the words without altering the underlying theological concepts.","Principles of Faith","Faith Principles"
+"4","0.8557","MEDIUM","no","paraphrase","The terms 'Principles of Faith' and 'Faith Principles' convey the same conceptual meaning, focusing on foundational beliefs without altering the doctrinal or intentional context.","Principles of Faith -","Faith Principles -"
+"16","0.8496","LOW","no","paraphrase","The terms 'Version' and 'Edition' are synonymous in this context, and the ID number remains unchanged, indicating no alteration in meaning.","Version ID: 20250519","Edition ID: 20250519"

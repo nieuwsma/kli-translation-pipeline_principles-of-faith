@@ -1,0 +1,115 @@
+# ./scripts/drift_explain.py --input-dir analysis --outdir analysis/explained
+🗂 Found 27 drift reports in analysis. Processing...
+
+Analyzing 3 flagged paragraphs in drift_report_chapter0_6_preface_vs_chapter0_6_preface_20251008-071351.csv...
+Explaining differences: 3it [00:07,  2.59s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter0_6_preface_vs_chapter0_6_preface_20251008-071351_explained.csv
+📊 Summary: 3 analyzed | 1 changed | 0 failed to parse
+
+Analyzing 4 flagged paragraphs in drift_report_chapter0_0_intro_vs_chapter0_0_intro_20251008-071345.csv...
+Explaining differences: 4it [00:12,  3.09s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter0_0_intro_vs_chapter0_0_intro_20251008-071345_explained.csv
+📊 Summary: 4 analyzed | 0 changed | 0 failed to parse
+
+ℹ️  No non-HIGH paragraphs in drift_report_chapter0_5_foreword_vs_chapter0_5_foreword_20251008-071350.csv — skipping.
+Analyzing 6 flagged paragraphs in drift_report_chapter14_back_5_hearing_the_voice_of_god_vs_chapter14_back_5_hearing_the_voice_of_god_20251008-071408.csv...
+Explaining differences: 6it [00:15,  2.64s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter14_back_5_hearing_the_voice_of_god_vs_chapter14_back_5_hearing_the_voice_of_god_20251008-071408_explained.csv
+📊 Summary: 6 analyzed | 5 changed | 0 failed to parse
+
+Analyzing 5 flagged paragraphs in drift_report_chapter13_chapter_13_spiritual_authority_vs_chapter13_chapter_13_spiritual_authority_20251008-071402.csv...
+Explaining differences: 5it [00:10,  2.19s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter13_chapter_13_spiritual_authority_vs_chapter13_chapter_13_spiritual_authority_20251008-071402_explained.csv
+📊 Summary: 5 analyzed | 3 changed | 0 failed to parse
+
+Analyzing 22 flagged paragraphs in drift_report_chapter9_chapter_9_the_church_our_role_in_it_vs_chapter9_chapter_9_the_church_our_role_in_it_20251008-071426.csv...
+Explaining differences: 22it [00:54,  2.47s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter9_chapter_9_the_church_our_role_in_it_vs_chapter9_chapter_9_the_church_our_role_in_it_20251008-071426_explained.csv
+📊 Summary: 22 analyzed | 13 changed | 0 failed to parse
+
+ℹ️  No non-HIGH paragraphs in drift_report_chapter14_back_1_postscript_vs_chapter14_back_1_postscript_20251008-071402.csv — skipping.
+Analyzing 5 flagged paragraphs in drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith_20251008-071419.csv...
+Explaining differences: 5it [00:14,  2.87s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith_20251008-071419_explained.csv
+📊 Summary: 5 analyzed | 2 changed | 0 failed to parse
+
+Analyzing 1 flagged paragraphs in drift_report_chapter14_back_3_extended_reference_tables_vs_chapter14_back_3_extended_reference_tables_20251008-071402.csv...
+Explaining differences: 1it [00:03,  3.23s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter14_back_3_extended_reference_tables_vs_chapter14_back_3_extended_reference_tables_20251008-071402_explained.csv
+📊 Summary: 1 analyzed | 1 changed | 0 failed to parse
+
+Analyzing 24 flagged paragraphs in drift_report_chapter1_chapter_1_sound_doctrine_matters_vs_chapter1_chapter_1_sound_doctrine_matters_20251008-071411.csv...
+Explaining differences: 24it [01:16,  3.17s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter1_chapter_1_sound_doctrine_matters_vs_chapter1_chapter_1_sound_doctrine_matters_20251008-071411_explained.csv
+📊 Summary: 24 analyzed | 11 changed | 0 failed to parse
+
+ℹ️  No non-HIGH paragraphs in drift_report_chapter0_2_acknowledgements_vs_chapter0_2_acknowledgements_20251008-071348.csv — skipping.
+Analyzing 7 flagged paragraphs in drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father_20251008-071412.csv...
+Explaining differences: 7it [00:16,  2.43s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father_20251008-071412_explained.csv
+📊 Summary: 7 analyzed | 1 changed | 0 failed to parse
+
+Analyzing 5 flagged paragraphs in drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption_20251008-071413.csv...
+Explaining differences: 5it [00:13,  2.71s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption_20251008-071413_explained.csv
+📊 Summary: 5 analyzed | 2 changed | 0 failed to parse
+
+Analyzing 13 flagged paragraphs in drift_report_chapter0_4_list_of_tables_vs_chapter0_4_list_of_tables_20251008-071301.csv...
+Explaining differences: 13it [00:30,  2.33s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter0_4_list_of_tables_vs_chapter0_4_list_of_tables_20251008-071301_explained.csv
+📊 Summary: 13 analyzed | 0 changed | 0 failed to parse
+
+ℹ️  No non-HIGH paragraphs in drift_report_chapter0_3_table_of_contents_vs_chapter0_3_table_of_contents_20251008-071348.csv — skipping.
+ℹ️  No non-HIGH paragraphs in drift_report_chapter0_1_dedication_vs_chapter0_1_dedication_20251008-071346.csv — skipping.
+Analyzing 14 flagged paragraphs in drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah_20251008-071414.csv...
+Explaining differences: 14it [00:34,  2.49s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah_20251008-071414_explained.csv
+📊 Summary: 14 analyzed | 3 changed | 0 failed to parse
+
+Analyzing 4 flagged paragraphs in drift_report_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_vs_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_20251008-071353.csv...
+Explaining differences: 4it [00:09,  2.32s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_vs_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_20251008-071353_explained.csv
+📊 Summary: 4 analyzed | 0 changed | 0 failed to parse
+
+Analyzing 83 flagged paragraphs in drift_report_chapter14_back_4_end_of_chapter_activities_vs_chapter14_back_4_end_of_chapter_activities_20251008-071408.csv...
+Explaining differences: 83it [03:09,  2.28s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter14_back_4_end_of_chapter_activities_vs_chapter14_back_4_end_of_chapter_activities_20251008-071408_explained.csv
+📊 Summary: 83 analyzed | 16 changed | 0 failed to parse
+
+Analyzing 15 flagged paragraphs in drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works_20251008-071415.csv...
+Explaining differences: 15it [00:32,  2.14s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works_20251008-071415_explained.csv
+📊 Summary: 15 analyzed | 6 changed | 0 failed to parse
+
+Analyzing 8 flagged paragraphs in drift_report_chapter11_chapter_11_baptisms_water_and_spirit_vs_chapter11_chapter_11_baptisms_water_and_spirit_20251008-071356.csv...
+Explaining differences: 8it [00:16,  2.11s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter11_chapter_11_baptisms_water_and_spirit_vs_chapter11_chapter_11_baptisms_water_and_spirit_20251008-071356_explained.csv
+📊 Summary: 8 analyzed | 1 changed | 0 failed to parse
+
+Analyzing 26 flagged paragraphs in drift_report_chapter0_3_table_of_contents_vs_chapter0_3_table_of_contents_20251008-071301.csv...
+Explaining differences: 26it [00:57,  2.20s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter0_3_table_of_contents_vs_chapter0_3_table_of_contents_20251008-071301_explained.csv
+📊 Summary: 26 analyzed | 4 changed | 0 failed to parse
+
+Analyzing 2 flagged paragraphs in drift_report_chapter14_chapter_14_keep_watch_vs_chapter14_chapter_14_keep_watch_20251008-071410.csv...
+Explaining differences: 2it [00:04,  2.46s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter14_chapter_14_keep_watch_vs_chapter14_chapter_14_keep_watch_20251008-071410_explained.csv
+📊 Summary: 2 analyzed | 0 changed | 0 failed to parse
+
+ℹ️  No non-HIGH paragraphs in drift_report_chapter0_4_list_of_tables_vs_chapter0_4_list_of_tables_20251008-071350.csv — skipping.
+Analyzing 15 flagged paragraphs in drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship_20251008-071357.csv...
+Explaining differences: 15it [00:36,  2.44s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship_20251008-071357_explained.csv
+📊 Summary: 15 analyzed | 4 changed | 0 failed to parse
+
+Analyzing 8 flagged paragraphs in drift_report_chapter6_chapter_6_faith_toward_god_vs_chapter6_chapter_6_faith_toward_god_20251008-071417.csv...
+Explaining differences: 8it [00:24,  3.06s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter6_chapter_6_faith_toward_god_vs_chapter6_chapter_6_faith_toward_god_20251008-071417_explained.csv
+📊 Summary: 8 analyzed | 1 changed | 0 failed to parse
+
+Analyzing 16 flagged paragraphs in drift_report_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_vs_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_20251008-071421.csv...
+Explaining differences: 16it [00:39,  2.48s/it]
+✅ Saved explained drift report: analysis/explained/drift_report_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_vs_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_20251008-071421_explained.csv
+📊 Summary: 16 analyzed | 4 changed | 0 failed to parse
+
+🎉 All files processed.
