@@ -26,13 +26,13 @@ Imarisha dhana kuu za kibiblia kuhusu mafundisho kwa kuchunguza Maandiko yanayoa
 2.  **Watengeeni Maandiko** - Peana kila kundi kifungu kimoja kati ya vifuatavyo:
 
 <!-- p9 -->
-- **<span class="x-scripture" data-type="ref" data-book="Colossians" data-chapter="2" data-verses="7" data-lang="sw" data-version="OCS">Wakolosai 2:7</span>** - *Kutiwa mizizi na kujengwa katika Kristo.*
+- **<span class="x-scripture" data-book="COL" data-chapter="2" data-lang="sw" data-type="ref" data-verses="7" data-version="OCS">Wakolosai 2:7</span>** - *Kutiwa mizizi na kujengwa katika Kristo.*
 
 <!-- p10 -->
-- **<span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="4" data-verses="1-4" data-lang="sw" data-version="OCS">2 Timotheo 4:1-4</span>** - *Kuhubiri Neno na kujilinda dhidi ya mafundisho ya uongo.*
+- **<span class="x-scripture" data-book="2TI" data-chapter="4" data-lang="sw" data-type="ref" data-verses="1-4" data-version="OCS">2 Timotheo 4:1-4</span>** - *Kuhubiri Neno na kujilinda dhidi ya mafundisho ya uongo.*
 
 <!-- p11 -->
-- **<span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="4" data-verses="11-16" data-lang="sw" data-version="OCS">Waefeso 4:11-16</span>** - *Ukomavu wa kiroho na umoja kupitia mafundisho sahihi.*
+- **<span class="x-scripture" data-book="EPH" data-chapter="4" data-lang="sw" data-type="ref" data-verses="11-16" data-version="OCS">Waefeso 4:11-16</span>** - *Ukomavu wa kiroho na umoja kupitia mafundisho sahihi.*
 
 <!-- p12 -->
 3.  **Majadiliano ya Kundi** - Kila kundi lifanye:
@@ -122,19 +122,19 @@ Wafunze washiriki **kutofautisha ukweli na makosa** kwa kutumia Maandiko kama ms
 #### Kauli:
 
 <!-- p41 -->
-1.  *Imani peke yake ndiyo inayotuokoa.* *(Kweli - <span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="2" data-verses="8-9" data-lang="sw" data-version="OCS">Waefeso 2:8-9</span>)*
+1.  *Imani peke yake ndiyo inayotuokoa.* *(Kweli - <span class="x-scripture" data-book="EPH" data-chapter="2" data-lang="sw" data-type="ref" data-verses="8-9" data-version="OCS">Waefeso 2:8-9</span>)*
 
 <!-- p42 -->
-2.  *Njia zote humwongoza kwa Mungu tukiwa waaminifu wa dhati.* *(Si kweli - <span class="x-scripture" data-type="ref" data-book="John" data-chapter="14" data-verses="6" data-lang="sw" data-version="OCS">Yohana 14:6</span>)*
+2.  *Njia zote humwongoza kwa Mungu tukiwa waaminifu wa dhati.* *(Si kweli - <span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="sw" data-type="ref" data-verses="6" data-version="OCS">Yohana 14:6</span>)*
 
 <!-- p43 -->
-3.  *Mafundisho sahihi si muhimu kama kuwapenda wengine.* *(Si kweli - <span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="4" data-verses="16" data-lang="sw" data-version="OCS">1 Timotheo 4:16</span>)*
+3.  *Mafundisho sahihi si muhimu kama kuwapenda wengine.* *(Si kweli - <span class="x-scripture" data-book="1TI" data-chapter="4" data-lang="sw" data-type="ref" data-verses="16" data-version="OCS">1 Timotheo 4:16</span>)*
 
 <!-- p44 -->
-4.  *Tunaihitaji Biblia, lakini pia tunahitaji ufunuo wa kisasa kutuelekeza.* *(Si kweli - <span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="3" data-verses="16-17" data-lang="sw" data-version="OCS">2 Timotheo 3:16-17</span>)*
+4.  *Tunaihitaji Biblia, lakini pia tunahitaji ufunuo wa kisasa kutuelekeza.* *(Si kweli - <span class="x-scripture" data-book="2TI" data-chapter="3" data-lang="sw" data-type="ref" data-verses="16-17" data-version="OCS">2 Timotheo 3:16-17</span>)*
 
 <!-- p45 -->
-5.  *Matendo mema ni matokeo ya wokovu, si chanzo chake.* *(Kweli - <span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="2" data-verses="10" data-lang="sw" data-version="OCS">Waefeso 2:10</span>)*
+5.  *Matendo mema ni matokeo ya wokovu, si chanzo chake.* *(Kweli - <span class="x-scripture" data-book="EPH" data-chapter="2" data-lang="sw" data-type="ref" data-verses="10" data-version="OCS">Waefeso 2:10</span>)*
 
 <!-- p46 -->
 ## Sura ya 2 - Mungu - Muumba wa Milele na Baba Mwenye Upendo
@@ -282,13 +282,13 @@ Onyesheni jinsi athari za dhambi zinavyosambaa kama mawimbi, zikiathiri **mahusi
 - Gawanyeni katika vikundi na kipeni kila kimoja **mfano wa dhambi wa kibiblia**:
 
 <!-- p94 -->
-- **Adamu na Hawa** - <span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="3" data-verses="6-13" data-lang="sw" data-version="OCS">Mwanzo 3:6-13</span> (Aibu na kutengana).
+- **Adamu na Hawa** - <span class="x-scripture" data-book="GEN" data-chapter="3" data-lang="sw" data-type="ref" data-verses="6-13" data-version="OCS">Mwanzo 3:6-13</span> (Aibu na kutengana).
 
 <!-- p95 -->
-- **Kaini na Abeli** - <span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="4" data-verses="3-12" data-lang="sw" data-version="OCS">Mwanzo 4:3-12</span> (Wivu, uuaji, na kutengwa).
+- **Kaini na Abeli** - <span class="x-scripture" data-book="GEN" data-chapter="4" data-lang="sw" data-type="ref" data-verses="3-12" data-version="OCS">Mwanzo 4:3-12</span> (Wivu, uuaji, na kutengwa).
 
 <!-- p96 -->
-- **Daudi na Bathsheba** - <span class="x-scripture" data-type="ref" data-book="2 Samuel" data-chapter="11" data-verses="2-27" data-lang="sw" data-version="OCS">2 Samweli 11:2-27</span> (Uzinzi na matokeo).
+- **Daudi na Bathsheba** - <span class="x-scripture" data-book="2SA" data-chapter="11" data-lang="sw" data-type="ref" data-verses="2-27" data-version="OCS">2 Samweli 11:2-27</span> (Uzinzi na matokeo).
 
 <!-- p97 -->
 - Jadili:
@@ -327,19 +327,19 @@ Fuata **mpango wa ukombozi** wa Mungu kuanzia **Mwanzo hadi Kristo**, ukilenga *
 1.  **Gawanyeni katika Vikundi Vidogo** - Wapeni kila kikundi **kifungu cha Maandiko** kinachoangazia dhambi na urejesho:
 
 <!-- p109 -->
-- **<span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="3" data-verses="21" data-lang="sw" data-version="OCS">Mwanzo 3:21</span>** - Mungu anatoa mavazi kwa Adamu na Hawa.
+- **<span class="x-scripture" data-book="GEN" data-chapter="3" data-lang="sw" data-type="ref" data-verses="21" data-version="OCS">Mwanzo 3:21</span>** - Mungu anatoa mavazi kwa Adamu na Hawa.
 
 <!-- p110 -->
-- **<span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="4" data-verses="6-7" data-lang="sw" data-version="OCS">Mwanzo 4:6-7</span>** - Mungu anamwonya Kaini kabla ya dhambi yake.
+- **<span class="x-scripture" data-book="GEN" data-chapter="4" data-lang="sw" data-type="ref" data-verses="6-7" data-version="OCS">Mwanzo 4:6-7</span>** - Mungu anamwonya Kaini kabla ya dhambi yake.
 
 <!-- p111 -->
-- **<span class="x-scripture" data-type="ref" data-book="Exodus" data-chapter="12" data-verses="13" data-lang="sw" data-version="OCS">Kutoka 12:13</span>** - Mwanakondoo wa Pasaka analinda Israeli.
+- **<span class="x-scripture" data-book="EXO" data-chapter="12" data-lang="sw" data-type="ref" data-verses="13" data-version="OCS">Kutoka 12:13</span>** - Mwanakondoo wa Pasaka analinda Israeli.
 
 <!-- p112 -->
-- **<span class="x-scripture" data-type="ref" data-book="Leviticus" data-chapter="16" data-verses="21-22" data-lang="sw" data-version="OCS">Mambo ya Walawi 16:21-22</span>** - Mbuzi wa ondoleo hubeba dhambi na kuzipeleka mbali.
+- **<span class="x-scripture" data-book="LEV" data-chapter="16" data-lang="sw" data-type="ref" data-verses="21-22" data-version="OCS">Mambo ya Walawi 16:21-22</span>** - Mbuzi wa ondoleo hubeba dhambi na kuzipeleka mbali.
 
 <!-- p113 -->
-- **<span class="x-scripture" data-type="ref" data-book="John" data-chapter="1" data-verses="29" data-lang="sw" data-version="OCS">Yohana 1:29</span>** - Yesu, Mwanakondoo wa Mungu, aiondoa dhambi.
+- **<span class="x-scripture" data-book="JHN" data-chapter="1" data-lang="sw" data-type="ref" data-verses="29" data-version="OCS">Yohana 1:29</span>** - Yesu, Mwanakondoo wa Mungu, aiondoa dhambi.
 
 <!-- p114 -->
 2.  **Kazi ya Kikundi:**
@@ -387,7 +387,7 @@ Waongoze washiriki **kuushughulikia msamaha binafsi**-zote mbili **kuupokea** na
 2.  **Muda wa Maombi Yaliyoongozwa (Dakika 10):**
 
 <!-- p129 -->
-- Soma **<span class="x-scripture" data-type="ref" data-book="1 John" data-chapter="1" data-verses="9" data-lang="sw" data-version="OCS">1 Yohana 1:9</span>**
+- Soma **<span class="x-scripture" data-book="1JN" data-chapter="1" data-lang="sw" data-type="ref" data-verses="9" data-version="OCS">1 Yohana 1:9</span>**
 
 <!-- p130 -->
 - Waongoze washiriki katika maombi ya faragha. Mratibu hahitaji kusikia mazungumzo kati ya mtu na Mungu.
@@ -405,7 +405,7 @@ Waongoze washiriki **kuushughulikia msamaha binafsi**-zote mbili **kuupokea** na
 3.  **Tafakari ya Kufunga (Dakika 5):**
 
 <!-- p135 -->
-- Soma **<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="103" data-verses="12" data-lang="sw" data-version="OCS">Zaburi 103:12</span>**
+- Soma **<span class="x-scripture" data-book="Psalm" data-chapter="103" data-lang="sw" data-type="ref" data-verses="12" data-version="OCS">Zaburi 103:12</span>**
 
 <!-- p136 -->
 - Alika washiriki kushiriki (hiari) **jinsi msamaha** unavyoleta **uhuru na urejesho**.
@@ -429,19 +429,19 @@ Chunguza **majina na vyeo vya Yesu** na jinsi vinavyofunua Utume Wake kama Masih
 1.  **Gawanyikeni katika Makundi Madogo.** Kila kundi lipeni mojawapo ya vyeo vifuatavyo vya Yesu:
 
 <!-- p143 -->
-- **Emmanuel** (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="1" data-verses="23" data-lang="sw" data-version="OCS">Mathayo 1:23</span>) - *Mungu pamoja nasi.*
+- **Emmanuel** (<span class="x-scripture" data-book="MAT" data-chapter="1" data-lang="sw" data-type="ref" data-verses="23" data-version="OCS">Mathayo 1:23</span>) - *Mungu pamoja nasi.*
 
 <!-- p144 -->
-- **Mwanakondoo wa Mungu** (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="1" data-verses="29" data-lang="sw" data-version="OCS">Yohana 1:29</span>) - *Sadaka kwa ajili ya dhambi.*
+- **Mwanakondoo wa Mungu** (<span class="x-scripture" data-book="JHN" data-chapter="1" data-lang="sw" data-type="ref" data-verses="29" data-version="OCS">Yohana 1:29</span>) - *Sadaka kwa ajili ya dhambi.*
 
 <!-- p145 -->
-- **Mfalme wa Wafalme** (<span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="19" data-verses="16" data-lang="sw" data-version="OCS">Ufunuo 19:16</span>) - *Mamlaka ya juu kabisa.*
+- **Mfalme wa Wafalme** (<span class="x-scripture" data-book="REV" data-chapter="19" data-lang="sw" data-type="ref" data-verses="16" data-version="OCS">Ufunuo 19:16</span>) - *Mamlaka ya juu kabisa.*
 
 <!-- p146 -->
-- **Kuhani Mkuu** (<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="4" data-verses="14-16" data-lang="sw" data-version="OCS">Waebrania 4:14-16</span>) - *Mpatanishi kati ya Mungu na mwanadamu.*
+- **Kuhani Mkuu** (<span class="x-scripture" data-book="HEB" data-chapter="4" data-lang="sw" data-type="ref" data-verses="14-16" data-version="OCS">Waebrania 4:14-16</span>) - *Mpatanishi kati ya Mungu na mwanadamu.*
 
 <!-- p147 -->
-- **Neno** (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="1" data-verses="1" data-lang="sw" data-version="OCS">Yohana 1:1</span>) - *Ufunuo wa Mungu.*
+- **Neno** (<span class="x-scripture" data-book="JHN" data-chapter="1" data-lang="sw" data-type="ref" data-verses="1" data-version="OCS">Yohana 1:1</span>) - *Ufunuo wa Mungu.*
 
 <!-- p148 -->
 2.  **Kazi ya Kundi:**
@@ -477,16 +477,16 @@ Fuata nyakati muhimu katika utume wa Yesu ili kuunganisha unabii na utimilifu.
 1.  **Gawanyikeni katika Makundi.** Wape kila kundi **unabii** na **utimilifu** wake:
 
 <!-- p159 -->
-- **Kuzaliwa na Bikira:** <span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="7" data-verses="14" data-lang="sw" data-version="OCS">Isaya 7:14</span> → <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="1" data-verses="22-23" data-lang="sw" data-version="OCS">Mathayo 1:22-23</span>.
+- **Kuzaliwa na Bikira:** <span class="x-scripture" data-book="ISA" data-chapter="7" data-lang="sw" data-type="ref" data-verses="14" data-version="OCS">Isaya 7:14</span> → <span class="x-scripture" data-book="MAT" data-chapter="1" data-lang="sw" data-type="ref" data-verses="22-23" data-version="OCS">Mathayo 1:22-23</span>.
 
 <!-- p160 -->
-- **Kuponya Waliovunjika Mioyo:** <span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="61" data-verses="1-2" data-lang="sw" data-version="OCS">Isaya 61:1-2</span> → <span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="4" data-verses="18-19" data-lang="sw" data-version="OCS">Luka 4:18-19</span>.
+- **Kuponya Waliovunjika Mioyo:** <span class="x-scripture" data-book="ISA" data-chapter="61" data-lang="sw" data-type="ref" data-verses="1-2" data-version="OCS">Isaya 61:1-2</span> → <span class="x-scripture" data-book="LUK" data-chapter="4" data-lang="sw" data-type="ref" data-verses="18-19" data-version="OCS">Luka 4:18-19</span>.
 
 <!-- p161 -->
-- **Mtumishi Anayeteseka:** <span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="53" data-verses="4-7" data-lang="sw" data-version="OCS">Isaya 53:4-7</span> → <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="27" data-verses="26-31" data-lang="sw" data-version="OCS">Mathayo 27:26-31</span>.
+- **Mtumishi Anayeteseka:** <span class="x-scripture" data-book="ISA" data-chapter="53" data-lang="sw" data-type="ref" data-verses="4-7" data-version="OCS">Isaya 53:4-7</span> → <span class="x-scripture" data-book="MAT" data-chapter="27" data-lang="sw" data-type="ref" data-verses="26-31" data-version="OCS">Mathayo 27:26-31</span>.
 
 <!-- p162 -->
-- **Ushindi wa Ufufuo:** <span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="16" data-verses="10" data-lang="sw" data-version="OCS">Zaburi 16:10</span> → <span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="2" data-verses="31" data-lang="sw" data-version="OCS">Matendo 2:31</span>.
+- **Ushindi wa Ufufuo:** <span class="x-scripture" data-book="Psalm" data-chapter="16" data-lang="sw" data-type="ref" data-verses="10" data-version="OCS">Zaburi 16:10</span> → <span class="x-scripture" data-book="ACT" data-chapter="2" data-lang="sw" data-type="ref" data-verses="31" data-version="OCS">Matendo 2:31</span>.
 
 <!-- p163 -->
 2.  **Kazi ya Kundi:**
@@ -699,7 +699,7 @@ Chota masomo kutokana na toba ya Daudi ili kuwatia moyo washiriki wakumbatie mai
 1.  **Someni Zaburi 51 Pamoja (Dakika 10):**
 
 <!-- p233 -->
-- Tafakarini juu ya ombi la dhati la Daudi la msamaha, mkizingatia mistari kama <span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="51" data-verses="10-12" data-lang="sw" data-version="OCS">Zaburi 51:10-12</span>.
+- Tafakarini juu ya ombi la dhati la Daudi la msamaha, mkizingatia mistari kama <span class="x-scripture" data-book="Psalm" data-chapter="51" data-lang="sw" data-type="ref" data-verses="10-12" data-version="OCS">Zaburi 51:10-12</span>.
 
 <!-- p234 -->
 2.  **Majadiliano ya Kikundi (Dakika 10):**
@@ -741,7 +741,7 @@ Saidia washiriki kuelewa jinsi **imani huja kwa kusikia** na kutambua nyakati am
 1.  **Usomaji wa Maandiko (Dakika 5):**
 
 <!-- p247 -->
-- Soma <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="10" data-verses="17" data-lang="sw" data-version="OCS">Warumi 10:17</span> (*“Basi imani huja kwa kusikia, na kusikia kwa neno la Mungu”*) na <span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="55" data-verses="11" data-lang="sw" data-version="OCS">Isaya 55:11</span> (*“Ndivyo ilivyo Neno Langu litokalo kinywani Mwangu; halitarudi Kwangu bure.”*).
+- Soma <span class="x-scripture" data-book="ROM" data-chapter="10" data-lang="sw" data-type="ref" data-verses="17" data-version="OCS">Warumi 10:17</span> (*“Basi imani huja kwa kusikia, na kusikia kwa neno la Mungu”*) na <span class="x-scripture" data-book="ISA" data-chapter="55" data-lang="sw" data-type="ref" data-verses="11" data-version="OCS">Isaya 55:11</span> (*“Ndivyo ilivyo Neno Langu litokalo kinywani Mwangu; halitarudi Kwangu bure.”*).
 
 <!-- p248 -->
 2.  **Tafakari Binafsi (Dakika 5):**
@@ -777,7 +777,7 @@ Onyesha uhusiano kati ya **imani na utii** na wahimize washiriki kuchukua hatua 
 1.  **Majadiliano (Dakika 5):**
 
 <!-- p259 -->
-- Soma <span class="x-scripture" data-type="ref" data-book="James" data-chapter="2" data-verses="17" data-lang="sw" data-version="OCS">Yakobo 2:17</span> (*“Imani yenyewe, ikiwa haina matendo, imekufa.”*).
+- Soma <span class="x-scripture" data-book="JAS" data-chapter="2" data-lang="sw" data-type="ref" data-verses="17" data-version="OCS">Yakobo 2:17</span> (*“Imani yenyewe, ikiwa haina matendo, imekufa.”*).
 
 <!-- p260 -->
 - Jadilini: *“Kwa nini imani hupelekea utiifu kwa kawaida? Utiifu unaimarishaje imani?”*
@@ -867,13 +867,13 @@ Watie moyo washiriki kutekeleza nidhamu za vitendo zinazokuza imani na kuimarish
 2.  ***Somo la Maandiko:***
 
 <!-- p289 -->
-- ***Nabii:** Someni <span class="x-scripture" data-type="ref" data-book="Deuteronomy" data-chapter="18" data-verses="15-19" data-lang="sw" data-version="OCS">Kumbukumbu la Torati 18:15-19</span> na <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="21" data-verses="11" data-lang="sw" data-version="OCS">Mathayo 21:11</span>.*
+- ***Nabii:** Someni <span class="x-scripture" data-book="DEU" data-chapter="18" data-lang="sw" data-type="ref" data-verses="15-19" data-version="OCS">Kumbukumbu la Torati 18:15-19</span> na <span class="x-scripture" data-book="MAT" data-chapter="21" data-lang="sw" data-type="ref" data-verses="11" data-version="OCS">Mathayo 21:11</span>.*
 
 <!-- p290 -->
-- ***Kuhani:** Someni <span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="4" data-verses="14-16" data-lang="sw" data-version="OCS">Waebrania 4:14-16</span> na 10:11-14.*
+- ***Kuhani:** Someni <span class="x-scripture" data-book="HEB" data-chapter="4" data-lang="sw" data-type="ref" data-verses="14-16" data-version="OCS">Waebrania 4:14-16</span> na 10:11-14.*
 
 <!-- p291 -->
-- ***Mfalme:** Someni <span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="2" data-verses="6-8" data-lang="sw" data-version="OCS">Zaburi 2:6-8</span> na <span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="19" data-verses="16" data-lang="sw" data-version="OCS">Ufunuo 19:16</span>.*
+- ***Mfalme:** Someni <span class="x-scripture" data-book="Psalm" data-chapter="2" data-lang="sw" data-type="ref" data-verses="6-8" data-version="OCS">Zaburi 2:6-8</span> na <span class="x-scripture" data-book="REV" data-chapter="19" data-lang="sw" data-type="ref" data-verses="16" data-version="OCS">Ufunuo 19:16</span>.*
 
 <!-- p292 -->
 3.  ***Kazi ya Kikundi:***
@@ -933,7 +933,7 @@ Watie moyo washiriki kutekeleza nidhamu za vitendo zinazokuza imani na kuimarish
 #### Maelekezo:
 
 <!-- p311 -->
-1.  ***Someni <span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="9" data-verses="15" data-lang="sw" data-version="OCS">Waebrania 9:15</span> na <span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="2" data-verses="5-6" data-lang="sw" data-version="OCS">1 Timotheo 2:5-6</span> Pamoja (Dakika 10):***
+1.  ***Someni <span class="x-scripture" data-book="HEB" data-chapter="9" data-lang="sw" data-type="ref" data-verses="15" data-version="OCS">Waebrania 9:15</span> na <span class="x-scripture" data-book="1TI" data-chapter="2" data-lang="sw" data-type="ref" data-verses="5-6" data-version="OCS">1 Timotheo 2:5-6</span> Pamoja (Dakika 10):***
 
 <!-- p312 -->
 - *Tafakarini kuhusu jukumu la Yesu kama Mpatanishi anayeziba pengo kati ya wanadamu na Mungu.*
@@ -969,10 +969,10 @@ Watie moyo washiriki kutekeleza nidhamu za vitendo zinazokuza imani na kuimarish
 #### Maelekezo:
 
 <!-- p323 -->
-1.  ***Kagua & Fundisha (Dakika 5):***
+1.  ***Kagua &amp; Fundisha (Dakika 5):***
 
 <!-- p324 -->
-- Kulingana na nyenzo katika sura, kuanzia na sehemu: “Kujenga uhusiano na Roho Mtakatifu” & kiambatisho kilichojumuishwa “Kusikia Sauti ya Mungu”.
+- Kulingana na nyenzo katika sura, kuanzia na sehemu: “Kujenga uhusiano na Roho Mtakatifu” &amp; kiambatisho kilichojumuishwa “Kusikia Sauti ya Mungu”.
 
 <!-- p325 -->
 2.  ***Kipindi cha Maombi Kinachoongozwa (Dakika 15):***
@@ -1137,7 +1137,7 @@ Kuwahakikishia washiriki kwamba utakaso ni safari ya maisha yote na kuwahimiza w
 1.  **Usomaji wa Maandiko (Dakika 5):**
 
 <!-- p379 -->
-- Soma <span class="x-scripture" data-type="ref" data-book="Philippians" data-chapter="1" data-verses="6" data-lang="sw" data-version="OCS">Wafilipi 1:6</span> (*“Yeye aliyeanza kazi njema ndani yenu ataikamilisha hadi siku ya Kristo Yesu.”*).
+- Soma <span class="x-scripture" data-book="PHP" data-chapter="1" data-lang="sw" data-type="ref" data-verses="6" data-version="OCS">Wafilipi 1:6</span> (*“Yeye aliyeanza kazi njema ndani yenu ataikamilisha hadi siku ya Kristo Yesu.”*).
 
 <!-- p380 -->
 2.  **Majadiliano ya Kikundi (Dakika 10):**
@@ -1320,7 +1320,7 @@ Saidia washiriki kutafakari juu ya umuhimu wa kitheolojia na wa kibinafsi wa uba
 1.  **Usomaji wa Maandiko (Dakika 5):**
 
 <!-- p440 -->
-- Soma <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="6" data-verses="3-4" data-lang="sw" data-version="OCS">Warumi 6:3-4</span> na <span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="19" data-verses="1-6" data-lang="sw" data-version="OCS">Matendo ya Mitume 19:1-6</span>.
+- Soma <span class="x-scripture" data-book="ROM" data-chapter="6" data-lang="sw" data-type="ref" data-verses="3-4" data-version="OCS">Warumi 6:3-4</span> na <span class="x-scripture" data-book="ACT" data-chapter="19" data-lang="sw" data-type="ref" data-verses="1-6" data-version="OCS">Matendo ya Mitume 19:1-6</span>.
 
 <!-- p441 -->
 - Uliza: *“Vifungu hivi vinawezaje kuongeza uelewa wako kuhusu ubatizo wa maji na ubatizo wa Roho Mtakatifu?”*
@@ -1374,7 +1374,7 @@ Watie moyo washiriki kutafuta ubatizo wa Roho Mtakatifu na kuelewa jukumu lake k
 - Ongoza muda wa maombi kwa ajili ya wale wanaotamani ubatizo katika Roho Mtakatifu.
 
 <!-- p458 -->
-- Wahimize washiriki waombe wakiwa na matarajio, wakitumia <span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="1" data-verses="8" data-lang="sw" data-version="OCS">Matendo ya Mitume 1:8</span> na <span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="11" data-verses="13" data-lang="sw" data-version="OCS">Luka 11:13</span> kama msingi wao.
+- Wahimize washiriki waombe wakiwa na matarajio, wakitumia <span class="x-scripture" data-book="ACT" data-chapter="1" data-lang="sw" data-type="ref" data-verses="8" data-version="OCS">Matendo ya Mitume 1:8</span> na <span class="x-scripture" data-book="LUK" data-chapter="11" data-lang="sw" data-type="ref" data-verses="13" data-version="OCS">Luka 11:13</span> kama msingi wao.
 
 <!-- p459 -->
 3.  **Himizo la Kuhitimisha (Dakika 5):**
@@ -1398,7 +1398,7 @@ Saidia washiriki kuchunguza uashiria wenye utajiri wa ubatizo na kuuhusisha na s
 1.  **Uchunguzi wa Maandiko (Dakika 5):**
 
 <!-- p466 -->
-- Soma <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="6" data-verses="3-4" data-lang="sw" data-version="OCS">Warumi 6:3-4</span> (*“Kwa hiyo tulizikwa pamoja Naye kwa ubatizo katika mauti ili kwamba, kama Kristo alivyofufuliwa kutoka kwa wafu kwa utukufu wa Baba, nasi pia tuishi maisha mapya.”*).
+- Soma <span class="x-scripture" data-book="ROM" data-chapter="6" data-lang="sw" data-type="ref" data-verses="3-4" data-version="OCS">Warumi 6:3-4</span> (*“Kwa hiyo tulizikwa pamoja Naye kwa ubatizo katika mauti ili kwamba, kama Kristo alivyofufuliwa kutoka kwa wafu kwa utukufu wa Baba, nasi pia tuishi maisha mapya.”*).
 
 <!-- p467 -->
 - Jadili: *“Vipengele vya ubatizo-maji, kuzamishwa, kuinuka-vinaashiria nini kwa waamini?”*
@@ -1605,37 +1605,37 @@ Saidia washiriki kutambua mifano ya mamlaka ya kiroho katika Biblia na kutafakar
 - **Yesu:**
 
 <!-- p535 -->
-- Kutuliza dhoruba: *<span class="x-scripture" data-type="ref" data-book="Mark" data-chapter="4" data-verses="35-41" data-lang="sw" data-version="OCS">Marko 4:35-41</span>.*
+- Kutuliza dhoruba: *<span class="x-scripture" data-book="MRK" data-chapter="4" data-lang="sw" data-type="ref" data-verses="35-41" data-version="OCS">Marko 4:35-41</span>.*
 
 <!-- p536 -->
-- Kutoa pepo katika sinagogi: *<span class="x-scripture" data-type="ref" data-book="Mark" data-chapter="1" data-verses="21-28" data-lang="sw" data-version="OCS">Marko 1:21-28</span>.*
+- Kutoa pepo katika sinagogi: *<span class="x-scripture" data-book="MRK" data-chapter="1" data-lang="sw" data-type="ref" data-verses="21-28" data-version="OCS">Marko 1:21-28</span>.*
 
 <!-- p537 -->
-- Kumponya mtumishi wa jemadari: *<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="8" data-verses="5-13" data-lang="sw" data-version="OCS">Mathayo 8:5-13</span>.*
+- Kumponya mtumishi wa jemadari: *<span class="x-scripture" data-book="MAT" data-chapter="8" data-lang="sw" data-type="ref" data-verses="5-13" data-version="OCS">Mathayo 8:5-13</span>.*
 
 <!-- p538 -->
-- Kumfufua Lazaro kutoka kwa wafu: *<span class="x-scripture" data-type="ref" data-book="John" data-chapter="11" data-verses="38-44" data-lang="sw" data-version="OCS">Yohana 11:38-44</span>.*
+- Kumfufua Lazaro kutoka kwa wafu: *<span class="x-scripture" data-book="JHN" data-chapter="11" data-lang="sw" data-type="ref" data-verses="38-44" data-version="OCS">Yohana 11:38-44</span>.*
 
 <!-- p539 -->
-- Kuwalisha 5,000: *<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="14" data-verses="13-21" data-lang="sw" data-version="OCS">Mathayo 14:13-21</span>.*
+- Kuwalisha 5,000: *<span class="x-scripture" data-book="MAT" data-chapter="14" data-lang="sw" data-type="ref" data-verses="13-21" data-version="OCS">Mathayo 14:13-21</span>.*
 
 <!-- p540 -->
 - **Wanafunzi:**
 
 <!-- p541 -->
-- Kumponya mtu kiwete: *<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="3" data-verses="1-10" data-lang="sw" data-version="OCS">Matendo ya Mitume 3:1-10</span>.*
+- Kumponya mtu kiwete: *<span class="x-scripture" data-book="ACT" data-chapter="3" data-lang="sw" data-type="ref" data-verses="1-10" data-version="OCS">Matendo ya Mitume 3:1-10</span>.*
 
 <!-- p542 -->
-- Kufukuza pepo huko Filipi: *<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="16" data-verses="16-18" data-lang="sw" data-version="OCS">Matendo ya Mitume 16:16-18</span>.*
+- Kufukuza pepo huko Filipi: *<span class="x-scripture" data-book="ACT" data-chapter="16" data-lang="sw" data-type="ref" data-verses="16-18" data-version="OCS">Matendo ya Mitume 16:16-18</span>.*
 
 <!-- p543 -->
-- Tamko la Paulo dhidi ya Elymas mchawi: *<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="13" data-verses="8-12" data-lang="sw" data-version="OCS">Matendo ya Mitume 13:8-12</span>.*
+- Tamko la Paulo dhidi ya Elymas mchawi: *<span class="x-scripture" data-book="ACT" data-chapter="13" data-lang="sw" data-type="ref" data-verses="8-12" data-version="OCS">Matendo ya Mitume 13:8-12</span>.*
 
 <!-- p544 -->
-- Petro kumfufua Tabitha (Dorkasi) kutoka kwa wafu: *<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="9" data-verses="36-42" data-lang="sw" data-version="OCS">Matendo ya Mitume 9:36-42</span>.*
+- Petro kumfufua Tabitha (Dorkasi) kutoka kwa wafu: *<span class="x-scripture" data-book="ACT" data-chapter="9" data-lang="sw" data-type="ref" data-verses="36-42" data-version="OCS">Matendo ya Mitume 9:36-42</span>.*
 
 <!-- p545 -->
-- Paulo kunusurika kuumwa na nyoka: *<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="28" data-verses="3-6" data-lang="sw" data-version="OCS">Matendo ya Mitume 28:3-6</span>.*
+- Paulo kunusurika kuumwa na nyoka: *<span class="x-scripture" data-book="ACT" data-chapter="28" data-lang="sw" data-type="ref" data-verses="3-6" data-version="OCS">Matendo ya Mitume 28:3-6</span>.*
 
 <!-- p546 -->
 3.  **Majadiliano:**
@@ -1714,37 +1714,37 @@ Kuongeza uelewa wa washiriki kuhusu malaika kama sehemu ya Ufalme wa Mungu na ju
 - **Malaika Wanalinda na Kuongoza:**
 
 <!-- p571 -->
-- Kulinda waumini: *<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="91" data-verses="11-12" data-lang="sw" data-version="OCS">Zaburi 91:11-12</span>.*
+- Kulinda waumini: *<span class="x-scripture" data-book="Psalm" data-chapter="91" data-lang="sw" data-type="ref" data-verses="11-12" data-version="OCS">Zaburi 91:11-12</span>.*
 
 <!-- p572 -->
-- Kumlinda Elisha na mtumishi wake: *<span class="x-scripture" data-type="ref" data-book="2 Kings" data-chapter="6" data-verses="15-17" data-lang="sw" data-version="OCS">2 Wafalme 6:15-17</span>.*
+- Kumlinda Elisha na mtumishi wake: *<span class="x-scripture" data-book="2KI" data-chapter="6" data-lang="sw" data-type="ref" data-verses="15-17" data-version="OCS">2 Wafalme 6:15-17</span>.*
 
 <!-- p573 -->
-- Kumwongoza Filipo kwa towashi Mwethiopia: *<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="8" data-verses="26" data-lang="sw" data-version="OCS">Matendo ya Mitume 8:26</span>.*
+- Kumwongoza Filipo kwa towashi Mwethiopia: *<span class="x-scripture" data-book="ACT" data-chapter="8" data-lang="sw" data-type="ref" data-verses="26" data-version="OCS">Matendo ya Mitume 8:26</span>.*
 
 <!-- p574 -->
 - **Malaika Katika Vita vya Kiroho:**
 
 <!-- p575 -->
-- Kumwokoa Danieli kutoka kwa simba: *<span class="x-scripture" data-type="ref" data-book="Daniel" data-chapter="6" data-verses="22" data-lang="sw" data-version="OCS">Danieli 6:22</span>.*
+- Kumwokoa Danieli kutoka kwa simba: *<span class="x-scripture" data-book="DAN" data-chapter="6" data-lang="sw" data-type="ref" data-verses="22" data-version="OCS">Danieli 6:22</span>.*
 
 <!-- p576 -->
-- Vita vya kimalaika kwa kuitikia maombi: *<span class="x-scripture" data-type="ref" data-book="Daniel" data-chapter="10" data-verses="12-14" data-lang="sw" data-version="OCS">Danieli 10:12-14</span>.*
+- Vita vya kimalaika kwa kuitikia maombi: *<span class="x-scripture" data-book="DAN" data-chapter="10" data-lang="sw" data-type="ref" data-verses="12-14" data-version="OCS">Danieli 10:12-14</span>.*
 
 <!-- p577 -->
-- Kupigana kwa niaba ya Israeli: *<span class="x-scripture" data-type="ref" data-book="Exodus" data-chapter="23" data-verses="20-22" data-lang="sw" data-version="OCS">Kutoka 23:20-22</span>.*
+- Kupigana kwa niaba ya Israeli: *<span class="x-scripture" data-book="EXO" data-chapter="23" data-lang="sw" data-type="ref" data-verses="20-22" data-version="OCS">Kutoka 23:20-22</span>.*
 
 <!-- p578 -->
 - **Malaika kama Wajumbe:**
 
 <!-- p579 -->
-- Kutangaza kuzaliwa kwa Yesu: *<span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="1" data-verses="26-38" data-lang="sw" data-version="OCS">Luka 1:26-38</span>.*
+- Kutangaza kuzaliwa kwa Yesu: *<span class="x-scripture" data-book="LUK" data-chapter="1" data-lang="sw" data-type="ref" data-verses="26-38" data-version="OCS">Luka 1:26-38</span>.*
 
 <!-- p580 -->
-- Kumwongoza Yusufu: *<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="1" data-verses="20-24" data-lang="sw" data-version="OCS">Mathayo 1:20-24</span>.*
+- Kumwongoza Yusufu: *<span class="x-scripture" data-book="MAT" data-chapter="1" data-lang="sw" data-type="ref" data-verses="20-24" data-version="OCS">Mathayo 1:20-24</span>.*
 
 <!-- p581 -->
-- Kuwaachilia mitume kutoka gerezani: *<span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="5" data-verses="19-20" data-lang="sw" data-version="OCS">Matendo ya Mitume 5:19-20</span>.*
+- Kuwaachilia mitume kutoka gerezani: *<span class="x-scripture" data-book="ACT" data-chapter="5" data-lang="sw" data-type="ref" data-verses="19-20" data-version="OCS">Matendo ya Mitume 5:19-20</span>.*
 
 <!-- p582 -->
 3.  **Maswali ya Majadiliano:**
@@ -1819,7 +1819,7 @@ Zama kwa kina zaidi katika mfano wa wanawali kumi ili kuchunguza maandalizi ya k
 1.  **Usomaji wa Maandiko (Dakika 5):**
 
 <!-- p606 -->
-- Someni <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="25" data-verses="1-13" data-lang="sw" data-version="OCS">Mathayo 25:1-13</span> kwa sauti kama kikundi.
+- Someni <span class="x-scripture" data-book="MAT" data-chapter="25" data-lang="sw" data-type="ref" data-verses="1-13" data-version="OCS">Mathayo 25:1-13</span> kwa sauti kama kikundi.
 
 <!-- p607 -->
 2.  **Majadiliano (Dakika 10):**

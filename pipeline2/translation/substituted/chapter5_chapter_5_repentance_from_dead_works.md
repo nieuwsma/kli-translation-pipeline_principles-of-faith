@@ -8,18 +8,15 @@ Mara nyingi katika Ukristo tunafikiria toba kuwa ya msingi tu mwanzoni mwa imani
 Mwandishi wa Waebrania anaweka ‘toba kutoka kwa matendo yaliyokufa’ kama kipengele cha kwanza katika orodha ya mafundisho ya msingi baada ya kanuni za msingi za Masihi (Sura ya 4).
 
 <!-- p3 -->
-<span class="x-scripture" data-type="quote" data-book="Hebrews" data-chapter="6" data-verses="1" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="HEB" data-chapter="6" data-lang="sw" data-type="quote" data-verses="1" data-version="BHN">
 <!-- p4 -->
-> **<u>Waebrania 6:1</u>** (BHN)
->
-> Basi, tuyaache nyuma yale mafundisho ya mwanzomwanzo juu ya Kristo, tusonge mbele kwa yale yaliyokomaa, na sio kuendelea kuweka msingi kuhusu kuachana na matendo ya kifo, na juu ya kumwamini Mungu;
+&gt; **<u>Waebrania 6:1</u>** (BHN)
+&gt;
+&gt; Basi, tuyaache nyuma yale mafundisho ya mwanzomwanzo juu ya Kristo, tusonge mbele kwa yale yaliyokomaa, na sio kuendelea kuweka msingi kuhusu kuachana na matendo ya kifo, na juu ya kumwamini Mungu;
 
 
 <!-- p5 -->
 </span>
-
 <!-- p6 -->
 Hebu tuchunguze kwa undani Kigiriki cha kifungu hiki:
 
@@ -93,18 +90,15 @@ Tukitumia kiwango hiki cha ‘uhai’ kwa kazi zetu kwa uhuru kidogo wa ubunifu,
 Kazi zilizokufa si hamu ya Mungu kwetu. Mungu anataka kutuletea uzima!
 
 <!-- p30 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="10" data-verses="10" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="JHN" data-chapter="10" data-lang="sw" data-type="quote" data-verses="10" data-version="BHN">
 <!-- p31 -->
-> **<u>Yohane 10:10</u>** (BHN)
->
-> Mwizi huja kwa shabaha ya kuiba, kuua na kuharibu. Mimi nimekuja mpate kuwa na uhai – uhai kamili.
+&gt; **<u>Yohane 10:10</u>** (BHN)
+&gt;
+&gt; Mwizi huja kwa shabaha ya kuiba, kuua na kuharibu. Mimi nimekuja mpate kuwa na uhai – uhai kamili.
 
 
 <!-- p32 -->
 </span>
-
 <!-- p33 -->
 Ingawa hali ya kufa na kuwa hai ni ya mawili tu. Kufa kuna viwango. Kazi zetu zilizokufa huenda bado hazijafa kabisa katika kila kipengele, bado, lakini zitakuwa hivyo! Kazi zilizokufa ni kama sumu, zingine zina athari kubwa zaidi.
 
@@ -136,18 +130,15 @@ Ili kuelewa hili kikamilifu tunahitaji kuangalia kwa undani zaidi katika lugha y
 Neno linalotumika katika Waebrania ni *toba*. Hili linatofautishwa na neno *tubu,* mfano unapatikana katika
 
 <!-- p43 -->
-<span class="x-scripture" data-type="quote" data-book="Matthew" data-chapter="4" data-verses="17" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="MAT" data-chapter="4" data-lang="sw" data-type="quote" data-verses="17" data-version="BHN">
 <!-- p44 -->
-> **<u>Mathayo 4:17</u>** (BHN)
->
-> Tangu wakati huo Yesu alianza kuhubiri akisema, “Tubuni, maana ufalme wa mbinguni umekariia!”
+&gt; **<u>Mathayo 4:17</u>** (BHN)
+&gt;
+&gt; Tangu wakati huo Yesu alianza kuhubiri akisema, “Tubuni, maana ufalme wa mbinguni umekariia!”
 
 
 <!-- p45 -->
 </span>
-
 <!-- p46 -->
 Tubu (***Metanoeō***, inatamkwa *meh-tah-NO-eh-oh* - **G3340**) ni kitenzi, ni tendo au tukio, inamaanisha kubadili nia au kusudi; kugeuka kutoka dhambini na kumwelekea Mungu.
 
@@ -167,32 +158,26 @@ Tunahitaji kutubu mara ngapi? Swali la kitatanishi! Tunahitaji kuendelea kubadil
 Tunabadilishaje mawazo yetu? Kwa makusudi, kupitia kukutana na kweli.
 
 <!-- p52 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="8" data-verses="31-32" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="JHN" data-chapter="8" data-lang="sw" data-type="quote" data-verses="31-32" data-version="BHN">
 <!-- p53 -->
-> **<u>Yohane 8:31-32</u>** (BHN)
->
-> Basi, Yesu akawaambia wale Wayahudi waliomwamini, “Kama mkiyazingatia mafundisho yangu mtakuwa kweli wanafunzi wangu.
-> Mtaujua ukweli, nao ukweli utawapeni uhuru.”
+&gt; **<u>Yohane 8:31-32</u>** (BHN)
+&gt;
+&gt; Basi, Yesu akawaambia wale Wayahudi waliomwamini, “Kama mkiyazingatia mafundisho yangu mtakuwa kweli wanafunzi wangu.
+&gt; Mtaujua ukweli, nao ukweli utawapeni uhuru.”
 
 
 <!-- p54 -->
 </span>
-
 <!-- p55 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="16" data-verses="13" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="sw" data-type="quote" data-verses="13" data-version="BHN">
 <!-- p56 -->
-> **<u>Yohane 16:13</u>** (BHN)
->
-> Lakini atakapokuja huyo Roho wa ukweli atawaongoza kwenye ukweli wote; maana hatasema kwa mamlaka yake mwenyewe, bali atasema atakayoyasikia na kuwajulisheni yatakayokuja.
+&gt; **<u>Yohane 16:13</u>** (BHN)
+&gt;
+&gt; Lakini atakapokuja huyo Roho wa ukweli atawaongoza kwenye ukweli wote; maana hatasema kwa mamlaka yake mwenyewe, bali atasema atakayoyasikia na kuwajulisheni yatakayokuja.
 
 
 <!-- p57 -->
 </span>
-
 <!-- p58 -->
 Tunabadilisha mawazo yetu kwa kusikia kweli inayobadilisha imani yetu inayoleta mauti. Kweli Yake inaweza kusemwa kwetu na rafiki, kusomwa katika kitabu, kufunuliwa binafsi na Roho Mtakatifu, au kwa njia nyingi mbalimbali.
 
@@ -266,18 +251,18 @@ Yesu, alipokuwa akihubiria makutano, mara nyingi alikutana na watu ambao hawakuj
 Yesu anakabiliana na mchakato huu wa polepole na wakati mwingine kushindwa kubadilika kwa kusema kwa mifano. Kwa nini Yesu aliamua kusema kwa mifano? Anafichua sababu katika Mathayo:
 
 <!-- p82 -->
-> <u>**Mathayo 13:10,11,13,15**</u> (NKJV)
->
->***10** Wanafunzi wakamjia wakamwambia, "Kwa nini Unasema nao kwa mifano?"*
->
->***11** Akajibu akawaambia…*
->
->***13** … Nawasemea kwa mifano, kwa sababu wakitazama hawaoni, na wakisikia hawasikii, wala hawaelewi.*
->
->***15** … KWA MAANA MIOYO YA WATU HAWA IMEKUWA NZITO. MASIKIO YAO NI MAGUMU KUSIKIA, NA MACHO YAO WAMEYAFUNGA, ISIJE WAKAONA KWA MACHO YAO NA WAKASIKIA KWA MASIKIO YAO, ISIJE WAKAFAHAMU KWA MIOYO YAO NA WAKAGEUKA, ILI NIWAPONYE.'*
+&gt; <u>**Mathayo 13:10,11,13,15**</u> (NKJV)
+&gt;
+&gt;***10** Wanafunzi wakamjia wakamwambia, "Kwa nini Unasema nao kwa mifano?"*
+&gt;
+&gt;***11** Akajibu akawaambia…*
+&gt;
+&gt;***13** … Nawasemea kwa mifano, kwa sababu wakitazama hawaoni, na wakisikia hawasikii, wala hawaelewi.*
+&gt;
+&gt;***15** … KWA MAANA MIOYO YA WATU HAWA IMEKUWA NZITO. MASIKIO YAO NI MAGUMU KUSIKIA, NA MACHO YAO WAMEYAFUNGA, ISIJE WAKAONA KWA MACHO YAO NA WAKASIKIA KWA MASIKIO YAO, ISIJE WAKAFAHAMU KWA MIOYO YAO NA WAKAGEUKA, ILI NIWAPONYE.'*
 
 <!-- p83 -->
-Yesu anasema kwamba Anatumia mifano kufungua taratibu akili na macho ya watu wasioona wala kuelewa ukweli. Ukweli ni kama mwanga unaotia upofu, mwingi sana kwa mara moja unatulazimisha kufumba macho, unauma sana. Kwa kujifunua kwa sehemu ya mwanga huo, huleta mwangaza unaotufanya tuone giza tulilomo kwa kweli. Tunapopata mwangaza huu, tunatambua kwamba neno la Mungu ni kama taa kwa njia yetu na mwanga kwa miguu yetu (<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="119" data-verses="110" data-lang="sw" data-version="BHN">Zaburi 119:110</span>) na kwamba tunaweza kutumia maneno ya ukweli kuleta mwanga katika kipengele chochote cha maisha yetu.
+Yesu anasema kwamba Anatumia mifano kufungua taratibu akili na macho ya watu wasioona wala kuelewa ukweli. Ukweli ni kama mwanga unaotia upofu, mwingi sana kwa mara moja unatulazimisha kufumba macho, unauma sana. Kwa kujifunua kwa sehemu ya mwanga huo, huleta mwangaza unaotufanya tuone giza tulilomo kwa kweli. Tunapopata mwangaza huu, tunatambua kwamba neno la Mungu ni kama taa kwa njia yetu na mwanga kwa miguu yetu (<span class="x-scripture" data-book="Psalm" data-chapter="119" data-lang="sw" data-type="ref" data-verses="110" data-version="BHN">Zaburi 119:110</span>) na kwamba tunaweza kutumia maneno ya ukweli kuleta mwanga katika kipengele chochote cha maisha yetu.
 
 <!-- p84 -->
 Ukijikuta ukishughulika na mtu ambaye akili yake imefungwa, nakushauri uombe na utafute ushauri wa Mungu kuhusu jinsi ya kuendelea. Kwa uzoefu na kwa mfano wa Yesu, tukio lililojaa neema pamoja na ukweli, wakati mwingine taratibu, linaweza kuanza kufungua macho ya vipofu. Kumbuka ni kazi ya Roho kuleta kusadikisha na mwangaza.
@@ -289,19 +274,16 @@ Wanapoanza kupitia mchakato wa mabadiliko wa toba, huo huleta mavuno mema katika
 Tunapokumbatia kwa kweli mabadiliko haya tunaweza kuomba kama Mfalme Daudi:
 
 <!-- p87 -->
-<span class="x-scripture" data-type="quote" data-book="Psalm" data-chapter="139" data-verses="23-24" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="Psalm" data-chapter="139" data-lang="sw" data-type="quote" data-verses="23-24" data-version="BHN">
 <!-- p88 -->
-> **<u>Zaburi 139:23-24</u>** (BHN)
->
-> Unichunguze, ee Mungu, unijue moyo wangu, unipime, uyajue mawazo yangu.
-> Uangalie kama mwenendo wangu ni mbaya, uniongoze katika njia ya milele.
+&gt; **<u>Zaburi 139:23-24</u>** (BHN)
+&gt;
+&gt; Unichunguze, ee Mungu, unijue moyo wangu, unipime, uyajue mawazo yangu.
+&gt; Uangalie kama mwenendo wangu ni mbaya, uniongoze katika njia ya milele.
 
 
 <!-- p89 -->
 </span>
-
 <!-- p90 -->
 Sala ya toba ya Daudi ni mwaliko kwa taa ya ukweli kung'aa katika maisha yetu na kufichua maeneo ya giza yanayotufanya tuwe wagonjwa na kuzaa mauti.
 
@@ -312,18 +294,15 @@ Sala ya toba ya Daudi ni mwaliko kwa taa ya ukweli kung'aa katika maisha yetu na
 Ingawa kufikia chini kabisa ni hadithi zaidi kuliko sharti la hakika la mabadiliko, Mungu anaweza kutumia huzuni kuathiri mawazo yetu. Mungu atatumia huzuni kutuleta kwenye toba. Ataonyesha makosa ya matendo yetu na hali ya maisha na mioyo yetu ili kufungua macho yetu tuone uhitaji wetu kamili na wa jumla wa Yeye.
 
 <!-- p93 -->
-<span class="x-scripture" data-type="quote" data-book="2 Corinthians" data-chapter="7" data-verses="10" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="2CO" data-chapter="7" data-lang="sw" data-type="quote" data-verses="10" data-version="BHN">
 <!-- p94 -->
-> **<u>2 Wakorintho 7:10</u>** (BHN)
->
-> Kuwa na huzuni jinsi atakavyo Mungu husababisha badiliko la moyo, badiliko lenye kuleta wokovu; hivyo hakuna sababu ya kujuta. Lakini huzuni ya kidunia huleta kifo.
+&gt; **<u>2 Wakorintho 7:10</u>** (BHN)
+&gt;
+&gt; Kuwa na huzuni jinsi atakavyo Mungu husababisha badiliko la moyo, badiliko lenye kuleta wokovu; hivyo hakuna sababu ya kujuta. Lakini huzuni ya kidunia huleta kifo.
 
 
 <!-- p95 -->
 </span>
-
 <!-- p96 -->
 Huzuni ya kimungu, au <u>uzoefu wa huzuni au dhiki unaoleta *metanoia*</u>, si sawa na huzuni ya kidunia. Huzuni ya kidunia ni uzoefu uleule wa huzuni au dhiki, lakini dunia haitoi tumaini, bali nafuu na ahadi ya kifo pekee.
 
@@ -340,7 +319,7 @@ Maombolezo ni mwitikio wa kihisia wa aina nyingi kwa hasara kubwa binafsi, hasa 
 Huzuni, mateso, na majonzi ni dhana zinazohusiana kwa karibu. Katika hali ya kibinadamu tutapitia vyote vitatu, tunaweza kujifunza na kukua kupitia vyote vitatu, lakini Mungu hataleta kifo na uharibifu katika maisha yetu kutufundisha.
 
 <!-- p101 -->
-Maandiko yanasema kila kipawa chema na kilicho kamilifu hutoka kwa Mungu aliye juu (<span class="x-scripture" data-type="ref" data-book="James" data-chapter="1" data-verses="17" data-lang="sw" data-version="BHN">Yakobo 1:17</span>). Yeye ni Baba mwema anayejua kuwapa watoto Wake zawadi njema (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="7" data-verses="11" data-lang="sw" data-version="BHN">Mathayo 7:11</span>). Huzuni ya kimungu italeta usumbufu, lakini nidhamu Yake ni ya haki na ya upendo. Kama vile baba mwema hangemvunja kwa makusudi mkono wa mtoto wake ili ‘amfundishe adabu’, Mungu hatawaletea watoto Wake ugonjwa au maradhi ili kutufundisha.
+Maandiko yanasema kila kipawa chema na kilicho kamilifu hutoka kwa Mungu aliye juu (<span class="x-scripture" data-book="JAS" data-chapter="1" data-lang="sw" data-type="ref" data-verses="17" data-version="BHN">Yakobo 1:17</span>). Yeye ni Baba mwema anayejua kuwapa watoto Wake zawadi njema (<span class="x-scripture" data-book="MAT" data-chapter="7" data-lang="sw" data-type="ref" data-verses="11" data-version="BHN">Mathayo 7:11</span>). Huzuni ya kimungu italeta usumbufu, lakini nidhamu Yake ni ya haki na ya upendo. Kama vile baba mwema hangemvunja kwa makusudi mkono wa mtoto wake ili ‘amfundishe adabu’, Mungu hatawaletea watoto Wake ugonjwa au maradhi ili kutufundisha.
 
 <!-- p102 -->
 ### Mfano wa Huzuni ya Kidunia dhidi ya Huzuni ya Kimungu
@@ -373,7 +352,7 @@ Huzuni ya kimungu na wema wa Mungu vina uhusiano. Mungu ni Baba mwema atakayetur
 Wema wa Mungu usiokoma, ya kuwa tayari kutukomboa na kuturejesha tukimjia, ni kichocheo chanya katika njia yetu ya toba. Wema Wake si kwamba tuendelee katika dhambi, bali kwamba licha ya dhambi zetu Anatengeneza njia ili tukombolewe na tuupate wokovu Wake.
 
 <!-- p112 -->
-<u>**<span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="2" data-verses="4" data-lang="sw" data-version="BHN">Warumi 2:4</span>**</u> (NKJV) *Au je, unadharau utajiri wa wema Wake, ustahimilivu, na uvumilivu, bila kujua kwamba wema wa Mungu unakuongoza kwenye toba?*
+<u>**<span class="x-scripture" data-book="ROM" data-chapter="2" data-lang="sw" data-type="ref" data-verses="4" data-version="BHN">Warumi 2:4</span>**</u> (NKJV) *Au je, unadharau utajiri wa wema Wake, ustahimilivu, na uvumilivu, bila kujua kwamba wema wa Mungu unakuongoza kwenye toba?*
 
 <!-- p113 -->
 Licha ya wema, rehema, na neema ya Mungu, baadhi ya watu hawatubu wala kubadilika, wanakwama katika mzunguko wa kukatishwa tamaa na maumivu. Kwa upande wa pili kabisa, kwa baadhi ya watu mfano tu wa dhambi na matokeo yake katika maisha ya mtu mwingine unatosha kuwafanya wabadili mawazo yao.
@@ -385,25 +364,22 @@ Mwanadamu ana uwezo mkubwa wa kubadilika; umeunganishwa ndani ya asili yetu yeny
 Sijui kwa nini watu wengine wanakwama na wengine wako tayari sana kubadilika, lakini naweza kusema kwamba mchakato mzima wa mabadiliko unatokana na neema ya Mungu.
 
 <!-- p116 -->
-<span class="x-scripture" data-type="quote" data-book="Ephesians" data-chapter="2" data-verses="8-10" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="EPH" data-chapter="2" data-lang="sw" data-type="quote" data-verses="8-10" data-version="BHN">
 <!-- p117 -->
-> **<u>Waefeso 2:8-10</u>** (BHN)
->
-> Maana, kwa neema ya Mungu mmekombolewa kwa njia ya imani. Jambo hili si matokeo ya juhudi zenu, bali ni zawadi ya Mungu.
-> Wala halitokani na matendo yenu wenyewe, asije mtu akajivunia kitu.
-> Sisi ni viumbe vyake Mungu, na kwa kuungana na Kristo Yesu, alituumba kwa ajili ya kuishi maisha ya matendo mema aliyotutayarishia tuyatende.
+&gt; **<u>Waefeso 2:8-10</u>** (BHN)
+&gt;
+&gt; Maana, kwa neema ya Mungu mmekombolewa kwa njia ya imani. Jambo hili si matokeo ya juhudi zenu, bali ni zawadi ya Mungu.
+&gt; Wala halitokani na matendo yenu wenyewe, asije mtu akajivunia kitu.
+&gt; Sisi ni viumbe vyake Mungu, na kwa kuungana na Kristo Yesu, alituumba kwa ajili ya kuishi maisha ya matendo mema aliyotutayarishia tuyatende.
 
 
 <!-- p118 -->
 </span>
-
 <!-- p119 -->
 Mchakato wa toba huanza kabla hatujampokea Yesu kama Bwana na Mwokozi wetu binafsi, lakini mtindo wa maisha wa toba unapaswa kudumu katika mwendo wetu wote wa Kikristo. Tunapaswa kutupa mbali matendo yaliyokufa na kubadili nia zetu kutoka kwa hayo kuelekea ukweli wa Mungu.
 
 <!-- p120 -->
-Toba inaweza kuwa mchakato wa asili kabisa, lakini toba pia ni kazi ya Roho anayetuita, akitufungua macho kwa ukweli, akibadili mioyo yetu, akituvuta tubadilishwe. <span class="x-scripture" data-type="ref" data-book="Galatians" data-chapter="6" data-verses="1" data-lang="sw" data-version="BHN">Wagalatia 6:1</span> inatukumbusha kwamba wapo watakaokwama katika kosa (dhambi) na wanahitaji msaada ili waondoke kwenye kukwama huko! Msaada huo huja kwa namna ya wanaume na wanawake waliokomaa wanaotusaidia kuturejesha katika roho ya upole.
+Toba inaweza kuwa mchakato wa asili kabisa, lakini toba pia ni kazi ya Roho anayetuita, akitufungua macho kwa ukweli, akibadili mioyo yetu, akituvuta tubadilishwe. <span class="x-scripture" data-book="GAL" data-chapter="6" data-lang="sw" data-type="ref" data-verses="1" data-version="BHN">Wagalatia 6:1</span> inatukumbusha kwamba wapo watakaokwama katika kosa (dhambi) na wanahitaji msaada ili waondoke kwenye kukwama huko! Msaada huo huja kwa namna ya wanaume na wanawake waliokomaa wanaotusaidia kuturejesha katika roho ya upole.
 
 <!-- p121 -->
 Roho Mtakatifu ndiye wakala mkuu wa mabadiliko ambaye wanadamu wanaweza kushirikiana naye, na hili linathibitishwa na Maandiko na pia na utafiti. Utafiti wa “Lyons et al. (2010) found that up to 82% of clients who experienced a spiritual awakening during substance abuse treatment and recovery were completely abstinent at a 1-year follow-up compared with 55% of non-spiritually awakened clients.” [2] Wakati mwanadamu anaweza kuanzisha na kuongoza mabadiliko, tunaweza kutimiza mengi zaidi tunapotembea na Roho wa Mungu.
@@ -421,19 +397,19 @@ Huenda hakuna simulizi katika Maandiko lenye mfano wenye utajiri zaidi wa toba k
 Ili kuficha matendo yake, Daudi akamrejesha Uria kutoka vitani, akitumaini atakaa na Bathsheba na ionekane kuwa yeye ndiye baba wa mtoto. Hata hivyo, Uria, kwa uaminifu kwa wenzake askari, akakataa kwenda nyumbani kwake kwa Bethsheba. Kisha Daudi akapanga Uria atumiwe mstari wa mbele ambako hatimaye akauliwa vitani. Baada ya kifo cha Uria, Daudi akaoa haraka Bathsheba ili kuficha ujauzito.
 
 <!-- p126 -->
-Bwana hakuridhishwa na matendo ya Daudi na akamtuma nabii Nathani amkabiliane naye. Alipokabiliwa na nabii, Daudi mara moja akakiri, “*Nimetenda dhambi dhidi ya Bwana*” (<span class="x-scripture" data-type="ref" data-book="2 Samuel" data-chapter="12" data-verses="13" data-lang="sw" data-version="BHN">2 Samweli 12:13</span>). Daudi hakujaribu kuhalalisha au kutafuta visingizio kwa matendo yake. Ungamo hili lilikuwa hatua ya kwanza katika toba yake, akikiri kosa lake moja kwa moja kwa Mungu.
+Bwana hakuridhishwa na matendo ya Daudi na akamtuma nabii Nathani amkabiliane naye. Alipokabiliwa na nabii, Daudi mara moja akakiri, “*Nimetenda dhambi dhidi ya Bwana*” (<span class="x-scripture" data-book="2SA" data-chapter="12" data-lang="sw" data-type="ref" data-verses="13" data-version="BHN">2 Samweli 12:13</span>). Daudi hakujaribu kuhalalisha au kutafuta visingizio kwa matendo yake. Ungamo hili lilikuwa hatua ya kwanza katika toba yake, akikiri kosa lake moja kwa moja kwa Mungu.
 
 <!-- p127 -->
-Katika Zaburi 51, maneno ya Daudi, “*Kwa maana najua maasi yangu, na dhambi yangu iko mbele yangu daima,*” yanaonyesha umiliki wake kamili wa matendo yake. Anaonyesha huzuni si tu kwa ajili ya dhambi yenyewe bali pia kwa jinsi ilivyomkosea Mungu, akisema, “*Juu yako, wewe peke yako, nimetenda dhambi.*” Daudi alionyesha “*moyo uliovunjika na uliopondeka,*” sehemu muhimu ya toba ya kweli (<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="51" data-verses="17" data-lang="sw" data-version="BHN">Zaburi 51:17</span>). Huzuni hii haikuwa ya juujuu; aliomboleza sana juu ya dhambi aliyoitenda na maumivu iliyosababisha. Kina hiki cha majuto kilikuwa ishara kwamba alitaka si msamaha tu bali pia moyo uliobadilishwa.
+Katika Zaburi 51, maneno ya Daudi, “*Kwa maana najua maasi yangu, na dhambi yangu iko mbele yangu daima,*” yanaonyesha umiliki wake kamili wa matendo yake. Anaonyesha huzuni si tu kwa ajili ya dhambi yenyewe bali pia kwa jinsi ilivyomkosea Mungu, akisema, “*Juu yako, wewe peke yako, nimetenda dhambi.*” Daudi alionyesha “*moyo uliovunjika na uliopondeka,*” sehemu muhimu ya toba ya kweli (<span class="x-scripture" data-book="Psalm" data-chapter="51" data-lang="sw" data-type="ref" data-verses="17" data-version="BHN">Zaburi 51:17</span>). Huzuni hii haikuwa ya juujuu; aliomboleza sana juu ya dhambi aliyoitenda na maumivu iliyosababisha. Kina hiki cha majuto kilikuwa ishara kwamba alitaka si msamaha tu bali pia moyo uliobadilishwa.
 
 <!-- p128 -->
-Daudi alimwomba Mungu, “*Niumbie moyo safi, Ee Mungu, na uifanye upya roho iliyo thabiti ndani yangu*” (<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="51" data-verses="10" data-lang="sw" data-version="BHN">Zaburi 51:10</span>). Alitaka mabadiliko ya ndani ambayo yangemzuia kurudia makosa yale yale. Badala ya kuomba msamaha tu, Daudi alimlilia Mungu amtakase, akisema, “*Nioshe, nami nitakuwa mweupe kuliko theluji*” (<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="51" data-verses="7" data-lang="sw" data-version="BHN">Zaburi 51:7</span>). Alitambua kwamba ni Mungu peke yake angeweza kutakasa moyo wake na kurejesha furaha yake.
+Daudi alimwomba Mungu, “*Niumbie moyo safi, Ee Mungu, na uifanye upya roho iliyo thabiti ndani yangu*” (<span class="x-scripture" data-book="Psalm" data-chapter="51" data-lang="sw" data-type="ref" data-verses="10" data-version="BHN">Zaburi 51:10</span>). Alitaka mabadiliko ya ndani ambayo yangemzuia kurudia makosa yale yale. Badala ya kuomba msamaha tu, Daudi alimlilia Mungu amtakase, akisema, “*Nioshe, nami nitakuwa mweupe kuliko theluji*” (<span class="x-scripture" data-book="Psalm" data-chapter="51" data-lang="sw" data-type="ref" data-verses="7" data-version="BHN">Zaburi 51:7</span>). Alitambua kwamba ni Mungu peke yake angeweza kutakasa moyo wake na kurejesha furaha yake.
 
 <!-- p129 -->
-Hamu ya Daudi ya kufanywa upya kiroho inaonyesha ahadi ya kweli ya kutembea katika njia za Mungu kuendelea mbele. Ombi lake la “*roho iliyo tayari*” (<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="51" data-verses="12" data-lang="sw" data-version="BHN">Zaburi 51:12</span>) linaonyesha tumaini lake la kupatana na Mungu katika kila sehemu ya maisha yake.
+Hamu ya Daudi ya kufanywa upya kiroho inaonyesha ahadi ya kweli ya kutembea katika njia za Mungu kuendelea mbele. Ombi lake la “*roho iliyo tayari*” (<span class="x-scripture" data-book="Psalm" data-chapter="51" data-lang="sw" data-type="ref" data-verses="12" data-version="BHN">Zaburi 51:12</span>) linaonyesha tumaini lake la kupatana na Mungu katika kila sehemu ya maisha yake.
 
 <!-- p130 -->
-Ingawa Mungu aliiacha dhambi ya Daudi, Bwana akampiga yule mtoto naye akawa mgonjwa sana. Daudi akafunga, akaomba, na kumwomba Mungu amwache yule mtoto, lakini mtoto alipopata kufa, Daudi akalikubali (<span class="x-scripture" data-type="ref" data-book="2 Samuel" data-chapter="12" data-verses="15-23" data-lang="sw" data-version="BHN">2 Samweli 12:15-23</span>).
+Ingawa Mungu aliiacha dhambi ya Daudi, Bwana akampiga yule mtoto naye akawa mgonjwa sana. Daudi akafunga, akaomba, na kumwomba Mungu amwache yule mtoto, lakini mtoto alipopata kufa, Daudi akalikubali (<span class="x-scripture" data-book="2SA" data-chapter="12" data-lang="sw" data-type="ref" data-verses="15-23" data-version="BHN">2 Samweli 12:15-23</span>).
 
 <!-- p131 -->
 Katika Zaburi 51 tunapata sala ya kibinafsi ya toba na kukiri kwa uwazi makosa yake. Uamuzi wa Daudi wa kuandika dua yake ya rehema, akiunda moja ya zaburi zinazodumu zaidi katika Biblia, unaonyesha utayari wake wa kuwa wazi kuhusu dhambi yake na msamaha wa Mungu. Zaburi hii ikawa ushuhuda wa toba na urejesho kwa wengine kujifunza, ikiweka kumbukumbu ya safari yake kutoka hatia hadi neema.
@@ -466,16 +442,16 @@ Safari ya toba ya Daudi haikuwa tu kuhusu kuhisi majuto; ilikuwa mabadiliko ya k
 1.  **Swali la Kuvunja Barafu:** *“Unaposikia neno ‘toba,’ ni hisia au mawazo gani yanayokujia akilini?”*
 
 <!-- p141 -->
-2.  **Kuchunguza Maandiko:** *Soma <span class="x-scripture" data-type="ref" data-book="2 Corinthians" data-chapter="7" data-verses="10" data-lang="sw" data-version="BHN">2 Wakorintho 7:10</span>. Je, “huzuni ya kimungu” inatofautianaje na huzuni ya dunia? Kwa nini tofauti hii ni muhimu?*
+2.  **Kuchunguza Maandiko:** *Soma <span class="x-scripture" data-book="2CO" data-chapter="7" data-lang="sw" data-type="ref" data-verses="10" data-version="BHN">2 Wakorintho 7:10</span>. Je, “huzuni ya kimungu” inatofautianaje na huzuni ya dunia? Kwa nini tofauti hii ni muhimu?*
 
 <!-- p142 -->
 3.  **Matendo Yaliyokufa:** *Jadili sifa za “matendo yaliyokufa” (kwa mfano, yasiyo na ufanisi, yasiyozaa matunda, yasiyo na uhai). Tunawezaje kuziepuka au kugeuka kutoka kwazo katika maisha yetu ya kila siku?*
 
 <!-- p143 -->
-4.  **Jukumu la Roho Mtakatifu:** *Soma <span class="x-scripture" data-type="ref" data-book="John" data-chapter="16" data-verses="13" data-lang="sw" data-version="BHN">Yohana 16:13</span>. Roho Mtakatifu anatuongoza vipi katika toba na kweli? Shiriki uzoefu binafsi ambapo ulihisi Roho akikuelekeza kubadilika.*
+4.  **Jukumu la Roho Mtakatifu:** *Soma <span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="sw" data-type="ref" data-verses="13" data-version="BHN">Yohana 16:13</span>. Roho Mtakatifu anatuongoza vipi katika toba na kweli? Shiriki uzoefu binafsi ambapo ulihisi Roho akikuelekeza kubadilika.*
 
 <!-- p144 -->
-5.  **Toba ya Kivitendo:** *Ina maana gani “kufanya upya roho iliyo thabiti” kama Daudi alivyoomba katika <span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="51" data-verses="10" data-lang="sw" data-version="BHN">Zaburi 51:10</span>? Tunawezaje kukuza hili katika maisha yetu?*
+5.  **Toba ya Kivitendo:** *Ina maana gani “kufanya upya roho iliyo thabiti” kama Daudi alivyoomba katika <span class="x-scripture" data-book="Psalm" data-chapter="51" data-lang="sw" data-type="ref" data-verses="10" data-version="BHN">Zaburi 51:10</span>? Tunawezaje kukuza hili katika maisha yetu?*
 
 <!-- p145 -->
 ## Marejeo
@@ -484,5 +460,4 @@ Safari ya toba ya Daudi haikuwa tu kuhusu kuhisi majuto; ilikuwa mabadiliko ya k
 \[1\] - Kubadili Tabia kwa kutumia ‘Hatua za Mabadiliko’, PsychCentral.com, Imepatikana 2025-01-11, [<u>https://psychcentral.com/lib/stages-of-change#how-it-works</u>](https://psychcentral.com/lib/stages-of-change#how-it-works)
 
 <!-- p147 -->
-\[2\] - Grim, B. J., & Grim, M. E. (2019). Imani, Tabia, na Kuhisi Kuwa Sehemu: Jinsi imani ilivyo ya lazima katika kuzuia na kupona kutokana na matumizi mabaya ya dawa za kulevya. *Jarida la dini na afya*, *58*(5), 1713-1750. <u><https://doi.org/10.1007/s10943-019-00876-w> </u>
-
+\[2\] - Grim, B. J., &amp; Grim, M. E. (2019). Imani, Tabia, na Kuhisi Kuwa Sehemu: Jinsi imani ilivyo ya lazima katika kuzuia na kupona kutokana na matumizi mabaya ya dawa za kulevya. *Jarida la dini na afya*, *58*(5), 1713-1750. <u><https: 10.1007="" doi.org="" s10943-019-00876-w=""> </https:></u>

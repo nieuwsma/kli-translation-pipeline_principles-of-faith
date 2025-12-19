@@ -41,23 +41,19 @@ For each point we will examine what the concept itself is, look at the reference
 **What It Means:** **The Second Coming of Christ** is the literal return of Jesus to the earth as King and Judge.
 
 <!-- p14 -->
-<span class="x-scripture" data-type="quote" data-book="Acts" data-chapter="1" data-verses="11" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="ACT" data-chapter="1" data-lang="en" data-type="quote" data-verses="11" data-version="NKJV">
 <!-- p15 -->
-> **<u>Acts 1:11</u>** (NKJV) *Men of Galilee, why do you stand gazing up into heaven? This same Jesus, who was taken up from you into heaven, will so come in like manner as you saw Him go into heaven.*
+&gt; **<u>Acts 1:11</u>** (NKJV) *Men of Galilee, why do you stand gazing up into heaven? This same Jesus, who was taken up from you into heaven, will so come in like manner as you saw Him go into heaven.*
 
 <!-- p16 -->
 </span>
-
 <!-- p17 -->
-<span class="x-scripture" data-type="quote" data-book="Revelation" data-chapter="22" data-verses="12" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="REV" data-chapter="22" data-lang="en" data-type="quote" data-verses="12" data-version="NKJV">
 <!-- p18 -->
-> **<u>Revelation 22:12</u>***, (NKJV) *And behold, I am coming quickly, and My reward is with Me, to give to every one according to his work.*
+&gt; **<u>Revelation 22:12</u>***, (NKJV) *And behold, I am coming quickly, and My reward is with Me, to give to every one according to his work.*
 
 <!-- p19 -->
 </span>
-
 <!-- p20 -->
 **Why It Matters:** The return of Christ fulfills God's promise to complete redemption and establish His Kingdom. It reminds us to live with a sense of urgency, knowing that one day we will see Him face to face.
 
@@ -68,7 +64,7 @@ For each point we will examine what the concept itself is, look at the reference
 - **Be Watchful:** Live expecting His return.
 
 <!-- p23 -->
-- **Remain Faithful:** Carry out the Great Commission (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="28" data-verses="19-20" data-lang="en" data-version="NKJV">Matthew 28:19-20</span>) with purpose and diligence.
+- **Remain Faithful:** Carry out the Great Commission (<span class="x-scripture" data-book="MAT" data-chapter="28" data-lang="en" data-type="ref" data-verses="19-20" data-version="NKJV">Matthew 28:19-20</span>) with purpose and diligence.
 
 <!-- p24 -->
 ### **2. The Resurrection of the Dead**
@@ -77,23 +73,19 @@ For each point we will examine what the concept itself is, look at the reference
 **What It Is:** The resurrection is the raising of all people—the righteous and the unrighteous—from the dead to face judgment.
 
 <!-- p26 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="5" data-verses="28-29" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="JHN" data-chapter="5" data-lang="en" data-type="quote" data-verses="28-29" data-version="NKJV">
 <!-- p27 -->
-> **<u>John 5:28-29</u>** *(NKJV) **28** Do not marvel at this; for the hour is coming in which all who are in the graves will hear His Voice **29** and come forth—those who have done good, to the resurrection of life, and those who have done evil, to the resurrection of judgment.*
+&gt; **<u>John 5:28-29</u>** *(NKJV) **28** Do not marvel at this; for the hour is coming in which all who are in the graves will hear His Voice **29** and come forth—those who have done good, to the resurrection of life, and those who have done evil, to the resurrection of judgment.*
 
 <!-- p28 -->
 </span>
-
 <!-- p29 -->
-<span class="x-scripture" data-type="fragment" data-book="1 Thessalonians" data-chapter="4" data-verses="16" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="1TH" data-chapter="4" data-lang="en" data-type="fragment" data-verses="16" data-version="NKJV">
 <!-- p30 -->
-> **<u>1 Thessalonians 4:16</u>** *(NKJV) *… the dead in Christ will rise first.*
+&gt; **<u>1 Thessalonians 4:16</u>** *(NKJV) *… the dead in Christ will rise first.*
 
 <!-- p31 -->
 </span>
-
 <!-- p32 -->
 **Why It Matters:** The resurrection guarantees justice and eternal life for believers while warning unbelievers about judgment. It shows God’s supremacy over life and death.
 
@@ -116,14 +108,12 @@ For each point we will examine what the concept itself is, look at the reference
 #### The Great White Throne Judgment
 
 <!-- p39 -->
-<span class="x-scripture" data-type="fragment" data-book="Revelation" data-chapter="20" data-verses="11-12" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="REV" data-chapter="20" data-lang="en" data-type="fragment" data-verses="11-12" data-version="NKJV">
 <!-- p40 -->
-> **<u>Revelation 20:11-12</u>** *(NKJV) **11** Then I saw a great white throne … **12** … And the dead were judged according to their works*
+&gt; **<u>Revelation 20:11-12</u>** *(NKJV) **11** Then I saw a great white throne … **12** … And the dead were judged according to their works*
 
 <!-- p41 -->
 </span>
-
 <!-- p42 -->
 As explained in the chapter about sin, there will be a great and terrifying final judgment for all unbelievers. The punishment will be separation from God forever! This judgment is not for the believer.
 
@@ -134,31 +124,27 @@ As explained in the chapter about sin, there will be a great and terrifying fina
 As believers our names are recorded in the **Lamb’s Book of *Life*** *(*See the book of *Revelation*)**.** Therefore we will stand* *at the **Judgment Seat of Christ***. This judgment is not punitive, but it is for reward! Again**,** it is not a time of **shame or fear** for believers, but a **celebration** of what God has accomplished through us. It reminds us that our lives matter—not only for today but for **eternity**.
 
 <!-- p45 -->
-<span class="x-scripture" data-type="quote" data-book="2 Corinthians" data-chapter="5" data-verses="10" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="2CO" data-chapter="5" data-lang="en" data-type="quote" data-verses="10" data-version="NKJV">
 <!-- p46 -->
-> **<u>2 Corinthians 5:10</u>** (NKJV) *For we must all appear before the judgment seat of Christ, that each one may receive the things done in the body, according to what he has done, whether good or bad.*
+&gt; **<u>2 Corinthians 5:10</u>** (NKJV) *For we must all appear before the judgment seat of Christ, that each one may receive the things done in the body, according to what he has done, whether good or bad.*
 
 <!-- p47 -->
 </span>
-
 <!-- p48 -->
-<span class="x-scripture" data-type="quote" data-book="1 Corinthians" data-chapter="3" data-verses="12-15" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="1CO" data-chapter="3" data-lang="en" data-type="quote" data-verses="12-15" data-version="NKJV">
 <!-- p49 -->
-> **<u>1 Corinthians 3:12-15</u>** (NKJV)
->
-> ***12** Now if anyone builds on this foundation with gold, silver, precious stones, wood, hay, straw,*
->
-> ***13** each one’s work will become clear; for the Day will declare it, because it will be revealed by fire; and the fire will test each one’s work, of what sort it is.*
->
-> ***14** If anyone’s work which he has built on it endures, he will receive a reward.*
->
-> ***15** If anyone’s work is burned, he will suffer loss; but he himself will be saved, yet so as through fire.*
+&gt; **<u>1 Corinthians 3:12-15</u>** (NKJV)
+&gt;
+&gt; ***12** Now if anyone builds on this foundation with gold, silver, precious stones, wood, hay, straw,*
+&gt;
+&gt; ***13** each one’s work will become clear; for the Day will declare it, because it will be revealed by fire; and the fire will test each one’s work, of what sort it is.*
+&gt;
+&gt; ***14** If anyone’s work which he has built on it endures, he will receive a reward.*
+&gt;
+&gt; ***15** If anyone’s work is burned, he will suffer loss; but he himself will be saved, yet so as through fire.*
 
 <!-- p50 -->
 </span>
-
 <!-- p51 -->
 At this judgment we will receive rewards for the good deeds we have done! Everyone at this judgment lived and died as a believer, therefore their eternal salvation is assured. However, not everyone will have more rewards. The New Testament mentions crowns as rewards representing victory, honor, and faithfulness. These laurel wreath crowns highlight God’s recognition of the faithfulness of believers and their service in His Kingdom.
 
@@ -166,19 +152,19 @@ At this judgment we will receive rewards for the good deeds we have done! Everyo
 Rewards:
 
 <!-- p53 -->
-1.  **Crown of Righteousness** *(<span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="4" data-verses="8" data-lang="en" data-version="NKJV">2 Timothy 4:8</span>)* - For those who long for Christ’s appearing and live lives of godliness.
+1.  **Crown of Righteousness** *(<span class="x-scripture" data-book="2TI" data-chapter="4" data-lang="en" data-type="ref" data-verses="8" data-version="NKJV">2 Timothy 4:8</span>)* - For those who long for Christ’s appearing and live lives of godliness.
 
 <!-- p54 -->
-2.  **Incorruptible Crown** *(<span class="x-scripture" data-type="ref" data-book="1 Corinthians" data-chapter="9" data-verses="24-25" data-lang="en" data-version="NKJV">1 Corinthians 9:24-25</span>)* - For believers who exercise self-discipline and faithfulness.
+2.  **Incorruptible Crown** *(<span class="x-scripture" data-book="1CO" data-chapter="9" data-lang="en" data-type="ref" data-verses="24-25" data-version="NKJV">1 Corinthians 9:24-25</span>)* - For believers who exercise self-discipline and faithfulness.
 
 <!-- p55 -->
-3.  **Crown of Life** *(<span class="x-scripture" data-type="ref" data-book="James" data-chapter="1" data-verses="12" data-lang="en" data-version="NKJV">James 1:12</span>; <span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="2" data-verses="10" data-lang="en" data-version="NKJV">Revelation 2:10</span>)* - For those who endure trials, sufferings, and tests.
+3.  **Crown of Life** *(<span class="x-scripture" data-book="JAS" data-chapter="1" data-lang="en" data-type="ref" data-verses="12" data-version="NKJV">James 1:12</span>; <span class="x-scripture" data-book="REV" data-chapter="2" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV">Revelation 2:10</span>)* - For those who endure trials, sufferings, and tests.
 
 <!-- p56 -->
-4.  **Crown of Glory** *(<span class="x-scripture" data-type="ref" data-book="1 Peter" data-chapter="5" data-verses="2-4" data-lang="en" data-version="NKJV">1 Peter 5:2-4</span>)* - For leaders and shepherds who faithfully lead God’s people.
+4.  **Crown of Glory** *(<span class="x-scripture" data-book="1PE" data-chapter="5" data-lang="en" data-type="ref" data-verses="2-4" data-version="NKJV">1 Peter 5:2-4</span>)* - For leaders and shepherds who faithfully lead God’s people.
 
 <!-- p57 -->
-5.  **Crown of Rejoicing** *(<span class="x-scripture" data-type="ref" data-book="1 Thessalonians" data-chapter="2" data-verses="19-20" data-lang="en" data-version="NKJV">1 Thessalonians 2:19-20</span>)* - For those who lead others to Christ and make them disciples.
+5.  **Crown of Rejoicing** *(<span class="x-scripture" data-book="1TH" data-chapter="2" data-lang="en" data-type="ref" data-verses="19-20" data-version="NKJV">1 Thessalonians 2:19-20</span>)* - For those who lead others to Christ and make them disciples.
 
 <!-- p58 -->
 **What Should We Do?**
@@ -196,14 +182,12 @@ Rewards:
 **What It Is:** All people will live forever in one of two places-eternal life with God or eternal separation from Him.
 
 <!-- p63 -->
-<span class="x-scripture" data-type="quote" data-book="Matthew" data-chapter="25" data-verses="46" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="MAT" data-chapter="25" data-lang="en" data-type="quote" data-verses="46" data-version="NKJV">
 <!-- p64 -->
-> **<u>Matthew 25:46</u>** (NKJV) And these will go away into everlasting punishment, but the righteous into eternal life.*
+&gt; **<u>Matthew 25:46</u>** (NKJV) And these will go away into everlasting punishment, but the righteous into eternal life.*
 
 <!-- p65 -->
 </span>
-
 <!-- p66 -->
 **Why It Matters:** Our eternal destiny is determined by whether we have accepted or rejected Christ. It emphasizes the urgency of the Gospel message and discipleship.
 
@@ -223,14 +207,12 @@ Rewards:
 **What It Is:** Satan, the deceiver, will be thrown into the **lake of fire**-forever defeated by Christ.
 
 <!-- p72 -->
-<span class="x-scripture" data-type="quote" data-book="Revelation" data-chapter="20" data-verses="10" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="REV" data-chapter="20" data-lang="en" data-type="quote" data-verses="10" data-version="NKJV">
 <!-- p73 -->
-> **<u>Revelation 20:10</u>**, (NKJV) *The devil, who deceived them, was cast into the lake of fire and brimstone, where the beast and the false prophet are. And they will be tormented day and night forever and ever.*
+&gt; **<u>Revelation 20:10</u>**, (NKJV) *The devil, who deceived them, was cast into the lake of fire and brimstone, where the beast and the false prophet are. And they will be tormented day and night forever and ever.*
 
 <!-- p74 -->
 </span>
-
 <!-- p75 -->
 **Why It Matters:** This final act displays God's reign over evil and assures believers that Satan's rule of deception and destruction has come to an end. It gives us confidence in God's ultimate victory.
 
@@ -250,14 +232,12 @@ Rewards:
 **What It Is:** After the final judgment and the defeat of the enemy, God will create a **new heaven and a new earth**-the perfect eternal dwelling for His people.
 
 <!-- p81 -->
-<span class="x-scripture" data-type="fragment" data-book="Revelation" data-chapter="21" data-verses="1,3" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="REV" data-chapter="21" data-lang="en" data-type="fragment" data-verses="1,3" data-version="NKJV">
 <!-- p82 -->
-> **<u>Revelation 21:1,3</u>** *(NKJV) **1** Now I saw a new heaven and a new earth… **3** …God Himself will be with them and be their God.*
+&gt; **<u>Revelation 21:1,3</u>** *(NKJV) **1** Now I saw a new heaven and a new earth… **3** …God Himself will be with them and be their God.*
 
 <!-- p83 -->
 </span>
-
 <!-- p84 -->
 **Why It Matters:** It gives us the hope of restoration, in which God will wipe away every tear and make all things new-free from pain, sin, and death.
 
@@ -295,7 +275,7 @@ It is good to study eschatology, but let us remember, as D.L. Browning said, “
 ## **Final Thoughts**
 
 <!-- p96 -->
-The return of Christ is the climax of God’s plan and is why we live and work with urgency and purpose. The parables of the ten virgins (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="25" data-verses="1-13" data-lang="en" data-version="NKJV">Matthew 25:1-13</span>) and the two men in the field (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="24" data-verses="40-42" data-lang="en" data-version="NKJV">Matthew 24:40-42</span>) remind us to be watchful and faithful, always ready for His return. Whether through the rewards of crowns or the hope of resurrection, our motivation is clear-Christ is returning!
+The return of Christ is the climax of God’s plan and is why we live and work with urgency and purpose. The parables of the ten virgins (<span class="x-scripture" data-book="MAT" data-chapter="25" data-lang="en" data-type="ref" data-verses="1-13" data-version="NKJV">Matthew 25:1-13</span>) and the two men in the field (<span class="x-scripture" data-book="MAT" data-chapter="24" data-lang="en" data-type="ref" data-verses="40-42" data-version="NKJV">Matthew 24:40-42</span>) remind us to be watchful and faithful, always ready for His return. Whether through the rewards of crowns or the hope of resurrection, our motivation is clear-Christ is returning!
 
 <!-- p97 -->
 **May we be found ready, faithful, and expectant on that glorious day!**
@@ -307,7 +287,7 @@ The return of Christ is the climax of God’s plan and is why we live and work w
 1.  How does the promise of Christ’s return affect the way you live your daily life? Are there areas where you need to change your focus or your priorities?
 
 <!-- p100 -->
-2.  Reflect on the parable of the ten virgins (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="25" data-verses="1-13" data-lang="en" data-version="NKJV">Matthew 25:1-13</span>). How can you ensure your “lamp” is ready and full? What does that look like in practice?
+2.  Reflect on the parable of the ten virgins (<span class="x-scripture" data-book="MAT" data-chapter="25" data-lang="en" data-type="ref" data-verses="1-13" data-version="NKJV">Matthew 25:1-13</span>). How can you ensure your “lamp” is ready and full? What does that look like in practice?
 
 <!-- p101 -->
 3.  What does it mean to you to live as a faithful servant, ready for the return of Christ? How can you grow in faithfulness?
@@ -322,10 +302,10 @@ The return of Christ is the climax of God’s plan and is why we live and work w
 1.  **Icebreaker Question:** “If you discovered that Jesus is coming back tomorrow, what is the first thing you would do today?”
 
 <!-- p105 -->
-2.  **Exploring Scripture:** Read <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="24" data-verses="42-44" data-lang="en" data-version="NKJV">Matthew 24:42-44</span>. What does it mean to ‘be watchful’? How can we balance readiness with the demands of everyday life?
+2.  **Exploring Scripture:** Read <span class="x-scripture" data-book="MAT" data-chapter="24" data-lang="en" data-type="ref" data-verses="42-44" data-version="NKJV">Matthew 24:42-44</span>. What does it mean to ‘be watchful’? How can we balance readiness with the demands of everyday life?
 
 <!-- p106 -->
-3.  **Living Faithfully:** Discuss the example of the two men in the field (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="24" data-verses="40-41" data-lang="en" data-version="NKJV">Matthew 24:40-41</span>). How does this show how the return of Christ comes suddenly? How can we live prepared for that moment?
+3.  **Living Faithfully:** Discuss the example of the two men in the field (<span class="x-scripture" data-book="MAT" data-chapter="24" data-lang="en" data-type="ref" data-verses="40-41" data-version="NKJV">Matthew 24:40-41</span>). How does this show how the return of Christ comes suddenly? How can we live prepared for that moment?
 
 <!-- p107 -->
 4.  **Crowns and Rewards:** What do the crowns mentioned in Scripture (e.g., the Crown of Righteousness, the Crown of Life) teach us about how God recognizes our faithfulness? How should this shape our lives?

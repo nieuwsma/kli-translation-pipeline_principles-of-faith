@@ -41,23 +41,19 @@ Kwa kila hoja tutakagua dhana yenyewe ni nini, tutaangalia Maandiko ya marejeo, 
 **Maana Yake:** **Kuja Mara ya Pili kwa Kristo** ni kurejea kwa hakika kwa Yesu duniani kama Mfalme na Hakimu.
 
 <!-- p14 -->
-<span class="x-scripture" data-type="quote" data-book="Acts" data-chapter="1" data-verses="11" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="ACT" data-chapter="1" data-lang="en" data-type="quote" data-verses="11" data-version="NKJV">
 <!-- p15 -->
-> **<u>Matendo 1:11</u>** (NKJV) *Enyi watu wa Galilaya, kwa nini mnasimama mkitazama mbinguni? Huyu Yesu huyu, ambaye amechukuliwa kutoka kwenu kwenda mbinguni, atakuja vivyo hivyo kama mlivyomwona akiingia mbinguni.*
+&gt; **<u>Matendo 1:11</u>** (NKJV) *Enyi watu wa Galilaya, kwa nini mnasimama mkitazama mbinguni? Huyu Yesu huyu, ambaye amechukuliwa kutoka kwenu kwenda mbinguni, atakuja vivyo hivyo kama mlivyomwona akiingia mbinguni.*
 
 <!-- p16 -->
 </span>
-
 <!-- p17 -->
-<span class="x-scripture" data-type="quote" data-book="Revelation" data-chapter="22" data-verses="12" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="REV" data-chapter="22" data-lang="en" data-type="quote" data-verses="12" data-version="NKJV">
 <!-- p18 -->
-> **<u>Ufunuo 22:12</u>***, (NKJV) *Na tazama, naja upesi, na ujira Wangu upo pamoja Nami, ili nimpe kila mtu kadiri ya kazi yake.*
+&gt; **<u>Ufunuo 22:12</u>***, (NKJV) *Na tazama, naja upesi, na ujira Wangu upo pamoja Nami, ili nimpe kila mtu kadiri ya kazi yake.*
 
 <!-- p19 -->
 </span>
-
 <!-- p20 -->
 **Kwa Nini Ni Muhimu:** Kurudi kwa Kristo kunatimiza ahadi ya Mungu ya kukamilisha ukombozi na kuanzisha Ufalme Wake. Hutukumbusha tuishi kwa hali ya uharaka, tukijua kwamba siku moja tutamwona uso kwa uso.
 
@@ -68,7 +64,7 @@ Kwa kila hoja tutakagua dhana yenyewe ni nini, tutaangalia Maandiko ya marejeo, 
 - **Kuwa Macho:** Ishi ukitarajia kurudi Kwake.
 
 <!-- p23 -->
-- **Kaa Mwaminifu:** Tekeleza Agizo Kuu (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="28" data-verses="19-20" data-lang="en" data-version="NKJV">Mathayo 28:19-20</span>) kwa kusudi na bidii.
+- **Kaa Mwaminifu:** Tekeleza Agizo Kuu (<span class="x-scripture" data-book="MAT" data-chapter="28" data-lang="en" data-type="ref" data-verses="19-20" data-version="NKJV">Mathayo 28:19-20</span>) kwa kusudi na bidii.
 
 <!-- p24 -->
 ### **2. Ufufuo wa Wafu**
@@ -77,23 +73,19 @@ Kwa kila hoja tutakagua dhana yenyewe ni nini, tutaangalia Maandiko ya marejeo, 
 **Ni Nini:** Ufufuo ni kuwafufua watu wote-wenye haki na wasio haki-kutoka kwa wafu ili wakabili hukumu.
 
 <!-- p26 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="5" data-verses="28-29" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="JHN" data-chapter="5" data-lang="en" data-type="quote" data-verses="28-29" data-version="NKJV">
 <!-- p27 -->
-> **<u>Yohana 5:28-29</u>** *(NKJV) **28** Msistaajabu hili; kwa maana saa yaja ambayo wote waliomo makaburini watasikia Sauti Yake **29** na watatoka-wale waliotenda mema, kwa ufufuo wa uzima, na wale waliotenda maovu, kwa ufufuo wa hukumu.*
+&gt; **<u>Yohana 5:28-29</u>** *(NKJV) **28** Msistaajabu hili; kwa maana saa yaja ambayo wote waliomo makaburini watasikia Sauti Yake **29** na watatoka-wale waliotenda mema, kwa ufufuo wa uzima, na wale waliotenda maovu, kwa ufufuo wa hukumu.*
 
 <!-- p28 -->
 </span>
-
 <!-- p29 -->
-<span class="x-scripture" data-type="fragment" data-book="1 Thessalonians" data-chapter="4" data-verses="16" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="1TH" data-chapter="4" data-lang="en" data-type="fragment" data-verses="16" data-version="NKJV">
 <!-- p30 -->
-> **<u>1 Wathesalonike 4:16</u>** *(NKJV) *… wafu walio katika Kristo watafufuka kwanza.*
+&gt; **<u>1 Wathesalonike 4:16</u>** *(NKJV) *… wafu walio katika Kristo watafufuka kwanza.*
 
 <!-- p31 -->
 </span>
-
 <!-- p32 -->
 **Kwa Nini Ni Muhimu:** Ufufuo unahakikisha haki na uzima wa milele kwa waumini huku ukiwaonya wasioamini kuhusu hukumu. Unaonyesha Ukuu wa Mungu juu ya uhai na mauti.
 
@@ -116,14 +108,12 @@ Kwa kila hoja tutakagua dhana yenyewe ni nini, tutaangalia Maandiko ya marejeo, 
 #### Hukumu ya Kiti Kikubwa Cheupe
 
 <!-- p39 -->
-<span class="x-scripture" data-type="fragment" data-book="Revelation" data-chapter="20" data-verses="11-12" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="REV" data-chapter="20" data-lang="en" data-type="fragment" data-verses="11-12" data-version="NKJV">
 <!-- p40 -->
-> **<u>Ufunuo 20:11-12</u>** *(NKJV) **11** Kisha nikaona kiti cha enzi kikubwa cheupe … **12** … Na wafu wakahukumiwa sawasawa na matendo yao*
+&gt; **<u>Ufunuo 20:11-12</u>** *(NKJV) **11** Kisha nikaona kiti cha enzi kikubwa cheupe … **12** … Na wafu wakahukumiwa sawasawa na matendo yao*
 
 <!-- p41 -->
 </span>
-
 <!-- p42 -->
 Kama ilivyoelezwa katika sura kuhusu dhambi, kutakuwa na hukumu kuu ya kutisha ya mwisho kwa wasioamini wote. Adhabu itakuwa kutengwa na Mungu milele! **Hukumu hii si kwa mwamini.**
 
@@ -134,31 +124,27 @@ Kama ilivyoelezwa katika sura kuhusu dhambi, kutakuwa na hukumu kuu ya kutisha y
 Kama waamini majina yetu yamewekwa katika **Kitabu cha *Uzima* cha Mwana-Kondoo** *(*Tazama kitabu cha *Ufunuo*)**.** Kwa hiyo tutasimama* *kwenye **Kiti cha Hukumu cha Kristo***. Hukumu hii si ya adhabu, bali ni ya tuzo! Tena**,** si wakati wa **aibu au hofu** kwa waamini, bali ni **sherehe** ya yale ambayo Mungu ametimiza kupitia sisi. Inatukumbusha kwamba maisha yetu yana maana—si kwa leo tu bali kwa **umilele**.
 
 <!-- p45 -->
-<span class="x-scripture" data-type="quote" data-book="2 Corinthians" data-chapter="5" data-verses="10" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="2CO" data-chapter="5" data-lang="en" data-type="quote" data-verses="10" data-version="NKJV">
 <!-- p46 -->
-> **<u>2 Wakorintho 5:10</u>** (NKJV) *Kwa maana lazima sote tuonekane mbele ya kiti cha hukumu cha Kristo, ili kila mmoja apokee mambo aliyotenda mwilini, kulingana na alivyofanya, ikiwa mema au mabaya.*
+&gt; **<u>2 Wakorintho 5:10</u>** (NKJV) *Kwa maana lazima sote tuonekane mbele ya kiti cha hukumu cha Kristo, ili kila mmoja apokee mambo aliyotenda mwilini, kulingana na alivyofanya, ikiwa mema au mabaya.*
 
 <!-- p47 -->
 </span>
-
 <!-- p48 -->
-<span class="x-scripture" data-type="quote" data-book="1 Corinthians" data-chapter="3" data-verses="12-15" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="1CO" data-chapter="3" data-lang="en" data-type="quote" data-verses="12-15" data-version="NKJV">
 <!-- p49 -->
-> **<u>1 Wakorintho 3:12-15</u>** (NKJV)
->
-> ***12** Basi ikiwa mtu yeyote anajenga juu ya msingi huu kwa dhahabu, fedha, vito vya thamani, mbao, nyasi, mabua,*
->
-> ***13** kazi ya kila mmoja itadhihirishwa; kwa maana Siku ile itaitangaza, kwa sababu itafunuliwa kwa moto; na moto utawaijaribu kazi ya kila mmoja, ni ya namna gani.*
->
-> ***14** Kazi ya mtu yeyote aliyoijenga juu yake ikibaki, atapokea tuzo.*
->
-> ***15** Kazi ya mtu yeyote ikiteketea, atapata hasara; ila yeye mwenyewe ataokolewa, lakini kama kwa moto.*
+&gt; **<u>1 Wakorintho 3:12-15</u>** (NKJV)
+&gt;
+&gt; ***12** Basi ikiwa mtu yeyote anajenga juu ya msingi huu kwa dhahabu, fedha, vito vya thamani, mbao, nyasi, mabua,*
+&gt;
+&gt; ***13** kazi ya kila mmoja itadhihirishwa; kwa maana Siku ile itaitangaza, kwa sababu itafunuliwa kwa moto; na moto utawaijaribu kazi ya kila mmoja, ni ya namna gani.*
+&gt;
+&gt; ***14** Kazi ya mtu yeyote aliyoijenga juu yake ikibaki, atapokea tuzo.*
+&gt;
+&gt; ***15** Kazi ya mtu yeyote ikiteketea, atapata hasara; ila yeye mwenyewe ataokolewa, lakini kama kwa moto.*
 
 <!-- p50 -->
 </span>
-
 <!-- p51 -->
 Katika hukumu hii tutapokea tuzo kwa matendo mema tuliyoyafanya! Kila mtu katika hukumu hii aliishi na akafa kama muumini, hivyo wokovu wao wa milele umehakikishwa. Hata hivyo si kila mtu atakuwa na tuzo zaidi. Agano Jipya linataja taji kama tuzo zinazowakilisha ushindi, heshima, na uaminifu. Taji hizi za majani ya laurel zinangazia utambuzi wa Mungu wa uaminifu wa waamini na huduma yao katika Ufalme Wake.
 
@@ -166,19 +152,19 @@ Katika hukumu hii tutapokea tuzo kwa matendo mema tuliyoyafanya! Kila mtu katika
 Tuzo:
 
 <!-- p53 -->
-1.  **Taji la Haki** *(<span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="4" data-verses="8" data-lang="en" data-version="NKJV">2 Timotheo 4:8</span>)* - Kwa wale wanaotamani kuonekana kwa Kristo na kuishi maisha ya utauwa.
+1.  **Taji la Haki** *(<span class="x-scripture" data-book="2TI" data-chapter="4" data-lang="en" data-type="ref" data-verses="8" data-version="NKJV">2 Timotheo 4:8</span>)* - Kwa wale wanaotamani kuonekana kwa Kristo na kuishi maisha ya utauwa.
 
 <!-- p54 -->
-2.  **Taji Lisiloharibika** *(<span class="x-scripture" data-type="ref" data-book="1 Corinthians" data-chapter="9" data-verses="24-25" data-lang="en" data-version="NKJV">1 Wakorintho 9:24-25</span>)* - Kwa waamini wanaojizoeza nidhamu binafsi na uaminifu.
+2.  **Taji Lisiloharibika** *(<span class="x-scripture" data-book="1CO" data-chapter="9" data-lang="en" data-type="ref" data-verses="24-25" data-version="NKJV">1 Wakorintho 9:24-25</span>)* - Kwa waamini wanaojizoeza nidhamu binafsi na uaminifu.
 
 <!-- p55 -->
-3.  **Taji la Uzima** *(<span class="x-scripture" data-type="ref" data-book="James" data-chapter="1" data-verses="12" data-lang="en" data-version="NKJV">Yakobo 1:12</span>; <span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="2" data-verses="10" data-lang="en" data-version="NKJV">Ufunuo 2:10</span>)* - Kwa wale wanaovumilia majaribu, mateso, na mitihani.
+3.  **Taji la Uzima** *(<span class="x-scripture" data-book="JAS" data-chapter="1" data-lang="en" data-type="ref" data-verses="12" data-version="NKJV">Yakobo 1:12</span>; <span class="x-scripture" data-book="REV" data-chapter="2" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV">Ufunuo 2:10</span>)* - Kwa wale wanaovumilia majaribu, mateso, na mitihani.
 
 <!-- p56 -->
-4.  **Taji la Utukufu** *(<span class="x-scripture" data-type="ref" data-book="1 Peter" data-chapter="5" data-verses="2-4" data-lang="en" data-version="NKJV">1 Petro 5:2-4</span>)* - Kwa viongozi na wachungaji wanaowaongoza kwa uaminifu watu wa Mungu.
+4.  **Taji la Utukufu** *(<span class="x-scripture" data-book="1PE" data-chapter="5" data-lang="en" data-type="ref" data-verses="2-4" data-version="NKJV">1 Petro 5:2-4</span>)* - Kwa viongozi na wachungaji wanaowaongoza kwa uaminifu watu wa Mungu.
 
 <!-- p57 -->
-5.  **Taji la Furaha** *(<span class="x-scripture" data-type="ref" data-book="1 Thessalonians" data-chapter="2" data-verses="19-20" data-lang="en" data-version="NKJV">1 Wathesalonike 2:19-20</span>)* - Kwa wale wanaowaongoza wengine kwa Kristo na kuwafanya kuwa wanafunzi.
+5.  **Taji la Furaha** *(<span class="x-scripture" data-book="1TH" data-chapter="2" data-lang="en" data-type="ref" data-verses="19-20" data-version="NKJV">1 Wathesalonike 2:19-20</span>)* - Kwa wale wanaowaongoza wengine kwa Kristo na kuwafanya kuwa wanafunzi.
 
 <!-- p58 -->
 **Tufanye Nini?**
@@ -196,14 +182,12 @@ Tuzo:
 **Ni Nini:** Watu wote wataishi milele katika mojawapo ya sehemu mbili-uzima wa milele pamoja na Mungu au kutengana Naye milele.
 
 <!-- p63 -->
-<span class="x-scripture" data-type="quote" data-book="Matthew" data-chapter="25" data-verses="46" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="MAT" data-chapter="25" data-lang="en" data-type="quote" data-verses="46" data-version="NKJV">
 <!-- p64 -->
-> **<u>Mathayo 25:46</u>** (NKJV) Na hawa wataenda kwenye adhabu ya milele, bali wenye haki kwenye uzima wa milele.*
+&gt; **<u>Mathayo 25:46</u>** (NKJV) Na hawa wataenda kwenye adhabu ya milele, bali wenye haki kwenye uzima wa milele.*
 
 <!-- p65 -->
 </span>
-
 <!-- p66 -->
 **Kwa Nini Ni Muhimu:** Hatima yetu ya milele inaamuliwa na iwapo tumemkubali au tumemkataa Kristo. Inasisitiza uharaka wa ujumbe wa Injili na ufuasi.
 
@@ -223,14 +207,12 @@ Tuzo:
 **Ni Nini:** Shetani, mdanganyifu, atatupwa katika **ziwa la moto**-akishindwa milele na Kristo.
 
 <!-- p72 -->
-<span class="x-scripture" data-type="quote" data-book="Revelation" data-chapter="20" data-verses="10" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="REV" data-chapter="20" data-lang="en" data-type="quote" data-verses="10" data-version="NKJV">
 <!-- p73 -->
-> **<u>Ufunuo 20:10</u>**, (NKJV) *Ibilisi, aliyewadanganya, alitupwa katika ziwa la moto na kiberiti, mahali walipo mnyama na nabii wa uongo. Nao watateswa mchana na usiku milele na milele.*
+&gt; **<u>Ufunuo 20:10</u>**, (NKJV) *Ibilisi, aliyewadanganya, alitupwa katika ziwa la moto na kiberiti, mahali walipo mnyama na nabii wa uongo. Nao watateswa mchana na usiku milele na milele.*
 
 <!-- p74 -->
 </span>
-
 <!-- p75 -->
 **Kwa Nini Ni Muhimu:** Tendo hili la mwisho linaonyesha enzi ya Mungu juu ya uovu na linawahakikishia waamini kwamba utawala wa Shetani wa udanganyifu na uharibifu umefikia mwisho. Linatupa ujasiri katika ushindi wa mwisho wa Mungu.
 
@@ -250,14 +232,12 @@ Tuzo:
 **Ni Nini:** Baada ya hukumu ya mwisho na kushindwa kwa adui, Mungu ataumba **mbingu mpya na nchi mpya**-makao kamilifu ya milele kwa watu Wake.
 
 <!-- p81 -->
-<span class="x-scripture" data-type="fragment" data-book="Revelation" data-chapter="21" data-verses="1,3" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="REV" data-chapter="21" data-lang="en" data-type="fragment" data-verses="1,3" data-version="NKJV">
 <!-- p82 -->
-> **<u>Ufunuo 21:1,3</u>** *(NKJV) **1** Sasa nikaona mbingu mpya na nchi mpya… **3** …Mungu Mwenyewe atakuwa pamoja nao na atakuwa Mungu wao.*
+&gt; **<u>Ufunuo 21:1,3</u>** *(NKJV) **1** Sasa nikaona mbingu mpya na nchi mpya… **3** …Mungu Mwenyewe atakuwa pamoja nao na atakuwa Mungu wao.*
 
 <!-- p83 -->
 </span>
-
 <!-- p84 -->
 **Kwa Nini Ni Muhimu:** Hutupa tumaini la urejesho, ambamo Mungu atafuta kila chozi na kufanya mambo yote kuwa mapya-huru kutokana na maumivu, dhambi, na mauti.
 
@@ -295,7 +275,7 @@ Ni jambo zuri kusoma eskatolojia, lakini tukumbuke kama D.L. Browning alivyosema
 ## **Mawazo ya Mwisho**
 
 <!-- p96 -->
-Kurejea kwa Kristo ni kilele cha mpango wa Mungu na ndiyo sababu tunaishi na kufanya kazi kwa uharaka na kusudi. Mifano ya wanawali kumi (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="25" data-verses="1-13" data-lang="en" data-version="NKJV">Mathayo 25:1-13</span>) na watu wawili shambani (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="24" data-verses="40-42" data-lang="en" data-version="NKJV">Mathayo 24:40-42</span>) yatukumbusha tuwe waangalifu na waaminifu, daima tayari kwa ajili ya kurudi Kwake. Iwe kupitia thawabu za taji au tumaini la ufufuo, msukumo wetu uko wazi-Kristo anarejea!
+Kurejea kwa Kristo ni kilele cha mpango wa Mungu na ndiyo sababu tunaishi na kufanya kazi kwa uharaka na kusudi. Mifano ya wanawali kumi (<span class="x-scripture" data-book="MAT" data-chapter="25" data-lang="en" data-type="ref" data-verses="1-13" data-version="NKJV">Mathayo 25:1-13</span>) na watu wawili shambani (<span class="x-scripture" data-book="MAT" data-chapter="24" data-lang="en" data-type="ref" data-verses="40-42" data-version="NKJV">Mathayo 24:40-42</span>) yatukumbusha tuwe waangalifu na waaminifu, daima tayari kwa ajili ya kurudi Kwake. Iwe kupitia thawabu za taji au tumaini la ufufuo, msukumo wetu uko wazi-Kristo anarejea!
 
 <!-- p97 -->
 **Tupatikane tukiwa tayari, waaminifu, na wenye matarajio siku ile ya utukufu!**
@@ -307,7 +287,7 @@ Kurejea kwa Kristo ni kilele cha mpango wa Mungu na ndiyo sababu tunaishi na kuf
 1.  Je, ahadi ya kurejea kwa Kristo inaathiri vipi jinsi unavyoishi maisha yako ya kila siku? Kuna maeneo ambapo unahitaji kubadili mwelekeo wako au vipaumbele vyako?
 
 <!-- p100 -->
-2.  Tafakari kuhusu mfano wa wanawali kumi (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="25" data-verses="1-13" data-lang="en" data-version="NKJV">Mathayo 25:1-13</span>). Unawezaje kuhakikisha “taa” yako iko tayari na imejaa? Hilo linaonekanaje kwa vitendo?
+2.  Tafakari kuhusu mfano wa wanawali kumi (<span class="x-scripture" data-book="MAT" data-chapter="25" data-lang="en" data-type="ref" data-verses="1-13" data-version="NKJV">Mathayo 25:1-13</span>). Unawezaje kuhakikisha “taa” yako iko tayari na imejaa? Hilo linaonekanaje kwa vitendo?
 
 <!-- p101 -->
 3.  Inamaanisha nini kwako kuishi kama mtumishi mwaminifu, uliye tayari kwa kurudi kwa Kristo? Unawezaje kukua katika uaminifu?
@@ -322,10 +302,10 @@ Kurejea kwa Kristo ni kilele cha mpango wa Mungu na ndiyo sababu tunaishi na kuf
 1.  **Swali la Kuvunja Barafu:** “Kama ungebaini kwamba Yesu anarudi kesho, jambo la kwanza ungefanya leo ni nini?”
 
 <!-- p105 -->
-2.  **Kuchunguza Maandiko:** Soma <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="24" data-verses="42-44" data-lang="en" data-version="NKJV">Mathayo 24:42-44</span>. Inamaanisha nini ‘kuwa macho’? Tunawezaje kusawazisha utayari na mahitaji ya maisha ya kila siku?
+2.  **Kuchunguza Maandiko:** Soma <span class="x-scripture" data-book="MAT" data-chapter="24" data-lang="en" data-type="ref" data-verses="42-44" data-version="NKJV">Mathayo 24:42-44</span>. Inamaanisha nini ‘kuwa macho’? Tunawezaje kusawazisha utayari na mahitaji ya maisha ya kila siku?
 
 <!-- p106 -->
-3.  **Kuishi kwa Uaminifu:** Jadili mfano wa wanaume wawili shambani (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="24" data-verses="40-41" data-lang="en" data-version="NKJV">Mathayo 24:40-41</span>). Hii inaonyesha vipi jinsi kurudi kwa Kristo kunavyokuja kwa ghafla? Tunawezaje kuishi tukiwa tumejiandaa kwa wakati huo?
+3.  **Kuishi kwa Uaminifu:** Jadili mfano wa wanaume wawili shambani (<span class="x-scripture" data-book="MAT" data-chapter="24" data-lang="en" data-type="ref" data-verses="40-41" data-version="NKJV">Mathayo 24:40-41</span>). Hii inaonyesha vipi jinsi kurudi kwa Kristo kunavyokuja kwa ghafla? Tunawezaje kuishi tukiwa tumejiandaa kwa wakati huo?
 
 <!-- p107 -->
 4.  **Taji na Tuzo:** Taji zilizotajwa katika Maandiko (kwa mfano, Taji ya Haki, Taji ya Uzima) zinatufundisha nini kuhusu Mungu anavyotambua uaminifu wetu? Hili linapaswa kuunda vipi maisha yetu?

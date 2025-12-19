@@ -17,7 +17,7 @@ Fikiria mchongaji sanamu mahiri anayejiandaa kufanya kazi na kipande kikubwa cha
 Tulitengwa, tukawekwa wakfu kwa Mungu wakati wa wokovu. Kupitia tendo la kutakasa nafsi zetu kwa msaada wa Roho tunabadilishwa. Mchakato huu wa utakaso ndio hututakasa.
 
 <!-- p6 -->
-Tulipompokea Yesu kupitia wokovu, tulizaliwa upya. Tulihesabiwa haki, dhambi zetu zikasamehewa. Roho yetu ilifanywa upya, tukawa hai katika Kristo. Tukaasiliwa katika familia ya Mungu na tukawa hekalu halisi la Roho Mtakatifu. Mabadiliko ya ajabu kiasi kwamba maandiko yanasema, “*kuna furaha mbele ya malaika wa Mungu kwa mwenye dhambi mmoja atubuye.” (*<span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="15" data-verses="10" data-lang="sw" data-version="OCS">Luke 15:10</span>).
+Tulipompokea Yesu kupitia wokovu, tulizaliwa upya. Tulihesabiwa haki, dhambi zetu zikasamehewa. Roho yetu ilifanywa upya, tukawa hai katika Kristo. Tukaasiliwa katika familia ya Mungu na tukawa hekalu halisi la Roho Mtakatifu. Mabadiliko ya ajabu kiasi kwamba maandiko yanasema, “*kuna furaha mbele ya malaika wa Mungu kwa mwenye dhambi mmoja atubuye.” (*<span class="x-scripture" data-book="LUK" data-chapter="15" data-lang="sw" data-type="ref" data-verses="10" data-version="OCS">Luke 15:10</span>).
 
 <!-- p7 -->
 Kupokea Yesu kwa wokovu (**kuhesabiwa haki**) huokoa roho yetu, hutusafisha, na hutufanya wa kuweza kusimama mbele za Mungu, tuweze kupokea Roho Wake Mtakatifu. Hata hivyo, licha ya wokovu mkuu namna hiyo **nafsi zetu** (akili zetu, nia zetu, na hisia zetu) bado **zinahitaji kazi**!
@@ -35,14 +35,16 @@ Neno ‘carnal’ linatokana na mzizi wa Kilatini lenye maana ya ‘mwili’ au 
 Sehemu ya kukua ni kukomaa kupita njia zetu za kitoto, lakini tunapobanwa, kwa urahisi mno hurudi kwenye mtindo wa kufikiri na kuishi unaomzunguka nafsi. Kama asemavyo Yakobo:
 
 <!-- p12 -->
-<span class="x-scripture" data-type="quote" data-book="James" data-chapter="4" data-verses="1" data-lang="sw" data-version="OCS">
+<span class="x-scripture" data-book="JAS" data-chapter="4" data-lang="sw" data-type="quote" data-verses="1" data-version="OCS">
 
 <!-- p13 -->
-> **<u>Yakobo 4:1</u>** (NKJV) *Vita na mapigano yatokayo kwenu yanatoka wapi? Je, hayatoki katika tamaa zenu za anasa zipiganazo katika viungo vyenu?*
+> **<u>Yak 4:1</u>** (OCS)
+>
+> Ni kitu gani kinachosababisha mapigano na ugomvi miongoni mwenu? Je, haya hayatokani na tamaa zenu zinazoshindana ndani yenu?
+
 
 <!-- p14 -->
 </span>
-
 <!-- p15 -->
 Paulo anaeleza asili hii ya kimwili kwa undani zaidi katika waraka wake kwa Warumi (sura ya 6 - 8). Anasema asili hii ya kimwili humweka akifanya yale anayoyachukia na humfanya atende uovu. Anauelezea mgongano wa ndani kama vita kati ya asili yake ya kibinadamu na roho yake iliyoumbwa na Mungu.
 
@@ -50,14 +52,18 @@ Paulo anaeleza asili hii ya kimwili kwa undani zaidi katika waraka wake kwa Waru
 Mgongano huu kati ya mwili na roho upo ndani ya kila mmoja wetu, na ni kazi yetu kufanya jambo kulihusu. Tusiipokabili asili yetu ya kimwili, nafsi zetu zitabaki zimejazana na mifumo ya kuoza kiroho, ijapokuwa roho zetu zimekombolewa.
 
 <!-- p17 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="8" data-verses="6-8" data-lang="sw" data-version="OCS">
+<span class="x-scripture" data-book="ROM" data-chapter="8" data-lang="sw" data-type="quote" data-verses="6-8" data-version="OCS">
 
 <!-- p18 -->
-> **<u>Warumi 8:6-8</u>** (NKJV) **6** *Kwa kuwa nia ya mwili ni mauti; bali nia ya Roho ni uzima na amani.* ***7** Kwa sababu ile nia ya mwili ni uadui juu ya Mungu; kwa maana haiitii sheria ya Mungu, wala haiwezi.* ***8** Basi, wale walio katika mwili hawawezi kumpendeza Mungu.*
+> **<u>rom 8:6-8</u>** (OCS)
+>
+> Kwa maana kuwa na nia ya mwili ni mauti, bali kuwa na nia inayoongozwa na Roho wa Mungu ni uzima na amani.
+> Kwa kuwa ile nia ya mwili ni uadui na Mungu, kwa maana haiitii Torati ya Mungu, wala haiwezi kuitii.
+> Wale wanaotawaliwa na mwili, hawawezi kumpendeza Mungu.
+
 
 <!-- p19 -->
 </span>
-
 <!-- p20 -->
 Maneno haya ya Paulo ni onyo na pia ahadi kwetu. Hata ingawa tumezaliwa mara ya pili, bado tuna akili ya kimwili inayohitaji kutiishwa chini ya maarifa ya Kristo. Tunapofanya hivyo, tunatembea katika uzima na amani ya Mungu.
 
@@ -65,20 +71,18 @@ Maneno haya ya Paulo ni onyo na pia ahadi kwetu. Hata ingawa tumezaliwa mara ya 
 Jipeni moyo, kuna tumaini kwetu! Lazima tutembee kulingana na Roho na tuongozwe na Roho wa Mungu. Kwa kufanya hivyo, hatutatembea kulingana na mwili.
 
 <!-- p22 -->
-<span class="x-scripture" data-type="fragment" data-book="Romans" data-chapter="8" data-verses="1,13,14" data-lang="sw" data-version="OCS">
+<span class="x-scripture" data-book="ROM" data-chapter="8" data-lang="sw" data-type="fragment" data-verses="1,13,14" data-version="OCS">
 
 <!-- p23 -->
-> **<u>Warumi 8:1,13,14</u>** (NKJV)
+> **<u>rom 8:1,13,14</u>** (OCS)
 >
->**1** *Basi sasa hakuna hukumu kwa wale walio katika Kristo Yesu, wasiotembea kulingana na mwili, bali kulingana na Roho…*
->
->***13** Kwa maana mkiishi kulingana na mwili mtakufa; bali kama kwa Roho mkiyauwa matendo ya mwili, mtaishi.*
->
->***14** Kwa maana wote wanaoongozwa na Roho wa Mungu, hao ndio wana wa Mungu.*
+> Kwa hiyo, sasa hakuna hukumu ya adhabu kwa wale walio ndani ya Al-Masihi Isa.
+> kwa maana mkiishi kwa kuufuata mwili, mtakufa, lakini mkiyaua matendo ya mwili kwa Roho, mtaishi.
+> Kwa kuwa wote wanaoongozwa na Roho wa Mungu, hao ndio watoto wa Mungu.
+
 
 <!-- p24 -->
 </span>
-
 <!-- p25 -->
 Je, tunajifunza vipi kutembea katika Roho? Je, ni chaguo la makusudi tu? Tunajifunza kutembea katika Roho kama vile tunavyojifunza kutembea kiasili. Tunachochewa kusonga na kukua, hivyo tunapambana, tunahangaika, tunatambaa, tunayumba, hadi tuweze kusimama kwa miguu yetu wenyewe. Wazazi wetu wa kimwili hawawezi kutembea badala yetu, lakini wanaweza kutuunga mkono, kututia moyo, kutusaidia, na kutuwezesha katika mwendo wetu.
 
@@ -86,16 +90,19 @@ Je, tunajifunza vipi kutembea katika Roho? Je, ni chaguo la makusudi tu? Tunajif
 Vivyo hivyo, Mungu hawezi kuitekeleza imani yetu kwa ajili yetu. Atatufundisha, lakini ni lazima tuweke juhudi. Kama vile Paulo alivyoambia Wafilipi:
 
 <!-- p27 -->
-<span class="x-scripture" data-type="quote" data-book="Philippians" data-chapter="2" data-verses="12-13" data-lang="sw" data-version="OCS">
+<span class="x-scripture" data-book="PHP" data-chapter="2" data-lang="sw" data-type="quote" data-verses="12-13" data-version="OCS">
 
 <!-- p28 -->
-> **<u>Wafilipi 2:12-13</u>** (NKJV) **12** *Basi, wapenzi wangu, kama mlivyokuwa mkitii siku zote, si tu ninapokuwapo, bali sasa zaidi sana nisipokuwapo, fanyeni kazi kwa bidii wokovu wenu kwa hofu na kutetemeka; **13** kwa maana ndiye Mungu atendaye kazi ndani yenu kuwapa nia na kutenda kwa ajili ya mapenzi yake mema.*
+> **<u>Fil 2:12-13</u>** (OCS)
+>
+> Kwa hiyo, wapendwa wangu, kama vile mmekuwa mkitii siku zote, si tu wakati nikiwa pamoja nanyi, bali sasa zaidi sana nisipokuwepo, utimizeni wokovu wenu kwa kuogopa na kutetemeka,
+> kwa maana Mungu ndiye atendaye kazi ndani yenu, kutaka kwenu na kutenda kwenu kwa kulitimiza kusudi lake jema.
+
 
 <!-- p29 -->
 </span>
-
 <!-- p30 -->
-Lazima tufanye kazi ya wokovu wetu wenyewe. Hilo halimaanishi kwamba tunapanda juu ya msalaba wa mbao na kusulubiwa kimwili, bali tunapaswa kusulubisha asili yetu ya kimwili (<span class="x-scripture" data-type="ref" data-book="Galatians" data-chapter="5" data-verses="24" data-lang="sw" data-version="OCS">Wagalatia 5:24</span>). Mungu anaahidi kwamba Atafanya kazi ndani yetu na kutusaidia, lakini ni lazima tufanye uamuzi wa kuishi jambo hili, na lazima tulishikilie.
+Lazima tufanye kazi ya wokovu wetu wenyewe. Hilo halimaanishi kwamba tunapanda juu ya msalaba wa mbao na kusulubiwa kimwili, bali tunapaswa kusulubisha asili yetu ya kimwili (<span class="x-scripture" data-book="GAL" data-chapter="5" data-lang="sw" data-type="ref" data-verses="24" data-version="OCS">Wagalatia 5:24</span>). Mungu anaahidi kwamba Atafanya kazi ndani yetu na kutusaidia, lakini ni lazima tufanye uamuzi wa kuishi jambo hili, na lazima tulishikilie.
 
 <!-- p31 -->
 Ni kweli kusema kwamba ‘sisi’ tunashughulika na asili yetu ya kimwili, lakini pia ni kweli kusema kwamba ‘Mungu’ ndiye anayeshughulika nayo. Kazi ya msalaba (kuhesabiwa haki) ilikuwa ngumu kwa Yesu, ilimbidi atoe uhai wake kwa ajili ya wetu, lakini rahisi kwetu, ni zawadi ya bure. Kazi ya Roho (utakaso) ni rahisi kwa Mungu, Yeye hutembea katika kweli kamilifu na yuko radhi na anatamani kukaa nasi, lakini ni ngumu kwetu, kwa sababu lazima tusulubishe asili yetu ya kale, na asili yetu haina shauku sana ya kusulubishwa.
@@ -104,46 +111,46 @@ Ni kweli kusema kwamba ‘sisi’ tunashughulika na asili yetu ya kimwili, lakin
 Mchakato huu ni wa ushirikiano. Mungu husaidia, hutoa msaada, hutuongoza, hutuelekeza, na hutukosoa. Sisi husikiliza, hutii, hufuata, na kuitikia. Matokeo ni ukuaji na mabadiliko. Huu ndio upogaji ambao Yesu alisema Mungu angeufanya ndani yetu. Yesu ndiye mzabibu, Baba yake ndiye mtunza mizabibu, sisi ni matawi:
 
 <!-- p33 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="15" data-verses="1-4" data-lang="sw" data-version="OCS">
+<span class="x-scripture" data-book="JHN" data-chapter="15" data-lang="sw" data-type="quote" data-verses="1-4" data-version="OCS">
 
 <!-- p34 -->
-> **<u>Yohana 15:1-4</u>** (NKJV)
+> **<u>Yoh 15:1-4</u>** (OCS)
 >
->***1** "Mimi ndimi mzabibu wa kweli, na Baba yangu ndiye mtunza mizabibu."*
->
->***2** Kila tawi lililo ndani Yangu lisilozaa matunda Yeye huliondoa; na kila tawi lizaalo hulipogoa, ili lizaae matunda zaidi.*
->
->***3** Ninyi mmekwisha kuwa safi kwa sababu ya lile neno nililowaambia.*
->
->***4** Kaeni ndani Yangu, nami nikae ndani yenu. Kama vile tawi lisivyoweza kuzaa matunda lenyewe, lisipokaa katika mzabibu, kadhalika ninyi pia hamwezi, msipokaa ndani Yangu.*
+> “Mimi ndimi mzabibu wa kweli, na Baba yangu ndiye mkulima.
+> Kila tawi ndani yangu lisilozaa matunda, Baba yangu hulikata, nalo kila tawi linalozaa, hulisafisha ili lipate kuzaa matunda zaidi.
+> Ninyi mmekwisha kuwa safi kwa sababu ya lile neno nililonena nanyi.
+> Kaeni ndani yangu, nami nikae ndani yenu. Kama vile tawi lisivyoweza kuzaa matunda lisipokaa ndani ya mzabibu, vivyo hivyo ninyi msipokaa ndani yangu hamwezi kuzaa matunda.
+
 
 <!-- p35 -->
 </span>
-
 <!-- p36 -->
-Upogaji ni wenye afya sana kwa mmea. Tukikumbuka sura yetu kuhusu toba, tumaitwa kugeuka kutoka kwa matendo yaliyokufa (yale matendo yasiyozalisha matunda tena) na kumgeukia Mungu. Matokeo ya kugeuka huku kutoka katika maeneo yaliyokufa ya maisha yetu, na kuelekea kwa Mungu, humwezesha Mkulima Mkuu wa maisha yetu kupogoa matawi, kuboresha ukuaji, na kuzaa matunda mengi zaidi ya kiroho (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="15" data-verses="2" data-lang="sw" data-version="OCS">Yohana 15:2</span>).
+Upogaji ni wenye afya sana kwa mmea. Tukikumbuka sura yetu kuhusu toba, tumaitwa kugeuka kutoka kwa matendo yaliyokufa (yale matendo yasiyozalisha matunda tena) na kumgeukia Mungu. Matokeo ya kugeuka huku kutoka katika maeneo yaliyokufa ya maisha yetu, na kuelekea kwa Mungu, humwezesha Mkulima Mkuu wa maisha yetu kupogoa matawi, kuboresha ukuaji, na kuzaa matunda mengi zaidi ya kiroho (<span class="x-scripture" data-book="JHN" data-chapter="15" data-lang="sw" data-type="ref" data-verses="2" data-version="OCS">Yohana 15:2</span>).
 
 <!-- p37 -->
-Ingawa upogaji unaweza kuhisiwa kuwa wenye uchungu, unaakisi uangalizi wa upendo wa Mungu anapotufinyanga tuwe vyombo kwa kusudi Lake (<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="12" data-verses="11" data-lang="sw" data-version="OCS">Waebrania 12:11</span>). Wengine wanaweza kuhisi hali ya hasara, hata hofu, wanapopita katika mchakato wa upogaji. Hata hivyo, Mungu ni mpole, na hata mwanzi uliopondeka Hatalivunja (<span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="42" data-verses="3" data-lang="sw" data-version="OCS">Isaya 42:3</span>). Mizabibu hupogolewa katika msimu wao wa kupumzika ili kupunguza msongo kwa mmea. Mkulima anayesimamia ukuaji hukata mbali ukuaji wa zamani na mgumu ambao hauzalishi tena matunda kama zamani; hili humruhusu mzabibu kuelekeza nguvu katika matawi yenye uwezo mkubwa wa tunda jema.
+Ingawa upogaji unaweza kuhisiwa kuwa wenye uchungu, unaakisi uangalizi wa upendo wa Mungu anapotufinyanga tuwe vyombo kwa kusudi Lake (<span class="x-scripture" data-book="HEB" data-chapter="12" data-lang="sw" data-type="ref" data-verses="11" data-version="OCS">Waebrania 12:11</span>). Wengine wanaweza kuhisi hali ya hasara, hata hofu, wanapopita katika mchakato wa upogaji. Hata hivyo, Mungu ni mpole, na hata mwanzi uliopondeka Hatalivunja (<span class="x-scripture" data-book="ISA" data-chapter="42" data-lang="sw" data-type="ref" data-verses="3" data-version="OCS">Isaya 42:3</span>). Mizabibu hupogolewa katika msimu wao wa kupumzika ili kupunguza msongo kwa mmea. Mkulima anayesimamia ukuaji hukata mbali ukuaji wa zamani na mgumu ambao hauzalishi tena matunda kama zamani; hili humruhusu mzabibu kuelekeza nguvu katika matawi yenye uwezo mkubwa wa tunda jema.
 
 <!-- p38 -->
 Kama vile mtunza bustani anavyokata matawi ili kuelekeza ukuaji, Mungu anaweza kuruhusu majira ya maonyo na nidhamu ili kusafisha imani na tabia zetu, lakini kazi Yake ni ya uvumilivu na wema. Mungu hupogoa wale wakaao ndani Yake. Mkazo wetu uwe zaidi kwenye kukaa ndani ya Kristo, na kidogo kwenye kazi ya upogaji.
 
 <!-- p39 -->
-<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="12" data-verses="11" data-lang="sw" data-version="OCS">Waebrania 12:11</span> yatukumbusha kwamba upogaji “*huzaa tunda la haki lenye amani*” kwa wale wanaofundishwa kwalo.
+<span class="x-scripture" data-book="HEB" data-chapter="12" data-lang="sw" data-type="ref" data-verses="11" data-version="OCS">Waebrania 12:11</span> yatukumbusha kwamba upogaji “*huzaa tunda la haki lenye amani*” kwa wale wanaofundishwa kwalo.
 
 <!-- p40 -->
 Je, tunafundishwaje na haki? Kwa kubadilishwa kupitia kufanywa upya kwa nia zetu.
 
 <!-- p41 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="12" data-verses="1-2" data-lang="sw" data-version="OCS">
+<span class="x-scripture" data-book="ROM" data-chapter="12" data-lang="sw" data-type="quote" data-verses="1-2" data-version="OCS">
 
 <!-- p42 -->
-> **<u>Warumi 12:1-2</u>** (NKJV) ***1** Basi, nawasihi, ndugu zangu, kwa rehema za Mungu, mtoe miili yenu iwe dhabihu iliyo hai, takatifu, ya kumpendeza Mungu, ndiyo ibada yenu iliyo ya kufaa. **2** Wala msiifananishwe na dunia hii, bali <u>mgeuzwe</u> kwa <u>kufanywa upya</u> kwa nia zenu, mpate kuthibitisha ni yapi yale yaliyo mema, yanayokubalika, na yaliyo kamilifu, ya mapenzi ya Mungu.* (msisitizo umeongezwa)
+> **<u>rom 12:1-2</u>** (OCS)
+>
+> Kwa hiyo, ndugu zangu, nawasihi kwa rehema zake Mungu, itoeni miili yenu iwe dhabihu iliyo hai, takatifu na inayompendeza Mungu, hii ndiyo ibada yenu yenye maana.
+> Msifuatishe tena mfano wa ulimwengu huu, bali mgeuzwe kwa kufanywa upya nia zenu. Ndipo mtaweza kujaribu ili kuthibitisha mapenzi ya Mungu yaliyo mema, yanayopendeza na kamilifu machoni pake.
+
 
 <!-- p43 -->
 </span>
-
 <!-- p44 -->
 Paulo anaweka masharti mawili rahisi ya mabadiliko:
 
@@ -157,7 +164,7 @@ Paulo anaweka masharti mawili rahisi ya mabadiliko:
 Kufanywa upya huku kunaleta mabadiliko. Mabadiliko yanatokana na neno la Kigiriki: **Metamorphoō** (*met-am-or-fo'-o -* **G3339**) linalomaanisha kubadilika kuwa umbo jingine; kubadilishwa au kutukuzwa, likisisitiza mabadiliko kamili. Kutoka Metamorphoō ndipo tunapata neno la Kiingereza metamorphosis, ambao ni mchakato ambao funza hupitia ili kuwa vipepeo.
 
 <!-- p48 -->
-Mungu anataka kubadilisha kwa msingi nia zetu na mtindo wetu wa kufikiri. Tamaa yake ni tusifanane na njia ya ulimwengu, bali tujue ni yapi mapenzi ya Mungu yaliyo mema (yenye faida), yanayopendeza (yanayokubalika), na yaliyo kamilifu (kamili & yasiyokosa kitu).
+Mungu anataka kubadilisha kwa msingi nia zetu na mtindo wetu wa kufikiri. Tamaa yake ni tusifanane na njia ya ulimwengu, bali tujue ni yapi mapenzi ya Mungu yaliyo mema (yenye faida), yanayopendeza (yanayokubalika), na yaliyo kamilifu (kamili &amp; yasiyokosa kitu).
 
 <!-- p49 -->
 Masharti ya mabadiliko ni rahisi hivyo kweli, **ingawa yanahitaji nidhamu**!
@@ -166,33 +173,30 @@ Masharti ya mabadiliko ni rahisi hivyo kweli, **ingawa yanahitaji nidhamu**!
 Mapambano yetu dhidi ya mwili hayatashindwa kwa mwili wetu, bali kwa uwezeshaji wa Mungu kwa ajili ya vita vya nia. Maneno Yake (upanga wa kweli) yana nguvu kuu ya kusahihisha kila taswira ya mawazo, mawazo ya kiburi, na kuweka kifungoni (mateka) kila wazo linaloenda kinyume na kumtii Mungu.
 
 <!-- p51 -->
-<span class="x-scripture" data-type="quote" data-book="2 Corinthians" data-chapter="10" data-verses="3-6" data-lang="sw" data-version="OCS">
+<span class="x-scripture" data-book="2CO" data-chapter="10" data-lang="sw" data-type="quote" data-verses="3-6" data-version="OCS">
 
 <!-- p52 -->
-> **<u>2 Wakorintho 10:3-6</u>** (NKJV)
+> **<u>2Kor 10:3-6</u>** (OCS)
 >
-> ***3** Kwa maana ingawa tunenenda katika mwili, hatupigani vita kwa jinsi ya mwili.*
->
-> ***4** Maana silaha za vita vyetu si za mwili bali zina nguvu katika Mungu hata kubomoa ngome,*
->
-> ***5** tukiangusha hoja na kila kitu kilichoinuka kinyume cha maarifa ya Mungu, tukichukua fikira zote mateka ziitii Kristo,*
->
-> ***6** nasi tukiwa tayari kuadhibu kila kutotii, utii wenu utakapokamilika.*
+> Ingawa tunaishi duniani, hatupigani vita kama ulimwengu ufanyavyo.
+> Silaha za vita vyetu si za mwili, bali zina uwezo katika Mungu hata kuangusha ngome.
+> Tunaangusha mawazo na kila kitu kijiinuacho juu ya elimu ya Mungu, na kuteka nyara kila fikira ipate kumtii Al-Masihi.
+> Tena tunakuwa tayari kuadhibu kila tendo la kutotii, hapo kutii kwenu kutakapokamilika.
+
 
 <!-- p53 -->
 </span>
-
 <!-- p54 -->
 Wakati wenye mamlaka wanapomkamata mtu, humfungia kwa pingu na kumtia katika selo ya gereza. Mtu huyo akitoroka mikononi mwao, hawapuuzi; watatumia rasilimali kubwa na hawatapumzika hadi mtu huyo arejeshwe chini ya udhibiti. Nasi pia tunapaswa kutenda kwa bidii hiyo katika pambano kwa ajili ya nia zetu!
 
 <!-- p55 -->
-Tunafanywa upya kwa utiifu na uzoefu wa kweli. Yesu alisema kwamba tukikaa katika maneno Yake, tutakuwa wanafunzi Wake, tutaipitia (<u>kuijua</u>) kweli, na hiyo itatuweka huru (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="8" data-verses="31-32" data-lang="sw" data-version="OCS">Yohana 8:31-32</span>)!
+Tunafanywa upya kwa utiifu na uzoefu wa kweli. Yesu alisema kwamba tukikaa katika maneno Yake, tutakuwa wanafunzi Wake, tutaipitia (<u>kuijua</u>) kweli, na hiyo itatuweka huru (<span class="x-scripture" data-book="JHN" data-chapter="8" data-lang="sw" data-type="ref" data-verses="31-32" data-version="OCS">Yohana 8:31-32</span>)!
 
 <!-- p56 -->
 Uzoefu wa kweli ni tofauti na maarifa ya kweli. Uzoefu ni neno la Kigiriki **Ginōskō** (Ghin-oce'-ko **- G1097**) linamaanisha kujua kupitia uzoefu wa kibinafsi au ufahamu wa karibu; linaashiria kujifunza kwa hatua kwa hatua.
 
 <!-- p57 -->
-Si maarifa yetu ya kitaaluma ya kweli yanayotugeuza na kufanywa upya kwa nia zetu, bali ni uzoefu wetu binafsi wa kweli. Tunatakaswa kwa kweli Yake! (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="17" data-verses="17" data-lang="sw" data-version="OCS">Yohana 17:17</span>).
+Si maarifa yetu ya kitaaluma ya kweli yanayotugeuza na kufanywa upya kwa nia zetu, bali ni uzoefu wetu binafsi wa kweli. Tunatakaswa kwa kweli Yake! (<span class="x-scripture" data-book="JHN" data-chapter="17" data-lang="sw" data-type="ref" data-verses="17" data-version="OCS">Yohana 17:17</span>).
 
 <!-- p58 -->
 ## Jinsi ya Kufanya Upya Nia Yako
@@ -219,10 +223,10 @@ Katika sehemu inayofuata nitaelezea kila moja ya mifumo ya kumbukumbu, madhumuni
 **Jinsi ya Kuifanyia Upya:**
 
 <!-- p66 -->
-- **Soma Maandiko** ili kuunda mtazamo wetu wa dunia (<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="119" data-verses="105" data-lang="sw" data-version="OCS">Zaburi 119:105</span>).
+- **Soma Maandiko** ili kuunda mtazamo wetu wa dunia (<span class="x-scripture" data-book="Psalm" data-chapter="119" data-lang="sw" data-type="ref" data-verses="105" data-version="OCS">Zaburi 119:105</span>).
 
 <!-- p67 -->
-- **Hifadhi ukweli** na mafundisho kwa kumbukumbu ili kusimama imara katika imani (<span class="x-scripture" data-type="ref" data-book="Colossians" data-chapter="3" data-verses="16" data-lang="sw" data-version="OCS">Wakolosai 3:16</span>).
+- **Hifadhi ukweli** na mafundisho kwa kumbukumbu ili kusimama imara katika imani (<span class="x-scripture" data-book="COL" data-chapter="3" data-lang="sw" data-type="ref" data-verses="16" data-version="OCS">Wakolosai 3:16</span>).
 
 <!-- p68 -->
 - **Soma vitabu vya Kikristo** kama *"Kufanywa Upya kwa Akili" cha Casey Treat* au *"Uwanja wa Vita wa Akili" cha Joyce Meyer* ili kukuza mifumo ya kufikiri ya kimungu.
@@ -234,10 +238,10 @@ Katika sehemu inayofuata nitaelezea kila moja ya mifumo ya kumbukumbu, madhumuni
 **Jinsi ya Kuifanyia Upya:**
 
 <!-- p71 -->
-- **Tafakari na ungama** ili kuleta maumivu yaliyofichika katika nuru ya Mungu (<span class="x-scripture" data-type="ref" data-book="1 John" data-chapter="1" data-verses="9" data-lang="sw" data-version="OCS">1 Yohana 1:9</span>).
+- **Tafakari na ungama** ili kuleta maumivu yaliyofichika katika nuru ya Mungu (<span class="x-scripture" data-book="1JN" data-chapter="1" data-lang="sw" data-type="ref" data-verses="9" data-version="OCS">1 Yohana 1:9</span>).
 
 <!-- p72 -->
-- **Tafsiri upya uzoefu wa zamani** kupitia mtazamo wa neema ya Mungu (<span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="8" data-verses="28" data-lang="sw" data-version="OCS">Warumi 8:28</span>).
+- **Tafsiri upya uzoefu wa zamani** kupitia mtazamo wa neema ya Mungu (<span class="x-scripture" data-book="ROM" data-chapter="8" data-lang="sw" data-type="ref" data-verses="28" data-version="OCS">Warumi 8:28</span>).
 
 <!-- p73 -->
 - **Tafuta uponyaji wa ndani** kupitia maombi na ushauri (*“Maumivu Yako Yanaonekana” cha Larry F. Low, "Mvunja Minyororo" cha Neil T. Anderson*, *"Kiroho Chenye Afya Kihisia" cha Peter Scazzero*).
@@ -255,10 +259,10 @@ Katika sehemu inayofuata nitaelezea kila moja ya mifumo ya kumbukumbu, madhumuni
 **Jinsi ya Kuifanyia Upya:**
 
 <!-- p78 -->
-- **Fanya mazoezi ya nidhamu za kiroho** kama maombi na kufunga ili kujenga tabia za kimungu (<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="5" data-verses="14" data-lang="sw" data-version="OCS">Waebrania 5:14</span>).
+- **Fanya mazoezi ya nidhamu za kiroho** kama maombi na kufunga ili kujenga tabia za kimungu (<span class="x-scripture" data-book="HEB" data-chapter="5" data-lang="sw" data-type="ref" data-verses="14" data-version="OCS">Waebrania 5:14</span>).
 
 <!-- p79 -->
-- **Jizoeze katika uchaji wa Mungu** kupitia kurudia-rudia na utiifu (<span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="4" data-verses="7" data-lang="sw" data-version="OCS">1 Timotheo 4:7</span>).
+- **Jizoeze katika uchaji wa Mungu** kupitia kurudia-rudia na utiifu (<span class="x-scripture" data-book="1TI" data-chapter="4" data-lang="sw" data-type="ref" data-verses="7" data-version="OCS">1 Timotheo 4:7</span>).
 
 <!-- p80 -->
 - **Soma vitabu kama** *"Atomic Habits" cha James Clear* (kiutendaji) na *"Spiritual Disciplines for the Christian Life" cha Donald Whitney* (kibiblia) ili kuanzisha tabia zinazomheshimu Mungu.
@@ -270,13 +274,13 @@ Katika sehemu inayofuata nitaelezea kila moja ya mifumo ya kumbukumbu, madhumuni
 **Jinsi ya Kuihuisha:**
 
 <!-- p83 -->
-- **Omba kwa ajili ya uponyaji** kutokana na majeraha ya zamani (<span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="41" data-verses="10" data-lang="sw" data-version="OCS">Isaya 41:10</span>).
+- **Omba kwa ajili ya uponyaji** kutokana na majeraha ya zamani (<span class="x-scripture" data-book="ISA" data-chapter="41" data-lang="sw" data-type="ref" data-verses="10" data-version="OCS">Isaya 41:10</span>).
 
 <!-- p84 -->
-- **Fanya mazoezi ya msamaha** na uachilie uchungu (<span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="4" data-verses="31-32" data-lang="sw" data-version="OCS">Waefeso 4:31-32</span>).
+- **Fanya mazoezi ya msamaha** na uachilie uchungu (<span class="x-scripture" data-book="EPH" data-chapter="4" data-lang="sw" data-type="ref" data-verses="31-32" data-version="OCS">Waefeso 4:31-32</span>).
 
 <!-- p85 -->
-- **Badilisha hofu kwa ahadi za Mungu** (<span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="1" data-verses="7" data-lang="sw" data-version="OCS">2 Timotheo 1:7</span>).
+- **Badilisha hofu kwa ahadi za Mungu** (<span class="x-scripture" data-book="2TI" data-chapter="1" data-lang="sw" data-type="ref" data-verses="7" data-version="OCS">2 Timotheo 1:7</span>).
 
 <!-- p86 -->
 - **Tafuta mwongozo kutoka kwa vitabu kama** “Your Pain is Showing” cha Larry F. Low, "The Bondage Breaker" cha Neil T. Anderson, “Soul Care" cha Rob Reimer kwa kushinda vichocheo vya kihisia.
@@ -291,10 +295,10 @@ Katika sehemu inayofuata nitaelezea kila moja ya mifumo ya kumbukumbu, madhumuni
 **Jinsi ya Kuihuisha:**
 
 <!-- p90 -->
-- **Zingatia na kutafakari** Neno la Mungu kila siku (<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="1" data-verses="2" data-lang="sw" data-version="OCS">Zaburi 1:2</span>).
+- **Zingatia na kutafakari** Neno la Mungu kila siku (<span class="x-scripture" data-book="Psalm" data-chapter="1" data-lang="sw" data-type="ref" data-verses="2" data-version="OCS">Zaburi 1:2</span>).
 
 <!-- p91 -->
-- **Fanya upya mawazo yako** kupitia kufikiri kwa makusudi (<span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="12" data-verses="2" data-lang="sw" data-version="OCS">Warumi 12:2</span>).
+- **Fanya upya mawazo yako** kupitia kufikiri kwa makusudi (<span class="x-scripture" data-book="ROM" data-chapter="12" data-lang="sw" data-type="ref" data-verses="2" data-version="OCS">Warumi 12:2</span>).
 
 <!-- p92 -->
 - **Fanya mazoezi ya umakinifu** na rahisisha msongamano wa mawazo (*"Habits of Grace" cha David Mathis*).
@@ -306,10 +310,10 @@ Katika sehemu inayofuata nitaelezea kila moja ya mifumo ya kumbukumbu, madhumuni
 ## Hitimisho
 
 <!-- p95 -->
-Kufanya upya akili si suluhisho la haraka—ni mchakato wa mabadiliko ya taratibu unaodumu maishani kote. Kila mfumo wa kumbukumbu una jukumu katika kuunda jinsi tunavyofikiri, tunavyohisi, na kutenda. Kwa kufanya kazi kwa makusudi na Roho Mtakatifu, kutekeleza Maandiko, na kukuza tabia za kimungu, tunaweza kufundisha akili zetu ziambatane na kweli ya Mungu. Iwe ni kushughulikia majeraha ya zamani, kujifunza tabia mpya, au kubaki makini katika wakati uliopo, Mungu ameweka tayari zote **vifaa vya kiroho** na **hekima ya vitendo** ili kutusaidia kutembea katika upya na uhuru (<span class="x-scripture" data-type="ref" data-book="2 Corinthians" data-chapter="10" data-verses="5" data-lang="sw" data-version="OCS">2 Wakorintho 10:5</span>).
+Kufanya upya akili si suluhisho la haraka—ni mchakato wa mabadiliko ya taratibu unaodumu maishani kote. Kila mfumo wa kumbukumbu una jukumu katika kuunda jinsi tunavyofikiri, tunavyohisi, na kutenda. Kwa kufanya kazi kwa makusudi na Roho Mtakatifu, kutekeleza Maandiko, na kukuza tabia za kimungu, tunaweza kufundisha akili zetu ziambatane na kweli ya Mungu. Iwe ni kushughulikia majeraha ya zamani, kujifunza tabia mpya, au kubaki makini katika wakati uliopo, Mungu ameweka tayari zote **vifaa vya kiroho** na **hekima ya vitendo** ili kutusaidia kutembea katika upya na uhuru (<span class="x-scripture" data-book="2CO" data-chapter="10" data-lang="sw" data-type="ref" data-verses="5" data-version="OCS">2 Wakorintho 10:5</span>).
 
 <!-- p96 -->
-Dunia yetu imejaa taabu, mateso, na majaribu. Kupitia kufanya upya akili kwa nidhamu, nafsi zetu hubadilishwa, na tunaweza kuishi maisha ya uhuru kwa Mungu yaliyojaa tunda la Roho Wake (<span class="x-scripture" data-type="ref" data-book="Galatians" data-chapter="5" data-verses="22-25" data-lang="sw" data-version="OCS">Wagalatia 5:22-25</span>).
+Dunia yetu imejaa taabu, mateso, na majaribu. Kupitia kufanya upya akili kwa nidhamu, nafsi zetu hubadilishwa, na tunaweza kuishi maisha ya uhuru kwa Mungu yaliyojaa tunda la Roho Wake (<span class="x-scripture" data-book="GAL" data-chapter="5" data-lang="sw" data-type="ref" data-verses="22-25" data-version="OCS">Wagalatia 5:22-25</span>).
 
 <!-- p97 -->
 ### Shukrani
@@ -336,7 +340,7 @@ Maelezo ya mifumo ya kumbukumbu yaliyomo katika sura hii yamenukuliwa kutoka kwe
 5.  Unawezaje kwa makusudi kutengeneza nafasi kwa ajili ya Roho Mtakatifu kufanya kazi katika maisha yako ya kila siku? Ni nini huenda ukahitaji kuachilia ili kufanya hili?
 
 <!-- p105 -->
-6.  Unahitaji kufanywa upya wapi leo? Anza kwa kutambua maeneo ambapo nia yako inahisi kukwama na uamini kwamba Mungu atakamilisha kazi njema Aliyoianza ndani yako (<span class="x-scripture" data-type="ref" data-book="Philippians" data-chapter="1" data-verses="6" data-lang="sw" data-version="OCS">Wafilipi 1:6</span>).
+6.  Unahitaji kufanywa upya wapi leo? Anza kwa kutambua maeneo ambapo nia yako inahisi kukwama na uamini kwamba Mungu atakamilisha kazi njema Aliyoianza ndani yako (<span class="x-scripture" data-book="PHP" data-chapter="1" data-lang="sw" data-type="ref" data-verses="6" data-version="OCS">Wafilipi 1:6</span>).
 
 <!-- p106 -->
 ## Maswali ya Majadiliano ya Kundi (Dakika 20-30)
@@ -345,10 +349,10 @@ Maelezo ya mifumo ya kumbukumbu yaliyomo katika sura hii yamenukuliwa kutoka kwe
 1.  **Swali la Kuvunja Barafu:** “Ni eneo gani moja la maisha yako ambapo umeona ukuaji unaoonekana tangu ulipomwamini Kristo?”
 
 <!-- p108 -->
-2.  **Kuchunguza Maandiko:** Soma <span class="x-scripture" data-type="ref" data-book="John" data-chapter="15" data-verses="1-5" data-lang="sw" data-version="OCS">Yohana 15:1-5</span>. Picha ya kupogoa na kuzaa matunda hutusaidiaje kuelewa utakaso?
+2.  **Kuchunguza Maandiko:** Soma <span class="x-scripture" data-book="JHN" data-chapter="15" data-lang="sw" data-type="ref" data-verses="1-5" data-version="OCS">Yohana 15:1-5</span>. Picha ya kupogoa na kuzaa matunda hutusaidiaje kuelewa utakaso?
 
 <!-- p109 -->
-3.  **Kufanywa Upya kwa Nia:** Jadili <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="12" data-verses="2" data-lang="sw" data-version="OCS">Warumi 12:2</span>. Inamaanisha nini “kuifanya upya nia yako,” na hili linahusianaje na utakaso?
+3.  **Kufanywa Upya kwa Nia:** Jadili <span class="x-scripture" data-book="ROM" data-chapter="12" data-lang="sw" data-type="ref" data-verses="2" data-version="OCS">Warumi 12:2</span>. Inamaanisha nini “kuifanya upya nia yako,” na hili linahusianaje na utakaso?
 
 <!-- p110 -->
 4.  **Jukumu la Roho Mtakatifu:** Roho Mtakatifu hututiaje nguvu na kutuongoza katika mchakato wa utakaso? Tunawezaje kuwa makini zaidi na uongozi Wake?

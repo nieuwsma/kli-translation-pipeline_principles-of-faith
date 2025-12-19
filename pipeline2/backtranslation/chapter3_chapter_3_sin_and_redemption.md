@@ -23,7 +23,7 @@ The Old Testament and the New Testament use various words for sin, each highligh
 In our modern criminal justice systems, we have similar distinctions: degrees of crime, premeditated or crimes of passion, crimes that require financial restitution, or imprisonment, or even capital punishment. An act can be a crime and also a sin, but crime is a human classification, whereas sin is God’s classification.
 
 <!-- p8 -->
-The various Greek and Hebrew words for sin show a high degree of correspondence. All sin broadly falls under the umbrella of the word 'missing the mark', ***Hamartia*** in Greek, and ***Chata'*** in Hebrew. This umbrella term is used for very grave sins—adultery, murder—but also lighter sins, such as showing favoritism to the rich in our church gatherings (<span class="x-scripture" data-type="ref" data-book="James" data-chapter="2" data-verses="9" data-lang="en" data-version="NKJV">James 2:9</span>).
+The various Greek and Hebrew words for sin show a high degree of correspondence. All sin broadly falls under the umbrella of the word 'missing the mark', ***Hamartia*** in Greek, and ***Chata'*** in Hebrew. This umbrella term is used for very grave sins—adultery, murder—but also lighter sins, such as showing favoritism to the rich in our church gatherings (<span class="x-scripture" data-book="JAS" data-chapter="2" data-lang="en" data-type="ref" data-verses="9" data-version="NKJV">James 2:9</span>).
 
 <!-- p9 -->
 These are some of the words that Scripture uses for sin. They help us understand how weighty-and how deeply we need the grace of God.
@@ -41,46 +41,44 @@ Every sin brings consequences-sometimes immediate, sometimes delayed, but always
 Consider Cain’s murder of his brother Abel in Genesis 4.
 
 <!-- p14 -->
-<span class="x-scripture" data-type="quote" data-book="Genesis" data-chapter="4" data-verses="1-16" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="GEN" data-chapter="4" data-lang="en" data-type="quote" data-verses="1-16" data-version="NKJV">
 <!-- p15 -->
-> **<u>Genesis 4:1-16</u>** (NKJV)
->
->***1** Now Adam knew Eve his wife, and she conceived and bore Cain, and said, "I have acquired a man from the LORD."*
->
->***2** Then she bore again, this time his brother Abel. Now Abel was a keeper of sheep, but Cain was a tiller of the ground.*
->
->***3** And in the process of time it came to pass that Cain brought an offering of the fruit of the ground to the LORD.*
->
->***4** Abel also brought of the firstborn of his flock and of their fat. And the LORD respected Abel and his offering,*
->
->***5** but He did not respect Cain and his offering. And Cain was very angry, and his countenance fell.*
->
->***6** So the LORD said to Cain, "Why are you angry? And why has your countenance fallen?"*
->
->***7** If you do well, will you not be accepted? And if you do not do well, sin lies at the door. Its desire is for you, but you should rule over it."*
->
->***8** Now Cain talked with Abel his brother; and it came to pass, when they were in the field, that Cain rose up against Abel his brother and killed him.*
->
->***9** Then the LORD said to Cain, "Where is Abel your brother?" He said, "I do not know. Am I my brother's keeper?"*
->
->***10** And He said, "What have you done? The voice of your brother's blood cries out to Me from the ground."*
->
->***11** So now you are cursed from the earth, which has opened its mouth to receive your brother's blood from your hand.*
->
->***12** When you till the ground, it shall no longer yield its strength to you. A fugitive and a vagabond you shall be on the earth."*
->
->***13** And Cain said to the LORD, "My punishment is greater than I can bear!"*
->
->***14** Surely You have driven me out this day from the face of the ground; I shall be hidden from Your face; I shall be a fugitive and a vagabond on the earth, and it will happen that anyone who finds me will kill me."*
->
->***15** And the LORD said to him, "Therefore, whoever kills Cain, vengeance shall be taken on him sevenfold." And the LORD set a mark on Cain, lest anyone finding him should kill him.*
->
->***16** Then Cain went out from the presence of the LORD and dwelt in the land of Nod on the east of Eden."*
+&gt; **<u>Genesis 4:1-16</u>** (NKJV)
+&gt;
+&gt;***1** Now Adam knew Eve his wife, and she conceived and bore Cain, and said, "I have acquired a man from the LORD."*
+&gt;
+&gt;***2** Then she bore again, this time his brother Abel. Now Abel was a keeper of sheep, but Cain was a tiller of the ground.*
+&gt;
+&gt;***3** And in the process of time it came to pass that Cain brought an offering of the fruit of the ground to the LORD.*
+&gt;
+&gt;***4** Abel also brought of the firstborn of his flock and of their fat. And the LORD respected Abel and his offering,*
+&gt;
+&gt;***5** but He did not respect Cain and his offering. And Cain was very angry, and his countenance fell.*
+&gt;
+&gt;***6** So the LORD said to Cain, "Why are you angry? And why has your countenance fallen?"*
+&gt;
+&gt;***7** If you do well, will you not be accepted? And if you do not do well, sin lies at the door. Its desire is for you, but you should rule over it."*
+&gt;
+&gt;***8** Now Cain talked with Abel his brother; and it came to pass, when they were in the field, that Cain rose up against Abel his brother and killed him.*
+&gt;
+&gt;***9** Then the LORD said to Cain, "Where is Abel your brother?" He said, "I do not know. Am I my brother's keeper?"*
+&gt;
+&gt;***10** And He said, "What have you done? The voice of your brother's blood cries out to Me from the ground."*
+&gt;
+&gt;***11** So now you are cursed from the earth, which has opened its mouth to receive your brother's blood from your hand.*
+&gt;
+&gt;***12** When you till the ground, it shall no longer yield its strength to you. A fugitive and a vagabond you shall be on the earth."*
+&gt;
+&gt;***13** And Cain said to the LORD, "My punishment is greater than I can bear!"*
+&gt;
+&gt;***14** Surely You have driven me out this day from the face of the ground; I shall be hidden from Your face; I shall be a fugitive and a vagabond on the earth, and it will happen that anyone who finds me will kill me."*
+&gt;
+&gt;***15** And the LORD said to him, "Therefore, whoever kills Cain, vengeance shall be taken on him sevenfold." And the LORD set a mark on Cain, lest anyone finding him should kill him.*
+&gt;
+&gt;***16** Then Cain went out from the presence of the LORD and dwelt in the land of Nod on the east of Eden."*
 
 <!-- p16 -->
 </span>
-
 <!-- p17 -->
 Where did Cain miss the mark? (in chronological order)
 
@@ -130,32 +128,26 @@ Very severe! Cain's sin had a great cost to himself, to Able, to his parents, an
 God is a holy God (pure, innocent, blameless). When a human being sins, the person separates themselves from God, and the consequence of our sin is spiritual death, and possibly also physical death.
 
 <!-- p33 -->
-<span class="x-scripture" data-type="quote" data-book="Isaiah" data-chapter="59" data-verses="2" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="ISA" data-chapter="59" data-lang="en" data-type="quote" data-verses="2" data-version="NKJV">
 <!-- p34 -->
-> **<u>Isaiah 59:2</u>** (NKJV) *But your iniquities have separated you from your God; and your sins have hidden His face from you, so that He will not hear.*
+&gt; **<u>Isaiah 59:2</u>** (NKJV) *But your iniquities have separated you from your God; and your sins have hidden His face from you, so that He will not hear.*
 
 <!-- p35 -->
 </span>
-
 <!-- p36 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="6" data-verses="23" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="ROM" data-chapter="6" data-lang="en" data-type="quote" data-verses="23" data-version="NKJV">
 <!-- p37 -->
-> **<u>Romans 6:23</u>** (NKJV) *For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.*
+&gt; **<u>Romans 6:23</u>** (NKJV) *For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.*
 
 <!-- p38 -->
 </span>
-
 <!-- p39 -->
-<span class="x-scripture" data-type="quote" data-book="Galatians" data-chapter="6" data-verses="7-8" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="GAL" data-chapter="6" data-lang="en" data-type="quote" data-verses="7-8" data-version="NKJV">
 <!-- p40 -->
-> **<u>Galatians 6:7-8</u>** (NKJV) **7** *Do not be deceived, God is not mocked; for whatever a man sows, that he will also reap. **8** For he who sows to his flesh will of the flesh reap corruption, but he who sows to the Spirit will of the Spirit reap everlasting life.*
+&gt; **<u>Galatians 6:7-8</u>** (NKJV) **7** *Do not be deceived, God is not mocked; for whatever a man sows, that he will also reap. **8** For he who sows to his flesh will of the flesh reap corruption, but he who sows to the Spirit will of the Spirit reap everlasting life.*
 
 <!-- p41 -->
 </span>
-
 <!-- p42 -->
 God cannot have fellowship with unrighteousness. The sting and effect of sin is that it by nature separates us from our relationship with God.
 
@@ -163,56 +155,46 @@ God cannot have fellowship with unrighteousness. The sting and effect of sin is 
 ### Judgment - Now and Eternal
 
 <!-- p44 -->
-Scripture declares that there will be a final judgment for everyone according to his deeds. This judgment, called the ***Great White Throne Judgment,** occurs* after the **the resurrection of the dead for judgment** (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="5" data-verses="28-29" data-lang="en" data-version="NKJV">John 5:28-29</span>), and is for everyone whose name is not found in the ***Lamb's Book of Life**.* <u>This judgment is not for the believer, but for the unbeliever</u>, believers face the ***Judgment Seat of Christ*** (read the final chapter for more details). Scripture says God will pour out His wrath upon those who have broken His laws; His judgment will be eternal separation and torment. Jesus says in <span class="x-scripture" data-type="ref" data-book="John" data-chapter="5" data-verses="26-27" data-lang="en" data-version="NKJV">John 5:26-27</span> that the Father has given Him authority to execute this judgment.
+Scripture declares that there will be a final judgment for everyone according to his deeds. This judgment, called the ***Great White Throne Judgment,** occurs* after the **the resurrection of the dead for judgment** (<span class="x-scripture" data-book="JHN" data-chapter="5" data-lang="en" data-type="ref" data-verses="28-29" data-version="NKJV">John 5:28-29</span>), and is for everyone whose name is not found in the ***Lamb's Book of Life**.* <u>This judgment is not for the believer, but for the unbeliever</u>, believers face the ***Judgment Seat of Christ*** (read the final chapter for more details). Scripture says God will pour out His wrath upon those who have broken His laws; His judgment will be eternal separation and torment. Jesus says in <span class="x-scripture" data-book="JHN" data-chapter="5" data-lang="en" data-type="ref" data-verses="26-27" data-version="NKJV">John 5:26-27</span> that the Father has given Him authority to execute this judgment.
 
 <!-- p45 -->
-<span class="x-scripture" data-type="fragment" data-book="Revelation" data-chapter="20" data-verses="12-13" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="REV" data-chapter="20" data-lang="en" data-type="fragment" data-verses="12-13" data-version="NKJV">
 <!-- p46 -->
-> **<u>Revelation 20:12-13</u>** (NKJV) ***12** And I saw the dead, small and great, standing before God, and books were opened… **13** … And they were judged, each one according to his works.*
+&gt; **<u>Revelation 20:12-13</u>** (NKJV) ***12** And I saw the dead, small and great, standing before God, and books were opened… **13** … And they were judged, each one according to his works.*
 
 <!-- p47 -->
 </span>
-
 <!-- p48 -->
-<span class="x-scripture" data-type="quote" data-book="Matthew" data-chapter="12" data-verses="36-37" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="MAT" data-chapter="12" data-lang="en" data-type="quote" data-verses="36-37" data-version="NKJV">
 <!-- p49 -->
-> **<u>Matthew 12:36-37</u>** (NKJV) ***36** But I say to you that for every idle word men may speak, they will give account of it in the day of judgment.* ***37** For by your words you will be justified, and by your words you will be condemned."*
+&gt; **<u>Matthew 12:36-37</u>** (NKJV) ***36** But I say to you that for every idle word men may speak, they will give account of it in the day of judgment.* ***37** For by your words you will be justified, and by your words you will be condemned."*
 
 <!-- p50 -->
 </span>
-
 <!-- p51 -->
 We may face the consequences of sin in our earthly lives. We may feel that in some way we have escaped part of the punishment, but there will be no way of escape that man can make for himself against the judgment of God after our physical death.
 
 <!-- p52 -->
-<span class="x-scripture" data-type="quote" data-book="Hebrews" data-chapter="9" data-verses="27" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="HEB" data-chapter="9" data-lang="en" data-type="quote" data-verses="27" data-version="NKJV">
 <!-- p53 -->
-> **<u>Hebrews 9:27</u>** (NKJV) * And as it is appointed for men to die once, but after this the judgment,*
+&gt; **<u>Hebrews 9:27</u>** (NKJV) * And as it is appointed for men to die once, but after this the judgment,*
 
 <!-- p54 -->
 </span>
-
 <!-- p55 -->
-<span class="x-scripture" data-type="quote" data-book="Ecclesiastes" data-chapter="12" data-verses="14" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="ECC" data-chapter="12" data-lang="en" data-type="quote" data-verses="14" data-version="NKJV">
 <!-- p56 -->
-> **<u>Ecclesiastes 12:14</u>** (NKJV) *For God will bring every work into judgment, Including every secret thing, Whether good or evil.*
+&gt; **<u>Ecclesiastes 12:14</u>** (NKJV) *For God will bring every work into judgment, Including every secret thing, Whether good or evil.*
 
 <!-- p57 -->
 </span>
-
 <!-- p58 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="2" data-verses="5-6" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="ROM" data-chapter="2" data-lang="en" data-type="quote" data-verses="5-6" data-version="NKJV">
 <!-- p59 -->
-> **<u>Romans 2:5-6</u>** (NKJV) ***5** But in accordance with your hardness and your impenitent heart you are treasuring up for yourself wrath in the day of wrath and revelation of the righteous judgment of God, **6** who "WILL RENDER TO EACH ONE ACCORDING TO HIS DEEDS":*
+&gt; **<u>Romans 2:5-6</u>** (NKJV) ***5** But in accordance with your hardness and your impenitent heart you are treasuring up for yourself wrath in the day of wrath and revelation of the righteous judgment of God, **6** who "WILL RENDER TO EACH ONE ACCORDING TO HIS DEEDS":*
 
 <!-- p60 -->
 </span>
-
 <!-- p61 -->
 The insights of judgment were not meant to leave us in fear but to awaken us to the gravity of sin and the depth of God's mercy. It is God's loving call to repentance—a call to turn from sin and receive the forgiveness and restoration He freely offers through Christ.
 
@@ -223,7 +205,7 @@ Even in the midst of judgment, God's redemptive heart shines. From the first sac
 ## Sin Requires Sacrifice
 
 <!-- p64 -->
-In the account of Adam and Eve, God killed animals and made garments from their skins (<span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="3" data-verses="20" data-lang="en" data-version="NKJV">Genesis 3:20</span>). This was the first shedding of blood to cover the consequences of sin. There are a few other similar accounts in the book of Genesis, but God formally established the way of sacrifice for sin in the book of Leviticus.
+In the account of Adam and Eve, God killed animals and made garments from their skins (<span class="x-scripture" data-book="GEN" data-chapter="3" data-lang="en" data-type="ref" data-verses="20" data-version="NKJV">Genesis 3:20</span>). This was the first shedding of blood to cover the consequences of sin. There are a few other similar accounts in the book of Genesis, but God formally established the way of sacrifice for sin in the book of Leviticus.
 
 <!-- p65 -->
 [See Table 3](../tables/table3.md)
@@ -277,7 +259,7 @@ The second goat, known as the scapegoat (Azazel), symbolically bore the sins of 
 The Day of Atonement was a profound manifestation of God’s forgiveness and cleansing, which allowed the nation to delay the consequences of sin, and to postpone judgment each year. This atonement did not permanently forgive the nation’s sins, but rather delayed God’s judgment.
 
 <!-- p82 -->
-<u>**<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="10" data-verses="1-4" data-lang="en" data-version="NKJV">Hebrews 10:1-4</span>**</u> (NKJV)
+<u>**<span class="x-scripture" data-book="HEB" data-chapter="10" data-lang="en" data-type="ref" data-verses="1-4" data-version="NKJV">Hebrews 10:1-4</span>**</u> (NKJV)
 
 <!-- p83 -->
 ***1** For the law, having a shadow of the good things to come, and not the very image of the things, can never by those same sacrifices, which they offer continually year by year, make perfect those who draw near.*
@@ -310,31 +292,27 @@ In the Gospels, Jesus warns about sin, calls people to repent personally, and of
 The truth is that we are all guilty of sin, and we all must pay the cost for our breaking of the law.
 
 <!-- p93 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="3" data-verses="23" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="ROM" data-chapter="3" data-lang="en" data-type="quote" data-verses="23" data-version="NKJV">
 <!-- p94 -->
-> **<u>Romans 3:23</u>** (NKJV) *for all have sinned and fall short of the glory of God,*
+&gt; **<u>Romans 3:23</u>** (NKJV) *for all have sinned and fall short of the glory of God,*
 
 <!-- p95 -->
 </span>
-
 <!-- p96 -->
 Each of us has sinned, separated ourselves from God, and will stand before the final judgment and its consequences. It may be easy for us to try to justify our actions and say that we have not committed grave sins like murder or adultery and that we are largely moral and good people. This false attempt at self-justification ignores the consequences of our actions, the people we have hurt and sinned against, and it ignores the reality of a holy and perfect God. Scripture says that if we deny that we sin we are liars, and the truth is not in us!
 
 <!-- p97 -->
-<span class="x-scripture" data-type="quote" data-book="1 John" data-chapter="1" data-verses="8-10" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="1JN" data-chapter="1" data-lang="en" data-type="quote" data-verses="8-10" data-version="NKJV">
 <!-- p98 -->
-> **<u>1 John 1:8-10</u>** (NKJV) **8** *If we say that we have no sin, we deceive ourselves, and the truth is not in us.* ***9** If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.* ***10** If we say that we have not sinned, we make Him a liar, and His word is not in us.*
+&gt; **<u>1 John 1:8-10</u>** (NKJV) **8** *If we say that we have no sin, we deceive ourselves, and the truth is not in us.* ***9** If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.* ***10** If we say that we have not sinned, we make Him a liar, and His word is not in us.*
 
 <!-- p99 -->
 </span>
-
 <!-- p100 -->
 Since we have all sinned, we all need redemption; otherwise we will face judgment and eternal separation from God. But the story doesn’t end there. Thanks be to God—He made a way for us to be saved, healed, and restored to Him!
 
 <!-- p101 -->
-> <u>**John 3:16**</u> (NKJV) For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.*
+&gt; <u>**John 3:16**</u> (NKJV) For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.*
 
 <!-- p102 -->
 From the first sacrifice in Genesis to the cross of Christ, God’s plan has always been to redeem us and restore our relationship with Him. No sin is too great, and no distance too far, for the grace of God to reach us.
@@ -352,7 +330,7 @@ From the first sacrifice in Genesis to the cross of Christ, God’s plan has alw
 3.  What emotions arise as you contemplate God’s judgment? Does it lead you toward fear, hope, or repentance? Why?
 
 <!-- p107 -->
-4.  How do the Old Testament sacrifices foreshadow the work of Christ on the cross? (<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="9" data-verses="13-10" data-lang="en" data-version="NKJV">Hebrews 9:13-10</span>:18)
+4.  How do the Old Testament sacrifices foreshadow the work of Christ on the cross? (<span class="x-scripture" data-book="HEB" data-chapter="9" data-lang="en" data-type="ref" data-verses="13-10" data-version="NKJV">Hebrews 9:13-10</span>:18)
 
 <!-- p108 -->
 5.  In which specific areas of your life do you need to taste God’s mercy and restoration? How can you respond to His call to repentance and renewal?
@@ -364,7 +342,7 @@ From the first sacrifice in Genesis to the cross of Christ, God’s plan has alw
 1.  **Icebreaker Question:** *“What is one example of a time you ‘missed the mark’—whether in faith, relationships, or work—and what did you learn from it?”*
 
 <!-- p111 -->
-2.  **Scripture Discussion:** *Read <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="6" data-verses="23" data-lang="en" data-version="NKJV">Romans 6:23</span>. Why does sin carry such weighty consequences, and how does Christ’s gift of eternal life resolve this tension?*
+2.  **Scripture Discussion:** *Read <span class="x-scripture" data-book="ROM" data-chapter="6" data-lang="en" data-type="ref" data-verses="23" data-version="NKJV">Romans 6:23</span>. Why does sin carry such weighty consequences, and how does Christ’s gift of eternal life resolve this tension?*
 
 <!-- p112 -->
 3.  **Deep Dive:** *Looking at the narrative of Cain and Abel (Genesis 4), what warning signs did God give Cain, and how do those warnings apply to us today?*

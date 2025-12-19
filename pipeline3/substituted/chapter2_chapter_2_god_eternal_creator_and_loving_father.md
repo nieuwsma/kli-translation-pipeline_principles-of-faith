@@ -65,26 +65,28 @@ Katika Mwanzo, Mungu anaanzisha uhusiano na baadhi ya watu maalum.
 9.  **Yusufu** - Ingawa uhusiano wa Yusufu na Mungu haujatokana na maonyesho ya moja kwa moja au maagano kama ya Ibrahimu au Yakobo, Mungu anahusika kwa kina katika maisha yake. Kupitia ndoto, kibali cha Kimungu, na uongozi wa Mungu, Mungu anaongoza safari ya Yusufu kutoka kuuzwa utumwani hadi kuwa kiongozi mwenye nguvu huko Misri. Imani ya Yusufu katika ukuu wa Mungu humwezesha kuwasamehe ndugu zake, akitambua kwamba Mungu alitumia mateso yake kwa mema (Mwanzo 37, 39-50).
 
 <!-- p22 -->
-Katika simulizi hili zima Mungu, anayetaka kukaa na uumbaji Wake, analazimika kuridhika na kukaa na watu wachache walioteuliwa, na hatimaye kupitia agano na Ibrahimu anaanzisha taifa (<span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="17" data-verses="7" data-lang="sw" data-version="OCS">Mwanzo 17:7</span>).
+Katika simulizi hili zima Mungu, anayetaka kukaa na uumbaji Wake, analazimika kuridhika na kukaa na watu wachache walioteuliwa, na hatimaye kupitia agano na Ibrahimu anaanzisha taifa (<span class="x-scripture" data-book="GEN" data-chapter="17" data-lang="sw" data-type="ref" data-verses="7" data-version="OCS">Mwanzo 17:7</span>).
 
 <!-- p23 -->
 ### Kutoka: Mungu Anayeishi Pamoja na Watu Wake
 
 <!-- p24 -->
-Tamaa ya Mungu ya kukaa na watu Wake pia inaonekana wazi katika kitabu cha pili cha Biblia, Kutoka. Katika kitabu cha Kutoka watu wa Israeli, ambao walikuwa wameishi kwa kipindi fulani kwa amani na maelewano nchini Misri, sasa wanateswa na Farao ambaye hakumjua Yusufu na aliwaogopa Waebrania (<span class="x-scripture" data-type="ref" data-book="Exodus" data-chapter="1" data-verses="6-8" data-lang="sw" data-version="OCS">Kutoka 1:6-8</span>). Watu wa Mungu waliishi Misri takribani ~miaka 400 (<span class="x-scripture" data-type="ref" data-book="Exodus" data-chapter="12" data-verses="40-41" data-lang="sw" data-version="OCS">Kutoka 12:40-41</span>), ambapo sehemu ya mwisho ya kipindi hicho ilitumika wakiishi kama watumwa (hakuna makubaliano ya jumla kuhusu haswa ni muda gani Israeli walikuwa utumwani Misri).
+Tamaa ya Mungu ya kukaa na watu Wake pia inaonekana wazi katika kitabu cha pili cha Biblia, Kutoka. Katika kitabu cha Kutoka watu wa Israeli, ambao walikuwa wameishi kwa kipindi fulani kwa amani na maelewano nchini Misri, sasa wanateswa na Farao ambaye hakumjua Yusufu na aliwaogopa Waebrania (<span class="x-scripture" data-book="EXO" data-chapter="1" data-lang="sw" data-type="ref" data-verses="6-8" data-version="OCS">Kutoka 1:6-8</span>). Watu wa Mungu waliishi Misri takribani ~miaka 400 (<span class="x-scripture" data-book="EXO" data-chapter="12" data-lang="sw" data-type="ref" data-verses="40-41" data-version="OCS">Kutoka 12:40-41</span>), ambapo sehemu ya mwisho ya kipindi hicho ilitumika wakiishi kama watumwa (hakuna makubaliano ya jumla kuhusu haswa ni muda gani Israeli walikuwa utumwani Misri).
 
 <!-- p25 -->
 Katika uwepo wenye nguvu wa kichaka kilichokuwa kinawaka moto lakini hakikuteketea, Mungu anajifunua kwa Mwebrania aliyelelewa kama Mmisri, muuaji aliye uhamishoni, aliyekuwa akichunga kundi la mkwewe jangwani, yaani, Musa.
 
 <!-- p26 -->
-<span class="x-scripture" data-type="quote" data-book="Exodus" data-chapter="3" data-verses="14" data-lang="sw" data-version="OCS">
+<span class="x-scripture" data-book="EXO" data-chapter="3" data-lang="sw" data-type="quote" data-verses="14" data-version="OCS">
 
 <!-- p27 -->
-> **<u>Kutoka 3:14</u>** (NKJV) *Kisha Mungu akamwambia Musa, "MIMI NIKO AMBAYE NIKO." Akasema, "Hivi ndivyo utakavyowaambia wana wa Israeli, 'MIMI NIKO amenituma kwenu.'"*
+> **<u>Kuto 3:14</u>** (OCS)
+>
+> Mungu akamwambia Musa, “MIMI NIKO AMBAYE NIKO. Hivyo ndivyo utakavyowaambia Waisraeli: ‘MIMI NIKO amenituma kwenu.’ ”
+
 
 <!-- p28 -->
 </span>
-
 <!-- p29 -->
 Kauli **“MIMI NIKO AMBAYE NIKO”** (Ehyeh-Asher-Ehyeh) ni mojawapo ya ufunuo wa kina zaidi wa Mungu katika Maandiko. Musa anapouliza jina la Mungu, Mungu anajibu kwa kauli hii, ambayo inaweza kutafsiriwa kama "Mimi Niko Ambaye Niko," "Nitakuwa nitakavyokuwa," au kwa urahisi "Mimi Niko." Tangazo hili juu juu linaweza kuchanganya kidogo lakini lina maana ya kina. Je, waweza kuwaza kujitambulisha kwa mtu mpya kama ‘Mimi niko’? Mungu anapojifunua kama ‘MIMI NIKO AMBAYE NIKO’ anathibitisha asili Yake, uwepo Wake wa milele, na ukuu Wake. ‘Mimi niko’ lina maana na kusudi lisilo na kikomo.
 
@@ -92,14 +94,16 @@ Kauli **“MIMI NIKO AMBAYE NIKO”** (Ehyeh-Asher-Ehyeh) ni mojawapo ya ufunuo 
 Mungu anamtumia Musa kujidhihirisha kwa Farao:
 
 <!-- p31 -->
-<span class="x-scripture" data-type="quote" data-book="Exodus" data-chapter="7" data-verses="16" data-lang="sw" data-version="OCS">
+<span class="x-scripture" data-book="EXO" data-chapter="7" data-lang="sw" data-type="quote" data-verses="16" data-version="OCS">
 
 <!-- p32 -->
-> **<u>Kutoka 7:16</u>** (NKJV) *Nawe utamwambia, 'BWANA Mungu wa Waebrania amenituma kwako, akisema, "Waache watu Wangu waende, ili wanitumikie jangwani"; lakini kweli, hata sasa hukusikia!*
+> **<u>Kuto 7:16</u>** (OCS)
+>
+> Kisha umwambie, ‘Mwenyezi Mungu, Mungu wa Waebrania, amenituma nikuambie: Waachie watu wangu waende, ili wapate kuniabudu jangwani. Lakini hadi sasa hujasikiliza.
+
 
 <!-- p33 -->
 </span>
-
 <!-- p34 -->
 Musa anamwambia Farao, Mungu ni ‘MIMI NIKO’ na kwamba Mungu anadai Waisraeli waachiwe ili wamuabudu jangwani.
 
@@ -107,14 +111,16 @@ Musa anamwambia Farao, Mungu ni ‘MIMI NIKO’ na kwamba Mungu anadai Waisraeli
 Mapigo na mateso hufuata, lakini hatimaye Farao anakubali na kuwaacha Waisraeli waondoke.
 
 <!-- p36 -->
-<span class="x-scripture" data-type="quote" data-book="Exodus" data-chapter="12" data-verses="31" data-lang="sw" data-version="OCS">
+<span class="x-scripture" data-book="EXO" data-chapter="12" data-lang="sw" data-type="quote" data-verses="31" data-version="OCS">
 
 <!-- p37 -->
-> **<u>Kutoka 12:31</u>** (NKJV) *Kisha akawaita Musa na Haruni usiku, akasema, "Ondokeni, tokeni miongoni mwa watu wangu, ninyi pamoja na wana wa Israeli. Nendeni, mkamtumikie BWANA kama mlivyosema."*
+> **<u>Kuto 12:31</u>** (OCS)
+>
+> Wakati huo Farao akawaita Musa na Haruni na kuwaambia, “Ondokeni! Tokeni kwa watu wangu, ninyi pamoja na Waisraeli! Nendeni mkamwabudu Mwenyezi Mungu kama mlivyoomba.
+
 
 <!-- p38 -->
 </span>
-
 <!-- p39 -->
 Jangwani Mungu anawaokoa kwa muujiza watu Wake kutoka kwa jeshi la Wamisri lenye kisasi (Kutoka 14), anatoa ulinzi dhidi ya jua na nguzo ya moto ya kuwapa joto katika usiku wa baridi wa jangwa (Kutoka 13), chakula kutoka mbinguni (Kutoka 16), na maji ya kunywa (Kutoka 17).
 
@@ -122,7 +128,7 @@ Jangwani Mungu anawaokoa kwa muujiza watu Wake kutoka kwa jeshi la Wamisri lenye
 Mungu anawaleta watu Wake kwenye Mlima Sinai ambapo Mungu anamwamuru Musa kuwatakasa watu na kuwapa sheria (pamoja na Amri Kumi) na kuanzisha Agano Lake nao (agano la kale) (Kutoka 19, 20, 24). Agano hili (Agano la Musa) linajengwa juu ya Agano la Ibrahimu na hudumu kuanzia Musa hadi Yesu.
 
 <!-- p41 -->
-Licha ya kuanzisha agano na watu Wake, uhusiano huo ni wa Mungu wa upendo na mwenye wivu anayewafuatilia na kukaa pamoja na watu wakaidi sana na wasio na shukrani (<span class="x-scripture" data-type="ref" data-book="Exodus" data-chapter="32" data-verses="9" data-lang="sw" data-version="OCS">Kutoka 32:9</span>). Wakipuuzia uingiliaji wa kimiujiza wa Mungu, wanaendelea kuwa na mtazamo wa uasi katika sehemu kubwa za maandishi. Mungu hata aliwaleta hadi nchi ya ahadi na kuwaambia wanaweza kuirithi (<span class="x-scripture" data-type="ref" data-book="Exodus" data-chapter="33" data-verses="3" data-lang="sw" data-version="OCS">Kutoka 33:3</span>), lakini kwa hofu na kutotii wanapuuzia ukombozi wa kimuujiza aliowapa Mungu, na badala yake wanalazimika kutangatanga jangwani kwa miaka 40 hadi karibu kila mtu wa kizazi hicho alipokufa (<span class="x-scripture" data-type="ref" data-book="Numbers" data-chapter="14" data-verses="33-34" data-lang="sw" data-version="OCS">Hesabu 14:33-34</span>).
+Licha ya kuanzisha agano na watu Wake, uhusiano huo ni wa Mungu wa upendo na mwenye wivu anayewafuatilia na kukaa pamoja na watu wakaidi sana na wasio na shukrani (<span class="x-scripture" data-book="EXO" data-chapter="32" data-lang="sw" data-type="ref" data-verses="9" data-version="OCS">Kutoka 32:9</span>). Wakipuuzia uingiliaji wa kimiujiza wa Mungu, wanaendelea kuwa na mtazamo wa uasi katika sehemu kubwa za maandishi. Mungu hata aliwaleta hadi nchi ya ahadi na kuwaambia wanaweza kuirithi (<span class="x-scripture" data-book="EXO" data-chapter="33" data-lang="sw" data-type="ref" data-verses="3" data-version="OCS">Kutoka 33:3</span>), lakini kwa hofu na kutotii wanapuuzia ukombozi wa kimuujiza aliowapa Mungu, na badala yake wanalazimika kutangatanga jangwani kwa miaka 40 hadi karibu kila mtu wa kizazi hicho alipokufa (<span class="x-scripture" data-book="NUM" data-chapter="14" data-lang="sw" data-type="ref" data-verses="33-34" data-version="OCS">Hesabu 14:33-34</span>).
 
 <!-- p42 -->
 ### Yaliyobaki ya Agano la Kale
@@ -143,19 +149,19 @@ Pia katika Kiambatisho kumejumuishwa mkusanyiko mwingine wa sifa zinazoeleza asi
 Majina haya hutusaidia kumfahamu Mungu-Baba, Mwana, na Roho Mtakatifu (**Utatu**)-wakifanya kazi pamoja kama Mmoja. Katika masomo yetu ya kuendelea tutaangalia kwa undani zaidi majina na sifa za Yesu na Roho Mtakatifu.
 
 <!-- p48 -->
-Tabia na matendo ya Mungu yanaonyeshwa kikamilifu katika umoja wa Baba, Mwana, na Roho. Maandiko yanafundisha kwamba Mungu ni Mmoja kwa kiini, ilhali yupo kama Nafsi tatu tofauti: Baba, Mwana, na Roho Mtakatifu. Maandiko yanathibitisha umoja wa Mungu, yakisema, “pasipo Yeye hakuna Mungu” (<span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="45" data-verses="5" data-lang="sw" data-version="OCS">Isaya 45:5</span>). Hata hivyo, Uungu unaeleweka kuwa ni umoja changamano - nafsi tatu tofauti zinazoshirikiana kwa nia na madhumuni moja, zikiwa zimeungana kwa maana iliyo ya kweli kabisa. Kila Nafsi ya Utatu ina jukumu la kipekee: **Baba huumba**, **Mwana hukomboa**, na **Roho Mtakatifu hutakasa**. Neno “Utatu” halionekani katika Biblia; lilibuniwa kama tamko la kitheolojia kuelezea dhana hii, ambayo imefunuliwa kupitia Maandiko.
+Tabia na matendo ya Mungu yanaonyeshwa kikamilifu katika umoja wa Baba, Mwana, na Roho. Maandiko yanafundisha kwamba Mungu ni Mmoja kwa kiini, ilhali yupo kama Nafsi tatu tofauti: Baba, Mwana, na Roho Mtakatifu. Maandiko yanathibitisha umoja wa Mungu, yakisema, “pasipo Yeye hakuna Mungu” (<span class="x-scripture" data-book="ISA" data-chapter="45" data-lang="sw" data-type="ref" data-verses="5" data-version="OCS">Isaya 45:5</span>). Hata hivyo, Uungu unaeleweka kuwa ni umoja changamano - nafsi tatu tofauti zinazoshirikiana kwa nia na madhumuni moja, zikiwa zimeungana kwa maana iliyo ya kweli kabisa. Kila Nafsi ya Utatu ina jukumu la kipekee: **Baba huumba**, **Mwana hukomboa**, na **Roho Mtakatifu hutakasa**. Neno “Utatu” halionekani katika Biblia; lilibuniwa kama tamko la kitheolojia kuelezea dhana hii, ambayo imefunuliwa kupitia Maandiko.
 
 <!-- p49 -->
 Utatu unaweza kufafanuliwa kwa mifano katika asili, inayosaidia kuweka wazi wazo hili la umoja katika utofauti. Kama maji, ambayo yanaweza kuwa kimiminika, barafu, au mvuke lakini hubaki H₂O, kila Nafsi ya Utatu ni Mungu kikamilifu ilhali ni tofauti kwa utu. Au tazama pembetatu, yenye pande tatu na pembe tatu, inayounda umbo moja kamili; upande mmoja ukiondolewa, haibaki tena kuwa pembetatu. Vivyo hivyo, asili ya Mungu haikamiliki bila nafsi zote tatu, ambazo hufanya kazi pamoja katika umoja kamilifu.
 
 <!-- p50 -->
-- **Mungu Baba**: Yeye ndiye Muumba na Mtegemezaji wa vitu vyote, mara nyingi hueleweka kama anayeanzisha katika Uungu. Upendo Wake kwa wanadamu ni kiini cha simulizi la kibiblia, unaodhihirishwa katika <span class="x-scripture" data-type="ref" data-book="John" data-chapter="3" data-verses="16" data-lang="sw" data-version="OCS">Yohana 3:16</span>. Katika somo letu tutaangalia Mungu Baba kama Baba mwenye upendo na Hakimu wa haki, aliyefanya njia ya ukombozi wetu.
+- **Mungu Baba**: Yeye ndiye Muumba na Mtegemezaji wa vitu vyote, mara nyingi hueleweka kama anayeanzisha katika Uungu. Upendo Wake kwa wanadamu ni kiini cha simulizi la kibiblia, unaodhihirishwa katika <span class="x-scripture" data-book="JHN" data-chapter="3" data-lang="sw" data-type="ref" data-verses="16" data-version="OCS">Yohana 3:16</span>. Katika somo letu tutaangalia Mungu Baba kama Baba mwenye upendo na Hakimu wa haki, aliyefanya njia ya ukombozi wetu.
 
 <!-- p51 -->
-- **Mungu Mwana**: Akiwa pamoja na Baba tangu milele na wa milele, Yesu alichukua asili ya kibinadamu, akatungwa mimba kwa Roho Mtakatifu na kuzaliwa na bikira Maria. Aliishi maisha yasiyo na dhambi, akafa ili kuikomboa wanadamu, na akafufuka tena, akishinda dhambi na mauti. Sasa ameketi mkono wa kuume wa Baba, akiombea kwa ajili yetu (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="1" data-verses="1-3" data-lang="sw" data-version="OCS">Yohana 1:1-3</span>; <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="1" data-verses="23" data-lang="sw" data-version="OCS">Mathayo 1:23</span>; <span class="x-scripture" data-type="ref" data-book="1 Timothy" data-chapter="2" data-verses="5" data-lang="sw" data-version="OCS">1 Timotheo 2:5</span>). Katika somo letu tutaangalia Yesu kama kafara kamilifu ya upatanisho, Bwana aliyefufuka, na kichwa cha kanisa.
+- **Mungu Mwana**: Akiwa pamoja na Baba tangu milele na wa milele, Yesu alichukua asili ya kibinadamu, akatungwa mimba kwa Roho Mtakatifu na kuzaliwa na bikira Maria. Aliishi maisha yasiyo na dhambi, akafa ili kuikomboa wanadamu, na akafufuka tena, akishinda dhambi na mauti. Sasa ameketi mkono wa kuume wa Baba, akiombea kwa ajili yetu (<span class="x-scripture" data-book="JHN" data-chapter="1" data-lang="sw" data-type="ref" data-verses="1-3" data-version="OCS">Yohana 1:1-3</span>; <span class="x-scripture" data-book="MAT" data-chapter="1" data-lang="sw" data-type="ref" data-verses="23" data-version="OCS">Mathayo 1:23</span>; <span class="x-scripture" data-book="1TI" data-chapter="2" data-lang="sw" data-type="ref" data-verses="5" data-version="OCS">1 Timotheo 2:5</span>). Katika somo letu tutaangalia Yesu kama kafara kamilifu ya upatanisho, Bwana aliyefufuka, na kichwa cha kanisa.
 
 <!-- p52 -->
-- **Mungu Roho Mtakatifu**: Roho Mtakatifu, aliye pamoja na aliye sawa na Baba na Mwana, alitumwa na Baba kupitia Mwana ili kuuonyesha ulimwengu hatia ya dhambi na kuwaandaa waamini kama Bibi-arusi wa Kristo. Yeye huwezesha, hufariji, na hutakasa wale walio katika Kristo (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="14" data-verses="26" data-lang="sw" data-version="OCS">Yohana 14:26</span>; 15:26; 16:8). Katika somo letu tutaangalia Roho Mtakatifu kama Mfariji, aliyepewa kwetu na Mungu kututayarisha, kututia nguvu, kututakasa, na kukaa pamoja nasi.
+- **Mungu Roho Mtakatifu**: Roho Mtakatifu, aliye pamoja na aliye sawa na Baba na Mwana, alitumwa na Baba kupitia Mwana ili kuuonyesha ulimwengu hatia ya dhambi na kuwaandaa waamini kama Bibi-arusi wa Kristo. Yeye huwezesha, hufariji, na hutakasa wale walio katika Kristo (<span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="sw" data-type="ref" data-verses="26" data-version="OCS">Yohana 14:26</span>; 15:26; 16:8). Katika somo letu tutaangalia Roho Mtakatifu kama Mfariji, aliyepewa kwetu na Mungu kututayarisha, kututia nguvu, kututakasa, na kukaa pamoja nasi.
 
 <!-- p53 -->
 Kupitia Nafsi hizi tofauti, asili ya Utatu ya Mungu inafunuliwa kama umoja mkamilifu katika kusudi, mapenzi, na upendo, kila Nafsi ikichukua jukumu muhimu katika utume wa kimungu wa uumbaji, ukombozi, na utakasaji. Utatu unawaalika waamini kumpitia Mungu kikamilifu, kama Baba mwenye upendo, Mwokozi anayekomboa, na Roho anayebadilisha.
@@ -179,7 +185,7 @@ Maandiko hutoa muktadha wa mikutano hii, yakituonyesha uaminifu wa Mungu kwa wat
 1.  Ni sifa gani ya Mungu inayogusa moyo wako zaidi kwa sasa? Kwa nini?
 
 <!-- p60 -->
-2.  Je, kumjua Mungu kama “MIMI NIKO” (<span class="x-scripture" data-type="ref" data-book="Exodus" data-chapter="3" data-verses="14" data-lang="sw" data-version="OCS">Kutoka 3:14</span>) kunabadilisha vipi jinsi unavyomkaribia Yeye katika maombi?
+2.  Je, kumjua Mungu kama “MIMI NIKO” (<span class="x-scripture" data-book="EXO" data-chapter="3" data-lang="sw" data-type="ref" data-verses="14" data-version="OCS">Kutoka 3:14</span>) kunabadilisha vipi jinsi unavyomkaribia Yeye katika maombi?
 
 <!-- p61 -->
 3.  Ni lipi kati ya majina ya Mungu linalozungumza zaidi na hali yako ya sasa (km., Yahweh-Jireh, Yahweh-Rapha)? Amejidhihirishaje kwako kwa njia hii?
@@ -197,7 +203,7 @@ Maandiko hutoa muktadha wa mikutano hii, yakituonyesha uaminifu wa Mungu kwa wat
 1.  **Swali la Ufunguzi (Kuvunja Barafu):** *Ni lipi kati ya majina au sifa za Mungu lililojitokeza zaidi kwako katika sura hii? Kwa nini?*
 
 <!-- p66 -->
-2.  **Kuchunguza Maandiko:** *Tukiangalia <span class="x-scripture" data-type="ref" data-book="Exodus" data-chapter="3" data-verses="14" data-lang="sw" data-version="OCS">Kutoka 3:14</span> na <span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="22" data-verses="14" data-lang="sw" data-version="OCS">Mwanzo 22:14</span>, majina ya Mungu yanaakisi vipi tabia Yake na matendo Yake katika hadithi hizo?*
+2.  **Kuchunguza Maandiko:** *Tukiangalia <span class="x-scripture" data-book="EXO" data-chapter="3" data-lang="sw" data-type="ref" data-verses="14" data-version="OCS">Kutoka 3:14</span> na <span class="x-scripture" data-book="GEN" data-chapter="22" data-lang="sw" data-type="ref" data-verses="14" data-version="OCS">Mwanzo 22:14</span>, majina ya Mungu yanaakisi vipi tabia Yake na matendo Yake katika hadithi hizo?*
 
 <!-- p67 -->
 3.  **Matumizi ya Kivitendo:** *Je, kuelewa sifa za Mungu (km., mwaminifu, mwenye rehema, mwenye enzi kuu) kunawezaje kuathiri jinsi tunavyoitikia changamoto za maisha?*

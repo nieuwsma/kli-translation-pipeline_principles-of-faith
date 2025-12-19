@@ -8,19 +8,16 @@ Imani ni dhana ya msingi katika Ukristo. Imani ni neno linalotumiwa sana katika 
 Mwandishi wa Waebrania anatufundisha kwamba tunapaswa kuwa na ‘imani kwa Mungu’.
 
 <!-- p3 -->
-<span class="x-scripture" data-type="quote" data-book="Hebrews" data-chapter="6" data-verses="1-2" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="HEB" data-chapter="6" data-lang="sw" data-type="quote" data-verses="1-2" data-version="BHN">
 <!-- p4 -->
-> **<u>Waebrania 6:1-2</u>** (BHN)
->
-> Basi, tuyaache nyuma yale mafundisho ya mwanzomwanzo juu ya Kristo, tusonge mbele kwa yale yaliyokomaa, na sio kuendelea kuweka msingi kuhusu kuachana na matendo ya kifo, na juu ya kumwamini Mungu;
-> mafundisho juu ya ubatizo na kuwekewa mikono; ufufuo wa wafu na hukumu ya milele.
+&gt; **<u>Waebrania 6:1-2</u>** (BHN)
+&gt;
+&gt; Basi, tuyaache nyuma yale mafundisho ya mwanzomwanzo juu ya Kristo, tusonge mbele kwa yale yaliyokomaa, na sio kuendelea kuweka msingi kuhusu kuachana na matendo ya kifo, na juu ya kumwamini Mungu;
+&gt; mafundisho juu ya ubatizo na kuwekewa mikono; ufufuo wa wafu na hukumu ya milele.
 
 
 <!-- p5 -->
 </span>
-
 <!-- p6 -->
 Katika sura hii tutajadili imani ni nini, na si nini, jinsi ya kuongeza imani yetu, jinsi tunavyoitumia imani yetu (utiifu), manufaa ya kuishi maisha ya utiifu, na hatua za vitendo za kuongeza imani yetu.
 
@@ -40,7 +37,7 @@ Imani ni kipengele cha Ukristo kinachokosewa kueleweka na kuwasilishwa vibaya ma
 #### Imani Siyo Nini
 
 <!-- p12 -->
-Imani inapotolewa vibaya <u>kidhahania</u> haina msimamo au ushawishi mahususi. Hili huonekana mara nyingi ukichunguza kidogo kwa kuwa taswira hii ya imani haiwezi kufafanuliwa kwa umahususi. Ukiuliza, ‘unaamini nini’ au ‘kwa nini unaamini’ mtu aliye na uelewa huu wa imani mara nyingi hawezi kufafanua zaidi ya ‘ninaamini’. <span class="x-scripture" data-type="ref" data-book="1 Peter" data-chapter="3" data-verses="15" data-lang="sw" data-version="BHN">1 Petro 3:15</span> inasema kwamba tunapaswa kuwa tayari kutoa jawabu kwa tumaini lililo ndani yetu.
+Imani inapotolewa vibaya <u>kidhahania</u> haina msimamo au ushawishi mahususi. Hili huonekana mara nyingi ukichunguza kidogo kwa kuwa taswira hii ya imani haiwezi kufafanuliwa kwa umahususi. Ukiuliza, ‘unaamini nini’ au ‘kwa nini unaamini’ mtu aliye na uelewa huu wa imani mara nyingi hawezi kufafanua zaidi ya ‘ninaamini’. <span class="x-scripture" data-book="1PE" data-chapter="3" data-lang="sw" data-type="ref" data-verses="15" data-version="BHN">1 Petro 3:15</span> inasema kwamba tunapaswa kuwa tayari kutoa jawabu kwa tumaini lililo ndani yetu.
 
 <!-- p13 -->
 Wakati mwingine watu hufikiri imani ni kama nguvu ya kichawi-lakini si hivyo Maandiko yanavyofundisha. Imani inahusu uhusiano halisi uliojengwa juu ya kuaminiana. Katika Maandiko, imani ni yenye mng’ao na ya uhusiano zaidi-imekita mizizi katika ushawishi, kuamini, na uhakika katika tabia na ahadi za Mungu. Si nguvu isiyo na utu bali ni mwitikio unaohusika kwa Mungu unaoumba mawazo, hisia, na matendo.
@@ -76,7 +73,7 @@ Kukuza imani, ushawishi, na uaminifu katika uhusiano huchukua muda na uzoefu. Ni
 ### Yesu Hukomaza Imani Yetu
 
 <!-- p24 -->
-Yesu ndiye mwanzilishi na mtimilizaji wa imani yetu (<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="12" data-verses="2" data-lang="sw" data-version="BHN">Waebrania 12:2</span>). Imani yetu imekusudiwa iendelee kukua na kupanuka daima. Hatufikii hatua moja ambapo tunakuwa na ‘imani’ ya kutosha, bali imani yetu huongezeka. Fikiria uhusiano wa kina na wa kibinafsi ulio nao maishani mwako leo. Kama ilivyo katika uhusiano wowote hatufiki kwenye hatua maalum ambapo sasa ‘tunamjua’ huyo mtu. Tunaendelea kuwajua, na kuongeza maarifa yetu kuwahusu, na hili husafisha, huunda, na kukuza uhusiano wetu.
+Yesu ndiye mwanzilishi na mtimilizaji wa imani yetu (<span class="x-scripture" data-book="HEB" data-chapter="12" data-lang="sw" data-type="ref" data-verses="2" data-version="BHN">Waebrania 12:2</span>). Imani yetu imekusudiwa iendelee kukua na kupanuka daima. Hatufikii hatua moja ambapo tunakuwa na ‘imani’ ya kutosha, bali imani yetu huongezeka. Fikiria uhusiano wa kina na wa kibinafsi ulio nao maishani mwako leo. Kama ilivyo katika uhusiano wowote hatufiki kwenye hatua maalum ambapo sasa ‘tunamjua’ huyo mtu. Tunaendelea kuwajua, na kuongeza maarifa yetu kuwahusu, na hili husafisha, huunda, na kukuza uhusiano wetu.
 
 <!-- p25 -->
 Tunawezaje kukuza imani yetu kwa Mungu? Kwa kuendelea kumpitia katika ufunuo wake mwingi, maonyesho yake, na sifa Zake. Tena, fikiria uhusiano wa kina wa kibinafsi katika maisha yako. Unaongeza kina cha uhusiano kwa kuhusika nao kwa njia tofauti, katika fomati tofauti, katika midia tofauti, katika mazingira tofauti. Unaongea nao, unawatumia ujumbe, huenda ukawaandikia. Unawaona binafsi, na katika makundi. Mnazungumza kuhusu mnachokithamini, na pengine mnawekeana changamoto. Njia hizo nyingi hazina mwisho. Kupitia maonyesho haya mengi unakuja kumjua mtu huyo kwa undani zaidi.
@@ -103,19 +100,16 @@ Yesu huongeza imani yetu kupitia uzoefu pamoja Naye. Njia muhimu tunayoweza na t
 Tafakari kifungu hiki kutoka Warumi:
 
 <!-- p33 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="10" data-verses="16-17" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="ROM" data-chapter="10" data-lang="sw" data-type="quote" data-verses="16-17" data-version="BHN">
 <!-- p34 -->
-> **<u>Waroma 10:16-17</u>** (BHN)
->
-> Lakini wote hawakuipokea hiyo habari njema. Maana Isaya alisema: “Bwana, ni nani aliyeamini ujumbe wetu?”
-> Hivyo basi, imani inatokana na kuusikia ujumbe, na huo ujumbe unatokana na neno la Kristo.
+&gt; **<u>Waroma 10:16-17</u>** (BHN)
+&gt;
+&gt; Lakini wote hawakuipokea hiyo habari njema. Maana Isaya alisema: “Bwana, ni nani aliyeamini ujumbe wetu?”
+&gt; Hivyo basi, imani inatokana na kuusikia ujumbe, na huo ujumbe unatokana na neno la Kristo.
 
 
 <!-- p35 -->
 </span>
-
 <!-- p36 -->
 Tunapobadilisha neno *imani* na *ushawishi* inasomeka:
 
@@ -147,16 +141,16 @@ Kwa nyakati kadhaa katika kazi yangu, nimeomba uongozi wa kimungu. Miaka kadhaa 
 Miezi mitatu au minne ilipita, niliendelea kufanya kazi kwa bidii na kwa uaminifu, nikiweka mtazamo wangu chanya. Mungu alikuwa akinikumbusha, *‘nisubiri’*, kisha ahadi Yake ikatimia. Nikapata fursa ya kupandishwa cheo na nikapokea ongezeko kubwa la mshahara.
 
 <!-- p46 -->
-Ningeweza kuendelea na utafutaji wangu wa kazi; ningeweza kuondoka. Ningeweza kuanza mahali pengine. Bila shaka mtu mwingine angepata huo upandishaji cheo! Lakini kwa sababu nilitafuta ushauri wa Bwana na nikashawishika na **rhema** Yake, nilitii, nikapata faida. Maneno ya Mungu ni **hai na ya kibinafsi**, naye anaahidi kutupa hekima nyingi na ya ukarimu (<span class="x-scripture" data-type="ref" data-book="James" data-chapter="1" data-verses="5" data-lang="sw" data-version="BHN">Yakobo 1:5</span>).
+Ningeweza kuendelea na utafutaji wangu wa kazi; ningeweza kuondoka. Ningeweza kuanza mahali pengine. Bila shaka mtu mwingine angepata huo upandishaji cheo! Lakini kwa sababu nilitafuta ushauri wa Bwana na nikashawishika na **rhema** Yake, nilitii, nikapata faida. Maneno ya Mungu ni **hai na ya kibinafsi**, naye anaahidi kutupa hekima nyingi na ya ukarimu (<span class="x-scripture" data-book="JAS" data-chapter="1" data-lang="sw" data-type="ref" data-verses="5" data-version="BHN">Yakobo 1:5</span>).
 
 <!-- p47 -->
-Nina visa kadhaa, iwapo si mamia, ambapo nimeomba na kumwuliza Mungu nifanye nini naye amenipa neno la rhema. Sio kila kimoja kilikuwa na matokeo ya kuvutia sawa, lakini vyote vilileta hisia ya amani na ujasiri kwamba nilikuwa namtii Mungu na kwamba Angeyatengeneza mambo. Vilikuwa ndivyo maneno niliyoyahitaji kwa wakati ule! Mara nyingi, Mungu anapokuleta neno la rhema, hutoka kwenye logos. Atanikumbusha kifungu cha Maandiko, “*Usiogope kwa maana Mimi nipo pamoja nawe!*” (<span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="41" data-verses="10" data-lang="sw" data-version="BHN">Isaya 41:10</span>), “*Kwa mapigo yake tumeponywa”* (<span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="53" data-verses="5" data-lang="sw" data-version="BHN">Isaya 53:5</span>), “*Msichoke kutenda mema!*” (<span class="x-scripture" data-type="ref" data-book="Galatians" data-chapter="6" data-verses="9" data-lang="sw" data-version="BHN">Wagalatia 6:9</span>), mifano mingi inaendelea!
+Nina visa kadhaa, iwapo si mamia, ambapo nimeomba na kumwuliza Mungu nifanye nini naye amenipa neno la rhema. Sio kila kimoja kilikuwa na matokeo ya kuvutia sawa, lakini vyote vilileta hisia ya amani na ujasiri kwamba nilikuwa namtii Mungu na kwamba Angeyatengeneza mambo. Vilikuwa ndivyo maneno niliyoyahitaji kwa wakati ule! Mara nyingi, Mungu anapokuleta neno la rhema, hutoka kwenye logos. Atanikumbusha kifungu cha Maandiko, “*Usiogope kwa maana Mimi nipo pamoja nawe!*” (<span class="x-scripture" data-book="ISA" data-chapter="41" data-lang="sw" data-type="ref" data-verses="10" data-version="BHN">Isaya 41:10</span>), “*Kwa mapigo yake tumeponywa”* (<span class="x-scripture" data-book="ISA" data-chapter="53" data-lang="sw" data-type="ref" data-verses="5" data-version="BHN">Isaya 53:5</span>), “*Msichoke kutenda mema!*” (<span class="x-scripture" data-book="GAL" data-chapter="6" data-lang="sw" data-type="ref" data-verses="9" data-version="BHN">Wagalatia 6:9</span>), mifano mingi inaendelea!
 
 <!-- p48 -->
 Kupokea neno la rhema hakutia nguvu tu imani yetu bali pia huimarisha uhusiano wetu na Mungu, tunapomtumainia kikamilifu zaidi katika maamuzi yetu ya kila siku. Tutaendelea na somo letu la kujifunza kumsikia Mungu katika sura kuhusu Roho Mtakatifu.
 
 <!-- p49 -->
-Imani yetu pia inaimarishwa na yale tunayoona Mungu akifanya, lakini wakati mwingine tunachoona katika ulimwengu wa asili kinapingana na kile tunachosikia kutoka kwa Mungu. Kupatanisha kutokulingana kati ya tunachoona na tunachosikia ni huduma muhimu ya Roho Mtakatifu, ambaye anaahidi kutuongoza katika kweli yote (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="16" data-verses="13" data-lang="sw" data-version="BHN">Yohana 16:13</span>).
+Imani yetu pia inaimarishwa na yale tunayoona Mungu akifanya, lakini wakati mwingine tunachoona katika ulimwengu wa asili kinapingana na kile tunachosikia kutoka kwa Mungu. Kupatanisha kutokulingana kati ya tunachoona na tunachosikia ni huduma muhimu ya Roho Mtakatifu, ambaye anaahidi kutuongoza katika kweli yote (<span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="sw" data-type="ref" data-verses="13" data-version="BHN">Yohana 16:13</span>).
 
 <!-- p50 -->
 ### Imani Kubwa Zaidi Kuliko Tunachoweza Kuona
@@ -165,7 +159,7 @@ Imani yetu pia inaimarishwa na yale tunayoona Mungu akifanya, lakini wakati mwin
 Baada ya kufufuka Kwake, Yesu alijitokeza mara kadhaa kwa wanafunzi Wake wengi. Tomasi (mmoja wa wale kumi na wawili) hakuwa pamoja na wanafunzi wengine, hivyo alikuwa amekosa kuonekana kwa Mwokozi aliyefufuka. Tomasi alimwamini Yesu, na aliwaamini wanafunzi wenzake, lakini hakuamini kwamba Yesu alikuwa amefufuliwa kwa mwili; alisisitiza kwamba hangeweza kuamini kikamilifu hadi aipate kwa uzoefu binafsi.
 
 <!-- p52 -->
-<u>**<span class="x-scripture" data-type="ref" data-book="John" data-chapter="20" data-verses="24-29" data-lang="sw" data-version="BHN">Yohana 20:24-29</span>**</u> (NKJV)
+<u>**<span class="x-scripture" data-book="JHN" data-chapter="20" data-lang="sw" data-type="ref" data-verses="24-29" data-version="BHN">Yohana 20:24-29</span>**</u> (NKJV)
 
 <!-- p53 -->
 ***24** Sasa Tomasi, aitwaye Pacha, mmoja wa wale kumi na wawili, hakuwa pamoja nao Yesu alipokuja.*
@@ -186,7 +180,7 @@ Baada ya kufufuka Kwake, Yesu alijitokeza mara kadhaa kwa wanafunzi Wake wengi. 
 ***29** Yesu akamwambia, "Tomasi, kwa kuwa umeniona umeamini. Heri wale ambao hawajaona na bado wameamini."*
 
 <!-- p59 -->
-Yesu alipojitokeza kwa wanafunzi Wake na kuwatahamaki (nawaza ni jambo la kutisha mtu anapotokea katikati yenu, akiwa amepitia milango iliyofungwa), Alinena na Tomasi. Hakumkosoa au kumlaumu Tomasi wala kumtuhumu kama sehemu ya kizazi kiovu na kilichopotoka kinachotafuta ishara (<span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="16" data-verses="4" data-lang="sw" data-version="BHN">Mathayo 16:4</span>) bali alijidhihirisha kwa Tomasi.
+Yesu alipojitokeza kwa wanafunzi Wake na kuwatahamaki (nawaza ni jambo la kutisha mtu anapotokea katikati yenu, akiwa amepitia milango iliyofungwa), Alinena na Tomasi. Hakumkosoa au kumlaumu Tomasi wala kumtuhumu kama sehemu ya kizazi kiovu na kilichopotoka kinachotafuta ishara (<span class="x-scripture" data-book="MAT" data-chapter="16" data-lang="sw" data-type="ref" data-verses="4" data-version="BHN">Mathayo 16:4</span>) bali alijidhihirisha kwa Tomasi.
 
 <!-- p60 -->
 Yesu anaendelea kusema, ‘*heri wale ambao hawajaona na wameamin*i’’. Hii si Yesu akihimiza ‘imani kipofu au isiyo na maarifa’ au kukataa matumizi ya ushahidi wa kimajaribio. Bali Anasema kwamba tumebarikiwa zaidi tunapoweza kuamini bila kuhitaji uthibitisho wa kimajaribio. Kwa nini? Kama imani yetu, tumaini letu, lingekuwa limezuiliwa tu kwa yale tuliyoyaona yakithibitishwa kwa namna ya kimajaribio, tusingeweza kamwe kuwa na ujasiri kuhusu kazi ya baadaye. Tungekuwa na ujasiri mkubwa kuhusu yale yaliyokwisha kufanyika lakini tusingetembea katika amani ya Mungu kwa kesho zetu na kwa siku zetu za usoni.
@@ -198,54 +192,45 @@ Kwa kutumia mfano wa uhusiano, je, uhusiano wangu na mke wangu ungekuwa changamo
 Kama tungeweza kuwa na imani tu katika yale tuliyoona yakidhihirishwa, basi kututia moyo kwa Paulo kwa Roho Mtakatifu kwetu kusingekuwa na athari yoyote:
 
 <!-- p63 -->
-<span class="x-scripture" data-type="quote" data-book="Philippians" data-chapter="4" data-verses="6-7" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="PHP" data-chapter="4" data-lang="sw" data-type="quote" data-verses="6-7" data-version="BHN">
 <!-- p64 -->
-> **<u>Wafilipi 4:6-7</u>** (BHN)
->
-> Msiwe na wasiwasi juu ya kitu chochote, ila kwa kila hali, mwombeni Mungu katika sala juu ya mahitaji yenu, kwa shukrani.
-> Nayo amani ya Mungu ipitayo akili zote za watu italinda salama mioyo na akili zenu katika kuungana na Kristo Yesu.
+&gt; **<u>Wafilipi 4:6-7</u>** (BHN)
+&gt;
+&gt; Msiwe na wasiwasi juu ya kitu chochote, ila kwa kila hali, mwombeni Mungu katika sala juu ya mahitaji yenu, kwa shukrani.
+&gt; Nayo amani ya Mungu ipitayo akili zote za watu italinda salama mioyo na akili zenu katika kuungana na Kristo Yesu.
 
 
 <!-- p65 -->
 </span>
-
 <!-- p66 -->
 Amani ya Mungu ingewezaje kulinda mioyo yetu, ikiwa tusingeweza kuwa na ujasiri ndani Yake zaidi ya yale ambayo tayari tumeyaona!?
 
 <!-- p67 -->
-<span class="x-scripture" data-type="quote" data-book="2 Corinthians" data-chapter="5" data-verses="7" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="2CO" data-chapter="5" data-lang="sw" data-type="quote" data-verses="7" data-version="BHN">
 <!-- p68 -->
-> **<u>2 Wakorintho 5:7</u>** (BHN)
->
-> Maana tunaishi kwa imani, na si kwa kuona.
+&gt; **<u>2 Wakorintho 5:7</u>** (BHN)
+&gt;
+&gt; Maana tunaishi kwa imani, na si kwa kuona.
 
 
 <!-- p69 -->
 </span>
-
 <!-- p70 -->
 Ni katika kukuza uhusiano wetu na Mungu ndipo tunaweza kusonga zaidi ya yale tu ambayo tunaweza kuyaona au kuyaelewa kwa asili. Kama simulizi la Abrahamu lililo katika Warumi:
 
 <!-- p71 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="4" data-verses="19-22" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="ROM" data-chapter="4" data-lang="sw" data-type="quote" data-verses="19-22" data-version="BHN">
 <!-- p72 -->
-> **<u>Waroma 4:19-22</u>** (BHN)
->
-> Alikuwa mzee wa karibu miaka 100, lakini imani yake haikufifia ingawa alijua kwamba mwili wake ulikuwa kama umekufa, na pia mkewe, Sara, alikuwa tasa.
-> Abrahamu hakuionea mashaka ile ahadi ya Mungu; alipata nguvu kutokana na imani, akamtukuza Mungu.
-> Alijua kwamba Mungu anaweza kuyatekeleza yale aliyoahidi.
-> Ndiyo maana Mungu alimkubali kuwa mwadilifu.
+&gt; **<u>Waroma 4:19-22</u>** (BHN)
+&gt;
+&gt; Alikuwa mzee wa karibu miaka 100, lakini imani yake haikufifia ingawa alijua kwamba mwili wake ulikuwa kama umekufa, na pia mkewe, Sara, alikuwa tasa.
+&gt; Abrahamu hakuionea mashaka ile ahadi ya Mungu; alipata nguvu kutokana na imani, akamtukuza Mungu.
+&gt; Alijua kwamba Mungu anaweza kuyatekeleza yale aliyoahidi.
+&gt; Ndiyo maana Mungu alimkubali kuwa mwadilifu.
 
 
 <!-- p73 -->
 </span>
-
 <!-- p74 -->
 ***19** Wala hakuwa dhaifu kwa imani, hakutazama mwili wake mwenyewe, ukiwa umekufa tayari (maana alikuwa karibu na miaka mia), na kufa kwa tumbo la uzazi la Sara.*
 
@@ -274,19 +259,16 @@ Maandiko yanawasilisha mwendelezo wa asili wa imani. Tunapomjua Mungu na kuonja 
 Tafakari tena kifungu hiki kutoka Warumi:
 
 <!-- p83 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="10" data-verses="16-17" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="ROM" data-chapter="10" data-lang="sw" data-type="quote" data-verses="16-17" data-version="BHN">
 <!-- p84 -->
-> **<u>Waroma 10:16-17</u>** (BHN)
->
-> Lakini wote hawakuipokea hiyo habari njema. Maana Isaya alisema: “Bwana, ni nani aliyeamini ujumbe wetu?”
-> Hivyo basi, imani inatokana na kuusikia ujumbe, na huo ujumbe unatokana na neno la Kristo.
+&gt; **<u>Waroma 10:16-17</u>** (BHN)
+&gt;
+&gt; Lakini wote hawakuipokea hiyo habari njema. Maana Isaya alisema: “Bwana, ni nani aliyeamini ujumbe wetu?”
+&gt; Hivyo basi, imani inatokana na kuusikia ujumbe, na huo ujumbe unatokana na neno la Kristo.
 
 
 <!-- p85 -->
 </span>
-
 <!-- p86 -->
 Tukilichambua hili kwa mpangilio wa nyuma:
 
@@ -312,43 +294,37 @@ Katika mazingira ya kazi, wakati bosi au msimamizi anapotoa maagizo, hawako “w
 Tunapomsikiliza Mungu kwa kweli, jambo hilo linapaswa kutupeleka kwenye matendo-kumuamini Yeye na kumtii. Kama Maandiko yasemavyo katika:
 
 <!-- p94 -->
-<span class="x-scripture" data-type="quote" data-book="James" data-chapter="1" data-verses="22" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="JAS" data-chapter="1" data-lang="sw" data-type="quote" data-verses="22" data-version="BHN">
 <!-- p95 -->
-> **<u>Yakobo 1:22</u>** (BHN)
->
-> Msijidanganye wenyewe kwa kusikiliza tu neno lake, bali litekelezeni kwa vitendo.
+&gt; **<u>Yakobo 1:22</u>** (BHN)
+&gt;
+&gt; Msijidanganye wenyewe kwa kusikiliza tu neno lake, bali litekelezeni kwa vitendo.
 
 
 <!-- p96 -->
 </span>
-
 <!-- p97 -->
 Tafakari tena mfano wa uhuru wa kifedha. Mtu aliye na deni anayetamani kuwa huru na mzigo huo atatafuta ushauri wa kifedha. Mshauri atamfundisha kanuni za uhuru wa kifedha na kumsaidia kutengeneza bajeti. Ushauri huu utaleta (uaminifu / imani) katika kile wanachohitaji kufanya ili kuwa bila deni. Lakini kujiamini ni hatua ya kwanza tu, mtu lazima atii kanuni walizojifunza kupitia mazoezi ya nidhamu ili kupokea kazi njema na baraka ya kuwa huru na deni.
 
 <!-- p98 -->
-Kitabu cha Yakobo kinasema kwamba imani yetu lazima izalishe matendo! Tayari tunajua matendo ni nini (kwa mfano, ‘matendo yaliyokufa’ kutoka <span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="6" data-verses="1" data-lang="sw" data-version="BHN">Waebrania 6:1</span>).
+Kitabu cha Yakobo kinasema kwamba imani yetu lazima izalishe matendo! Tayari tunajua matendo ni nini (kwa mfano, ‘matendo yaliyokufa’ kutoka <span class="x-scripture" data-book="HEB" data-chapter="6" data-lang="sw" data-type="ref" data-verses="1" data-version="BHN">Waebrania 6:1</span>).
 
 <!-- p99 -->
-<span class="x-scripture" data-type="quote" data-book="James" data-chapter="2" data-verses="14-20" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="JAS" data-chapter="2" data-lang="sw" data-type="quote" data-verses="14-20" data-version="BHN">
 <!-- p100 -->
-> **<u>Yakobo 2:14-20</u>** (BHN)
->
-> Ndugu zangu, kuna faida gani mtu kusema ana imani, lakini haonyeshi kwa vitendo? Je, hiyo imani yawezaje kumwokoa?
-> Tuseme kaka au dada hana nguo au chakula.
-> Yafaa kitu gani nyinyi kuwaambia hao: “Nendeni salama mkaote moto na kushiba,” bila kuwapatia mahitaji yao ya maisha?
-> Vivyo hivyo, imani peke yake bila matendo imekufa.
-> Lakini mtu anaweza kusema: “Wewe unayo imani, mimi ninayo matendo!” Haya! Nioneshe jinsi mtu anavyoweza kuwa na imani bila matendo, nami nitakuonesha imani yangu kwa matendo yangu.
-> Je, wewe unaamini kwamba yuko Mungu mmoja? Sawa! Lakini hata pepo huamini hilo, na hutetemeka kwa hofu.
-> Mpumbavu wee! Je, wataka kuoneshwa kwamba imani bila matendo imekufa?
+&gt; **<u>Yakobo 2:14-20</u>** (BHN)
+&gt;
+&gt; Ndugu zangu, kuna faida gani mtu kusema ana imani, lakini haonyeshi kwa vitendo? Je, hiyo imani yawezaje kumwokoa?
+&gt; Tuseme kaka au dada hana nguo au chakula.
+&gt; Yafaa kitu gani nyinyi kuwaambia hao: “Nendeni salama mkaote moto na kushiba,” bila kuwapatia mahitaji yao ya maisha?
+&gt; Vivyo hivyo, imani peke yake bila matendo imekufa.
+&gt; Lakini mtu anaweza kusema: “Wewe unayo imani, mimi ninayo matendo!” Haya! Nioneshe jinsi mtu anavyoweza kuwa na imani bila matendo, nami nitakuonesha imani yangu kwa matendo yangu.
+&gt; Je, wewe unaamini kwamba yuko Mungu mmoja? Sawa! Lakini hata pepo huamini hilo, na hutetemeka kwa hofu.
+&gt; Mpumbavu wee! Je, wataka kuoneshwa kwamba imani bila matendo imekufa?
 
 
 <!-- p101 -->
 </span>
-
 <!-- p102 -->
 Ni nini kinachokujitokeza kutoka kwenye kifungu hicho cha Yakobo? Kwangu mimi sentensi muhimu ni kwamba hata mapepo wanaamini! Kuamini peke yake hakutoshi. Imani yetu lazima iinuke ifikie kiwango cha utii. Tunahitaji na tunataka kumtii Yesu, Mwokozi wetu aliyefufuka na Bwana.
 
@@ -356,13 +332,13 @@ Ni nini kinachokujitokeza kutoka kwenye kifungu hicho cha Yakobo? Kwangu mimi se
 Hatupokei wokovu kwa matendo! Tunapopokea wokovu (kwa imani) tunafanya matendo! Nirudie hilo, huwezi kufanya kazi kwa bidii vya kutosha, wala kutoa dhabihu za kutosha ili kuupata wokovu; ni zawadi ya bure ya Mungu tunayoipokea kwa imani!
 
 <!-- p104 -->
-Matokeo ya matendo haya (utii) ni kwamba yanatoa mavuno mazuri na yenye faida. Muda unaochukua kupokea mavuno, au kipimo cha hayo mavuno, hutofautiana, lakini yatazalisha mavuno mema! (<span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="8" data-verses="22" data-lang="sw" data-version="BHN">Mwanzo 8:22</span>).
+Matokeo ya matendo haya (utii) ni kwamba yanatoa mavuno mazuri na yenye faida. Muda unaochukua kupokea mavuno, au kipimo cha hayo mavuno, hutofautiana, lakini yatazalisha mavuno mema! (<span class="x-scripture" data-book="GEN" data-chapter="8" data-lang="sw" data-type="ref" data-verses="22" data-version="BHN">Mwanzo 8:22</span>).
 
 <!-- p105 -->
 Tukikumbuka tena somo letu kuhusu dhambi na dhabihu, tunajua kwamba dhabihu kadhaa zilizoanzishwa katika Agano la Kale zilikuwa kwa ajili ya dhambi, ili mwanadamu apatanishwe na Mungu au na mwenzake. Hata hivyo, kuna njia yenye kutamanika zaidi!
 
 <!-- p106 -->
-<u>**<span class="x-scripture" data-type="ref" data-book="1 Samuel" data-chapter="15" data-verses="22" data-lang="sw" data-version="BHN">1 Samweli 15:22</span>**</u> (NKJV) *Basi Samweli akasema: "Je, BWANA ana furaha kuu katika sadaka za kuteketezwa na dhabihu, kama katika kuitii sauti ya BWANA? Tazama, kutii ni bora kuliko dhabihu, na kusikiliza kuliko mafuta ya kondoo waume."*
+<u>**<span class="x-scripture" data-book="1SA" data-chapter="15" data-lang="sw" data-type="ref" data-verses="22" data-version="BHN">1 Samweli 15:22</span>**</u> (NKJV) *Basi Samweli akasema: "Je, BWANA ana furaha kuu katika sadaka za kuteketezwa na dhabihu, kama katika kuitii sauti ya BWANA? Tazama, kutii ni bora kuliko dhabihu, na kusikiliza kuliko mafuta ya kondoo waume."*
 
 <!-- p107 -->
 Ukweli uliodumu tangu Agano la Kale ni kwamba utii ni bora kuliko dhabihu. Ni bora kufuata kwa usahihi kile tunachopaswa kufanya, kuliko kuhitaji kutoa dhabihu kufidia kile ambacho hatukukifanya kwa usahihi. Kwa bahati njema, kuna neema kutoka kwa Mungu tunapopotea njia, tukakosa shabaha (dhambi), na tunapohitaji kumrudia Mungu.
@@ -380,176 +356,146 @@ Ni muhimu sana katika maisha ya kila muumini kuimarisha imani (tumaini) kuelekea
 1.  **Baraka na Riziki**
 
 <!-- p112 -->
-<span class="x-scripture" data-type="fragment" data-book="Deuteronomy" data-chapter="28" data-verses="1-14" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="DEU" data-chapter="28" data-lang="sw" data-type="fragment" data-verses="1-14" data-version="BHN">
 <!-- p113 -->
-> **<u>Kumbukumbu la Sheria 28:1-14</u>** (BHN)
->
-> “Kama mkiitii sauti ya Mwenyezi-Mungu, Mungu wenu na kuzingatia kwa uangalifu amri ambazo ninawaamuru leo, yeye atawaweka juu ya mataifa yote duniani.
-> Kama mkitii sauti ya Mwenyezi-Mungu, Mungu wenu, mtapewa baraka zifuatazo;
-> “Miji yenu itabarikiwa na mashamba yenu.
-> “Mtabarikiwa mpate wazawa wengi, mavuno mengi, ng'ombe na kondoo wengi.
-> “Vikapu vyenu vya nafaka vitabarikiwa na vyombo vyenu vya kukandia.
-> Mtabarikiwa mnaporudi nyumbani na mnapotoka nje.
-> Maadui zenu wakiwashambulia, Bwana atawapeni ushindi juu yao. Wakija kuwashambulia kwa njia moja watawakimbieni kwa njia saba.
-> Baraka za Mwenyezi-Mungu zitakuwa katika ghala zenu za nafaka na katika shughuli zenu zote. Atawabariki katika nchi ambayo anawapeni.
-> “Mwenyezi-Mungu atawafanyeni kuwa watu wake watakatifu kama alivyowaahidi, kama mkizitii amri zake yeye Mwenyezi-Mungu, Mungu wenu, na kufuata njia zake.
-> Mataifa yote duniani yakiona kwamba nyinyi mnaitwa kwa jina la Mwenyezi-Mungu yatawaogopa.
-> Mwenyezi-Mungu atawafanikisha kwa wingi: Watoto, mifugo na mavuno shambani katika nchi aliyowaapia wazee wenu kuwa atawapeni,
-> Mwenyezi-Mungu atawafungulieni hazina yake nzuri kutoka mbinguni na kunyesha mvua katika nchi kwa wakati wake, na kubariki kazi zenu. Mtayakopesha mataifa mengi, lakini nyinyi hamtakopa.
-> Mwenyezi-Mungu, Mungu wenu, atawafanya kuwa wa kwanza kwa nguvu na sio wa mwisho. Mtaendelea mbele na sio kurudi nyuma kama mkishika amri zake ambazo ninawapeni leo na kuwa waangalifu kuzitekeleza,
-> bila kugeuka kulia au kushoto kuifuata miungu mingine na kuitumikia.
+&gt; **<u>Kumbukumbu la Sheria 28:1-14</u>** (BHN)
+&gt;
+&gt; “Kama mkiitii sauti ya Mwenyezi-Mungu, Mungu wenu na kuzingatia kwa uangalifu amri ambazo ninawaamuru leo, yeye atawaweka juu ya mataifa yote duniani.
+&gt; Kama mkitii sauti ya Mwenyezi-Mungu, Mungu wenu, mtapewa baraka zifuatazo;
+&gt; “Miji yenu itabarikiwa na mashamba yenu.
+&gt; “Mtabarikiwa mpate wazawa wengi, mavuno mengi, ng'ombe na kondoo wengi.
+&gt; “Vikapu vyenu vya nafaka vitabarikiwa na vyombo vyenu vya kukandia.
+&gt; Mtabarikiwa mnaporudi nyumbani na mnapotoka nje.
+&gt; Maadui zenu wakiwashambulia, Bwana atawapeni ushindi juu yao. Wakija kuwashambulia kwa njia moja watawakimbieni kwa njia saba.
+&gt; Baraka za Mwenyezi-Mungu zitakuwa katika ghala zenu za nafaka na katika shughuli zenu zote. Atawabariki katika nchi ambayo anawapeni.
+&gt; “Mwenyezi-Mungu atawafanyeni kuwa watu wake watakatifu kama alivyowaahidi, kama mkizitii amri zake yeye Mwenyezi-Mungu, Mungu wenu, na kufuata njia zake.
+&gt; Mataifa yote duniani yakiona kwamba nyinyi mnaitwa kwa jina la Mwenyezi-Mungu yatawaogopa.
+&gt; Mwenyezi-Mungu atawafanikisha kwa wingi: Watoto, mifugo na mavuno shambani katika nchi aliyowaapia wazee wenu kuwa atawapeni,
+&gt; Mwenyezi-Mungu atawafungulieni hazina yake nzuri kutoka mbinguni na kunyesha mvua katika nchi kwa wakati wake, na kubariki kazi zenu. Mtayakopesha mataifa mengi, lakini nyinyi hamtakopa.
+&gt; Mwenyezi-Mungu, Mungu wenu, atawafanya kuwa wa kwanza kwa nguvu na sio wa mwisho. Mtaendelea mbele na sio kurudi nyuma kama mkishika amri zake ambazo ninawapeni leo na kuwa waangalifu kuzitekeleza,
+&gt; bila kugeuka kulia au kushoto kuifuata miungu mingine na kuitumikia.
 
 
 <!-- p114 -->
 </span>
-
 <!-- p115 -->
 2.  **Uongozi na Hekima**
 
 <!-- p116 -->
-<span class="x-scripture" data-type="quote" data-book="Psalm" data-chapter="32" data-verses="8" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="Psalm" data-chapter="32" data-lang="sw" data-type="quote" data-verses="8" data-version="BHN">
 <!-- p117 -->
-> **<u>Zaburi 32:8</u>** (BHN)
->
-> Mungu asema: “Nitakufunza na kukuonesha njia unayopaswa kufuata. Nitakushauri kwa uangalifu mkubwa.
+&gt; **<u>Zaburi 32:8</u>** (BHN)
+&gt;
+&gt; Mungu asema: “Nitakufunza na kukuonesha njia unayopaswa kufuata. Nitakushauri kwa uangalifu mkubwa.
 
 
 <!-- p118 -->
 </span>
-
 <!-- p119 -->
 3.  **Maombi Yanayojibiwa**
 
 <!-- p120 -->
-<span class="x-scripture" data-type="quote" data-book="1 John" data-chapter="3" data-verses="22" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="1JN" data-chapter="3" data-lang="sw" data-type="quote" data-verses="22" data-version="BHN">
 <!-- p121 -->
-> **<u>1 Yohane 3:22</u>** (BHN)
->
-> na kupokea kwake chochote tunachoomba, maana tunazitii amri zake na kufanya yale yanayompendeza.
+&gt; **<u>1 Yohane 3:22</u>** (BHN)
+&gt;
+&gt; na kupokea kwake chochote tunachoomba, maana tunazitii amri zake na kufanya yale yanayompendeza.
 
 
 <!-- p122 -->
 </span>
-
 <!-- p123 -->
 4.  **Ulinzi na Usalama**
 
 <!-- p124 -->
-<span class="x-scripture" data-type="quote" data-book="Psalm" data-chapter="34" data-verses="7" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="Psalm" data-chapter="34" data-lang="sw" data-type="quote" data-verses="7" data-version="BHN">
 <!-- p125 -->
-> **<u>Zaburi 34:7</u>** (BHN)
->
-> Malaika wa Mwenyezi-Mungu huwalinda wote wamchao, na kuwaokoa katika hatari.
+&gt; **<u>Zaburi 34:7</u>** (BHN)
+&gt;
+&gt; Malaika wa Mwenyezi-Mungu huwalinda wote wamchao, na kuwaokoa katika hatari.
 
 
 <!-- p126 -->
 </span>
-
 <!-- p127 -->
 5.  **Furaha na Amani**
 
 <!-- p128 -->
-<span class="x-scripture" data-type="quote" data-book="Psalm" data-chapter="119" data-verses="165" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="Psalm" data-chapter="119" data-lang="sw" data-type="quote" data-verses="165" data-version="BHN">
 <!-- p129 -->
-> **<u>Zaburi 119:165</u>** (BHN)
->
-> Wapendao sheria yako wana amani kuu; hakuna kinachoweza kuwaangusha.
+&gt; **<u>Zaburi 119:165</u>** (BHN)
+&gt;
+&gt; Wapendao sheria yako wana amani kuu; hakuna kinachoweza kuwaangusha.
 
 
 <!-- p130 -->
 </span>
-
 <!-- p131 -->
 6.  **Kuzaa matunda na Ustawi**
 
 <!-- p132 -->
-<span class="x-scripture" data-type="quote" data-book="Isaiah" data-chapter="1" data-verses="19" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="ISA" data-chapter="1" data-lang="sw" data-type="quote" data-verses="19" data-version="BHN">
 <!-- p133 -->
-> **<u>Isaya 1:19</u>** (BHN)
->
-> Mkiwa tayari kunitii, mtakula mazao mema ya nchi.
+&gt; **<u>Isaya 1:19</u>** (BHN)
+&gt;
+&gt; Mkiwa tayari kunitii, mtakula mazao mema ya nchi.
 
 
 <!-- p134 -->
 </span>
-
 <!-- p135 -->
 7.  **Kibali cha Mungu**
 
 <!-- p136 -->
-<span class="x-scripture" data-type="quote" data-book="Psalm" data-chapter="37" data-verses="23-24" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="Psalm" data-chapter="37" data-lang="sw" data-type="quote" data-verses="23-24" data-version="BHN">
 <!-- p137 -->
-> **<u>Zaburi 37:23-24</u>** (BHN)
->
-> Mwenyezi-Mungu huziongoza nyayo za mtu, humlinda yule ampendezaye.
-> Ajapoanguka, haanguki akabaki chini, kwa sababu Mwenyezi-Mungu humtegemeza.
+&gt; **<u>Zaburi 37:23-24</u>** (BHN)
+&gt;
+&gt; Mwenyezi-Mungu huziongoza nyayo za mtu, humlinda yule ampendezaye.
+&gt; Ajapoanguka, haanguki akabaki chini, kwa sababu Mwenyezi-Mungu humtegemeza.
 
 
 <!-- p138 -->
 </span>
-
 <!-- p139 -->
 8.  **Nguvu na Uvumilivu**
 
 <!-- p140 -->
-<span class="x-scripture" data-type="fragment" data-book="Isaiah" data-chapter="40" data-verses="31" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="ISA" data-chapter="40" data-lang="sw" data-type="fragment" data-verses="31" data-version="BHN">
 <!-- p141 -->
-> **<u>Isaya 40:31</u>** (BHN)
->
-> Lakini wote wanaomtumainia Mwenyezi-Mungu, watapata nguvu mpya. Watapanda juu kwa mabawa kama tai; watakimbia bila kuchoka; watatembea bila kulegea.
+&gt; **<u>Isaya 40:31</u>** (BHN)
+&gt;
+&gt; Lakini wote wanaomtumainia Mwenyezi-Mungu, watapata nguvu mpya. Watapanda juu kwa mabawa kama tai; watakimbia bila kuchoka; watatembea bila kulegea.
 
 
 <!-- p142 -->
 </span>
-
 <!-- p143 -->
 9.  **Baraka kwa Vizazi Vijavyo**
 
 <!-- p144 -->
-<span class="x-scripture" data-type="quote" data-book="Exodus" data-chapter="20" data-verses="6" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="EXO" data-chapter="20" data-lang="sw" data-type="quote" data-verses="6" data-version="BHN">
 <!-- p145 -->
-> **<u>Kutoka 20:6</u>** (BHN)
->
-> Lakini nawafadhili maelfu ya wale wanipendao na kuzishika amri zangu.
+&gt; **<u>Kutoka 20:6</u>** (BHN)
+&gt;
+&gt; Lakini nawafadhili maelfu ya wale wanipendao na kuzishika amri zangu.
 
 
 <!-- p146 -->
 </span>
-
 <!-- p147 -->
 10. **Uzima wa Milele**
 
 <!-- p148 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="2" data-verses="7" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="ROM" data-chapter="2" data-lang="sw" data-type="quote" data-verses="7" data-version="BHN">
 <!-- p149 -->
-> **<u>Waroma 2:7</u>** (BHN)
->
-> Wale wanaozingatia kutenda mema, kutafuta utukufu na heshima ya Mungu na kutokufa, watapata uhai wa milele.
+&gt; **<u>Waroma 2:7</u>** (BHN)
+&gt;
+&gt; Wale wanaozingatia kutenda mema, kutafuta utukufu na heshima ya Mungu na kutokufa, watapata uhai wa milele.
 
 
 <!-- p150 -->
 </span>
-
 <!-- p151 -->
 Kila mojawapo ya baraka hizo ni kwa neema ya Mungu; hatuwezi kuzipata kwa stahili, lakini tunaweza kuenenda ndani yao kupitia utiifu wetu Kwake, ambao unasukumwa na kuwezeshwa na uhusiano wetu wa kumtumaini Yeye.
 
@@ -578,22 +524,22 @@ Ni lazima ujitokeze kwa uthabiti, ujifunue (kuwasiliana) wewe mwenyewe (mawazo n
 Zaidi ya ujuzi wa msingi wa mahusiano, kuna mazoea na nidhamu mahususi zitakazotia nguvu uhusiano wako na Mungu:
 
 <!-- p160 -->
-- **Jenga na Kudumisha Maisha ya Maombi, Sikiliza na Wasiliana na Mungu.** Maombi ya mara kwa mara na ya moyoni ni muhimu kwa uhusiano wa karibu na Mungu. Kupitia maombi, unaweza kushiriki wasiwasi wako, furaha zako, na shukrani zako, ukitafuta mwongozo na nguvu Zake. (*<span class="x-scripture" data-type="ref" data-book="Philippians" data-chapter="4" data-verses="6-7" data-lang="sw" data-version="BHN">Wafilipi 4:6-7</span>*) Kuwa nyeti kwa sauti ya Roho Mtakatifu hukusaidia kutambua mapenzi ya Mungu, kupata hekima katika maamuzi, na kukua katika ukomavu wa kiroho. Tenga muda wa tafakari ya utulivu ili kusikia mwelekeo Wake. (*<span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="8" data-verses="14" data-lang="sw" data-version="BHN">Warumi 8:14</span>*)
+- **Jenga na Kudumisha Maisha ya Maombi, Sikiliza na Wasiliana na Mungu.** Maombi ya mara kwa mara na ya moyoni ni muhimu kwa uhusiano wa karibu na Mungu. Kupitia maombi, unaweza kushiriki wasiwasi wako, furaha zako, na shukrani zako, ukitafuta mwongozo na nguvu Zake. (*<span class="x-scripture" data-book="PHP" data-chapter="4" data-lang="sw" data-type="ref" data-verses="6-7" data-version="BHN">Wafilipi 4:6-7</span>*) Kuwa nyeti kwa sauti ya Roho Mtakatifu hukusaidia kutambua mapenzi ya Mungu, kupata hekima katika maamuzi, na kukua katika ukomavu wa kiroho. Tenga muda wa tafakari ya utulivu ili kusikia mwelekeo Wake. (*<span class="x-scripture" data-book="ROM" data-chapter="8" data-lang="sw" data-type="ref" data-verses="14" data-version="BHN">Warumi 8:14</span>*)
 
 <!-- p161 -->
-- **Tumia Muda katika Ibada.** Ibada ni njia yenye nguvu ya kumkaribia Mungu, ikionyesha upendo na heshima. Kupitia sifa, wimbo, au tafakari ya utulivu, ibada huongeza ufahamu wako wa uwepo Wake. (*<span class="x-scripture" data-type="ref" data-book="Psalm" data-chapter="100" data-verses="2-4" data-lang="sw" data-version="BHN">Zaburi 100:2-4</span>*)
+- **Tumia Muda katika Ibada.** Ibada ni njia yenye nguvu ya kumkaribia Mungu, ikionyesha upendo na heshima. Kupitia sifa, wimbo, au tafakari ya utulivu, ibada huongeza ufahamu wako wa uwepo Wake. (*<span class="x-scripture" data-book="Psalm" data-chapter="100" data-lang="sw" data-type="ref" data-verses="2-4" data-version="BHN">Zaburi 100:2-4</span>*)
 
 <!-- p162 -->
-- **Soma, Jifunze, na Tafakari Maandiko.** Neno la Mungu hufunua tabia Yake, ahadi Zake, na maagizo Yake ya maisha. Kutenga muda wa kujifunza Maandiko hukusaidia kukua katika imani, uelewa, na ustahimilivu wa kiroho. (*<span class="x-scripture" data-type="ref" data-book="2 Timothy" data-chapter="3" data-verses="16-17" data-lang="sw" data-version="BHN">2 Timotheo 3:16-17</span>*)
+- **Soma, Jifunze, na Tafakari Maandiko.** Neno la Mungu hufunua tabia Yake, ahadi Zake, na maagizo Yake ya maisha. Kutenga muda wa kujifunza Maandiko hukusaidia kukua katika imani, uelewa, na ustahimilivu wa kiroho. (*<span class="x-scripture" data-book="2TI" data-chapter="3" data-lang="sw" data-type="ref" data-verses="16-17" data-version="BHN">2 Timotheo 3:16-17</span>*)
 
 <!-- p163 -->
-- **Tii Amri Zake.** Utii kwa maagizo ya Mungu unaonyesha upendo wako, heshima, na kumtumainia Yeye. Kutembea katika utii kunaoanisha maisha yako na kusudi Lake na huleta baraka. (*<span class="x-scripture" data-type="ref" data-book="John" data-chapter="14" data-verses="15" data-lang="sw" data-version="BHN">Yohana 14:15</span>*)
+- **Tii Amri Zake.** Utii kwa maagizo ya Mungu unaonyesha upendo wako, heshima, na kumtumainia Yeye. Kutembea katika utii kunaoanisha maisha yako na kusudi Lake na huleta baraka. (*<span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="sw" data-type="ref" data-verses="15" data-version="BHN">Yohana 14:15</span>*)
 
 <!-- p164 -->
-- **Hudhuria kwa bidii kanisa la eneo na hudumu.** Kujihusisha na jumuiya ya kanisa kunatoa msaada wa kiroho, kutiwa moyo, na fursa za kuhudumia wengine. Kushiriki kunasaidia kujenga hisia ya kuhusika na kunaimarisha kujitolea kwako kwa misheni ya Mungu. (*<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="10" data-verses="24-25" data-lang="sw" data-version="BHN">Waebrania 10:24-25</span>*)
+- **Hudhuria kwa bidii kanisa la eneo na hudumu.** Kujihusisha na jumuiya ya kanisa kunatoa msaada wa kiroho, kutiwa moyo, na fursa za kuhudumia wengine. Kushiriki kunasaidia kujenga hisia ya kuhusika na kunaimarisha kujitolea kwako kwa misheni ya Mungu. (*<span class="x-scripture" data-book="HEB" data-chapter="10" data-lang="sw" data-type="ref" data-verses="24-25" data-version="BHN">Waebrania 10:24-25</span>*)
 
 <!-- p165 -->
-- **Jenga Mahusiano na Waamini Wengine.** Ushirika na Wakristo wengine hutoa uwajibikaji, utia moyo, na hekima ya pamoja. Mahusiano haya yanaboresha safari yako ya imani na hukusaidia kukua kupitia msaada wa pamoja. (*<span class="x-scripture" data-type="ref" data-book="Proverbs" data-chapter="27" data-verses="17" data-lang="sw" data-version="BHN">Mithali 27:17</span>*)
+- **Jenga Mahusiano na Waamini Wengine.** Ushirika na Wakristo wengine hutoa uwajibikaji, utia moyo, na hekima ya pamoja. Mahusiano haya yanaboresha safari yako ya imani na hukusaidia kukua kupitia msaada wa pamoja. (*<span class="x-scripture" data-book="PRO" data-chapter="27" data-lang="sw" data-type="ref" data-verses="17" data-version="BHN">Mithali 27:17</span>*)
 
 <!-- p166 -->
 Our ‘imani kuelekea Mungu’ si tukio la mara moja kwa ajili ya wokovu bali ni mazoezi endelevu na uhusiano tunaopaswa kuukuza maisha yetu yote. Faida za uhusiano wa kuamini na wenye manufaa ni nyingi sana, lakini ni lazima tufanye kazi njema ya kukuza uaminifu huo na ukuaji ili ustaawi.
@@ -623,7 +569,7 @@ Our ‘imani kuelekea Mungu’ si tukio la mara moja kwa ajili ya wokovu bali ni
 1.  **Swali la Kuvunja Barafu:** “Unapomfikiria mtu mwenye imani kubwa, nani anakujia akilini na kwa nini?”
 
 <!-- p175 -->
-2.  **Kuchunguza Maandiko:** Soma <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="10" data-verses="17" data-lang="sw" data-version="BHN">Warumi 10:17</span>. Aya hii inatufundisha nini kuhusu jinsi imani inavyokua? Tunawezaje kuitekeleza katika maisha yetu ya kila siku?
+2.  **Kuchunguza Maandiko:** Soma <span class="x-scripture" data-book="ROM" data-chapter="10" data-lang="sw" data-type="ref" data-verses="17" data-version="BHN">Warumi 10:17</span>. Aya hii inatufundisha nini kuhusu jinsi imani inavyokua? Tunawezaje kuitekeleza katika maisha yetu ya kila siku?
 
 <!-- p176 -->
 3.  **Imani Katika Matendo:** Imani kuzalisha utii inamaanisha nini? Shirikisha mifano ya jinsi utii ulivyoimarisha imani yako au safari ya imani ya mtu mwingine.

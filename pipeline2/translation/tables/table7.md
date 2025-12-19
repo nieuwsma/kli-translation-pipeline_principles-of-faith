@@ -1,9 +1,9 @@
 <!-- p0 -->
 <table style="width:97%;">
 <colgroup>
-<col style="width: 31%" />
-<col style="width: 29%" />
-<col style="width: 35%" />
+<col style="width: 31%"/>
+<col style="width: 29%"/>
+<col style="width: 35%"/>
 </colgroup>
 <thead>
 <tr>
@@ -56,10 +56,10 @@
 <p><strong>Mifano katika Maandiko</strong></p>
 </blockquote></td>
 <td><blockquote>
-<p>Mamlaka ya Yesu ya kusamehe dhambi (<em><span class="x-scripture" data-type="ref" data-book="Mark" data-chapter="2" data-verses="10" data-lang="en" data-version="NKJV">Marko 2:10</span></em>).</p>
+<p>Mamlaka ya Yesu ya kusamehe dhambi (<em><span class="x-scripture" data-book="MRK" data-chapter="2" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV">Marko 2:10</span></em>).</p>
 </blockquote></td>
 <td><blockquote>
-<p>Matendo ya kimiujiza ya Yesu kupitia Roho Mtakatifu (<em><span class="x-scripture" data-type="ref" data-book="Luke" data-chapter="6" data-verses="19" data-lang="en" data-version="NKJV">Luka 6:19</span></em>).</p>
+<p>Matendo ya kimiujiza ya Yesu kupitia Roho Mtakatifu (<em><span class="x-scripture" data-book="LUK" data-chapter="6" data-lang="en" data-type="ref" data-verses="19" data-version="NKJV">Luka 6:19</span></em>).</p>
 </blockquote></td>
 </tr>
 <tr>
@@ -86,4 +86,3 @@
 </tr>
 </tbody>
 </table>
-

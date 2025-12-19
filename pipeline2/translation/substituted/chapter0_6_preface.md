@@ -17,7 +17,7 @@ Tunatumia maneno, istilahi, na misemo kubadilisha wazo ghafi kutoka lenye umbo l
 Hadi sasa, tumezungumzia tu mwanzilishi na mwandishi wa wazo. Ili wazo liwe na manufaa, mpokeaji lazima alipokee, alitafsiri, na alielewe ujumbe kwa usahihi. Ujumbe uliotumwa na uliopokelewa unapaswa kuendana kwa karibu.
 
 <!-- p6 -->
-Kila kazi kubwa ya kibinadamu ni zao linalotokana na mawasiliano yenye ufanisi. Kazi ya mtu mmoja inaweza kufanikisha kiasi kidogo tu. Ili kweli kujenga au kutekeleza kitu kikubwa, watu wengi (nikizungumza hapa kwa ujumla kuhusu wanadamu) lazima wafanye kazi pamoja kwa kusudi la pamoja, wakiwa na wazo la pamoja. Isipokuwa majanga yanayotokea kiasili (kama mlipuko wa volkano) tunajua pia kwamba maafa makubwa zaidi yaliyowahi kutokea kwa kiasi kikubwa yalitokea kwa sababu ya mawasiliano kukosekana, kuvunjika au kupotoshwa. Kweli uzima na mauti ziko katika uwezo wa ulimi (<span class="x-scripture" data-type="ref" data-book="Proverbs" data-chapter="18" data-verses="21" data-lang="sw" data-version="BHN">Mithali 18:21</span>).
+Kila kazi kubwa ya kibinadamu ni zao linalotokana na mawasiliano yenye ufanisi. Kazi ya mtu mmoja inaweza kufanikisha kiasi kidogo tu. Ili kweli kujenga au kutekeleza kitu kikubwa, watu wengi (nikizungumza hapa kwa ujumla kuhusu wanadamu) lazima wafanye kazi pamoja kwa kusudi la pamoja, wakiwa na wazo la pamoja. Isipokuwa majanga yanayotokea kiasili (kama mlipuko wa volkano) tunajua pia kwamba maafa makubwa zaidi yaliyowahi kutokea kwa kiasi kikubwa yalitokea kwa sababu ya mawasiliano kukosekana, kuvunjika au kupotoshwa. Kweli uzima na mauti ziko katika uwezo wa ulimi (<span class="x-scripture" data-book="PRO" data-chapter="18" data-lang="sw" data-type="ref" data-verses="21" data-version="BHN">Mithali 18:21</span>).
 
 <!-- p7 -->
 Tunachoamini na jinsi tunavyokiwasilisha kina uwezo wa kujenga mtu, familia, jamii, taifa, au pia kina uwezo wa kuwaharibu vivyo hivyo. Tunachoamini ndicho msingi wa matendo yetu na ni ramani ya kile tutakachofanya, tutakavyokuwa, na jinsi tutakavyoishi. Kwa kuwa imani huonyeshwa kupitia matendo na mawasiliano, hufafanua jukumu tunalocheza katika uwepo. Imani zetu huunda si tu maisha yetu, bali pia kwa kiwango fulani maisha ya kila mtu aliye karibu nasi.
@@ -26,25 +26,22 @@ Tunachoamini na jinsi tunavyokiwasilisha kina uwezo wa kujenga mtu, familia, jam
 Lazima tuiweke imani yetu kwa usahihi na tujifunze kuishiriki kwa ufanisi. Yesu alisema hivyo alipowaambia wanafunzi Wake:
 
 <!-- p9 -->
-<span class="x-scripture" data-type="fragment" data-book="Matthew" data-chapter="28" data-verses="18-20" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="MAT" data-chapter="28" data-lang="sw" data-type="fragment" data-verses="18-20" data-version="BHN">
 <!-- p10 -->
-> **<u>Mathayo 28:18-20</u>** (BHN)
->
-> Yesu akaja karibu, akawaambia, “Nimepewa mamlaka yote mbinguni na duniani.
-> Nendeni basi, mkawafanye watu wa mataifa yote wawe wanafunzi wangu, mkiwabatiza kwa jina la Baba, na la Mwana, na la Roho Mtakatifu.
-> Wafundisheni kushika maagizo yote niliyowapeni. Nami nipo pamoja nanyi siku zote; naam, mpaka mwisho wa nyakati.”
+&gt; **<u>Mathayo 28:18-20</u>** (BHN)
+&gt;
+&gt; Yesu akaja karibu, akawaambia, “Nimepewa mamlaka yote mbinguni na duniani.
+&gt; Nendeni basi, mkawafanye watu wa mataifa yote wawe wanafunzi wangu, mkiwabatiza kwa jina la Baba, na la Mwana, na la Roho Mtakatifu.
+&gt; Wafundisheni kushika maagizo yote niliyowapeni. Nami nipo pamoja nanyi siku zote; naam, mpaka mwisho wa nyakati.”
 
 
 <!-- p11 -->
 </span>
-
 <!-- p12 -->
 Waumini wengi leo wanatamani imani iliyo imara zaidi lakini wanakosa msingi ulio wazi wa kujengea. Bila mafundisho thabiti, tunakosa msingi imara tunaohitaji kusimama kwa uthabiti; tunahatarisha kuyumbishwa na mafundisho ya uongo, kukatishwa tamaa katika majaribu, au kutokuwa tayari kwa kazi ambayo Mungu ametuita kuifanya. Kitabu hiki kimeundwa ili kukuandaa kwa mafundisho ya msingi ya Maandiko-kweli zinazotia nguvu imani yako, kuimarisha mwendo wako pamoja na Kristo, na kukuwezesha kuishi maisha yaliyojazwa Roho.
 
 <!-- p13 -->
-Mtume Paulo aliwasihi waamini wawe “wakishamiri mizizi na kujengwa ndani Yake na kuthibitishwa katika imani” (<span class="x-scripture" data-type="ref" data-book="Colossians" data-chapter="2" data-verses="7" data-lang="sw" data-version="BHN">Wakolosai 2:7</span>). Ili kukua na kuwa waamini waliokomaa wanaoongozwa na Roho, lazima kwanza tuwe na mizizi mirefu katika kweli ya Mungu. Hii ndiyo sababu mafundisho ni muhimu. Ni zaidi ya taarifa; ni muundo unaounda jinsi tunavyoishi na kuitikia Mungu.
+Mtume Paulo aliwasihi waamini wawe “wakishamiri mizizi na kujengwa ndani Yake na kuthibitishwa katika imani” (<span class="x-scripture" data-book="COL" data-chapter="2" data-lang="sw" data-type="ref" data-verses="7" data-version="BHN">Wakolosai 2:7</span>). Ili kukua na kuwa waamini waliokomaa wanaoongozwa na Roho, lazima kwanza tuwe na mizizi mirefu katika kweli ya Mungu. Hii ndiyo sababu mafundisho ni muhimu. Ni zaidi ya taarifa; ni muundo unaounda jinsi tunavyoishi na kuitikia Mungu.
 
 <!-- p14 -->
 ## Kwa Nini Kitabu Hiki, Ni Kwa Ajili ya Nani?
@@ -92,19 +89,16 @@ Hebu tuchunguze kila kipengele kwa undani zaidi kidogo:
 ### Roho Mtakatifu
 
 <!-- p29 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="16" data-verses="13-14" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="sw" data-type="quote" data-verses="13-14" data-version="BHN">
 <!-- p30 -->
-> **<u>Yohane 16:13-14</u>** (BHN)
->
-> Lakini atakapokuja huyo Roho wa ukweli atawaongoza kwenye ukweli wote; maana hatasema kwa mamlaka yake mwenyewe, bali atasema atakayoyasikia na kuwajulisheni yatakayokuja.
-> Yeye atanitukuza mimi kwa kuwa atawajulisheni yale atakayopata kutoka kwangu.
+&gt; **<u>Yohane 16:13-14</u>** (BHN)
+&gt;
+&gt; Lakini atakapokuja huyo Roho wa ukweli atawaongoza kwenye ukweli wote; maana hatasema kwa mamlaka yake mwenyewe, bali atasema atakayoyasikia na kuwajulisheni yatakayokuja.
+&gt; Yeye atanitukuza mimi kwa kuwa atawajulisheni yale atakayopata kutoka kwangu.
 
 
 <!-- p31 -->
 </span>
-
 <!-- p32 -->
 Mungu, kupitia Roho Mtakatifu, alihamasisha Maandiko yote yaliyoandikwa, lakini kazi ya Mungu haijaisha! Tunaposoma na kujifunza Maandiko, huyo huyo Roho Mtakatifu aliyeuyaandika, huangaza masomo yetu, na hutupa uelewa! Roho Mtakatifu ni Mfariji wetu na Msaidizi wetu, na jukumu Lake halijabadilika leo. Anatusaidia kuyaelewa Maandiko na kutembea katika kweli pamoja Naye.
 
@@ -112,106 +106,84 @@ Mungu, kupitia Roho Mtakatifu, alihamasisha Maandiko yote yaliyoandikwa, lakini 
 ### Maandiko
 
 <!-- p34 -->
-<span class="x-scripture" data-type="quote" data-book="2 Timothy" data-chapter="3" data-verses="16" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="2TI" data-chapter="3" data-lang="sw" data-type="quote" data-verses="16" data-version="BHN">
 <!-- p35 -->
-> **<u>2 Timotheo 3:16</u>** (BHN)
->
-> Maandiko yote Matakatifu yameandikwa kwa uongozi wa Mungu, na yanafaa katika kufundishia ukweli, kuonya, kusahihisha makosa, na kuwaongoza watu waishi maisha adili,
+&gt; **<u>2 Timotheo 3:16</u>** (BHN)
+&gt;
+&gt; Maandiko yote Matakatifu yameandikwa kwa uongozi wa Mungu, na yanafaa katika kufundishia ukweli, kuonya, kusahihisha makosa, na kuwaongoza watu waishi maisha adili,
 
 
 <!-- p36 -->
 </span>
-
 <!-- p37 -->
 Mkusanyiko wa maandiko tulio nao leo unaakisi maneno yaliyoandikwa ya Mungu. Mungu, kwa Roho Wake, aliwahamasisha watu fulani walioteuliwa na kuwafunulia maneno Yake. Katika kipindi cha mwanzo, kabla ya Musa, si mambo mengi yaliandikwa rasmi; badala yake, mapokeo ya mdomo yaliihifadhi sehemu kubwa ya mwingiliano wa Mungu na wanadamu kwa karne nyingi. Maandiko yanabainisha kwamba Mungu alimtumia Musa kuandika Torati (vitabu vitano vya kwanza vya Agano la Kale), jambo lililoashiria mwanzo wa rekodi iliyoandikwa kwa namna rasmi zaidi ya maagizo ya Mungu na agano Lake na watu Wake.
 
 <!-- p38 -->
-<span class="x-scripture" data-type="quote" data-book="Exodus" data-chapter="24" data-verses="4" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="EXO" data-chapter="24" data-lang="sw" data-type="quote" data-verses="4" data-version="BHN">
 <!-- p39 -->
-> **<u>Kutoka 24:4</u>** (BHN)
->
-> Mose akayaandika maagizo yote ambayo Mwenyezi-Mungu alimpa. Kisha akaamka asubuhi na mapema, akajenga madhabahu chini ya mlima na kusimamisha nguzo kumi na mbili kulingana na idadi ya makabila kumi na mbili ya Israeli.
+&gt; **<u>Kutoka 24:4</u>** (BHN)
+&gt;
+&gt; Mose akayaandika maagizo yote ambayo Mwenyezi-Mungu alimpa. Kisha akaamka asubuhi na mapema, akajenga madhabahu chini ya mlima na kusimamisha nguzo kumi na mbili kulingana na idadi ya makabila kumi na mbili ya Israeli.
 
 
 <!-- p40 -->
 </span>
-
 <!-- p41 -->
-<span class="x-scripture" data-type="quote" data-book="Numbers" data-chapter="33" data-verses="2" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="NUM" data-chapter="33" data-lang="sw" data-type="quote" data-verses="2" data-version="BHN">
 <!-- p42 -->
-> **<u>Hesabu 33:2</u>** (BHN)
->
-> Mose aliandika jina la kila mahali walipopiga kambi, kituo baada ya kituo, kwa agizo la Mwenyezi-Mungu.
+&gt; **<u>Hesabu 33:2</u>** (BHN)
+&gt;
+&gt; Mose aliandika jina la kila mahali walipopiga kambi, kituo baada ya kituo, kwa agizo la Mwenyezi-Mungu.
 
 
 <!-- p43 -->
 </span>
-
 <!-- p44 -->
-<span class="x-scripture" data-type="fragment" data-book="Deuteronomy" data-chapter="31" data-verses="9,11" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="DEU" data-chapter="31" data-lang="sw" data-type="fragment" data-verses="9,11" data-version="BHN">
 <!-- p45 -->
-> **<u>Kumbukumbu la Sheria 31:9,11</u>** (BHN)
->
-> Basi, Mose aliandika sheria hiyo, akawapa makuhani wa ukoo wa Lawi ambao walikuwa na jukumu la kubeba agano la Mwenyezi-Mungu, na wazee wote wa Israeli.
-> wakati watu wa Israeli wanapokuja mbele ya Mwenyezi-Mungu mahali pale atakapochagua mtawasomea watu wote wa Israeli sheria hii.
+&gt; **<u>Kumbukumbu la Sheria 31:9,11</u>** (BHN)
+&gt;
+&gt; Basi, Mose aliandika sheria hiyo, akawapa makuhani wa ukoo wa Lawi ambao walikuwa na jukumu la kubeba agano la Mwenyezi-Mungu, na wazee wote wa Israeli.
+&gt; wakati watu wa Israeli wanapokuja mbele ya Mwenyezi-Mungu mahali pale atakapochagua mtawasomea watu wote wa Israeli sheria hii.
 
 
 <!-- p46 -->
 </span>
-
 <!-- p47 -->
 Kadiri historia ilivyoendelea, Mungu alidumisha uhusiano wake na watu wake, na manabii, viongozi, na waandishi mbalimbali walirekodi mwingiliano na mafundisho haya. Mchakato huu ulisababisha kile tunachokitambua sasa kama Agano la Kale.
 
 <!-- p48 -->
-<span class="x-scripture" data-type="quote" data-book="Isaiah" data-chapter="30" data-verses="8" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="ISA" data-chapter="30" data-lang="sw" data-type="quote" data-verses="8" data-version="BHN">
 <!-- p49 -->
-> **<u>Isaya 30:8</u>** (BHN)
->
-> Mungu aliniambia: “Sasa chukua kibao cha kuandikia, uandike jambo hili mbele yao, liwe ushahidi wa milele:
+&gt; **<u>Isaya 30:8</u>** (BHN)
+&gt;
+&gt; Mungu aliniambia: “Sasa chukua kibao cha kuandikia, uandike jambo hili mbele yao, liwe ushahidi wa milele:
 
 
 <!-- p50 -->
 </span>
-
 <!-- p51 -->
-<x-scripture ref="<span class=&quot;x-scripture&quot; data-type=&quot;ref&quot; data-book=&quot;John&quot; data-chapter=&quot;8&quot; data-verses=&quot;31-35&quot; data-lang=&quot;en&quot; data-version=&quot;NKJV&quot;>John 8:31-35</span>" type="quote" version="NKJV" id="p34-1"/>
-
+<x-scripture id="p34-1" ref='&lt;span class="x-scripture" data-type="ref" data-book="John" data-chapter="8" data-verses="31-35" data-lang="en" data-version="NKJV"&gt;John 8:31-35&lt;/span&gt;' type="quote" version="NKJV"></x-scripture>
 <!-- p52 -->
-<span class="x-scripture" data-type="quote" data-book="Jeremiah" data-chapter="36" data-verses="2" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="JER" data-chapter="36" data-lang="sw" data-type="quote" data-verses="2" data-version="BHN">
 <!-- p53 -->
-> **<u>Yeremia 36:2</u>** (BHN)
->
-> “Chukua kitabu uandike humo maneno yote niliyokuambia juu ya Israeli, juu ya Yuda na mataifa yote, tangu siku nilipoanza kuongea nawe, wakati Yosia alipokuwa mfalme mpaka leo.
+&gt; **<u>Yeremia 36:2</u>** (BHN)
+&gt;
+&gt; “Chukua kitabu uandike humo maneno yote niliyokuambia juu ya Israeli, juu ya Yuda na mataifa yote, tangu siku nilipoanza kuongea nawe, wakati Yosia alipokuwa mfalme mpaka leo.
 
 
 <!-- p54 -->
 </span>
-
 <!-- p55 -->
-<span class="x-scripture" data-type="quote" data-book="Habakkuk" data-chapter="2" data-verses="2" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="HAB" data-chapter="2" data-lang="sw" data-type="quote" data-verses="2" data-version="BHN">
 <!-- p56 -->
-> **<u>Habakuki 2:2</u>** (BHN)
->
-> Kisha, Mwenyezi-Mungu akanijibu hivi: “Yaandike maono haya; yaandike wazi juu ya vibao, anayepitia hapo apate kuyasoma.
+&gt; **<u>Habakuki 2:2</u>** (BHN)
+&gt;
+&gt; Kisha, Mwenyezi-Mungu akanijibu hivi: “Yaandike maono haya; yaandike wazi juu ya vibao, anayepitia hapo apate kuyasoma.
 
 
 <!-- p57 -->
 </span>
-
 <!-- p58 -->
 Baada ya huduma ya Yesu, mashahidi wengi wa macho na mitume walinakili simulizi za maisha yake, huduma yake, kifo chake, na ufufuo wake. Pia waliandika barua, au waraka, zilizoshughulikia masuala ya mafundisho na ya vitendo ndani ya jumuiya za kwanza za Kikristo. Maandishi haya, yaliyoongozwa na Mungu, yaliandikwa kwa uangalifu, yakakusanywa, na kuhifadhiwa kwa karne nyingi, na hivyo kuunda kile kinachojulikana sasa kama Biblia.
 
@@ -222,7 +194,7 @@ Kwa ujumla, tutatumia tafsiri ya NKJV lakini pia tunaweza kutumia tafsiri tofaut
 Ninapendekeza kwa dhati utumie tafsiri nyingi iwezekanavyo, ili kuhakikisha wazo linaeleweka wazi akilini mwako. Mimi binafsi huona tafsiri kama Biblia ya Amplified zina manufaa, si kwa usahihi wake wa moja kwa moja wa maandishi, bali kunisaidia kuelewa kwa Kiingereza rahisi kile ambacho Maandiko yanawasilisha.
 
 <!-- p61 -->
-Tutatenga muda kuchunguza baadhi ya maneno muhimu ya Biblia (**masomo ya maneno**) ili tuweze kuelewa vyema kile Mungu anasema na jinsi yanavyotumika katika maisha yetu. Ninapendekeza ujifunze kutumia rasilimali za Biblia za kielektroniki kama: E-Sword (<https://www.e-sword.net/>), au Blue Letter Bible ([<u>https://www.blueletterbible.org/</u>](https://www.blueletterbible.org/)). Rasilimali kama hizi pia zitakupa ufikiaji wa Strong’s Concordance.
+Tutatenga muda kuchunguza baadhi ya maneno muhimu ya Biblia (**masomo ya maneno**) ili tuweze kuelewa vyema kile Mungu anasema na jinsi yanavyotumika katika maisha yetu. Ninapendekeza ujifunze kutumia rasilimali za Biblia za kielektroniki kama: E-Sword (<https: www.e-sword.net=""></https:>), au Blue Letter Bible ([<u>https://www.blueletterbible.org/</u>](https://www.blueletterbible.org/)). Rasilimali kama hizi pia zitakupa ufikiaji wa Strong’s Concordance.
 
 <!-- p62 -->
 Strong’s Concordance hutusaidia kuelewa kile Biblia ilikusudia katika lugha yake asili, ili tuweze kusikia kwa uwazi zaidi kile Mungu anasema. Agano la Kale (wakati mwingine hufupishwa kuwa OT katika kitabu hiki) liliandikwa kwa Kiebrania. Agano Jipya (wakati mwingine hufupishwa kuwa NT katika kitabu hiki) liliandikwa kwa Kigiriki. Nambari ya Strong itaonyeshwa: **Hxxx** (Kiebrania) au **Gyyy** (Kigiriki).
@@ -231,18 +203,15 @@ Strong’s Concordance hutusaidia kuelewa kile Biblia ilikusudia katika lugha ya
 ### Mafundisho ya Kanisa
 
 <!-- p64 -->
-<span class="x-scripture" data-type="quote" data-book="Matthew" data-chapter="28" data-verses="20" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="MAT" data-chapter="28" data-lang="sw" data-type="quote" data-verses="20" data-version="BHN">
 <!-- p65 -->
-> **<u>Mathayo 28:20</u>** (BHN)
->
-> Wafundisheni kushika maagizo yote niliyowapeni. Nami nipo pamoja nanyi siku zote; naam, mpaka mwisho wa nyakati.”
+&gt; **<u>Mathayo 28:20</u>** (BHN)
+&gt;
+&gt; Wafundisheni kushika maagizo yote niliyowapeni. Nami nipo pamoja nanyi siku zote; naam, mpaka mwisho wa nyakati.”
 
 
 <!-- p66 -->
 </span>
-
 <!-- p67 -->
 Mafundisho ninayowasilisha katika kitabu hiki si mapya wala ya kipekee. Tunapaswa kuwa na shaka kuhusu mafundisho ‘mapya’ ambayo hayajawahi kuonekana au kusikika yanayohusu imani yetu ya Kikristo. Badala yake, kitabu hiki ni mkusanyiko na ufafanuzi wa mafundisho yaliyokuwapo tangu mwanzo.
 
@@ -250,5 +219,5 @@ Mafundisho ninayowasilisha katika kitabu hiki si mapya wala ya kipekee. Tunapasw
 Kitabu hiki si utafiti wa historia ya kanisa, wala si ulinganisho wa madhehebu ya Kikristo. Chukua vitabu viwili vyovyote vya teolojia vilivyoandikwa na waandishi tofauti wenye misingi tofauti ya kimadhehebu na ingawa utaona maelewano makubwa katika sehemu nyingi za kazi zao, utaona mgawanyiko unaoonekana. Sitadai kutokukosea, lakini nitadai kwamba kazi hii imechunguzwa kwa kina, imepitiwa na wenzao na wanaume na wanawake waaminifu (tazama sehemu ya Shukrani), na inaungwa mkono vema na Maandiko na mapokeo ya Kipentekoste yanayokubalika sana.
 
 <!-- p69 -->
-Nakusihi usome Maandiko mwenyewe na kujitolea kuyaimudu. Neno la Mungu linaahidi kwamba tunapomtafuta, tutampata (<span class="x-scripture" data-type="ref" data-book="Jeremiah" data-chapter="29" data-verses="13" data-lang="sw" data-version="BHN">Yeremia 29:13</span>). Ninakualika ulikaribie kitabu hiki kwa imani na matarajio. Unapoendelea kupitia mafundisho haya, ninaomba usikue tu katika uelewa bali pia uishuhudie nguvu za Roho Mtakatifu zikifanya kazi ndani yako na kupitia kwako. Tumaini langu ni kwamba utarejeshwa, utaimarishwa, na kutiwa uwezo kutimiza kusudi la Mungu katika maisha yako.
+Nakusihi usome Maandiko mwenyewe na kujitolea kuyaimudu. Neno la Mungu linaahidi kwamba tunapomtafuta, tutampata (<span class="x-scripture" data-book="JER" data-chapter="29" data-lang="sw" data-type="ref" data-verses="13" data-version="BHN">Yeremia 29:13</span>). Ninakualika ulikaribie kitabu hiki kwa imani na matarajio. Unapoendelea kupitia mafundisho haya, ninaomba usikue tu katika uelewa bali pia uishuhudie nguvu za Roho Mtakatifu zikifanya kazi ndani yako na kupitia kwako. Tumaini langu ni kwamba utarejeshwa, utaimarishwa, na kutiwa uwezo kutimiza kusudi la Mungu katika maisha yako.
 

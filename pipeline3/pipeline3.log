@@ -278,6 +278,7 @@ Output: /Users/andrew/repo/translate_principles_of_faith/pipeline3/selected_bibl
 ✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md
 ✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md
 ✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapter9_chapter_9_the_church_our_role_in_it.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapter9_chapter_9_the_church_our_role_in_it.md
-⚠️ Logged 130 missing entries → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/missing_sw.csv
+✅ All verses found and substituted cleanly.
+Copied through 7 files with no substitutions: chapter0_0_intro.md, chapter0_1_dedication.md, chapter0_2_acknowledgements.md, chapter0_3_table_of_contents.md, chapter0_4_list_of_tables.md, chapter0_5_foreword.md, chapter14_back_3_extended_reference_tables.md
 
 ✅ Substitution completed.

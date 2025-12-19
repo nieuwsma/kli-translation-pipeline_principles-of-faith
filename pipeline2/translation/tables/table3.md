@@ -1,9 +1,9 @@
 <!-- p0 -->
 <table style="width:99%;">
 <colgroup>
-<col style="width: 34%" />
-<col style="width: 31%" />
-<col style="width: 32%" />
+<col style="width: 34%"/>
+<col style="width: 31%"/>
+<col style="width: 32%"/>
 </colgroup>
 <tbody>
 <tr>
@@ -41,7 +41,7 @@
 </tr>
 <tr>
 <td><p><strong>Sadaka ya dhambi</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="Leviticus" data-chapter="4" data-verses="1-5" data-lang="en" data-version="NKJV">Walawi 4:1-5</span>:13</p></td>
+<p><span class="x-scripture" data-book="LEV" data-chapter="4" data-lang="en" data-type="ref" data-verses="1-5" data-version="NKJV">Walawi 4:1-5</span>:13</p></td>
 <td><p><strong>Chatat</strong></p>
 <p>khah-TAHT</p>
 <p><strong>H2403</strong></p></td>
@@ -49,7 +49,7 @@
 </tr>
 <tr>
 <td><p><strong>Sadaka ya hatia</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="Leviticus" data-chapter="5" data-verses="14-6" data-lang="en" data-version="NKJV">Walawi 5:14-6</span>:7</p></td>
+<p><span class="x-scripture" data-book="LEV" data-chapter="5" data-lang="en" data-type="ref" data-verses="14-6" data-version="NKJV">Walawi 5:14-6</span>:7</p></td>
 <td><p><strong>Asham</strong></p>
 <p>ah-SHAHM</p>
 <p><strong>H817</strong></p></td>
@@ -57,4 +57,3 @@
 </tr>
 </tbody>
 </table>
-

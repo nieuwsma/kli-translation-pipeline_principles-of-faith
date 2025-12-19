@@ -17,7 +17,7 @@ We use words, terms, and phrases to transform a raw idea from an indistinct form
 Up to now, we have only talked about the originator and the author of the idea. For an idea to be useful, the recipient must receive it, interpret it, and understand the message accurately. The message sent and the message received should closely align.
 
 <!-- p6 -->
-Every great human endeavor is the product that results from effective communication. The work of one person can accomplish only a small amount. To truly build or execute something great, many people (speaking here broadly about human beings) must work together for a common purpose, with a shared idea. Except for disasters that occur naturally (like a volcanic eruption) we also know that the greatest catastrophes that have ever occurred largely happened because communication was absent, broken, or distorted. Truly life and death are in the power of the tongue (<span class="x-scripture" data-type="ref" data-book="Proverbs" data-chapter="18" data-verses="21" data-lang="en" data-version="NKJV">Proverbs 18:21</span>).
+Every great human endeavor is the product that results from effective communication. The work of one person can accomplish only a small amount. To truly build or execute something great, many people (speaking here broadly about human beings) must work together for a common purpose, with a shared idea. Except for disasters that occur naturally (like a volcanic eruption) we also know that the greatest catastrophes that have ever occurred largely happened because communication was absent, broken, or distorted. Truly life and death are in the power of the tongue (<span class="x-scripture" data-book="PRO" data-chapter="18" data-lang="en" data-type="ref" data-verses="21" data-version="NKJV">Proverbs 18:21</span>).
 
 <!-- p7 -->
 What we believe and how we communicate it has the power to build up a person, a family, a community, a nation, or it equally has the power to destroy them. What we believe is the foundation of our actions and the map of what we will do, what we will become, and how we will live. Since belief is expressed through actions and communication, it defines the role we play in existence. Our beliefs shape not only our lives, but also to some extent the lives of everyone around us.
@@ -26,19 +26,17 @@ What we believe and how we communicate it has the power to build up a person, a 
 We must align our faith correctly and learn to share it effectively. Jesus said so when He told His disciples:
 
 <!-- p9 -->
-<span class="x-scripture" data-type="fragment" data-book="Matthew" data-chapter="28" data-verses="18-20" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="MAT" data-chapter="28" data-lang="en" data-type="fragment" data-verses="18-20" data-version="NKJV">
 <!-- p10 -->
-> **<u>Matthew 28:18-20</u>** (NKJV) ***18** … "All authority has been given to Me in heaven and on earth.* ***19** Therefore go and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, **20** teaching them to observe all things I have commanded you; and behold, I am with you always, even to the end of the age." Amen.*
+&gt; **<u>Matthew 28:18-20</u>** (NKJV) ***18** … "All authority has been given to Me in heaven and on earth.* ***19** Therefore go and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, **20** teaching them to observe all things I have commanded you; and behold, I am with you always, even to the end of the age." Amen.*
 
 <!-- p11 -->
 </span>
-
 <!-- p12 -->
 Many believers today long for a stronger faith but lack a clear foundation to build upon. Without sound doctrine, we lack the firm foundation we need to stand steadfast; we risk being swayed by false teachings, discouraged in trials, or being unprepared for the work that God has called us to do. This book is designed to equip you with the foundational teachings of Scripture—truths that strengthen your faith, fortify your walk with Christ, and enable you to live a Spirit-filled life.
 
 <!-- p13 -->
-The Apostle Paul urged believers to be “rooted and built up in Him and established in the faith” (<span class="x-scripture" data-type="ref" data-book="Colossians" data-chapter="2" data-verses="7" data-lang="en" data-version="NKJV">Colossians 2:7</span>). To grow into mature, Spirit-led believers, we must first have deep roots in God’s truth. This is why doctrine is essential. It is more than information; it is a framework that shapes how we live and respond to God.
+The Apostle Paul urged believers to be “rooted and built up in Him and established in the faith” (<span class="x-scripture" data-book="COL" data-chapter="2" data-lang="en" data-type="ref" data-verses="7" data-version="NKJV">Colossians 2:7</span>). To grow into mature, Spirit-led believers, we must first have deep roots in God’s truth. This is why doctrine is essential. It is more than information; it is a framework that shapes how we live and respond to God.
 
 <!-- p14 -->
 ## Why This Book, and For Whom?
@@ -86,14 +84,12 @@ Let us examine each aspect in a bit more detail:
 ### The Holy Spirit
 
 <!-- p29 -->
-<span class="x-scripture" data-type="quote" data-book="John" data-chapter="16" data-verses="13-14" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="en" data-type="quote" data-verses="13-14" data-version="NKJV">
 <!-- p30 -->
-> **<u>John 16:13-14</u>** (NKJV) ***13** However, when He, the Spirit of truth, has come, He will guide you into all truth; for He will not speak on His own authority, but whatever He hears He will speak; and He will tell you things to come.* ***14** He will glorify Me, for He will take of what is Mine and declare it to you.*
+&gt; **<u>John 16:13-14</u>** (NKJV) ***13** However, when He, the Spirit of truth, has come, He will guide you into all truth; for He will not speak on His own authority, but whatever He hears He will speak; and He will tell you things to come.* ***14** He will glorify Me, for He will take of what is Mine and declare it to you.*
 
 <!-- p31 -->
 </span>
-
 <!-- p32 -->
 God, through the Holy Spirit, inspired all the Scriptures that were written, but God’s work is not finished! As we read and study the Scriptures, that same Holy Spirit who authored them illuminates our studies and gives us understanding! The Holy Spirit is our Comforter and our Helper, and His role has not changed today. He helps us understand the Scriptures and walk in the truth with Him.
 
@@ -101,77 +97,62 @@ God, through the Holy Spirit, inspired all the Scriptures that were written, but
 ### The Scriptures
 
 <!-- p34 -->
-<span class="x-scripture" data-type="quote" data-book="2 Timothy" data-chapter="3" data-verses="16" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="2TI" data-chapter="3" data-lang="en" data-type="quote" data-verses="16" data-version="NKJV">
 <!-- p35 -->
-> **<u>2 Timothy 3:16</u>** (NKJV) *All Scripture is inspired by God and is profitable for teaching, for reproof, for correction, and for instruction in righteousness,*
+&gt; **<u>2 Timothy 3:16</u>** (NKJV) *All Scripture is inspired by God and is profitable for teaching, for reproof, for correction, and for instruction in righteousness,*
 
 <!-- p36 -->
 </span>
-
 <!-- p37 -->
 The collection of writings we have today reflects the written words of God. God, by His Spirit, inspired certain chosen people and revealed His words to them. In the earliest period, before Moses, not much was formally written; rather, oral tradition preserved much of God’s interaction with humanity for many centuries. Scripture indicates that God used Moses to write the Torah (the first five books of the Old Testament), which marked the beginning of a more formally written record of God’s instructions and His covenant with His people.
 
 <!-- p38 -->
-<span class="x-scripture" data-type="quote" data-book="Exodus" data-chapter="24" data-verses="4" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="EXO" data-chapter="24" data-lang="en" data-type="quote" data-verses="4" data-version="NKJV">
 <!-- p39 -->
-> **<u>Exodus 24:4</u>** (NKJV) *And Moses wrote all the words of the LORD. And he rose early in the morning, built an altar at the base of the mountain, and twelve pillars according to the twelve tribes of Israel.*
+&gt; **<u>Exodus 24:4</u>** (NKJV) *And Moses wrote all the words of the LORD. And he rose early in the morning, built an altar at the base of the mountain, and twelve pillars according to the twelve tribes of Israel.*
 
 <!-- p40 -->
 </span>
-
 <!-- p41 -->
-<span class="x-scripture" data-type="quote" data-book="Numbers" data-chapter="33" data-verses="2" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="NUM" data-chapter="33" data-lang="en" data-type="quote" data-verses="2" data-version="NKJV">
 <!-- p42 -->
-> **<u>Numbers 33:2</u>** (NKJV) *Now Moses wrote the starting points of their journeys at the command of the LORD. And these are their journeys according to their starting points*
+&gt; **<u>Numbers 33:2</u>** (NKJV) *Now Moses wrote the starting points of their journeys at the command of the LORD. And these are their journeys according to their starting points*
 
 <!-- p43 -->
 </span>
-
 <!-- p44 -->
-<span class="x-scripture" data-type="fragment" data-book="Deuteronomy" data-chapter="31" data-verses="9,11" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="DEU" data-chapter="31" data-lang="en" data-type="fragment" data-verses="9,11" data-version="NKJV">
 <!-- p45 -->
-> **<u>Deuteronomy 31:9,11</u>** (NKJV) **9** *So Moses wrote this law and delivered it to the priests, the sons of Levi, who bore the ark of the covenant of the LORD, and to all the elders of Israel…* ***11** when all Israel comes to appear before the LORD your God in the place which He chooses, you shall read this law before all Israel in their hearing.*
+&gt; **<u>Deuteronomy 31:9,11</u>** (NKJV) **9** *So Moses wrote this law and delivered it to the priests, the sons of Levi, who bore the ark of the covenant of the LORD, and to all the elders of Israel…* ***11** when all Israel comes to appear before the LORD your God in the place which He chooses, you shall read this law before all Israel in their hearing.*
 
 <!-- p46 -->
 </span>
-
 <!-- p47 -->
 As history progressed, God maintained His relationship with His people, and various prophets, leaders, and scribes recorded these interactions and teachings. This process resulted in what we now recognize as the Old Testament.
 
 <!-- p48 -->
-<span class="x-scripture" data-type="quote" data-book="Isaiah" data-chapter="30" data-verses="8" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="ISA" data-chapter="30" data-lang="en" data-type="quote" data-verses="8" data-version="NKJV">
 <!-- p49 -->
-> **<u>Isaiah 30:8</u>** (NKJV) * Now go, write it before them on a tablet, And note it on a scroll, That it may be for time to come, Forever and ever*
+&gt; **<u>Isaiah 30:8</u>** (NKJV) * Now go, write it before them on a tablet, And note it on a scroll, That it may be for time to come, Forever and ever*
 
 <!-- p50 -->
 </span>
-
 <!-- p51 -->
-<x-scripture ref="<span class=&quot;x-scripture&quot; data-type=&quot;ref&quot; data-book=&quot;John&quot; data-chapter=&quot;8&quot; data-verses=&quot;31-35&quot; data-lang=&quot;en&quot; data-version=&quot;NKJV&quot;>John 8:31-35</span>" type="quote" version="NKJV" id="p34-1"/>
-
+<x-scripture id="p34-1" ref='&lt;span class="x-scripture" data-type="ref" data-book="John" data-chapter="8" data-verses="31-35" data-lang="en" data-version="NKJV"&gt;John 8:31-35&lt;/span&gt;' type="quote" version="NKJV"></x-scripture>
 <!-- p52 -->
-<span class="x-scripture" data-type="quote" data-book="Jeremiah" data-chapter="36" data-verses="2" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="JER" data-chapter="36" data-lang="en" data-type="quote" data-verses="2" data-version="NKJV">
 <!-- p53 -->
-> **<u>Jeremiah 36:2</u>** (NKJV) *Take a scroll of a book and write in it all the words that I have spoken to you concerning Israel, concerning Judah, and concerning all the nations, from the day I spoke to you, from the days of Josiah even to this day.*
+&gt; **<u>Jeremiah 36:2</u>** (NKJV) *Take a scroll of a book and write in it all the words that I have spoken to you concerning Israel, concerning Judah, and concerning all the nations, from the day I spoke to you, from the days of Josiah even to this day.*
 
 <!-- p54 -->
 </span>
-
 <!-- p55 -->
-<span class="x-scripture" data-type="quote" data-book="Habakkuk" data-chapter="2" data-verses="2" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="HAB" data-chapter="2" data-lang="en" data-type="quote" data-verses="2" data-version="NKJV">
 <!-- p56 -->
-> **<u>Habakkuk 2:2</u>** (NKJV) *Then the LORD answered me and said: "Write the vision And make it plain on tablets, That he may run who reads it.*
+&gt; **<u>Habakkuk 2:2</u>** (NKJV) *Then the LORD answered me and said: "Write the vision And make it plain on tablets, That he may run who reads it.*
 
 <!-- p57 -->
 </span>
-
 <!-- p58 -->
 After the ministry of Jesus, many eyewitnesses and apostles recorded accounts of His life, ministry, death, and resurrection. They also wrote letters, or epistles, that addressed doctrinal and practical issues within the early Christian communities. These writings, inspired by God, were carefully written, collected, and preserved over centuries, thus forming what is now known as the Bible.
 
@@ -182,7 +163,7 @@ In general, we will use the NKJV translation, but we may also use different tran
 I sincerely recommend that you use as many translations as possible, to ensure the idea is clearly understood in your mind. Personally, I find translations like the Amplified Bible beneficial, not for their direct word-for-word accuracy of the text, but for helping me understand in plain English what the Scriptures are conveying.
 
 <!-- p61 -->
-We will set aside time to examine some key biblical terms (**word studies**) so that we can better understand what God is saying and how they apply in our lives. I recommend that you learn to use electronic Bible resources such as: E-Sword (<https://www.e-sword.net/>), or Blue Letter Bible ([<u>https://www.blueletterbible.org/</u>](https://www.blueletterbible.org/)). Such resources will also give you access to Strong’s Concordance.
+We will set aside time to examine some key biblical terms (**word studies**) so that we can better understand what God is saying and how they apply in our lives. I recommend that you learn to use electronic Bible resources such as: E-Sword (<https: www.e-sword.net=""></https:>), or Blue Letter Bible ([<u>https://www.blueletterbible.org/</u>](https://www.blueletterbible.org/)). Such resources will also give you access to Strong’s Concordance.
 
 <!-- p62 -->
 Strong’s Concordance helps us understand what the Bible intended in its original languages, so that we can hear more clearly what God is saying. The Old Testament (sometimes abbreviated as OT in this book) was written in Hebrew. The New Testament (sometimes abbreviated as NT in this book) was written in Greek. The Strong’s number will be shown as: **Hxxx** (Hebrew) or **Gyyy** (Greek).
@@ -191,14 +172,12 @@ Strong’s Concordance helps us understand what the Bible intended in its origin
 ### Teaching of the Church
 
 <!-- p64 -->
-<span class="x-scripture" data-type="quote" data-book="Matthew" data-chapter="28" data-verses="20" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="MAT" data-chapter="28" data-lang="en" data-type="quote" data-verses="20" data-version="NKJV">
 <!-- p65 -->
-> **<u>Matthew 28:20</u>** (NKJV) *teaching them to observe all things that I have commanded you; and lo, I am with you always, even to the end of the age." Amen.*
+&gt; **<u>Matthew 28:20</u>** (NKJV) *teaching them to observe all things that I have commanded you; and lo, I am with you always, even to the end of the age." Amen.*
 
 <!-- p66 -->
 </span>
-
 <!-- p67 -->
 The teachings I present in this book are neither new nor unique. We should be wary of ‘new’ teachings that have never been seen or heard concerning our Christian faith. Rather, this book is a compilation and exposition of teachings that have existed from the beginning.
 
@@ -206,5 +185,5 @@ The teachings I present in this book are neither new nor unique. We should be wa
 This book is not a study of church history, nor is it a comparison of Christian denominations. Take any two theology books written by different authors with different denominational backgrounds and, although you will see great agreement in many parts of their work, you will see noticeable division. I do not claim infallibility, but I do assert that this work has been thoroughly researched, peer-reviewed by faithful men and women (see the Acknowledgments section), and is well supported by Scripture and widely accepted Pentecostal tradition.
 
 <!-- p69 -->
-I urge you to read the Scriptures for yourself and commit to mastering them. The Word of God promises that when we seek Him, we will find Him (<span class="x-scripture" data-type="ref" data-book="Jeremiah" data-chapter="29" data-verses="13" data-lang="en" data-version="NKJV">Jeremiah 29:13</span>). I invite you to approach this book with faith and expectation. As you continue through these teachings, I pray that you will not only grow in understanding but also witness the power of the Holy Spirit at work in you and through you. My hope is that you will be restored, strengthened, and empowered to fulfill God’s purpose in your life.
+I urge you to read the Scriptures for yourself and commit to mastering them. The Word of God promises that when we seek Him, we will find Him (<span class="x-scripture" data-book="JER" data-chapter="29" data-lang="en" data-type="ref" data-verses="13" data-version="NKJV">Jeremiah 29:13</span>). I invite you to approach this book with faith and expectation. As you continue through these teachings, I pray that you will not only grow in understanding but also witness the power of the Holy Spirit at work in you and through you. My hope is that you will be restored, strengthened, and empowered to fulfill God’s purpose in your life.
 

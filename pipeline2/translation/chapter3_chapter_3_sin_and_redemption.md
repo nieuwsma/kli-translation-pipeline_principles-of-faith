@@ -23,7 +23,7 @@ Agano la Kale na Agano Jipya hutumia maneno mbalimbali kwa dhambi, kila moja lik
 Katika mifumo yetu ya kisasa ya haki ya jinai, tuna utofautishaji unaofanana: viwango vya uhalifu, uliopangwa kabla au uhalifu wa ghadhabu, uhalifu unaohitaji fidia ya kifedha, au kifungo, au hata adhabu ya kifo. Kitendo kinaweza kuwa uhalifu na pia dhambi, lakini uhalifu ni uainishaji wa mwanadamu, ilhali dhambi ni uainishaji wa Mungu.
 
 <!-- p8 -->
-Maneno mbalimbali ya Kigiriki na Kiebrania kwa dhambi yana ulinganifu wa juu. Dhambi yote kwa upana huelekezwa chini ya mwavuli wa neno ‘kukosa shabaha’, ***Hamartia*** kwa Kigiriki, na ***Chata’*** kwa Kiebrania. Neno hili la mwavuli hutumiwa kwa dhambi nzito sana, uzinzi, uuaji, lakini pia dhambi nyepesi zaidi, kama kuonyesha upendeleo kwa watu matajiri katika mikutano yetu ya kanisani (<span class="x-scripture" data-type="ref" data-book="James" data-chapter="2" data-verses="9" data-lang="en" data-version="NKJV">Yakobo 2:9</span>).
+Maneno mbalimbali ya Kigiriki na Kiebrania kwa dhambi yana ulinganifu wa juu. Dhambi yote kwa upana huelekezwa chini ya mwavuli wa neno ‘kukosa shabaha’, ***Hamartia*** kwa Kigiriki, na ***Chata’*** kwa Kiebrania. Neno hili la mwavuli hutumiwa kwa dhambi nzito sana, uzinzi, uuaji, lakini pia dhambi nyepesi zaidi, kama kuonyesha upendeleo kwa watu matajiri katika mikutano yetu ya kanisani (<span class="x-scripture" data-book="JAS" data-chapter="2" data-lang="en" data-type="ref" data-verses="9" data-version="NKJV">Yakobo 2:9</span>).
 
 <!-- p9 -->
 Haya ni baadhi ya maneno ambayo Maandiko hutumia kwa dhambi. Yanatusaidia kuelewa jinsi dhambi ilivyo nzito-na jinsi kwa kina tunavyohitaji neema ya Mungu.
@@ -41,46 +41,44 @@ Kila dhambi huleta matokeo-wakati mwingine ya haraka, wakati mwingine yanachelew
 Tuzingatie mauaji ya Kaini ya ndugu yake Abeli katika Mwanzo 4.
 
 <!-- p14 -->
-<span class="x-scripture" data-type="quote" data-book="Genesis" data-chapter="4" data-verses="1-16" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="GEN" data-chapter="4" data-lang="en" data-type="quote" data-verses="1-16" data-version="NKJV">
 <!-- p15 -->
-> **<u>Mwanzo 4:1-16</u>** (NKJV)
->
->***1** Basi Adamu akamjua Hawa mkewe, naye akachukua mimba, akamzaa Kaini, akasema, "Nimepata mtu kutoka kwa BWANA."*
->
->***2** Kisha akaongeza akamzaa Abeli ndugu yake. Abeli alikuwa mchungaji wa kondoo, na Kaini alikuwa mkulima wa ardhi.*
->
->***3** Ikawa baada ya muda, Kaini akaleta sadaka ya matunda ya ardhi kwa BWANA.*
->
->***4** Abeli naye akaleta wazaliwa wa kwanza wa kundi lake na mafuta yake. Naye BWANA akamheshimu Abeli na sadaka yake,*
->
->***5** bali hakumheshimu Kaini na sadaka yake. Naye Kaini akaona hasira sana, uso wake ukaanguka.*
->
->***6** Kwa hiyo BWANA akamwambia Kaini, "Kwa nini una hasira? Na kwa nini uso wako umeanguka?"*
->
->***7** Ukitenda vyema, je, hutakubaliwa? Na usipotenda vyema, dhambi inakaa mlangoni. Tamaa yake ni juu yako, lakini yakupasa uitawale."*
->
->***8** Sasa Kaini akanena na Abeli ndugu yake; ikawa walipokuwa shambani, Kaini akainuka dhidi ya Abeli ndugu yake, akamuua.*
->
->***9** Ndipo BWANA akamwambia Kaini, "Yuko wapi Abeli ndugu yako?" Akasema, "Sijui. Je, mimi ni mlezi wa ndugu yangu?"*
->
->***10** Naye akasema, "Umefanya nini? Sauti ya damu ya ndugu yako inanililia kutoka ardhini.*
->
->***11** Basi sasa umelaaniwa kutoka katika nchi, ambayo imeifungua kinywa chake kupokea damu ya ndugu yako kutoka mkononi mwako.*
->
->***12** Utakapolima ardhi, haitakupa tena nguvu zake. Utakuwa mkimbizi na mtangatanga duniani."*
->
->***13** Kisha Kaini akamwambia BWANA, "Adhabu yangu ni kubwa kuliko niwezavyo kustahimili!"*
->
->***14** Hakika umenifukuza leo kutoka uso wa nchi; nitafichwa kutoka uso wako; nitakuwa mkimbizi na mtangatanga duniani, na itakuwa ya kwamba yeyote atakayeniona ataniua."*
->
->***15** Naye BWANA akamwambia, "Kwa hiyo, yeyote atakayemwua Kaini, kisasi kitachukuliwa juu yake mara saba." Naye BWANA akaweka alama juu ya Kaini, ili mtu yeyote atakayempata asimwue.*
->
->***16** Ndipo Kaini akatoka mbele za BWANA, akakaa katika nchi ya Nodi, upande wa mashariki wa Edeni."*
+&gt; **<u>Mwanzo 4:1-16</u>** (NKJV)
+&gt;
+&gt;***1** Basi Adamu akamjua Hawa mkewe, naye akachukua mimba, akamzaa Kaini, akasema, "Nimepata mtu kutoka kwa BWANA."*
+&gt;
+&gt;***2** Kisha akaongeza akamzaa Abeli ndugu yake. Abeli alikuwa mchungaji wa kondoo, na Kaini alikuwa mkulima wa ardhi.*
+&gt;
+&gt;***3** Ikawa baada ya muda, Kaini akaleta sadaka ya matunda ya ardhi kwa BWANA.*
+&gt;
+&gt;***4** Abeli naye akaleta wazaliwa wa kwanza wa kundi lake na mafuta yake. Naye BWANA akamheshimu Abeli na sadaka yake,*
+&gt;
+&gt;***5** bali hakumheshimu Kaini na sadaka yake. Naye Kaini akaona hasira sana, uso wake ukaanguka.*
+&gt;
+&gt;***6** Kwa hiyo BWANA akamwambia Kaini, "Kwa nini una hasira? Na kwa nini uso wako umeanguka?"*
+&gt;
+&gt;***7** Ukitenda vyema, je, hutakubaliwa? Na usipotenda vyema, dhambi inakaa mlangoni. Tamaa yake ni juu yako, lakini yakupasa uitawale."*
+&gt;
+&gt;***8** Sasa Kaini akanena na Abeli ndugu yake; ikawa walipokuwa shambani, Kaini akainuka dhidi ya Abeli ndugu yake, akamuua.*
+&gt;
+&gt;***9** Ndipo BWANA akamwambia Kaini, "Yuko wapi Abeli ndugu yako?" Akasema, "Sijui. Je, mimi ni mlezi wa ndugu yangu?"*
+&gt;
+&gt;***10** Naye akasema, "Umefanya nini? Sauti ya damu ya ndugu yako inanililia kutoka ardhini.*
+&gt;
+&gt;***11** Basi sasa umelaaniwa kutoka katika nchi, ambayo imeifungua kinywa chake kupokea damu ya ndugu yako kutoka mkononi mwako.*
+&gt;
+&gt;***12** Utakapolima ardhi, haitakupa tena nguvu zake. Utakuwa mkimbizi na mtangatanga duniani."*
+&gt;
+&gt;***13** Kisha Kaini akamwambia BWANA, "Adhabu yangu ni kubwa kuliko niwezavyo kustahimili!"*
+&gt;
+&gt;***14** Hakika umenifukuza leo kutoka uso wa nchi; nitafichwa kutoka uso wako; nitakuwa mkimbizi na mtangatanga duniani, na itakuwa ya kwamba yeyote atakayeniona ataniua."*
+&gt;
+&gt;***15** Naye BWANA akamwambia, "Kwa hiyo, yeyote atakayemwua Kaini, kisasi kitachukuliwa juu yake mara saba." Naye BWANA akaweka alama juu ya Kaini, ili mtu yeyote atakayempata asimwue.*
+&gt;
+&gt;***16** Ndipo Kaini akatoka mbele za BWANA, akakaa katika nchi ya Nodi, upande wa mashariki wa Edeni."*
 
 <!-- p16 -->
 </span>
-
 <!-- p17 -->
 Kaini alikosa shabaha wapi? (kwa mpangilio wa wakati)
 
@@ -130,32 +128,26 @@ Kali sana! Dhambi ya Kaini ilikuwa na gharama kubwa kwake mwenyewe, kwa Able, kw
 Mungu ni Mungu mtakatifu (safi, asiye na hatia, asiye na lawama). Mwanadamu anapotenda dhambi, mtu hujitenge na Mungu, na athari ya dhambi yetu ni kifo cha kiroho, na huenda pia kifo cha kimwili.
 
 <!-- p33 -->
-<span class="x-scripture" data-type="quote" data-book="Isaiah" data-chapter="59" data-verses="2" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="ISA" data-chapter="59" data-lang="en" data-type="quote" data-verses="2" data-version="NKJV">
 <!-- p34 -->
-> **<u>Isaya 59:2</u>** (NKJV) *Lakini maovu yenu yamewatenga na Mungu wenu; na dhambi zenu zimeuficha uso wake kutoka kwenu, Hata asisikie.*
+&gt; **<u>Isaya 59:2</u>** (NKJV) *Lakini maovu yenu yamewatenga na Mungu wenu; na dhambi zenu zimeuficha uso wake kutoka kwenu, Hata asisikie.*
 
 <!-- p35 -->
 </span>
-
 <!-- p36 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="6" data-verses="23" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="ROM" data-chapter="6" data-lang="en" data-type="quote" data-verses="23" data-version="NKJV">
 <!-- p37 -->
-> **<u>Warumi 6:23</u>** (NKJV) *Kwa maana mshahara wa dhambi ni mauti, bali karama ya Mungu ni uzima wa milele katika Kristo Yesu Bwana wetu.*
+&gt; **<u>Warumi 6:23</u>** (NKJV) *Kwa maana mshahara wa dhambi ni mauti, bali karama ya Mungu ni uzima wa milele katika Kristo Yesu Bwana wetu.*
 
 <!-- p38 -->
 </span>
-
 <!-- p39 -->
-<span class="x-scripture" data-type="quote" data-book="Galatians" data-chapter="6" data-verses="7-8" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="GAL" data-chapter="6" data-lang="en" data-type="quote" data-verses="7-8" data-version="NKJV">
 <!-- p40 -->
-> **<u>Wagalatia 6:7-8</u>** (NKJV) **7** *Msidanganyike, Mungu hadhihakiwi; kwa kuwa lo lote apandalo mtu, hilo atalitavuna pia. **8** Kwa maana yeye apandaye kwa mwili wake atavuna kutoka kwa mwili uharibifu, bali yeye apandaye kwa Roho atavuna kutoka kwa Roho uzima wa milele.*
+&gt; **<u>Wagalatia 6:7-8</u>** (NKJV) **7** *Msidanganyike, Mungu hadhihakiwi; kwa kuwa lo lote apandalo mtu, hilo atalitavuna pia. **8** Kwa maana yeye apandaye kwa mwili wake atavuna kutoka kwa mwili uharibifu, bali yeye apandaye kwa Roho atavuna kutoka kwa Roho uzima wa milele.*
 
 <!-- p41 -->
 </span>
-
 <!-- p42 -->
 Mungu hawezi kuwa na ushirika na udhalimu. Uchungu na athari ya dhambi ni kwamba kwa asili hututenga na uhusiano wetu na Mungu.
 
@@ -163,56 +155,46 @@ Mungu hawezi kuwa na ushirika na udhalimu. Uchungu na athari ya dhambi ni kwamba
 ### Hukumu - Sasa na ya Milele
 
 <!-- p44 -->
-Maandiko yanatangaza kwamba kutakuwa na hukumu ya mwisho kwa kila mtu kulingana na matendo yake. Hukumu hii, iitwayo ***Hukumu Kuu ya Kiti Cheupe,** hutokea* baada ya **ufufuo wa wafu kwa hukumu** (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="5" data-verses="28-29" data-lang="en" data-version="NKJV">Yohana 5:28-29</span>), na ni kwa ajili ya kila mtu ambaye jina lake halimo katika ***Kitabu cha Uzima cha Mwana-Kondoo**.* <u>Hukumu hii si kwa muumini, bali kwa asiyeamini</u>, waumini wanakabiliwa na ***Kiti cha Hukumu cha Kristo*** (soma sura ya mwisho kwa maelezo zaidi). Maandiko yanasema Mungu atamimina ghadhabu yake juu ya wale waliovunja sheria zake; hukumu yake itakuwa utengano wa milele na mateso. Yesu anasema katika <span class="x-scripture" data-type="ref" data-book="John" data-chapter="5" data-verses="26-27" data-lang="en" data-version="NKJV">Yohana 5:26-27</span> kwamba Baba amempa mamlaka ya kutekeleza hukumu hii.
+Maandiko yanatangaza kwamba kutakuwa na hukumu ya mwisho kwa kila mtu kulingana na matendo yake. Hukumu hii, iitwayo ***Hukumu Kuu ya Kiti Cheupe,** hutokea* baada ya **ufufuo wa wafu kwa hukumu** (<span class="x-scripture" data-book="JHN" data-chapter="5" data-lang="en" data-type="ref" data-verses="28-29" data-version="NKJV">Yohana 5:28-29</span>), na ni kwa ajili ya kila mtu ambaye jina lake halimo katika ***Kitabu cha Uzima cha Mwana-Kondoo**.* <u>Hukumu hii si kwa muumini, bali kwa asiyeamini</u>, waumini wanakabiliwa na ***Kiti cha Hukumu cha Kristo*** (soma sura ya mwisho kwa maelezo zaidi). Maandiko yanasema Mungu atamimina ghadhabu yake juu ya wale waliovunja sheria zake; hukumu yake itakuwa utengano wa milele na mateso. Yesu anasema katika <span class="x-scripture" data-book="JHN" data-chapter="5" data-lang="en" data-type="ref" data-verses="26-27" data-version="NKJV">Yohana 5:26-27</span> kwamba Baba amempa mamlaka ya kutekeleza hukumu hii.
 
 <!-- p45 -->
-<span class="x-scripture" data-type="fragment" data-book="Revelation" data-chapter="20" data-verses="12-13" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="REV" data-chapter="20" data-lang="en" data-type="fragment" data-verses="12-13" data-version="NKJV">
 <!-- p46 -->
-> **<u>Ufunuo 20:12-13</u>** (NKJV) ***12** Nikaona wafu, wadogo na wakubwa, wamesimama mbele za Mungu, na vitabu vikafunuliwa… **13** … Nao wakahukumiwa, kila mmoja kulingana na matendo yake.*
+&gt; **<u>Ufunuo 20:12-13</u>** (NKJV) ***12** Nikaona wafu, wadogo na wakubwa, wamesimama mbele za Mungu, na vitabu vikafunuliwa… **13** … Nao wakahukumiwa, kila mmoja kulingana na matendo yake.*
 
 <!-- p47 -->
 </span>
-
 <!-- p48 -->
-<span class="x-scripture" data-type="quote" data-book="Matthew" data-chapter="12" data-verses="36-37" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="MAT" data-chapter="12" data-lang="en" data-type="quote" data-verses="36-37" data-version="NKJV">
 <!-- p49 -->
-> **<u>Mathayo 12:36-37</u>** (NKJV) ***36** Lakini nawaambia ya kwamba kwa kila neno lisilo na maana ambalo watu watalisema, watalitoa hesabu yake siku ya hukumu.* ***37** Kwa maana kwa maneno yenu mtahesabiwa haki, na kwa maneno yenu mtahukumiwa."*
+&gt; **<u>Mathayo 12:36-37</u>** (NKJV) ***36** Lakini nawaambia ya kwamba kwa kila neno lisilo na maana ambalo watu watalisema, watalitoa hesabu yake siku ya hukumu.* ***37** Kwa maana kwa maneno yenu mtahesabiwa haki, na kwa maneno yenu mtahukumiwa."*
 
 <!-- p50 -->
 </span>
-
 <!-- p51 -->
 Huenda tukakabili matokeo ya dhambi katika maisha yetu ya asili. Huenda tukahisi kwamba kwa namna fulani tumeepuka sehemu ya adhabu, lakini hakutakuwa na njia ya kutoroka ambayo mwanadamu anaweza kujifanyia mwenyewe dhidi ya hukumu ya Mungu baada ya kifo chetu cha asili.
 
 <!-- p52 -->
-<span class="x-scripture" data-type="quote" data-book="Hebrews" data-chapter="9" data-verses="27" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="HEB" data-chapter="9" data-lang="en" data-type="quote" data-verses="27" data-version="NKJV">
 <!-- p53 -->
-> **<u>Waebrania 9:27</u>** (NKJV) * Na kama vile watu wamewekwa wakufe mara moja, na baada ya haya hukumu,*
+&gt; **<u>Waebrania 9:27</u>** (NKJV) * Na kama vile watu wamewekwa wakufe mara moja, na baada ya haya hukumu,*
 
 <!-- p54 -->
 </span>
-
 <!-- p55 -->
-<span class="x-scripture" data-type="quote" data-book="Ecclesiastes" data-chapter="12" data-verses="14" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="ECC" data-chapter="12" data-lang="en" data-type="quote" data-verses="14" data-version="NKJV">
 <!-- p56 -->
-> **<u>Mhubiri 12:14</u>** (NKJV) *Kwa maana Mungu ataleta kila tendo hukumuni, Ikiwemo kila jambo la siri, Likiwa jema au baya.*
+&gt; **<u>Mhubiri 12:14</u>** (NKJV) *Kwa maana Mungu ataleta kila tendo hukumuni, Ikiwemo kila jambo la siri, Likiwa jema au baya.*
 
 <!-- p57 -->
 </span>
-
 <!-- p58 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="2" data-verses="5-6" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="ROM" data-chapter="2" data-lang="en" data-type="quote" data-verses="5-6" data-version="NKJV">
 <!-- p59 -->
-> **<u>Warumi 2:5-6</u>** (NKJV) ***5** Lakini kwa kadiri ya ugumu wako na moyo wako usiotubu unajiwekea hazina ya hasira katika siku ya hasira na ufunuo wa hukumu ya haki ya Mungu, **6** ambaye "ATA MLIPA KILA MMOJA KADIRI YA MATENDO YAKE":*
+&gt; **<u>Warumi 2:5-6</u>** (NKJV) ***5** Lakini kwa kadiri ya ugumu wako na moyo wako usiotubu unajiwekea hazina ya hasira katika siku ya hasira na ufunuo wa hukumu ya haki ya Mungu, **6** ambaye "ATA MLIPA KILA MMOJA KADIRI YA MATENDO YAKE":*
 
 <!-- p60 -->
 </span>
-
 <!-- p61 -->
 Maarifa ya hukumu hayakulenga kutuacha tukiwa na hofu bali kutuamsha kuhusu uzito wa dhambi na kina cha rehema za Mungu. Ni mwito wa upendo wa Mungu kwa toba-mwito wa kugeuka kutoka kwa dhambi na kupokea msamaha na urejesho anaoutoa bure kupitia Kristo.
 
@@ -223,7 +205,7 @@ Hata katikati ya hukumu, moyo wa Mungu wa ukombozi uangaza. Kuanzia dhabihu ya k
 ## Dhambi Inahitaji Dhabihu
 
 <!-- p64 -->
-Katika simulizi la Adamu na Hawa, Mungu aliua wanyama na kuwafanya mavazi kutokana na ngozi zao (<span class="x-scripture" data-type="ref" data-book="Genesis" data-chapter="3" data-verses="20" data-lang="en" data-version="NKJV">Mwanzo 3:20</span>). Huu ulikuwa umwagikaji wa kwanza wa damu ili kufunika matokeo ya dhambi. Kuna masimulizi mengine machache yanayofanana katika kitabu cha Mwanzo, lakini Mungu aliweka rasmi njia ya dhabihu kwa ajili ya dhambi katika kitabu cha Mambo ya Walawi.
+Katika simulizi la Adamu na Hawa, Mungu aliua wanyama na kuwafanya mavazi kutokana na ngozi zao (<span class="x-scripture" data-book="GEN" data-chapter="3" data-lang="en" data-type="ref" data-verses="20" data-version="NKJV">Mwanzo 3:20</span>). Huu ulikuwa umwagikaji wa kwanza wa damu ili kufunika matokeo ya dhambi. Kuna masimulizi mengine machache yanayofanana katika kitabu cha Mwanzo, lakini Mungu aliweka rasmi njia ya dhabihu kwa ajili ya dhambi katika kitabu cha Mambo ya Walawi.
 
 <!-- p65 -->
 [Tazama Jedwali la 3](../tables/table3.md)
@@ -277,7 +259,7 @@ Mbuzi wa pili, ajulikanao kama mbuzi wa kuondolea dhambi (Azazeli), alibeba kwa 
 Siku ya Upatanisho ilikuwa dhihirisho la kina la msamaha na utakaso wa Mungu, lililoruhusu taifa kuchelewesha matokeo ya dhambi, na kuahirisha hukumu kila mwaka. Upatanisho huu haukusamehe kwa kudumu dhambi za taifa, bali uliuchelewesha hukumu ya Mungu.
 
 <!-- p82 -->
-<u>**<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="10" data-verses="1-4" data-lang="en" data-version="NKJV">Waebrania 10:1-4</span>**</u> (NKJV)
+<u>**<span class="x-scripture" data-book="HEB" data-chapter="10" data-lang="en" data-type="ref" data-verses="1-4" data-version="NKJV">Waebrania 10:1-4</span>**</u> (NKJV)
 
 <!-- p83 -->
 ***1** Kwa maana sheria, ikiwa na kivuli cha mambo mema yajayo, wala si sura yenyewe ya mambo hayo, kamwe haiwezi kwa zile dhabihu zilezile, wazitoazo daima mwaka kwa mwaka, kuwakamilisha wawaongokao.*
@@ -310,31 +292,27 @@ Katika Injili, Yesu anaonya kuhusu dhambi, anawaita watu watubu kibinafsi, na an
 Ukweli ni kwamba sote tuna hatia ya dhambi, na sote tunapaswa kulipa gharama ya uvunjaji wetu wa sheria.
 
 <!-- p93 -->
-<span class="x-scripture" data-type="quote" data-book="Romans" data-chapter="3" data-verses="23" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="ROM" data-chapter="3" data-lang="en" data-type="quote" data-verses="23" data-version="NKJV">
 <!-- p94 -->
-> **<u>Warumi 3:23</u>** (NKJV) *kwa kuwa wote wametenda dhambi na kupungukiwa na utukufu wa Mungu,*
+&gt; **<u>Warumi 3:23</u>** (NKJV) *kwa kuwa wote wametenda dhambi na kupungukiwa na utukufu wa Mungu,*
 
 <!-- p95 -->
 </span>
-
 <!-- p96 -->
 Kila mmoja wetu ametenda dhambi, amejitenga na Mungu, na atasimama mbele ya hukumu ya mwisho na matokeo yake. Inaweza kuwa rahisi kwetu kujaribu kujihalalishia matendo yetu na kusema kwamba hatukutenda dhambi nzito kama uuaji au uzinzi na kwamba sisi kwa kiasi kikubwa ni watu wa maadili na wema. Jaribio hili la uongo la kujihalalishia linapuuza matokeo ya matendo yetu, watu tuliowaumiza na tuliowatendea dhambi, na linapuuza uhalisia wa Mungu mtakatifu na mkamilifu. Maandiko yanasema kwamba tukikana kuwa tunatenda dhambi sisi ni waongo, na kweli haimo ndani yetu!
 
 <!-- p97 -->
-<span class="x-scripture" data-type="quote" data-book="1 John" data-chapter="1" data-verses="8-10" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="1JN" data-chapter="1" data-lang="en" data-type="quote" data-verses="8-10" data-version="NKJV">
 <!-- p98 -->
-> **<u>1 Yohana 1:8-10</u>** (NKJV) **8** *Tukisema kwamba hatuna dhambi, tunajidanganya wenyewe, na kweli haimo ndani yetu.* ***9** Tukiziungama dhambi zetu, Yeye ni mwaminifu na wa haki, atusamehe dhambi zetu na kututakasa na udhalimu wote.* ***10** Tukisema kwamba hatujatenda dhambi, tumemfanya Yeye kuwa mwongo, na neno Lake halimo ndani yetu.*
+&gt; **<u>1 Yohana 1:8-10</u>** (NKJV) **8** *Tukisema kwamba hatuna dhambi, tunajidanganya wenyewe, na kweli haimo ndani yetu.* ***9** Tukiziungama dhambi zetu, Yeye ni mwaminifu na wa haki, atusamehe dhambi zetu na kututakasa na udhalimu wote.* ***10** Tukisema kwamba hatujatenda dhambi, tumemfanya Yeye kuwa mwongo, na neno Lake halimo ndani yetu.*
 
 <!-- p99 -->
 </span>
-
 <!-- p100 -->
 Kwa kuwa sote tumetenda dhambi, sote tunahitaji ukombozi, la sivyo tutapitia hukumu, na utengano wa milele na Mungu. Lakini hadithi haiishii hapo. Shukrani kwa Mungu-Yeye alifanya njia ili tuokolewe, tuponywe, na turudishwe Kwake!
 
 <!-- p101 -->
-> <u>**Yohana 3:16**</u> (NKJV) Kwa maana jinsi hii Mungu aliupenda ulimwengu hata akamtoa Mwana wake wa pekee, ili kila amwaminiye asipotee bali awe na uzima wa milele.*
+&gt; <u>**Yohana 3:16**</u> (NKJV) Kwa maana jinsi hii Mungu aliupenda ulimwengu hata akamtoa Mwana wake wa pekee, ili kila amwaminiye asipotee bali awe na uzima wa milele.*
 
 <!-- p102 -->
 Tangu dhabihu ya kwanza katika Mwanzo hadi msalaba wa Kristo, mpango wa Mungu siku zote umekuwa ni kutukomboa na kurejesha uhusiano wetu Naye. Hakuna dhambi iliyo kubwa mno, na hakuna umbali ulio mbali mno kiasi kwamba neema ya Mungu haifiki kwetu.
@@ -352,7 +330,7 @@ Tangu dhabihu ya kwanza katika Mwanzo hadi msalaba wa Kristo, mpango wa Mungu si
 3.  Ni hisia gani hujitokeza unapotafakari hukumu ya Mungu? Je, hilo linakuongoza kuelekea hofu, tumaini, au toba? Kwa nini?
 
 <!-- p107 -->
-4.  Je, dhabihu za Agano la Kale zinaashiriaje kazi ya Kristo msalabani? (<span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="9" data-verses="13-10" data-lang="en" data-version="NKJV">Waebrania 9:13-10</span>:18)
+4.  Je, dhabihu za Agano la Kale zinaashiriaje kazi ya Kristo msalabani? (<span class="x-scripture" data-book="HEB" data-chapter="9" data-lang="en" data-type="ref" data-verses="13-10" data-version="NKJV">Waebrania 9:13-10</span>:18)
 
 <!-- p108 -->
 5.  Ni katika maeneo gani mahususi ya maisha yako unahitaji kuonja rehema na urejesho wa Mungu? Unawezaje kuitikia wito Wake wa toba na kufanywa upya?
@@ -364,7 +342,7 @@ Tangu dhabihu ya kwanza katika Mwanzo hadi msalaba wa Kristo, mpango wa Mungu si
 1.  **Swali la Kuvunja Barafu:** *“Ni mfano gani mmoja wa wakati uli ‘kukosa shabaha’-iwe katika imani, mahusiano, au kazi-na nini ulichojifunza kutokana na hilo?”*
 
 <!-- p111 -->
-2.  **Majadiliano ya Maandiko:** *Soma <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="6" data-verses="23" data-lang="en" data-version="NKJV">Warumi 6:23</span>. Kwa nini dhambi hubeba matokeo mazito kiasi hiki, na zawadi ya uzima wa milele ya Kristo inatatua vipi mvutano huu?*
+2.  **Majadiliano ya Maandiko:** *Soma <span class="x-scripture" data-book="ROM" data-chapter="6" data-lang="en" data-type="ref" data-verses="23" data-version="NKJV">Warumi 6:23</span>. Kwa nini dhambi hubeba matokeo mazito kiasi hiki, na zawadi ya uzima wa milele ya Kristo inatatua vipi mvutano huu?*
 
 <!-- p112 -->
 3.  **Kuchunguza kwa Kina:** *Kwa kuangalia simulizi ya Kaini na Abeli (Mwanzo 4), ni ishara zipi za onyo ambazo Mungu alimpa Kaini, na maonyo hayo yanatuhusu vipi leo?*

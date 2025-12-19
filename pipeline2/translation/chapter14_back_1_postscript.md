@@ -14,16 +14,14 @@ Huenda ukawa na maswali ambayo bado hayajajibiwa. Unaweza kuhisi kana kwamba ume
 Paulo aliandika
 
 <!-- p5 -->
-<span class="x-scripture" data-type="quote" data-book="Philippians" data-chapter="3" data-verses="12-14" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="PHP" data-chapter="3" data-lang="en" data-type="quote" data-verses="12-14" data-version="NKJV">
 <!-- p6 -->
-> **<u>Wafilipi 3:12-14</u>** (NASB):
->
->*"Si kwamba nimekwisha kufika, au nimekwisha kuwa mkamilifu; bali nakaza mwendo, ili nipate kulishika lile ambalo kwa ajili yake nalishikwa na Kristo Yesu. Ndugu, sijifikiri nafsi yangu kwamba nimekwisha kulishika; ila natenda neno moja tu: nikiyasahau ya nyuma, nikiyachuchumilia yaliyo mbele, nakaza mwendo, niifikilie mede ya thawabu ya mwito mkuu wa Mungu katika Kristo Yesu."*
+&gt; **<u>Wafilipi 3:12-14</u>** (NASB):
+&gt;
+&gt;*"Si kwamba nimekwisha kufika, au nimekwisha kuwa mkamilifu; bali nakaza mwendo, ili nipate kulishika lile ambalo kwa ajili yake nalishikwa na Kristo Yesu. Ndugu, sijifikiri nafsi yangu kwamba nimekwisha kulishika; ila natenda neno moja tu: nikiyasahau ya nyuma, nikiyachuchumilia yaliyo mbele, nakaza mwendo, niifikilie mede ya thawabu ya mwito mkuu wa Mungu katika Kristo Yesu."*
 
 <!-- p7 -->
 </span>
-
 <!-- p8 -->
 Tukaze mwendo pamoja. Simameni imara katika mafundisho sahihi, tembeeni kwa ujasiri katika imani, na tangazeni Injili kwa ujasiri. Ulimwengu unahitaji sana nuru ya Kristo, na wewe, ukiwa umejihami kwa ukweli, umeitwa kung'aa.
 

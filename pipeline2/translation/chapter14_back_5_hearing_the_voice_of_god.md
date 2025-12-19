@@ -47,7 +47,6 @@ Hoja kumi na moja zifuatazo zinapaswa kukusaidia kuelewa jinsi Bwana atakavyowas
 
 <!-- p14 -->
 1.  <u>Kusikia sauti ya Mungu SI sauti ya kusikika kwa masikio bali ni KUJUA moyoni mwako.</u>
-
 <!-- p15 -->
 Kuna wakati mmoja Neno Lake lilikuja kwa uwazi na ujasiri kiasi kwamba lingeweza kuwa sauti ya kusikika. Nilimjibu kwa kusema kwa sauti, lilikuwa halisi sana. Hata hivyo, hakukuwa na mtu yeyote pale isipokuwa Bwana na mimi, kwa hiyo siwezi kusema kwa hakika kama alinena nami kama tunavyoongea sisi kwa sisi.
 
@@ -56,76 +55,63 @@ Kuna wakati Yesu alipokuwa anabatizwa katika mto Yordani na Baba akanena: “Huy
 
 <!-- p17 -->
 2.  <u>HILO KUJUA HALIJENGWI na hoja za kiakili ndani ya mawazo yako; hata hivyo, ni wazo au ufahamu ulio kamili.</u>
-
 <!-- p18 -->
-Sijawahi kuwa na wakati ambao Bwana amenena nami jambo lililonichanganya. Sijawahi kusikia Ananena nami jambo lililoniacha nikijiuliza ‘kwa nini.’ Daima ni KUJUA lenye UFAHAMU KAMILI. Mungu si Mungu wa machafuko (<span class="x-scripture" data-type="ref" data-book="1 Corinthians" data-chapter="14" data-verses="33" data-lang="en" data-version="NKJV">1 Wakorintho 14:33</span>).
+Sijawahi kuwa na wakati ambao Bwana amenena nami jambo lililonichanganya. Sijawahi kusikia Ananena nami jambo lililoniacha nikijiuliza ‘kwa nini.’ Daima ni KUJUA lenye UFAHAMU KAMILI. Mungu si Mungu wa machafuko (<span class="x-scripture" data-book="1CO" data-chapter="14" data-lang="en" data-type="ref" data-verses="33" data-version="NKJV">1 Wakorintho 14:33</span>).
 
 <!-- p19 -->
 3.  <u>Anaponena, hunena kwa mawazo yaliyo kamili.</u>
-
 <!-- p20 -->
 Yeye kamwe hatuachi tujaze mapengo. Kwa kufumba na kufumbua, Mungu anaweza kujaza moyo wako kwa taarifa za kutosha kukuweka ukihubiri maisha yako yote. Mguso mmoja kutoka kwa Mungu unaweza kukujaza moto utakaoendelea kukuchoma milele. Yeye ni Mwasilishaji timilifu.
 
 <!-- p21 -->
 4.  <u>Wakati Mungu anaponena nasi, HAWASUKUMI KAMWE. ANAONGOZA.</u>
-
 <!-- p22 -->
 Yeye si mtawala wa kazi; Yeye ni Mchungaji. Wafugaji husukuma, lakini Wachungaji huongoza. Yesu ni Mchungaji Mkuu wa kondoo, nasi ni kondoo wa malisho Yake.
 
 <!-- p23 -->
 5.  <u>Anaponena na watoto Wake, HAWAHUKUMU KAMWE; ANAWAHAKIKISHIA.</u>
-
 <!-- p24 -->
-Watoto Wake ni wale ambao wamezaliwa mara ya pili (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="3" data-verses="3" data-lang="en" data-version="NKJV">Yohana 3:3</span>, 5) kwa ungamo lao la imani katika damu ya **Yesu** iliyomwagika na kazi Yake Kalvari. Ni nani anayetaka kumsikiliza mtu ambaye kila mara hutuhukumu kwa makosa yetu? Ninaamini watoto wengi wa **Mungu** wanaogopa kumsikia **Mungu** akisema nao kwa sababu wameambiwa kwamba **Mungu** atawahukumu kwa hili au lile. Tazama <span class="x-scripture" data-type="ref" data-book="1 John" data-chapter="3" data-verses="19-20" data-lang="en" data-version="NKJV">1 Yohana 3:19-20</span>. Inasema nani anayetuhukumu au kutulaumu? Ni ROHO WETU au moyo wetu unaomlaumu mtoto wa **Mungu**, lakini ni **Mungu Roho Mtakatifu** ajuae mambo yote na ni MKUU kuliko mioyo yetu. Yupo hapo kuwa Mfariji wetu. Soma Maandiko yafuatayo, nayo yatakusaidia kuelewa kwamba wale tu anaowahukumu Roho Mtakatifu ni wenye dhambi. <span class="x-scripture" data-type="ref" data-book="Romans" data-chapter="8" data-verses="33-34" data-lang="en" data-version="NKJV">Warumi 8:33-34</span> inatufundisha kwamba HAKUNA CHOCHOTE kinachoweza kututenga na upendo wa **Mungu**. <span class="x-scripture" data-type="ref" data-book="John" data-chapter="14" data-verses="16" data-lang="en" data-version="NKJV">Yohana 14:16</span>, 26 inatufundisha kwamba Roho Mtakatifu ni Mfariji wetu, si mshitaki wetu; ni Mshauri wetu, si mtukemeaji; ni Mwombezi na Msaidizi wetu, si mzuiaji wetu. Soma pia <span class="x-scripture" data-type="ref" data-book="Acts" data-chapter="9" data-verses="31" data-lang="en" data-version="NKJV">Matendo 9:31</span> na 15:28 kama mifano ya jinsi Roho Mtakatifu (sauti ya **Mungu**) anavyotusaidia, kutufariji, na kututia nguvu.
+Watoto Wake ni wale ambao wamezaliwa mara ya pili (<span class="x-scripture" data-book="JHN" data-chapter="3" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV">Yohana 3:3</span>, 5) kwa ungamo lao la imani katika damu ya **Yesu** iliyomwagika na kazi Yake Kalvari. Ni nani anayetaka kumsikiliza mtu ambaye kila mara hutuhukumu kwa makosa yetu? Ninaamini watoto wengi wa **Mungu** wanaogopa kumsikia **Mungu** akisema nao kwa sababu wameambiwa kwamba **Mungu** atawahukumu kwa hili au lile. Tazama <span class="x-scripture" data-book="1JN" data-chapter="3" data-lang="en" data-type="ref" data-verses="19-20" data-version="NKJV">1 Yohana 3:19-20</span>. Inasema nani anayetuhukumu au kutulaumu? Ni ROHO WETU au moyo wetu unaomlaumu mtoto wa **Mungu**, lakini ni **Mungu Roho Mtakatifu** ajuae mambo yote na ni MKUU kuliko mioyo yetu. Yupo hapo kuwa Mfariji wetu. Soma Maandiko yafuatayo, nayo yatakusaidia kuelewa kwamba wale tu anaowahukumu Roho Mtakatifu ni wenye dhambi. <span class="x-scripture" data-book="ROM" data-chapter="8" data-lang="en" data-type="ref" data-verses="33-34" data-version="NKJV">Warumi 8:33-34</span> inatufundisha kwamba HAKUNA CHOCHOTE kinachoweza kututenga na upendo wa **Mungu**. <span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="en" data-type="ref" data-verses="16" data-version="NKJV">Yohana 14:16</span>, 26 inatufundisha kwamba Roho Mtakatifu ni Mfariji wetu, si mshitaki wetu; ni Mshauri wetu, si mtukemeaji; ni Mwombezi na Msaidizi wetu, si mzuiaji wetu. Soma pia <span class="x-scripture" data-book="ACT" data-chapter="9" data-lang="en" data-type="ref" data-verses="31" data-version="NKJV">Matendo 9:31</span> na 15:28 kama mifano ya jinsi Roho Mtakatifu (sauti ya **Mungu**) anavyotusaidia, kutufariji, na kututia nguvu.
 
 <!-- p25 -->
 6.  <u>Sauti ya Mungu inaweza kujaribiwa ili uweze UJUE kwamba ni Mungu na si mawazo yako au sauti ya roho wa kawaida.</u>
-
 <!-- p26 -->
-<span class="x-scripture" data-type="ref" data-book="1 John" data-chapter="4" data-verses="1-3" data-lang="en" data-version="NKJV">1 Yohana 4:1-3</span> inatuagiza “kujaribu kila roho” ili tuwe na uhakika kuwa inatoka kwa Mungu. Unapodhani unasikia kutoka kwa Mungu, una haki na wajibu wa kuiuliza sauti hiyo swali (Hiyo ndiyo kujaribu au kuthibitisha roho.) Swali la kuuliza ni: “Je, Yesu Kristo alikuja katika mwili?” Jambo moja ambalo roho wa kawaida hawatakiri kamwe ni kwamba Yesu alikuja duniani katika mwili. Alikuwa mtu kikamilifu na Mungu kikamilifu. Hakuna roho ya uongo wala dini itakayokiri kwamba Yesu alikuja duniani katika mwili na kuwakomboa wanadamu kutoka katika dhambi zao zote milele. Jaribu sauti unayosikia. Lazima pia ujue kwamba Mungu kamwe hatakuongoza nje ya Neno Lake lililoandikwa, yaani Biblia. Ikiwa unasikia kitu ambacho hakiwezi kuthibitishwa katika Biblia, hausikii kutoka kwa Mungu. Kitupilie mbali! Jaribu sauti unayosikia ili uone kama inatoka kwa Mungu.
+<span class="x-scripture" data-book="1JN" data-chapter="4" data-lang="en" data-type="ref" data-verses="1-3" data-version="NKJV">1 Yohana 4:1-3</span> inatuagiza “kujaribu kila roho” ili tuwe na uhakika kuwa inatoka kwa Mungu. Unapodhani unasikia kutoka kwa Mungu, una haki na wajibu wa kuiuliza sauti hiyo swali (Hiyo ndiyo kujaribu au kuthibitisha roho.) Swali la kuuliza ni: “Je, Yesu Kristo alikuja katika mwili?” Jambo moja ambalo roho wa kawaida hawatakiri kamwe ni kwamba Yesu alikuja duniani katika mwili. Alikuwa mtu kikamilifu na Mungu kikamilifu. Hakuna roho ya uongo wala dini itakayokiri kwamba Yesu alikuja duniani katika mwili na kuwakomboa wanadamu kutoka katika dhambi zao zote milele. Jaribu sauti unayosikia. Lazima pia ujue kwamba Mungu kamwe hatakuongoza nje ya Neno Lake lililoandikwa, yaani Biblia. Ikiwa unasikia kitu ambacho hakiwezi kuthibitishwa katika Biblia, hausikii kutoka kwa Mungu. Kitupilie mbali! Jaribu sauti unayosikia ili uone kama inatoka kwa Mungu.
 
 <!-- p27 -->
 7.  <u>Sauti ya Mungu daima huleta Utukufu kwa Yesu Kristo.</u>
-
 <!-- p28 -->
-Roho Mtakatifu ndiye Sauti ya Mbingu. Yeye ndiye aliye hapa duniani kufanya kazi pamoja nasi, na Yesu alisema siku zote atanena tu yale asikiayo, na daima ataleta utukufu kwa Yesu (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="16" data-verses="13-14" data-lang="en" data-version="NKJV">Yohana 16:13-14</span>). Hayuko hapa kuleta utukufu kwa huduma yako au matendo yako au programu za kanisa. Mambo hayo yote ni mazuri, na mengi yao ni muhimu kutimiza tuyafanyayo, lakini Roho Mtakatifu atanena na kuleta Utukufu kwa Nafsi ya Yesu. Ikiwa unatetewa au kutukuzwa na sauti unayosikia, hausikii Mungu. Kuna tofauti kati ya kutukuzwa na kutiwa moyo na kutiwa nguvu. Roho Mtakatifu siku zote atakutia moyo na kukutia nguvu kila anapokunenea, hata anapokurekebisha (kukuongoza) kwa neno. Lakini utukufu ni pale unapodhani WEWE ndiye mtu wa maana. Wewe si kitu bila Yesu—YEYE NDIYE MTU WA MAANA, si sisi.
+Roho Mtakatifu ndiye Sauti ya Mbingu. Yeye ndiye aliye hapa duniani kufanya kazi pamoja nasi, na Yesu alisema siku zote atanena tu yale asikiayo, na daima ataleta utukufu kwa Yesu (<span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="en" data-type="ref" data-verses="13-14" data-version="NKJV">Yohana 16:13-14</span>). Hayuko hapa kuleta utukufu kwa huduma yako au matendo yako au programu za kanisa. Mambo hayo yote ni mazuri, na mengi yao ni muhimu kutimiza tuyafanyayo, lakini Roho Mtakatifu atanena na kuleta Utukufu kwa Nafsi ya Yesu. Ikiwa unatetewa au kutukuzwa na sauti unayosikia, hausikii Mungu. Kuna tofauti kati ya kutukuzwa na kutiwa moyo na kutiwa nguvu. Roho Mtakatifu siku zote atakutia moyo na kukutia nguvu kila anapokunenea, hata anapokurekebisha (kukuongoza) kwa neno. Lakini utukufu ni pale unapodhani WEWE ndiye mtu wa maana. Wewe si kitu bila Yesu—YEYE NDIYE MTU WA MAANA, si sisi.
 
 <!-- p29 -->
 8.  <u>Sauti ya Mungu siku zote ITAFUNUA jambo fulani kwetu.</u>
-
 <!-- p30 -->
-Tazama <span class="x-scripture" data-type="ref" data-book="John" data-chapter="16" data-verses="14" data-lang="en" data-version="NKJV">Yohana 16:14</span>. Siku zote huchukua vilivyo vya **Yesu** na kutuvifunulia. Toleo la Amplified linaongeza maneno: kutangaza, kufichua, na kuhamisha linapozingatia neno “kufunua.” **Mungu** siku zote hufichua jambo kwetu baada ya kulitangaza kwetu, na kisha kwa imani yako, analihamishia kwetu. Soma pia <span class="x-scripture" data-type="ref" data-book="1 Corinthians" data-chapter="2" data-verses="10" data-lang="en" data-version="NKJV">1 Wakorintho 2:10</span> na 12.
+Tazama <span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV">Yohana 16:14</span>. Siku zote huchukua vilivyo vya **Yesu** na kutuvifunulia. Toleo la Amplified linaongeza maneno: kutangaza, kufichua, na kuhamisha linapozingatia neno “kufunua.” **Mungu** siku zote hufichua jambo kwetu baada ya kulitangaza kwetu, na kisha kwa imani yako, analihamishia kwetu. Soma pia <span class="x-scripture" data-book="1CO" data-chapter="2" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV">1 Wakorintho 2:10</span> na 12.
 
 <!-- p31 -->
 9.  <u>Sauti ya Mungu siku zote italeta amani.</u>
-
 <!-- p32 -->
-Soma <span class="x-scripture" data-type="ref" data-book="John" data-chapter="14" data-verses="26" data-lang="en" data-version="NKJV">Yohana 14:26</span> na 27, na <span class="x-scripture" data-type="ref" data-book="Colossians" data-chapter="3" data-verses="14" data-lang="en" data-version="NKJV">Wakolosai 3:14</span> na 15. Sauti Yake haitusumbui kamwe. Ni sauti iletayo amani timilifu. Amani ya ndani ni kwa sababu kuna KUJUA kunakotuletea ujasiri mbele za Mungu, ambako hutafsiriwa kuwa amani timilifu. Ikiwa sauti unayosikiliza inakusumbua, hausikii kutoka kwa Mungu-izime. Yesu alituahidi amani, si kama vile ulimwengu utoavyo bali kama Yeye atupaye kupitia maneno ya faraja ya Roho Mtakatifu na ukaaji Wake wa kudumu (<span class="x-scripture" data-type="ref" data-book="John" data-chapter="14" data-verses="27" data-lang="en" data-version="NKJV">Yohana 14:27</span>).
+Soma <span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="en" data-type="ref" data-verses="26" data-version="NKJV">Yohana 14:26</span> na 27, na <span class="x-scripture" data-book="COL" data-chapter="3" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV">Wakolosai 3:14</span> na 15. Sauti Yake haitusumbui kamwe. Ni sauti iletayo amani timilifu. Amani ya ndani ni kwa sababu kuna KUJUA kunakotuletea ujasiri mbele za Mungu, ambako hutafsiriwa kuwa amani timilifu. Ikiwa sauti unayosikiliza inakusumbua, hausikii kutoka kwa Mungu-izime. Yesu alituahidi amani, si kama vile ulimwengu utoavyo bali kama Yeye atupaye kupitia maneno ya faraja ya Roho Mtakatifu na ukaaji Wake wa kudumu (<span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="en" data-type="ref" data-verses="27" data-version="NKJV">Yohana 14:27</span>).
 
 <!-- p33 -->
 10. <u>Sauti ya Mungu DAIMA huleta KWELI.</u>
-
 <!-- p34 -->
-Soma <span class="x-scripture" data-type="ref" data-book="John" data-chapter="14" data-verses="17" data-lang="en" data-version="NKJV">Yohana 14:17</span>, 26; 16:13. Kwa kweli, <span class="x-scripture" data-type="ref" data-book="John" data-chapter="16" data-verses="13" data-lang="en" data-version="NKJV">Yohana 16:13</span> humwita Roho Mtakatifu: “Roho wa Kweli.” Mungu hawezi kusema uongo! Yeye ni KWELI na kwa hiyo atanena tu KWELI. Nimewahi kusikia watu wakisema mambo kama: “Siwezi kuamini ninachosikia kimetoka kwa Mungu. Ni kizuri mno kuwa cha kweli.” Na pengine ni kizuri mno kuwa cha kweli; ndiyo maana LAZIMA ujaribu roho kwa kuilinganisha na Neno la Mungu ili uhakikishe kuwa ni Kweli. Watu wengine hawawezi tu kuamini kwa sababu wanachosikia daima ni chanya, na wamefundishwa kwamba Mungu hutuhukumu kwa makosa. Mungu atasema tu KWELI, na siku zote itakuwa HABARI NJEMA. Ukweli wa kusikitisha ni kwamba watu wengi husikia tu habari mbaya kutoka kwa sauti wanayosikiliza na hawatarajii kusikia habari njema, hivyo habari njema inapokuja, huihoji kama labda si kweli. **Kweli daima ni habari njema!** Ni **kweli ile** inayotuweka huru, basi je, **kweli** inaweza kuwa nini kingine isipokuwa habari njema?
+Soma <span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="en" data-type="ref" data-verses="17" data-version="NKJV">Yohana 14:17</span>, 26; 16:13. Kwa kweli, <span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="en" data-type="ref" data-verses="13" data-version="NKJV">Yohana 16:13</span> humwita Roho Mtakatifu: “Roho wa Kweli.” Mungu hawezi kusema uongo! Yeye ni KWELI na kwa hiyo atanena tu KWELI. Nimewahi kusikia watu wakisema mambo kama: “Siwezi kuamini ninachosikia kimetoka kwa Mungu. Ni kizuri mno kuwa cha kweli.” Na pengine ni kizuri mno kuwa cha kweli; ndiyo maana LAZIMA ujaribu roho kwa kuilinganisha na Neno la Mungu ili uhakikishe kuwa ni Kweli. Watu wengine hawawezi tu kuamini kwa sababu wanachosikia daima ni chanya, na wamefundishwa kwamba Mungu hutuhukumu kwa makosa. Mungu atasema tu KWELI, na siku zote itakuwa HABARI NJEMA. Ukweli wa kusikitisha ni kwamba watu wengi husikia tu habari mbaya kutoka kwa sauti wanayosikiliza na hawatarajii kusikia habari njema, hivyo habari njema inapokuja, huihoji kama labda si kweli. **Kweli daima ni habari njema!** Ni **kweli ile** inayotuweka huru, basi je, **kweli** inaweza kuwa nini kingine isipokuwa habari njema?
 
 <!-- p35 -->
 11. <u>Sauti ya **Mungu** daima HUTUONGOZA MBELE NA JUU.</u>
-
 <!-- p36 -->
-Soma Kumbukumbu la Torati 28:1-2, <span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="30" data-verses="21" data-lang="en" data-version="NKJV">Isaya 30:21</span>, na <span class="x-scripture" data-type="ref" data-book="John" data-chapter="16" data-verses="13" data-lang="en" data-version="NKJV">Yohana 16:13</span>
-
+Soma Kumbukumbu la Torati 28:1-2, <span class="x-scripture" data-book="ISA" data-chapter="30" data-lang="en" data-type="ref" data-verses="21" data-version="NKJV">Isaya 30:21</span>, na <span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="en" data-type="ref" data-verses="13" data-version="NKJV">Yohana 16:13</span>
 <!-- p37 -->
-Mungu kamwe hakuteremshi! Hatawahi kukudharau; atakujenga tu. Mungu anaponena nawe, ananena kutoka kwenye mtazamo kwamba kila kitu ambacho Neno kinasema kukuhusu tayari kimetimizwa na UMEIKUBALI. <span class="x-scripture" data-type="ref" data-book="Jeremiah" data-chapter="33" data-verses="3" data-lang="en" data-version="NKJV">Yeremia 33:3</span> inasema: “Nitie mwito, nami nitakujibu, na nitakuonyesha mambo **MAKUU NA YENYE NGUVU** usiyoyajua.” Je, hilo linasikika kama kukudharau au maangamizi na giza? Kuna HAKUNA maangamizi na giza ndani ya Mungu, kwa hiyo Hawezi kukuambia chochote cha maangamizi au cha giza. Utahitaji kugeukia shirika la habari la dunia kwa maangamizi na giza.
+Mungu kamwe hakuteremshi! Hatawahi kukudharau; atakujenga tu. Mungu anaponena nawe, ananena kutoka kwenye mtazamo kwamba kila kitu ambacho Neno kinasema kukuhusu tayari kimetimizwa na UMEIKUBALI. <span class="x-scripture" data-book="JER" data-chapter="33" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV">Yeremia 33:3</span> inasema: “Nitie mwito, nami nitakujibu, na nitakuonyesha mambo **MAKUU NA YENYE NGUVU** usiyoyajua.” Je, hilo linasikika kama kukudharau au maangamizi na giza? Kuna HAKUNA maangamizi na giza ndani ya Mungu, kwa hiyo Hawezi kukuambia chochote cha maangamizi au cha giza. Utahitaji kugeukia shirika la habari la dunia kwa maangamizi na giza.
 
 <!-- p38 -->
-<span class="x-scripture" data-type="quote" data-book="Jeremiah" data-chapter="29" data-verses="11" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="JER" data-chapter="29" data-lang="en" data-type="quote" data-verses="11" data-version="NKJV">
 <!-- p39 -->
-> **<u>Yeremia 29:11</u>** (NKJV) *Kwa maana najua mawazo ninayowafikiria ninyi, asema Bwana, mawazo ya amani wala si ya uovu, ili niwape siku za usoni na tumaini.*
+&gt; **<u>Yeremia 29:11</u>** (NKJV) *Kwa maana najua mawazo ninayowafikiria ninyi, asema Bwana, mawazo ya amani wala si ya uovu, ili niwape siku za usoni na tumaini.*
 
 <!-- p40 -->
 </span>
-
 <!-- p41 -->
 Sasa, ikiwa Mungu ANAFIKIRI mawazo mema ya amani, mustakabali, na tumaini kutuhusu, kwa nini angesema vinginevyo? Jibu ni, ASINGESEMA, na HASEMI! Yeye hutuelekeza tu JUU na MBELE kwa tumaini kuu ili kutupatia mustakabali tunaoutarajia.
 
@@ -139,11 +125,9 @@ Kwa rasilimali zaidi kuhusu kusikia sauti ya Mungu, nakukaribisha kutembelea [<u
 - Ukurasa Huu Umeachwa Mtupu Kimakusudi -
 
 <!-- p45 -->
-<img src="./media/media/image1.png" style="width:1.97222in;height:1.97222in" alt="A logo of a leaf Description automatically generated" />
-
+<img alt="A logo of a leaf Description automatically generated" src="./media/media/image1.png" style="width:1.97222in;height:1.97222in"/>
 <!-- p46 -->
 Tanbihi ya Mwandishi <sub>-</sub>
-
 <!-- p47 -->
 Asante kwa kusoma kitabu hiki, natumai kimekuwa rasilimali yenye manufaa katika safari yako. Ili kuendelea kuwasiliana nami tafadhali tembelea tovuti yangu katika [www.faithprinciples.org](http://www.faithprinciples.org)
 

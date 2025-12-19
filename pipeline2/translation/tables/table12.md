@@ -1,9 +1,9 @@
 <!-- p0 -->
 <table style="width:99%;">
 <colgroup>
-<col style="width: 26%" />
-<col style="width: 26%" />
-<col style="width: 44%" />
+<col style="width: 26%"/>
+<col style="width: 26%"/>
+<col style="width: 44%"/>
 </colgroup>
 <thead>
 <tr>
@@ -18,112 +18,111 @@
 </tr>
 <tr>
 <td><p><strong>Yesu (Yeshua)</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="1" data-verses="21" data-lang="en" data-version="NKJV">Mathayo 1:21</span></p></td>
+<p><span class="x-scripture" data-book="MAT" data-chapter="1" data-lang="en" data-type="ref" data-verses="21" data-version="NKJV">Mathayo 1:21</span></p></td>
 <td>BWANA ni Wokovu</td>
 <td>Yesu kama Mungu katika mwili, akitimiza ahadi ya Mungu ya wokovu kwa watu Wake.</td>
 </tr>
 <tr>
 <td><p><strong>Emmanuel</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="1" data-verses="23" data-lang="en" data-version="NKJV">Mathayo 1:23</span></p></td>
+<p><span class="x-scripture" data-book="MAT" data-chapter="1" data-lang="en" data-type="ref" data-verses="23" data-version="NKJV">Mathayo 1:23</span></p></td>
 <td>Mungu pamoja nasi</td>
 <td>Inaonyesha uwepo wa Mungu miongoni mwa wanadamu kupitia Yesu; ishara ya ukaribu na upendo uliochukua mwili.</td>
 </tr>
 <tr>
 <td><p><strong>Messiah (Christ)</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="John" data-chapter="1" data-verses="41" data-lang="en" data-version="NKJV">Yohana 1:41</span>, <span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="16" data-verses="16" data-lang="en" data-version="NKJV">Mathayo 16:16</span></p></td>
+<p><span class="x-scripture" data-book="JHN" data-chapter="1" data-lang="en" data-type="ref" data-verses="41" data-version="NKJV">Yohana 1:41</span>, <span class="x-scripture" data-book="MAT" data-chapter="16" data-lang="en" data-type="ref" data-verses="16" data-version="NKJV">Mathayo 16:16</span></p></td>
 <td>Aliyetiwa Mafuta</td>
 <td>Mkombozi aliyeahidiwa na Mfalme aliyetiwa mafuta kutoka Agano la Kale, aliyetimizwa katika Yesu.</td>
 </tr>
 <tr>
 <td><p><strong>Logos</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="John" data-chapter="1" data-verses="1-14" data-lang="en" data-version="NKJV">Yohana 1:1-14</span></p></td>
+<p><span class="x-scripture" data-book="JHN" data-chapter="1" data-lang="en" data-type="ref" data-verses="1-14" data-version="NKJV">Yohana 1:1-14</span></p></td>
 <td>Neno</td>
 <td>Yesu kama Neno la Mungu la kimungu, ambaye kupitia Yeye vitu vyote viliumbwa, akiakisi hekima na kweli.</td>
 </tr>
 <tr>
 <td><p><strong>Mwana-Kondoo wa Mungu</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="John" data-chapter="1" data-verses="29" data-lang="en" data-version="NKJV">Yohana 1:29</span>, <span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="5" data-verses="6" data-lang="en" data-version="NKJV">Ufunuo 5:6</span></p></td>
+<p><span class="x-scripture" data-book="JHN" data-chapter="1" data-lang="en" data-type="ref" data-verses="29" data-version="NKJV">Yohana 1:29</span>, <span class="x-scripture" data-book="REV" data-chapter="5" data-lang="en" data-type="ref" data-verses="6" data-version="NKJV">Ufunuo 5:6</span></p></td>
 <td>Dhabihu ya Dhambi</td>
 <td>Yesu kama Mwana-Kondoo wa dhabihu, aondoaye dhambi za ulimwengu, akitimiza mfumo wa dhabihu.</td>
 </tr>
 <tr>
 <td><p><strong>Alpha and Omega</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="1" data-verses="8" data-lang="en" data-version="NKJV">Ufunuo 1:8</span>, 22:13</p></td>
+<p><span class="x-scripture" data-book="REV" data-chapter="1" data-lang="en" data-type="ref" data-verses="8" data-version="NKJV">Ufunuo 1:8</span>, 22:13</p></td>
 <td>Mwanzo na Mwisho</td>
 <td>Inasisitiza kuwepo kwa Mungu milele na enzi Yake juu ya historia na uumbaji wote.</td>
 </tr>
 <tr>
 <td><p><strong>Mwana wa Mungu</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="3" data-verses="17" data-lang="en" data-version="NKJV">Mathayo 3:17</span>, <span class="x-scripture" data-type="ref" data-book="John" data-chapter="3" data-verses="16" data-lang="en" data-version="NKJV">Yohana 3:16</span></p></td>
+<p><span class="x-scripture" data-book="MAT" data-chapter="3" data-lang="en" data-type="ref" data-verses="17" data-version="NKJV">Mathayo 3:17</span>, <span class="x-scripture" data-book="JHN" data-chapter="3" data-lang="en" data-type="ref" data-verses="16" data-version="NKJV">Yohana 3:16</span></p></td>
 <td>Uwana wa Kimungu</td>
 <td>Inathibitisha asili ya kimungu ya Yesu na uhusiano Wake ndani ya Utatu kama Mwana.</td>
 </tr>
 <tr>
 <td><p><strong>Mwana wa Adamu</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="Matthew" data-chapter="8" data-verses="20" data-lang="en" data-version="NKJV">Mathayo 8:20</span>, <span class="x-scripture" data-type="ref" data-book="Daniel" data-chapter="7" data-verses="13-14" data-lang="en" data-version="NKJV">Danieli 7:13-14</span></p></td>
+<p><span class="x-scripture" data-book="MAT" data-chapter="8" data-lang="en" data-type="ref" data-verses="20" data-version="NKJV">Mathayo 8:20</span>, <span class="x-scripture" data-book="DAN" data-chapter="7" data-lang="en" data-type="ref" data-verses="13-14" data-version="NKJV">Danieli 7:13-14</span></p></td>
 <td>Mwakilishi wa Ubinadamu</td>
 <td>Jina ambalo Yesu alipenda kujitaja, likisisitiza ubinadamu Wake na nafasi Yake ya kimasihi kama ilivyotabiriwa katika Danieli.</td>
 </tr>
 <tr>
 <td><p><strong>Mfalme wa Wafalme</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="17" data-verses="14" data-lang="en" data-version="NKJV">Ufunuo 17:14</span>, 19:16</p></td>
+<p><span class="x-scripture" data-book="REV" data-chapter="17" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV">Ufunuo 17:14</span>, 19:16</p></td>
 <td>Mtawala Mkuu</td>
 <td>Hutangaza mamlaka ya juu ya Yesu juu ya watawala na falme zote za duniani.</td>
 </tr>
 <tr>
 <td><p><strong>Bwana wa Mabwana</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="Revelation" data-chapter="17" data-verses="14" data-lang="en" data-version="NKJV">Ufunuo 17:14</span>, 19:16</p></td>
+<p><span class="x-scripture" data-book="REV" data-chapter="17" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV">Ufunuo 17:14</span>, 19:16</p></td>
 <td>Mamlaka ya Juu</td>
 <td>Yesu kama mamlaka ya mwisho juu ya wote, akithibitisha enzi Yake ya kimungu.</td>
 </tr>
 <tr>
 <td><p><strong>Mchungaji Mwema</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="John" data-chapter="10" data-verses="11" data-lang="en" data-version="NKJV">Yohana 10:11</span>, Zaburi 23</p></td>
+<p><span class="x-scripture" data-book="JHN" data-chapter="10" data-lang="en" data-type="ref" data-verses="11" data-version="NKJV">Yohana 10:11</span>, Zaburi 23</p></td>
 <td>Mlinzi Mwenye Kujali</td>
 <td>Yesu kama mchungaji mwenye kujali anayetoa uhai Wake kwa ajili ya kondoo Wake, akiwaongoza na kuwalinda.</td>
 </tr>
 <tr>
 <td><p><strong>Mkuu wa Amani</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="9" data-verses="6" data-lang="en" data-version="NKJV">Isaya 9:6</span>, <span class="x-scripture" data-type="ref" data-book="Ephesians" data-chapter="2" data-verses="14" data-lang="en" data-version="NKJV">Waefeso 2:14</span></p></td>
+<p><span class="x-scripture" data-book="ISA" data-chapter="9" data-lang="en" data-type="ref" data-verses="6" data-version="NKJV">Isaya 9:6</span>, <span class="x-scripture" data-book="EPH" data-chapter="2" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV">Waefeso 2:14</span></p></td>
 <td>Mleta Amani</td>
 <td>Yesu kama chanzo cha amani, akiupatanisha ubinadamu na Mungu na kutoa amani ya moyoni.</td>
 </tr>
 <tr>
 <td><p><strong>Mkombozi</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="Galatians" data-chapter="3" data-verses="13" data-lang="en" data-version="NKJV">Wagalatia 3:13</span>, <span class="x-scripture" data-type="ref" data-book="Titus" data-chapter="2" data-verses="14" data-lang="en" data-version="NKJV">Tito 2:14</span></p></td>
+<p><span class="x-scripture" data-book="GAL" data-chapter="3" data-lang="en" data-type="ref" data-verses="13" data-version="NKJV">Wagalatia 3:13</span>, <span class="x-scripture" data-book="TIT" data-chapter="2" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV">Tito 2:14</span></p></td>
 <td>Anayekomboa</td>
 <td>Yesu kama yule aliyelipa gharama ili kuukomboa ubinadamu kutoka katika dhambi na adhabu zake.</td>
 </tr>
 <tr>
 <td><p><strong>Kuhani Mkuu</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="4" data-verses="14-15" data-lang="en" data-version="NKJV">Waebrania 4:14-15</span>, <span class="x-scripture" data-type="ref" data-book="Hebrews" data-chapter="7" data-verses="26" data-lang="en" data-version="NKJV">Waebrania 7:26</span></p></td>
+<p><span class="x-scripture" data-book="HEB" data-chapter="4" data-lang="en" data-type="ref" data-verses="14-15" data-version="NKJV">Waebrania 4:14-15</span>, <span class="x-scripture" data-book="HEB" data-chapter="7" data-lang="en" data-type="ref" data-verses="26" data-version="NKJV">Waebrania 7:26</span></p></td>
 <td>Mpatanishi kati ya Mungu na Mwanadamu</td>
 <td>Yesu kama mpatanishi wa juu kabisa anayeomba kwa ajili ya wanadamu mbele za Mungu.</td>
 </tr>
 <tr>
 <td><p><strong>Njia, Kweli, Uzima</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="John" data-chapter="14" data-verses="6" data-lang="en" data-version="NKJV">Yohana 14:6</span></p></td>
+<p><span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="en" data-type="ref" data-verses="6" data-version="NKJV">Yohana 14:6</span></p></td>
 <td>Chanzo cha Uzima wa Kiroho</td>
 <td>Yesu kama njia ya pekee ya kumfikia Mungu, akiakisi kweli na akitoa uzima wa milele.</td>
 </tr>
 <tr>
 <td><p><strong>Mkate wa Uzima</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="John" data-chapter="6" data-verses="35" data-lang="en" data-version="NKJV">Yohana 6:35</span></p></td>
+<p><span class="x-scripture" data-book="JHN" data-chapter="6" data-lang="en" data-type="ref" data-verses="35" data-version="NKJV">Yohana 6:35</span></p></td>
 <td>Lishe ya Kiroho</td>
 <td>Yesu kama chanzo cha lishe ya kiroho na uzima wa milele.</td>
 </tr>
 <tr>
 <td><p><strong>Nuru ya Ulimwengu</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="John" data-chapter="8" data-verses="12" data-lang="en" data-version="NKJV">Yohana 8:12</span></p></td>
+<p><span class="x-scripture" data-book="JHN" data-chapter="8" data-lang="en" data-type="ref" data-verses="12" data-version="NKJV">Yohana 8:12</span></p></td>
 <td>Mwangaza wa Kiroho</td>
 <td>Yesu kama chanzo cha kweli, akifukuza giza la kiroho na kuwaongoza waamini.</td>
 </tr>
 <tr>
 <td><p><strong>Mwana wa Daudi</strong></p>
-<p><span class="x-scripture" data-type="ref" data-book="2 Samuel" data-chapter="7" data-verses="16" data-lang="en" data-version="NKJV">2 Samweli 7:16</span>, <span class="x-scripture" data-type="ref" data-book="Isaiah" data-chapter="11" data-verses="1" data-lang="en" data-version="NKJV">Isaya 11:1</span>, Mathayo 1 na Luka 3</p></td>
+<p><span class="x-scripture" data-book="2SA" data-chapter="7" data-lang="en" data-type="ref" data-verses="16" data-version="NKJV">2 Samweli 7:16</span>, <span class="x-scripture" data-book="ISA" data-chapter="11" data-lang="en" data-type="ref" data-verses="1" data-version="NKJV">Isaya 11:1</span>, Mathayo 1 na Luka 3</p></td>
 <td>Mzawa wa Mfalme Daudi</td>
 <td>Yesu yuko katika ukoo wa Mfalme Daudi, akitimiza unabii kadhaa wa Agano la Kale kumhusu.</td>
 </tr>
 </tbody>
 </table>
-

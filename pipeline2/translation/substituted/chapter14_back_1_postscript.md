@@ -14,20 +14,17 @@ Huenda ukawa na maswali ambayo bado hayajajibiwa. Unaweza kuhisi kana kwamba ume
 Paulo aliandika
 
 <!-- p5 -->
-<span class="x-scripture" data-type="quote" data-book="Philippians" data-chapter="3" data-verses="12-14" data-lang="sw" data-version="BHN">
-
-
+<span class="x-scripture" data-book="PHP" data-chapter="3" data-lang="sw" data-type="quote" data-verses="12-14" data-version="BHN">
 <!-- p6 -->
-> **<u>Wafilipi 3:12-14</u>** (BHN)
->
-> Sijidai kwamba nimekwisha faulu au nimekwisha kuwa mkamilifu. Naendelea kujitahidi kupata lile tuzo ambalo kwalo Kristo amekwisha nipata mimi.
-> Ama kweli, ndugu zangu, sidhani kuwa nimekwisha pata tuzo hilo; lakini jambo moja nafanya: Nayasahau yale yaliyopita na kufanya bidii kuyazingatia yale yaliyo mbele.
-> Basi, nimo mbioni kuelekea lengo langu, ili nipate lile tuzo, ambalo ni mwito wa Mungu kwa maisha ya juu kwa njia ya Kristo Yesu.
+&gt; **<u>Wafilipi 3:12-14</u>** (BHN)
+&gt;
+&gt; Sijidai kwamba nimekwisha faulu au nimekwisha kuwa mkamilifu. Naendelea kujitahidi kupata lile tuzo ambalo kwalo Kristo amekwisha nipata mimi.
+&gt; Ama kweli, ndugu zangu, sidhani kuwa nimekwisha pata tuzo hilo; lakini jambo moja nafanya: Nayasahau yale yaliyopita na kufanya bidii kuyazingatia yale yaliyo mbele.
+&gt; Basi, nimo mbioni kuelekea lengo langu, ili nipate lile tuzo, ambalo ni mwito wa Mungu kwa maisha ya juu kwa njia ya Kristo Yesu.
 
 
 <!-- p7 -->
 </span>
-
 <!-- p8 -->
 Tukaze mwendo pamoja. Simameni imara katika mafundisho sahihi, tembeeni kwa ujasiri katika imani, na tangazeni Injili kwa ujasiri. Ulimwengu unahitaji sana nuru ya Kristo, na wewe, ukiwa umejihami kwa ukweli, umeitwa kung'aa.
 

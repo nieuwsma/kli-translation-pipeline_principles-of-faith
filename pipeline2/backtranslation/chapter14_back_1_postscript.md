@@ -14,16 +14,14 @@ You may have questions that remain unanswered. You may feel as though you have o
 Paul wrote
 
 <!-- p5 -->
-<span class="x-scripture" data-type="quote" data-book="Philippians" data-chapter="3" data-verses="12-14" data-lang="en" data-version="NKJV">
-
+<span class="x-scripture" data-book="PHP" data-chapter="3" data-lang="en" data-type="quote" data-verses="12-14" data-version="NKJV">
 <!-- p6 -->
-> **<u>Philippians 3:12-14</u>** (NASB):
->
->*"Not that I have already attained, or am already perfected; but I press on, so that I may lay hold of that for which Christ Jesus has also laid hold of me. Brothers, I do not consider myself to have laid hold of it; but one thing I do: forgetting what lies behind and reaching forward to what lies ahead, I press on toward the goal for the prize of the upward call of God in Christ Jesus."*
+&gt; **<u>Philippians 3:12-14</u>** (NASB):
+&gt;
+&gt;*"Not that I have already attained, or am already perfected; but I press on, so that I may lay hold of that for which Christ Jesus has also laid hold of me. Brothers, I do not consider myself to have laid hold of it; but one thing I do: forgetting what lies behind and reaching forward to what lies ahead, I press on toward the goal for the prize of the upward call of God in Christ Jesus."*
 
 <!-- p7 -->
 </span>
-
 <!-- p8 -->
 Let us press on together. Stand firm in sound doctrine, walk boldly in faith, and proclaim the Gospel with courage. The world greatly needs the light of Christ, and you, equipped with the truth, are called to shine.
 
