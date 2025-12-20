@@ -252,81 +252,81 @@ Summary: requested=250, found=250, missing=0
 Output: /Users/andrew/repo/translate_principles_of_faith/pipeline3/selected_bible.json
 
 ✅ Bible JSON created at /Users/andrew/repo/translate_principles_of_faith/pipeline3/selected_bible.json
-→ ./scripts/substitute_scripture.py --input-dir /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation --bible-file /Users/andrew/repo/translate_principles_of_faith/pipeline3/selected_bible.json --output-dir /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted
-⚪ Skipped (no changes): /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter0_0_intro.md
-⚪ Skipped (no changes): /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter0_1_dedication.md
-⚪ Skipped (no changes): /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter0_2_acknowledgements.md
-⚪ Skipped (no changes): /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter0_3_table_of_contents.md
-⚪ Skipped (no changes): /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter0_4_list_of_tables.md
-⚪ Skipped (no changes): /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter0_5_foreword.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter0_6_preface.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter0_6_preface.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter11_chapter_11_baptisms_water_and_spirit.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter11_chapter_11_baptisms_water_and_spirit.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter12_chapter_12_discipleship.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter12_chapter_12_discipleship.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter13_chapter_13_spiritual_authority.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter13_chapter_13_spiritual_authority.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter14_back_1_postscript.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter14_back_1_postscript.md
-⚪ Skipped (no changes): /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter14_back_3_extended_reference_tables.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter14_back_4_end_of_chapter_activities.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter14_back_4_end_of_chapter_activities.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter14_back_5_hearing_the_voice_of_god.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter14_back_5_hearing_the_voice_of_god.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter14_chapter_14_keep_watch.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter14_chapter_14_keep_watch.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter1_chapter_1_sound_doctrine_matters.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter1_chapter_1_sound_doctrine_matters.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter2_chapter_2_god_eternal_creator_and_loving_father.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter2_chapter_2_god_eternal_creator_and_loving_father.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter3_chapter_3_sin_and_redemption.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter3_chapter_3_sin_and_redemption.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter4_chapter_4_jesus_the_messiah.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter4_chapter_4_jesus_the_messiah.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter5_chapter_5_repentance_from_dead_works.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter5_chapter_5_repentance_from_dead_works.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter6_chapter_6_faith_toward_god.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter6_chapter_6_faith_toward_god.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/chapters/translation/chapter9_chapter_9_the_church_our_role_in_it.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter9_chapter_9_the_church_our_role_in_it.md
+→ ./scripts/substitute_scripture.py --input-dir /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters --bible-file /Users/andrew/repo/translate_principles_of_faith/pipeline3/selected_bible.json --output-dir /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters
+⚪ Skipped (no changes): /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter0_0_intro.md
+⚪ Skipped (no changes): /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter0_1_dedication.md
+⚪ Skipped (no changes): /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter0_2_acknowledgements.md
+⚪ Skipped (no changes): /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter0_3_table_of_contents.md
+⚪ Skipped (no changes): /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter0_4_list_of_tables.md
+⚪ Skipped (no changes): /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter0_5_foreword.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter0_6_preface.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter0_6_preface.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter11_chapter_11_baptisms_water_and_spirit.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter11_chapter_11_baptisms_water_and_spirit.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter12_chapter_12_discipleship.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter12_chapter_12_discipleship.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter13_chapter_13_spiritual_authority.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter13_chapter_13_spiritual_authority.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter14_back_1_postscript.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter14_back_1_postscript.md
+⚪ Skipped (no changes): /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter14_back_3_extended_reference_tables.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter14_back_4_end_of_chapter_activities.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter14_back_4_end_of_chapter_activities.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter14_back_5_hearing_the_voice_of_god.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter14_back_5_hearing_the_voice_of_god.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter14_chapter_14_keep_watch.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter14_chapter_14_keep_watch.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter1_chapter_1_sound_doctrine_matters.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter1_chapter_1_sound_doctrine_matters.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter2_chapter_2_god_eternal_creator_and_loving_father.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter2_chapter_2_god_eternal_creator_and_loving_father.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter3_chapter_3_sin_and_redemption.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter3_chapter_3_sin_and_redemption.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter4_chapter_4_jesus_the_messiah.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter4_chapter_4_jesus_the_messiah.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter5_chapter_5_repentance_from_dead_works.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter5_chapter_5_repentance_from_dead_works.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter6_chapter_6_faith_toward_god.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter6_chapter_6_faith_toward_god.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/chapters/chapter9_chapter_9_the_church_our_role_in_it.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter9_chapter_9_the_church_our_role_in_it.md
 ✅ All verses found and substituted cleanly.
-→ ./scripts/localize_scripture_refs.py --input-dir /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted --bible-file /Users/andrew/repo/translate_principles_of_faith/pipeline3/selected_bible.json
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter0_6_preface.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter11_chapter_11_baptisms_water_and_spirit.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter12_chapter_12_discipleship.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter13_chapter_13_spiritual_authority.md
-[OK] /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter14_back_1_postscript.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter14_back_4_end_of_chapter_activities.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter14_back_5_hearing_the_voice_of_god.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter14_chapter_14_keep_watch.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter1_chapter_1_sound_doctrine_matters.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter2_chapter_2_god_eternal_creator_and_loving_father.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter3_chapter_3_sin_and_redemption.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter4_chapter_4_jesus_the_messiah.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter5_chapter_5_repentance_from_dead_works.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter6_chapter_6_faith_toward_god.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/chapters/substituted/chapter9_chapter_9_the_church_our_role_in_it.md
+→ ./scripts/localize_scripture_refs.py --input-dir /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters --bible-file /Users/andrew/repo/translate_principles_of_faith/pipeline3/selected_bible.json
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter0_6_preface.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter11_chapter_11_baptisms_water_and_spirit.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter12_chapter_12_discipleship.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter13_chapter_13_spiritual_authority.md
+[OK] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter14_back_1_postscript.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter14_back_4_end_of_chapter_activities.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter14_back_5_hearing_the_voice_of_god.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter14_chapter_14_keep_watch.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter1_chapter_1_sound_doctrine_matters.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter2_chapter_2_god_eternal_creator_and_loving_father.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter3_chapter_3_sin_and_redemption.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter4_chapter_4_jesus_the_messiah.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter5_chapter_5_repentance_from_dead_works.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter6_chapter_6_faith_toward_god.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/chapters/chapter9_chapter_9_the_church_our_role_in_it.md
 
 Done. Files checked: 18 | Updated: 17
-Copied through 7 chapter files with no substitutions: chapter0_0_intro.md, chapter0_1_dedication.md, chapter0_2_acknowledgements.md, chapter0_3_table_of_contents.md, chapter0_4_list_of_tables.md, chapter0_5_foreword.md, chapter14_back_3_extended_reference_tables.md
-→ ./scripts/substitute_scripture.py --input-dir /Users/andrew/repo/translate_principles_of_faith/pipeline2/tables/translation --bible-file /Users/andrew/repo/translate_principles_of_faith/pipeline3/selected_bible.json --output-dir /Users/andrew/repo/translate_principles_of_faith/pipeline3/tables/substituted
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/tables/translation/table1.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/tables/substituted/table1.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/tables/translation/table10.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/tables/substituted/table10.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/tables/translation/table11.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/tables/substituted/table11.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/tables/translation/table12.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/tables/substituted/table12.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/tables/translation/table2.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/tables/substituted/table2.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/tables/translation/table3.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/tables/substituted/table3.md
-⚪ Skipped (no changes): /Users/andrew/repo/translate_principles_of_faith/pipeline2/tables/translation/table4.md
-⚪ Skipped (no changes): /Users/andrew/repo/translate_principles_of_faith/pipeline2/tables/translation/table5.md
-⚪ Skipped (no changes): /Users/andrew/repo/translate_principles_of_faith/pipeline2/tables/translation/table6.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/tables/translation/table7.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/tables/substituted/table7.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/tables/translation/table8.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/tables/substituted/table8.md
-✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/tables/translation/table9.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/tables/substituted/table9.md
+Copied through 7 files with no substitutions: chapter0_0_intro.md, chapter0_1_dedication.md, chapter0_2_acknowledgements.md, chapter0_3_table_of_contents.md, chapter0_4_list_of_tables.md, chapter0_5_foreword.md, chapter14_back_3_extended_reference_tables.md
+→ ./scripts/substitute_scripture.py --input-dir /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/tables --bible-file /Users/andrew/repo/translate_principles_of_faith/pipeline3/selected_bible.json --output-dir /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/tables
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/tables/table1.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/tables/table1.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/tables/table10.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/tables/table10.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/tables/table11.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/tables/table11.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/tables/table12.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/tables/table12.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/tables/table2.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/tables/table2.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/tables/table3.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/tables/table3.md
+⚪ Skipped (no changes): /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/tables/table4.md
+⚪ Skipped (no changes): /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/tables/table5.md
+⚪ Skipped (no changes): /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/tables/table6.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/tables/table7.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/tables/table7.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/tables/table8.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/tables/table8.md
+✅ /Users/andrew/repo/translate_principles_of_faith/pipeline2/translation/tables/table9.md → /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/tables/table9.md
 ✅ All verses found and substituted cleanly.
-→ ./scripts/localize_scripture_refs.py --input-dir /Users/andrew/repo/translate_principles_of_faith/pipeline3/tables/substituted --bible-file /Users/andrew/repo/translate_principles_of_faith/pipeline3/selected_bible.json
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/tables/substituted/table1.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/tables/substituted/table10.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/tables/substituted/table11.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/tables/substituted/table12.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/tables/substituted/table2.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/tables/substituted/table3.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/tables/substituted/table7.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/tables/substituted/table8.md
-[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/tables/substituted/table9.md
+→ ./scripts/localize_scripture_refs.py --input-dir /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/tables --bible-file /Users/andrew/repo/translate_principles_of_faith/pipeline3/selected_bible.json
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/tables/table1.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/tables/table10.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/tables/table11.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/tables/table12.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/tables/table2.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/tables/table3.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/tables/table7.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/tables/table8.md
+[UPDATED] /Users/andrew/repo/translate_principles_of_faith/pipeline3/substituted/tables/table9.md
 
 Done. Files checked: 9 | Updated: 9
-Copied through 3 table files with no substitutions: table4.md, table5.md, table6.md
+Copied through 3 files with no substitutions: table4.md, table5.md, table6.md
 
 ✅ Substitution completed.

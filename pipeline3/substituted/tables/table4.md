@@ -1,0 +1,45 @@
+<!-- p0 -->
+<table style="width:99%;">
+<colgroup>
+<col style="width: 34%" />
+<col style="width: 64%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="2"><h2 id="table-4---word-study-repentance-from-dead-works">Jedwali la 4 - Utafiti wa Neno: “Toba kutoka kwa matendo yaliyokufa”</h2></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p><strong>Kiyunani</strong></p>
+<p>Matamshi</p>
+<p><strong>Strong’s</strong></p></td>
+<td><strong>Ufafanuzi</strong></td>
+</tr>
+<tr>
+<td><p><em><strong>metanoia</strong></em></p>
+<p>meh-TAH-noi-ah</p>
+<p><strong>G3341</strong></p></td>
+<td>Toba; mabadiliko ya nia au kusudi, kugeuka mbali na dhambi na kuelekea kwa Mungu</td>
+</tr>
+<tr>
+<td><p><em><strong>Apo</strong></em></p>
+<p>ah-POH</p>
+<p><strong>G575</strong></p></td>
+<td>Kutoka; kihusishi kinachoonyesha utengano, kuondoka, au kusogea mbali na kitu fulani</td>
+</tr>
+<tr>
+<td><p><em><strong>Erga</strong></em></p>
+<p>ER-gah</p>
+<p><strong>G2041</strong></p></td>
+<td>Matendo; vitendo, au kazi (taabu)</td>
+</tr>
+<tr>
+<td><p><em><strong>Nekros</strong></em></p>
+<p>NEH-kros</p>
+<p><strong>G3498</strong></p></td>
+<td>Mfu; bila uhai, usio na ufanisi, usio na nguvu ya uzima</td>
+</tr>
+</tbody>
+</table>
+
