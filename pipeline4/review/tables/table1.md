@@ -54,6 +54,7 @@
 </span>
 
 <!-- p0 -->
+
 <table style="width:98%;">
 <caption><p>Agano Jipya linatumia maneno kadhaa ya Kigiriki yanayohusiana kwa dhana kama mafundisho, ufundishaji, mwanafunzi, na amri.</p></caption>
 <colgroup>

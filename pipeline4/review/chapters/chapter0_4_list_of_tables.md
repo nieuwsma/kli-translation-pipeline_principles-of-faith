@@ -1,4 +1,5 @@
 <!-- p0 -->
+
 <span class="x-drift">
 
 ---
@@ -23,6 +24,7 @@
 # Orodha ya Majedwali
 
 <!-- p1 -->
+
 <span class="x-drift">
 
 ---
@@ -47,6 +49,7 @@
 [Jedwali la 1 - Utafiti wa Neno: Mafundisho, Mwanafunzi, Amri [11](#table-1---word-study-doctrine-disciple-commandment)](#table-1---word-study-doctrine-disciple-commandment)
 
 <!-- p2 -->
+
 <span class="x-drift">
 
 ---
@@ -71,6 +74,7 @@
 [Jedwali la 2 - Utafiti wa Neno: Dhambi [34](#table-2---word-study-sin)](#table-2---word-study-sin)
 
 <!-- p3 -->
+
 <span class="x-drift">
 
 ---
@@ -95,6 +99,7 @@
 [Jedwali la 3 - Dhabihu za Agano la Kale [41](#table-3---old-testament-sacrifices)](#table-3---old-testament-sacrifices)
 
 <!-- p4 -->
+
 <span class="x-drift">
 
 ---
@@ -119,6 +124,7 @@
 [Jedwali la 4 - Utafiti wa Neno: “Toba kutoka kwa matendo ya mauti” [63](#table-4---word-study-repentance-from-dead-works)](#table-4---word-study-repentance-from-dead-works)
 
 <!-- p5 -->
+
 <span class="x-drift">
 
 ---
@@ -143,6 +149,7 @@
 [Jedwali la 5 - Utafiti wa Neno: “Imani kwa Mungu” [81](#table-5---word-study-faith-toward-god)](#table-5---word-study-faith-toward-god)
 
 <!-- p6 -->
+
 <span class="x-drift">
 
 ---
@@ -167,6 +174,7 @@
 [Jedwali la 6 - Utafiti wa Neno: Mwanafunzi, Mwalimu, Aliyefundishwa Kikamilifu [190](#table-6---word-study-disciple-teacher-perfectly-trained)](#table-6---word-study-disciple-teacher-perfectly-trained)
 
 <!-- p7 -->
+
 <span class="x-drift">
 
 ---
@@ -191,6 +199,7 @@
 [Jedwali la 7 - Utafiti wa Neno: Mamlaka dhidi ya Nguvu [205](#table-7---word-study-authority-vs-power)](#table-7---word-study-authority-vs-power)
 
 <!-- p8 -->
+
 <span class="x-drift">
 
 ---
@@ -215,6 +224,7 @@
 [Jedwali la 8 - Sifa za Malaika [218](#table-8---characteristics-of-angels)](#table-8---characteristics-of-angels)
 
 <!-- p9 -->
+
 <span class="x-drift">
 
 ---
@@ -239,6 +249,7 @@
 [Jedwali la 9 - Majina ya Ibilisi [222](#table-9---names-of-the-devil)](#table-9---names-of-the-devil)
 
 <!-- p10 -->
+
 <span class="x-drift">
 
 ---
@@ -263,6 +274,7 @@
 [Jedwali la 10 - Majina ya Mungu katika Agano la Kale [239](#table-10---old-testament-names-of-god)](#table-10---old-testament-names-of-god)
 
 <!-- p11 -->
+
 <span class="x-drift">
 
 ---
@@ -287,6 +299,7 @@
 [Jedwali la 11 - Sifa za Mungu [244](#table-11---attributes-of-god)](#table-11---attributes-of-god)
 
 <!-- p12 -->
+
 <span class="x-drift">
 
 ---
