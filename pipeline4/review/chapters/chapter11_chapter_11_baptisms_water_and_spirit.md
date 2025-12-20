@@ -16,10 +16,10 @@ Mibatizo ni mojawapo ya mafundisho ya msingi yaliyotajwa katika Waebrania:
 <!-- p5 -->
 <span class="x-scripture" data-book="HEB" data-chapter="6" data-lang="sw" data-type="quote" data-verses="1-2" data-version="OCS">
 <!-- p6 -->
-&gt; **<u>Ebr 6:1-2</u>** (OCS)
-&gt;
-&gt; Kwa hiyo, tukiachana na mafundisho yale ya awali kuhusu Al-Masihi na tukisonga mbele ili tufikie utimilifu, tusiweke tena msingi wa mafundisho ya kuzitubia kazi zisizo na uhai na imani katika Mungu,
-&gt; mafundisho kuhusu aina za ubatizo, kuwekea watu mikono, ufufuo wa wafu, na hukumu ya milele.
+> **<u>Ebr 6:1-2</u>** (OCS)
+>
+> Kwa hiyo, tukiachana na mafundisho yale ya awali kuhusu Al-Masihi na tukisonga mbele ili tufikie utimilifu, tusiweke tena msingi wa mafundisho ya kuzitubia kazi zisizo na uhai na imani katika Mungu,
+> mafundisho kuhusu aina za ubatizo, kuwekea watu mikono, ufufuo wa wafu, na hukumu ya milele.
 
 
 <!-- p7 -->
@@ -159,9 +159,9 @@ Ubatizo katika Roho Mtakatifu ulitabiriwa na Yohana Mbatizaji, aliyesema,
 <!-- p31 -->
 <span class="x-scripture" data-book="MAT" data-chapter="3" data-lang="sw" data-type="fragment" data-verses="11" data-version="OCS">
 <!-- p32 -->
-&gt; **<u>Mat 3:11</u>** (OCS)
-&gt;
-&gt; “Mimi nawabatiza kwa maji kwa ajili ya toba. Lakini nyuma yangu anakuja yeye aliye na uwezo kuliko mimi, ambaye sistahili hata kuvichukua viatu vyake. Yeye atawabatiza kwa Roho Mtakatifu wa Mungu na kwa moto.
+> **<u>Mat 3:11</u>** (OCS)
+>
+> “Mimi nawabatiza kwa maji kwa ajili ya toba. Lakini nyuma yangu anakuja yeye aliye na uwezo kuliko mimi, ambaye sistahili hata kuvichukua viatu vyake. Yeye atawabatiza kwa Roho Mtakatifu wa Mungu na kwa moto.
 
 
 <!-- p33 -->
@@ -244,9 +244,9 @@ Msingi wa Kimaandiko:
 <!-- p45 -->
 <span class="x-scripture" data-book="ACT" data-chapter="1" data-lang="sw" data-type="quote" data-verses="8" data-version="OCS">
 <!-- p46 -->
-&gt; **<u>Mat 1:8</u>** (OCS)
-&gt;
-&gt; Lakini mtapokea nguvu, Roho wa Mungu akiwajilia juu yenu, nanyi mtakuwa mashahidi wangu katika Yerusalemu, na Yudea yote, na Samaria, na miisho ya dunia.”
+> **<u>Mat 1:8</u>** (OCS)
+>
+> Lakini mtapokea nguvu, Roho wa Mungu akiwajilia juu yenu, nanyi mtakuwa mashahidi wangu katika Yerusalemu, na Yudea yote, na Samaria, na miisho ya dunia.”
 
 
 <!-- p47 -->
@@ -281,9 +281,9 @@ Ubatizo wa Roho Mtakatifu si jambo ambalo waumini wanaweza kulistahili-ni zawadi
 <!-- p57 -->
 <span class="x-scripture" data-book="LUK" data-chapter="11" data-lang="sw" data-type="quote" data-verses="13" data-version="OCS">
 <!-- p58 -->
-&gt; **<u>Luk 11:13</u>** (OCS)
-&gt;
-&gt; Basi ikiwa ninyi, mlio waovu, mnajua kuwapa watoto wenu vitu vizuri, si zaidi sana Baba yenu aliye mbinguni atawapa Roho Mtakatifu wa Mungu wale wamwombao!”
+> **<u>Luk 11:13</u>** (OCS)
+>
+> Basi ikiwa ninyi, mlio waovu, mnajua kuwapa watoto wenu vitu vizuri, si zaidi sana Baba yenu aliye mbinguni atawapa Roho Mtakatifu wa Mungu wale wamwombao!”
 
 
 <!-- p59 -->
@@ -291,10 +291,10 @@ Ubatizo wa Roho Mtakatifu si jambo ambalo waumini wanaweza kulistahili-ni zawadi
 <!-- p60 -->
 <span class="x-scripture" data-book="ACT" data-chapter="2" data-lang="sw" data-type="quote" data-verses="38-39" data-version="OCS">
 <!-- p61 -->
-&gt; **<u>Mat 2:38-39</u>** (OCS)
-&gt;
-&gt; Petro akawajibu, “Tubuni, mkabatizwe kila mmoja wenu kwa jina la Isa Al-Masihi, ili mpate kusamehewa dhambi zenu, nanyi mtapokea kipawa cha Roho wa Mungu.
-&gt; Kwa kuwa ahadi hii ni kwa ajili yenu na watoto wenu, na kwa wote walio mbali, na kila mtu ambaye Bwana Mungu wetu atamwita amjie.”
+> **<u>Mat 2:38-39</u>** (OCS)
+>
+> Petro akawajibu, “Tubuni, mkabatizwe kila mmoja wenu kwa jina la Isa Al-Masihi, ili mpate kusamehewa dhambi zenu, nanyi mtapokea kipawa cha Roho wa Mungu.
+> Kwa kuwa ahadi hii ni kwa ajili yenu na watoto wenu, na kwa wote walio mbali, na kila mtu ambaye Bwana Mungu wetu atamwita amjie.”
 
 
 <!-- p62 -->
@@ -314,9 +314,9 @@ Maandiko yanasisitiza kwamba ubatizo katika Roho Mtakatifu unapokelewa kwa kuomb
 <!-- p67 -->
 <span class="x-scripture" data-book="GAL" data-chapter="3" data-lang="sw" data-type="fragment" data-verses="2" data-version="OCS">
 <!-- p68 -->
-&gt; **<u>Gal 3:2</u>** (OCS)
-&gt;
-&gt; Nataka nijifunze neno moja kutoka kwenu: Je, mlipokea Roho wa Mungu kwa kushika Torati, au kwa kuyaamini yale mliyosikia?
+> **<u>Gal 3:2</u>** (OCS)
+>
+> Nataka nijifunze neno moja kutoka kwenu: Je, mlipokea Roho wa Mungu kwa kushika Torati, au kwa kuyaamini yale mliyosikia?
 
 
 <!-- p69 -->
@@ -330,9 +330,9 @@ Wakati wengine walipokea Roho Mtakatifu ghafla (<span class="x-scripture" data-b
 <!-- p72 -->
 <span class="x-scripture" data-book="ACT" data-chapter="8" data-lang="sw" data-type="quote" data-verses="17" data-version="OCS">
 <!-- p73 -->
-&gt; **<u>Mat 8:17</u>** (OCS)
-&gt;
-&gt; Ndipo Petro na Yohana wakaweka mikono yao juu ya wale waliobatizwa, nao wakapokea Roho wa Mungu.
+> **<u>Mat 8:17</u>** (OCS)
+>
+> Ndipo Petro na Yohana wakaweka mikono yao juu ya wale waliobatizwa, nao wakapokea Roho wa Mungu.
 
 
 <!-- p74 -->
@@ -340,9 +340,9 @@ Wakati wengine walipokea Roho Mtakatifu ghafla (<span class="x-scripture" data-b
 <!-- p75 -->
 <span class="x-scripture" data-book="ACT" data-chapter="19" data-lang="sw" data-type="quote" data-verses="6" data-version="OCS">
 <!-- p76 -->
-&gt; **<u>Mat 19:6</u>** (OCS)
-&gt;
-&gt; Paulo alipoweka mikono yake juu yao, Roho Mtakatifu wa Mungu akawashukia, nao wakanena kwa lugha mpya na kutabiri.
+> **<u>Mat 19:6</u>** (OCS)
+>
+> Paulo alipoweka mikono yake juu yao, Roho Mtakatifu wa Mungu akawashukia, nao wakanena kwa lugha mpya na kutabiri.
 
 
 <!-- p77 -->

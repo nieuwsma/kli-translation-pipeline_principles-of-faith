@@ -64,9 +64,9 @@ Kwa kila hoja tutakagua dhana yenyewe ni nini, tutaangalia Maandiko ya marejeo, 
 <!-- p14 -->
 <span class="x-scripture" data-book="ACT" data-chapter="1" data-lang="sw" data-type="quote" data-verses="11" data-version="OCS">
 <!-- p15 -->
-&gt; **<u>Mat 1:11</u>** (OCS)
-&gt;
-&gt; Wakasema, “Enyi watu wa Galilaya, mbona mnasimama mkitazama juu angani? Huyu Isa aliyechukuliwa kutoka kwenu kwenda mbinguni, atarudi tena jinsi hiyo hiyo mlivyomwona akienda zake mbinguni.”
+> **<u>Mat 1:11</u>** (OCS)
+>
+> Wakasema, “Enyi watu wa Galilaya, mbona mnasimama mkitazama juu angani? Huyu Isa aliyechukuliwa kutoka kwenu kwenda mbinguni, atarudi tena jinsi hiyo hiyo mlivyomwona akienda zake mbinguni.”
 
 
 <!-- p16 -->
@@ -74,9 +74,9 @@ Kwa kila hoja tutakagua dhana yenyewe ni nini, tutaangalia Maandiko ya marejeo, 
 <!-- p17 -->
 <span class="x-scripture" data-book="REV" data-chapter="22" data-lang="sw" data-type="quote" data-verses="12" data-version="OCS">
 <!-- p18 -->
-&gt; **<u>Ufu 22:12</u>** (OCS)
-&gt;
-&gt; “Tazama, naja upesi! Thawabu yangu i mkononi mwangu, nami nitampa kila mtu sawasawa na alivyotenda.
+> **<u>Ufu 22:12</u>** (OCS)
+>
+> “Tazama, naja upesi! Thawabu yangu i mkononi mwangu, nami nitampa kila mtu sawasawa na alivyotenda.
 
 
 <!-- p19 -->
@@ -102,10 +102,10 @@ Kwa kila hoja tutakagua dhana yenyewe ni nini, tutaangalia Maandiko ya marejeo, 
 <!-- p26 -->
 <span class="x-scripture" data-book="JHN" data-chapter="5" data-lang="sw" data-type="quote" data-verses="28-29" data-version="OCS">
 <!-- p27 -->
-&gt; **<u>Yoh 5:28-29</u>** (OCS)
-&gt;
-&gt; “Msishangae kusikia haya, kwa maana saa inakuja ambapo wale walio makaburini wataisikia sauti yake,
-&gt; nao watatoka makaburini. Wale waliotenda mema watafufuka wapate uzima, nao wale waliotenda maovu watafufuka ili wahukumiwe.
+> **<u>Yoh 5:28-29</u>** (OCS)
+>
+> “Msishangae kusikia haya, kwa maana saa inakuja ambapo wale walio makaburini wataisikia sauti yake,
+> nao watatoka makaburini. Wale waliotenda mema watafufuka wapate uzima, nao wale waliotenda maovu watafufuka ili wahukumiwe.
 
 
 <!-- p28 -->
@@ -113,9 +113,9 @@ Kwa kila hoja tutakagua dhana yenyewe ni nini, tutaangalia Maandiko ya marejeo, 
 <!-- p29 -->
 <span class="x-scripture" data-book="1TH" data-chapter="4" data-lang="sw" data-type="fragment" data-verses="16" data-version="OCS">
 <!-- p30 -->
-&gt; **<u>1The 4:16</u>** (OCS)
-&gt;
-&gt; Kwa maana Bwana Isa mwenyewe atashuka kutoka mbinguni, akitoa amri kwa sauti kuu, pamoja na sauti ya malaika mkuu, na sauti ya tarumbeta ya Mungu. Nao waliokufa wakiwa katika Al-Masihi watafufuka kwanza.
+> **<u>1The 4:16</u>** (OCS)
+>
+> Kwa maana Bwana Isa mwenyewe atashuka kutoka mbinguni, akitoa amri kwa sauti kuu, pamoja na sauti ya malaika mkuu, na sauti ya tarumbeta ya Mungu. Nao waliokufa wakiwa katika Al-Masihi watafufuka kwanza.
 
 
 <!-- p31 -->
@@ -144,10 +144,10 @@ Kwa kila hoja tutakagua dhana yenyewe ni nini, tutaangalia Maandiko ya marejeo, 
 <!-- p39 -->
 <span class="x-scripture" data-book="REV" data-chapter="20" data-lang="sw" data-type="fragment" data-verses="11-12" data-version="OCS">
 <!-- p40 -->
-&gt; **<u>Ufu 20:11-12</u>** (OCS)
-&gt;
-&gt; Kisha nikaona kiti kikubwa cheupe cha enzi pamoja na yeye aliyeketi juu yake. Dunia na mbingu zikaukimbia uso wake wala mahali pao hapakuonekana.
-&gt; Nami nikawaona wafu, wakubwa na wadogo, wakiwa wamesimama mbele ya hicho kiti cha enzi na vitabu vikafunguliwa. Pia kitabu kingine kikafunguliwa ambacho ni kitabu cha uzima. Hao wafu wakahukumiwa sawasawa na matendo yao kama yalivyoandikwa ndani ya hivyo vitabu.
+> **<u>Ufu 20:11-12</u>** (OCS)
+>
+> Kisha nikaona kiti kikubwa cheupe cha enzi pamoja na yeye aliyeketi juu yake. Dunia na mbingu zikaukimbia uso wake wala mahali pao hapakuonekana.
+> Nami nikawaona wafu, wakubwa na wadogo, wakiwa wamesimama mbele ya hicho kiti cha enzi na vitabu vikafunguliwa. Pia kitabu kingine kikafunguliwa ambacho ni kitabu cha uzima. Hao wafu wakahukumiwa sawasawa na matendo yao kama yalivyoandikwa ndani ya hivyo vitabu.
 
 
 <!-- p41 -->
@@ -164,9 +164,9 @@ Kama waamini majina yetu yamewekwa katika **Kitabu cha *Uzima* cha Mwana-Kondoo*
 <!-- p45 -->
 <span class="x-scripture" data-book="2CO" data-chapter="5" data-lang="sw" data-type="quote" data-verses="10" data-version="OCS">
 <!-- p46 -->
-&gt; **<u>2Kor 5:10</u>** (OCS)
-&gt;
-&gt; Kwa kuwa sisi sote tutasimama mbele ya kiti cha hukumu cha Al-Masihi, ili kila mmoja apate kulipwa kwa ajili ya yale ambayo yametendwa katika mwili wake, yakiwa mema au mabaya.
+> **<u>2Kor 5:10</u>** (OCS)
+>
+> Kwa kuwa sisi sote tutasimama mbele ya kiti cha hukumu cha Al-Masihi, ili kila mmoja apate kulipwa kwa ajili ya yale ambayo yametendwa katika mwili wake, yakiwa mema au mabaya.
 
 
 <!-- p47 -->
@@ -174,12 +174,12 @@ Kama waamini majina yetu yamewekwa katika **Kitabu cha *Uzima* cha Mwana-Kondoo*
 <!-- p48 -->
 <span class="x-scripture" data-book="1CO" data-chapter="3" data-lang="sw" data-type="quote" data-verses="12-15" data-version="OCS">
 <!-- p49 -->
-&gt; **<u>1Kor 3:12-15</u>** (OCS)
-&gt;
-&gt; Kama mtu yeyote akijenga juu ya msingi huu kwa kutumia dhahabu, fedha, vito vya thamani, miti, majani au nyasi,
-&gt; kazi yake itaonekana ilivyo, kwa kuwa Siku ile itaidhihirisha. Itadhihirishwa kwa moto, nao moto utapima ubora wa kazi ya kila mtu.
-&gt; Kama kile alichojenga kitabaki, atapokea thawabu yake.
-&gt; Kama kitateketea, atapata hasara; ila yeye mwenyewe ataokolewa, lakini tu kama mtu aliyenusurika kwenye moto.
+> **<u>1Kor 3:12-15</u>** (OCS)
+>
+> Kama mtu yeyote akijenga juu ya msingi huu kwa kutumia dhahabu, fedha, vito vya thamani, miti, majani au nyasi,
+> kazi yake itaonekana ilivyo, kwa kuwa Siku ile itaidhihirisha. Itadhihirishwa kwa moto, nao moto utapima ubora wa kazi ya kila mtu.
+> Kama kile alichojenga kitabaki, atapokea thawabu yake.
+> Kama kitateketea, atapata hasara; ila yeye mwenyewe ataokolewa, lakini tu kama mtu aliyenusurika kwenye moto.
 
 
 <!-- p50 -->
@@ -244,9 +244,9 @@ Tuzo:
 <!-- p63 -->
 <span class="x-scripture" data-book="MAT" data-chapter="25" data-lang="sw" data-type="quote" data-verses="46" data-version="OCS">
 <!-- p64 -->
-&gt; **<u>Mat 25:46</u>** (OCS)
-&gt;
-&gt; “Ndipo hawa watakapoingia kwenye adhabu ya milele, lakini wale wenye haki wataingia katika uzima wa milele.”
+> **<u>Mat 25:46</u>** (OCS)
+>
+> “Ndipo hawa watakapoingia kwenye adhabu ya milele, lakini wale wenye haki wataingia katika uzima wa milele.”
 
 
 <!-- p65 -->
@@ -272,9 +272,9 @@ Tuzo:
 <!-- p72 -->
 <span class="x-scripture" data-book="REV" data-chapter="20" data-lang="sw" data-type="quote" data-verses="10" data-version="OCS">
 <!-- p73 -->
-&gt; **<u>Ufu 20:10</u>** (OCS)
-&gt;
-&gt; Naye ibilisi aliyewadanganya akatupwa katika ziwa la moto na kiberiti walikokuwa wametupwa yule mnyama na yule nabii wa uongo. Watateswa humo usiku na mchana, milele na milele.
+> **<u>Ufu 20:10</u>** (OCS)
+>
+> Naye ibilisi aliyewadanganya akatupwa katika ziwa la moto na kiberiti walikokuwa wametupwa yule mnyama na yule nabii wa uongo. Watateswa humo usiku na mchana, milele na milele.
 
 
 <!-- p74 -->
@@ -300,10 +300,10 @@ Tuzo:
 <!-- p81 -->
 <span class="x-scripture" data-book="REV" data-chapter="21" data-lang="sw" data-type="fragment" data-verses="1,3" data-version="OCS">
 <!-- p82 -->
-&gt; **<u>Ufu 21:1,3</u>** (OCS)
-&gt;
-&gt; Kisha nikaona “mbingu mpya na nchi mpya”, kwa maana mbingu ya kwanza na nchi ya kwanza vimekwisha kupita, wala hapakuwa na bahari tena.
-&gt; Nami nikasikia sauti kubwa kutoka kile kiti cha enzi ikisema, “Sasa makao ya Mungu ni pamoja na wanadamu, naye atakaa pamoja nao. Yeye atakuwa Mungu wao nao watakuwa watu wake, naye Mungu mwenyewe atakuwa pamoja nao.
+> **<u>Ufu 21:1,3</u>** (OCS)
+>
+> Kisha nikaona “mbingu mpya na nchi mpya”, kwa maana mbingu ya kwanza na nchi ya kwanza vimekwisha kupita, wala hapakuwa na bahari tena.
+> Nami nikasikia sauti kubwa kutoka kile kiti cha enzi ikisema, “Sasa makao ya Mungu ni pamoja na wanadamu, naye atakaa pamoja nao. Yeye atakuwa Mungu wao nao watakuwa watu wake, naye Mungu mwenyewe atakuwa pamoja nao.
 
 
 <!-- p83 -->

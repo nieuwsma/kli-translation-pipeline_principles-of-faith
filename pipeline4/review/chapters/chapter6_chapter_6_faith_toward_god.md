@@ -10,10 +10,10 @@ Mwandishi wa Waebrania anatufundisha kwamba tunapaswa kuwa na ‘imani kwa Mungu
 <!-- p3 -->
 <span class="x-scripture" data-book="HEB" data-chapter="6" data-lang="sw" data-type="quote" data-verses="1-2" data-version="OCS">
 <!-- p4 -->
-&gt; **<u>Ebr 6:1-2</u>** (OCS)
-&gt;
-&gt; Kwa hiyo, tukiachana na mafundisho yale ya awali kuhusu Al-Masihi na tukisonga mbele ili tufikie utimilifu, tusiweke tena msingi wa mafundisho ya kuzitubia kazi zisizo na uhai na imani katika Mungu,
-&gt; mafundisho kuhusu aina za ubatizo, kuwekea watu mikono, ufufuo wa wafu, na hukumu ya milele.
+> **<u>Ebr 6:1-2</u>** (OCS)
+>
+> Kwa hiyo, tukiachana na mafundisho yale ya awali kuhusu Al-Masihi na tukisonga mbele ili tufikie utimilifu, tusiweke tena msingi wa mafundisho ya kuzitubia kazi zisizo na uhai na imani katika Mungu,
+> mafundisho kuhusu aina za ubatizo, kuwekea watu mikono, ufufuo wa wafu, na hukumu ya milele.
 
 
 <!-- p5 -->
@@ -186,10 +186,10 @@ Tafakari kifungu hiki kutoka Warumi:
 <!-- p33 -->
 <span class="x-scripture" data-book="ROM" data-chapter="10" data-lang="sw" data-type="quote" data-verses="16-17" data-version="OCS">
 <!-- p34 -->
-&gt; **<u>rom 10:16-17</u>** (OCS)
-&gt;
-&gt; Lakini si wote waliotii Injili. Kwa maana Isaya asema, “Mwenyezi Mungu, ni nani aliyeamini ujumbe wetu?”
-&gt; Basi, imani chanzo chake ni kusikia, na kusikia huja kwa neno la Al-Masihi.
+> **<u>rom 10:16-17</u>** (OCS)
+>
+> Lakini si wote waliotii Injili. Kwa maana Isaya asema, “Mwenyezi Mungu, ni nani aliyeamini ujumbe wetu?”
+> Basi, imani chanzo chake ni kusikia, na kusikia huja kwa neno la Al-Masihi.
 
 
 <!-- p35 -->
@@ -278,10 +278,10 @@ Kama tungeweza kuwa na imani tu katika yale tuliyoona yakidhihirishwa, basi kutu
 <!-- p63 -->
 <span class="x-scripture" data-book="PHP" data-chapter="4" data-lang="sw" data-type="quote" data-verses="6-7" data-version="OCS">
 <!-- p64 -->
-&gt; **<u>Fil 4:6-7</u>** (OCS)
-&gt;
-&gt; Msijisumbue kwa jambo lolote, bali katika kila jambo kwa kuomba na kusihi pamoja na kushukuru, haja zenu na zijulikane na Mungu.
-&gt; Nayo amani ya Mungu, inayopita fahamu zote, itailinda mioyo yenu na nia zenu katika Al-Masihi Isa.
+> **<u>Fil 4:6-7</u>** (OCS)
+>
+> Msijisumbue kwa jambo lolote, bali katika kila jambo kwa kuomba na kusihi pamoja na kushukuru, haja zenu na zijulikane na Mungu.
+> Nayo amani ya Mungu, inayopita fahamu zote, itailinda mioyo yenu na nia zenu katika Al-Masihi Isa.
 
 
 <!-- p65 -->
@@ -292,9 +292,9 @@ Amani ya Mungu ingewezaje kulinda mioyo yetu, ikiwa tusingeweza kuwa na ujasiri 
 <!-- p67 -->
 <span class="x-scripture" data-book="2CO" data-chapter="5" data-lang="sw" data-type="quote" data-verses="7" data-version="OCS">
 <!-- p68 -->
-&gt; **<u>2Kor 5:7</u>** (OCS)
-&gt;
-&gt; Kwa maana twaenenda kwa imani wala si kwa kuona.
+> **<u>2Kor 5:7</u>** (OCS)
+>
+> Kwa maana twaenenda kwa imani wala si kwa kuona.
 
 
 <!-- p69 -->
@@ -305,12 +305,12 @@ Ni katika kukuza uhusiano wetu na Mungu ndipo tunaweza kusonga zaidi ya yale tu 
 <!-- p71 -->
 <span class="x-scripture" data-book="ROM" data-chapter="4" data-lang="sw" data-type="quote" data-verses="19-22" data-version="OCS">
 <!-- p72 -->
-&gt; **<u>rom 4:19-22</u>** (OCS)
-&gt;
-&gt; Ibrahimu hakuwa dhaifu katika imani hata alipofikiri hali ya mwili wake, ambao ulikuwa kama uliokufa, kwani umri wake ulikuwa unakaribia miaka mia moja, au alipofikiri hali ya kufa ya tumbo la Sara.
-&gt; Lakini Ibrahimu hakusitasita kwa kutokuamini ahadi ya Mungu, bali alitiwa nguvu katika imani yake na kumpa Mungu utukufu,
-&gt; akiwa na hakika kabisa kwamba Mungu alikuwa na uwezo wa kutimiza lile aliloahidi.
-&gt; Hii ndio sababu, “ilihesabiwa kwake kuwa haki.”
+> **<u>rom 4:19-22</u>** (OCS)
+>
+> Ibrahimu hakuwa dhaifu katika imani hata alipofikiri hali ya mwili wake, ambao ulikuwa kama uliokufa, kwani umri wake ulikuwa unakaribia miaka mia moja, au alipofikiri hali ya kufa ya tumbo la Sara.
+> Lakini Ibrahimu hakusitasita kwa kutokuamini ahadi ya Mungu, bali alitiwa nguvu katika imani yake na kumpa Mungu utukufu,
+> akiwa na hakika kabisa kwamba Mungu alikuwa na uwezo wa kutimiza lile aliloahidi.
+> Hii ndio sababu, “ilihesabiwa kwake kuwa haki.”
 
 
 <!-- p73 -->
@@ -366,10 +366,10 @@ Tafakari tena kifungu hiki kutoka Warumi:
 <!-- p83 -->
 <span class="x-scripture" data-book="ROM" data-chapter="10" data-lang="sw" data-type="quote" data-verses="16-17" data-version="OCS">
 <!-- p84 -->
-&gt; **<u>rom 10:16-17</u>** (OCS)
-&gt;
-&gt; Lakini si wote waliotii Injili. Kwa maana Isaya asema, “Mwenyezi Mungu, ni nani aliyeamini ujumbe wetu?”
-&gt; Basi, imani chanzo chake ni kusikia, na kusikia huja kwa neno la Al-Masihi.
+> **<u>rom 10:16-17</u>** (OCS)
+>
+> Lakini si wote waliotii Injili. Kwa maana Isaya asema, “Mwenyezi Mungu, ni nani aliyeamini ujumbe wetu?”
+> Basi, imani chanzo chake ni kusikia, na kusikia huja kwa neno la Al-Masihi.
 
 
 <!-- p85 -->
@@ -443,9 +443,9 @@ Tunapomsikiliza Mungu kwa kweli, jambo hilo linapaswa kutupeleka kwenye matendo-
 <!-- p94 -->
 <span class="x-scripture" data-book="JAS" data-chapter="1" data-lang="sw" data-type="quote" data-verses="22" data-version="OCS">
 <!-- p95 -->
-&gt; **<u>Yak 1:22</u>** (OCS)
-&gt;
-&gt; Basi kuweni watendaji wa Neno, wala msiwe wasikiaji tu, huku mkijidanganya nafsi zenu.
+> **<u>Yak 1:22</u>** (OCS)
+>
+> Basi kuweni watendaji wa Neno, wala msiwe wasikiaji tu, huku mkijidanganya nafsi zenu.
 
 
 <!-- p96 -->
@@ -459,15 +459,15 @@ Kitabu cha Yakobo kinasema kwamba imani yetu lazima izalishe matendo! Tayari tun
 <!-- p99 -->
 <span class="x-scripture" data-book="JAS" data-chapter="2" data-lang="sw" data-type="quote" data-verses="14-20" data-version="OCS">
 <!-- p100 -->
-&gt; **<u>Yak 2:14-20</u>** (OCS)
-&gt;
-&gt; Ndugu zangu, yafaa nini ikiwa mtu atadai kuwa anayo imani lakini hana matendo? Je, imani kama hiyo yaweza kumwokoa?
-&gt; Ikiwa ndugu yako au dada hana mavazi wala chakula,
-&gt; naye mmoja wenu akamwambia, “Nenda zako kwa amani, ukaote moto na kushiba,” pasipo kumpatia yale mahitaji ya mwili aliyopungukiwa, yafaa nini?
-&gt; Vivyo hivyo, imani peke yake, kama haikuambatana na matendo, imekufa.
-&gt; Lakini mtu mwingine atasema, “Wewe unayo imani; mimi ninayo matendo.” Nioneshe imani yako pasipo matendo nami nitakuonesha imani yangu kwa matendo.
-&gt; Unaamini kwamba kuna Mungu mmoja. Vyema! Hata mashetani wanaamini hivyo na kutetemeka.
-&gt; Ewe mpumbavu! Je, wataka kujua kwamba imani bila matendo haifai kitu?
+> **<u>Yak 2:14-20</u>** (OCS)
+>
+> Ndugu zangu, yafaa nini ikiwa mtu atadai kuwa anayo imani lakini hana matendo? Je, imani kama hiyo yaweza kumwokoa?
+> Ikiwa ndugu yako au dada hana mavazi wala chakula,
+> naye mmoja wenu akamwambia, “Nenda zako kwa amani, ukaote moto na kushiba,” pasipo kumpatia yale mahitaji ya mwili aliyopungukiwa, yafaa nini?
+> Vivyo hivyo, imani peke yake, kama haikuambatana na matendo, imekufa.
+> Lakini mtu mwingine atasema, “Wewe unayo imani; mimi ninayo matendo.” Nioneshe imani yako pasipo matendo nami nitakuonesha imani yangu kwa matendo.
+> Unaamini kwamba kuna Mungu mmoja. Vyema! Hata mashetani wanaamini hivyo na kutetemeka.
+> Ewe mpumbavu! Je, wataka kujua kwamba imani bila matendo haifai kitu?
 
 
 <!-- p101 -->
@@ -526,22 +526,22 @@ Ni muhimu sana katika maisha ya kila muumini kuimarisha imani (tumaini) kuelekea
 <!-- p112 -->
 <span class="x-scripture" data-book="DEU" data-chapter="28" data-lang="sw" data-type="fragment" data-verses="1-14" data-version="OCS">
 <!-- p113 -->
-&gt; **<u>Kum 28:1-14</u>** (OCS)
-&gt;
-&gt; Ukimtii Mwenyezi Mungu, Mungu wako, kwa ukamilifu na kufuata amri zake zote ninazokupa leo kwa makini, Mwenyezi Mungu, Mungu wako, atakuweka juu ya mataifa yote katika dunia.
-&gt; Baraka hizi zote zitakuja juu yako na kukupata, kama ukimtii Mwenyezi Mungu, Mungu wako:
-&gt; Utabarikiwa mjini na utabarikiwa mashambani.
-&gt; Utabarikiwa uzao wa tumbo lako, na mazao ya nchi yako na mifugo wako wachanga, yaani ndama wa makundi yako ya ng’ombe, na wana-kondoo wa makundi yako.
-&gt; Kapu lako na vyombo vyako vya kukandia vitabarikiwa.
-&gt; Utabarikiwa uingiapo na utabarikiwa utokapo.
-&gt; Mwenyezi Mungu atasababisha adui wainukao dhidi yako kushindwa mbele yako. Watakujia kwa njia moja lakini watakimbia mbele yako kwa njia saba.
-&gt; Mwenyezi Mungu ataagiza baraka juu ya ghala zako na juu ya kila kitu utakachogusa kwa mkono wako. Mwenyezi Mungu, Mungu wako, atakubariki katika nchi anayokupa.
-&gt; Mwenyezi Mungu atakufanya kuwa taifa lake takatifu, kama alivyokuahidi kwa kiapo, ukishika maagizo ya Mwenyezi Mungu, Mungu wako, na kwenda katika njia zake.
-&gt; Kisha mataifa yote ya dunia wataona kuwa unaitwa kwa jina la Mwenyezi Mungu, nao watakuogopa.
-&gt; Mwenyezi Mungu atakupa kustawi kwa wingi, katika tunda la uzao wa tumbo lako, katika wanyama wachanga wa mifugo yako na katika mazao ya ardhi yako, katika nchi aliyowaapia baba zako kukupa wewe.
-&gt; Mwenyezi Mungu atafungua mbingu, ghala zake za baraka, kukupa mvua kwa majira yake na kubariki kazi zako zote za mikono yako. Utakopesha mataifa mengi lakini hutakopa kwa yeyote.
-&gt; Mwenyezi Mungu atakufanya kichwa, wala si mkia. Kama utazingatia maagizo ya Mwenyezi Mungu, Mungu wako, ninayokupa siku hii ya leo na kuyafuata kwa makini, daima utakuwa juu, kamwe hutakuwa chini.
-&gt; Usihalifu amri zangu zozote ninazokupa leo, kwa kwenda kuume au kushoto, kwa kufuata miungu mingine na kuitumikia.
+> **<u>Kum 28:1-14</u>** (OCS)
+>
+> Ukimtii Mwenyezi Mungu, Mungu wako, kwa ukamilifu na kufuata amri zake zote ninazokupa leo kwa makini, Mwenyezi Mungu, Mungu wako, atakuweka juu ya mataifa yote katika dunia.
+> Baraka hizi zote zitakuja juu yako na kukupata, kama ukimtii Mwenyezi Mungu, Mungu wako:
+> Utabarikiwa mjini na utabarikiwa mashambani.
+> Utabarikiwa uzao wa tumbo lako, na mazao ya nchi yako na mifugo wako wachanga, yaani ndama wa makundi yako ya ng’ombe, na wana-kondoo wa makundi yako.
+> Kapu lako na vyombo vyako vya kukandia vitabarikiwa.
+> Utabarikiwa uingiapo na utabarikiwa utokapo.
+> Mwenyezi Mungu atasababisha adui wainukao dhidi yako kushindwa mbele yako. Watakujia kwa njia moja lakini watakimbia mbele yako kwa njia saba.
+> Mwenyezi Mungu ataagiza baraka juu ya ghala zako na juu ya kila kitu utakachogusa kwa mkono wako. Mwenyezi Mungu, Mungu wako, atakubariki katika nchi anayokupa.
+> Mwenyezi Mungu atakufanya kuwa taifa lake takatifu, kama alivyokuahidi kwa kiapo, ukishika maagizo ya Mwenyezi Mungu, Mungu wako, na kwenda katika njia zake.
+> Kisha mataifa yote ya dunia wataona kuwa unaitwa kwa jina la Mwenyezi Mungu, nao watakuogopa.
+> Mwenyezi Mungu atakupa kustawi kwa wingi, katika tunda la uzao wa tumbo lako, katika wanyama wachanga wa mifugo yako na katika mazao ya ardhi yako, katika nchi aliyowaapia baba zako kukupa wewe.
+> Mwenyezi Mungu atafungua mbingu, ghala zake za baraka, kukupa mvua kwa majira yake na kubariki kazi zako zote za mikono yako. Utakopesha mataifa mengi lakini hutakopa kwa yeyote.
+> Mwenyezi Mungu atakufanya kichwa, wala si mkia. Kama utazingatia maagizo ya Mwenyezi Mungu, Mungu wako, ninayokupa siku hii ya leo na kuyafuata kwa makini, daima utakuwa juu, kamwe hutakuwa chini.
+> Usihalifu amri zangu zozote ninazokupa leo, kwa kwenda kuume au kushoto, kwa kufuata miungu mingine na kuitumikia.
 
 
 <!-- p114 -->
@@ -552,9 +552,9 @@ Ni muhimu sana katika maisha ya kila muumini kuimarisha imani (tumaini) kuelekea
 <!-- p116 -->
 <span class="x-scripture" data-book="PSA" data-chapter="32" data-lang="sw" data-type="quote" data-verses="8" data-version="OCS">
 <!-- p117 -->
-&gt; **<u>Zab 32:8</u>** (OCS)
-&gt;
-&gt; Nitakufundisha na kukuonesha njia utakayoiendea; nitakushauri na kukuangalia.
+> **<u>Zab 32:8</u>** (OCS)
+>
+> Nitakufundisha na kukuonesha njia utakayoiendea; nitakushauri na kukuangalia.
 
 
 <!-- p118 -->
@@ -586,9 +586,9 @@ Ni muhimu sana katika maisha ya kila muumini kuimarisha imani (tumaini) kuelekea
 <!-- p120 -->
 <span class="x-scripture" data-book="1JN" data-chapter="3" data-lang="sw" data-type="quote" data-verses="22" data-version="OCS">
 <!-- p121 -->
-&gt; **<u>1Yoh 3:22</u>** (OCS)
-&gt;
-&gt; lolote tuombalo, twalipokea kutoka kwake, kwa sababu tumezitii amri zake na kutenda yale yanayompendeza.
+> **<u>1Yoh 3:22</u>** (OCS)
+>
+> lolote tuombalo, twalipokea kutoka kwake, kwa sababu tumezitii amri zake na kutenda yale yanayompendeza.
 
 
 <!-- p122 -->
@@ -599,9 +599,9 @@ Ni muhimu sana katika maisha ya kila muumini kuimarisha imani (tumaini) kuelekea
 <!-- p124 -->
 <span class="x-scripture" data-book="PSA" data-chapter="34" data-lang="sw" data-type="quote" data-verses="7" data-version="OCS">
 <!-- p125 -->
-&gt; **<u>Zab 34:7</u>** (OCS)
-&gt;
-&gt; Malaika wa Mwenyezi Mungu hufanya kituo akiwazunguka wale wamchao, naye huwaokoa.
+> **<u>Zab 34:7</u>** (OCS)
+>
+> Malaika wa Mwenyezi Mungu hufanya kituo akiwazunguka wale wamchao, naye huwaokoa.
 
 
 <!-- p126 -->
@@ -612,9 +612,9 @@ Ni muhimu sana katika maisha ya kila muumini kuimarisha imani (tumaini) kuelekea
 <!-- p128 -->
 <span class="x-scripture" data-book="PSA" data-chapter="119" data-lang="sw" data-type="quote" data-verses="165" data-version="OCS">
 <!-- p129 -->
-&gt; **<u>Zab 119:165</u>** (OCS)
-&gt;
-&gt; Wanaopenda sheria yako wana amani tele, wala hakuna kitu kinachoweza kuwakwaza.
+> **<u>Zab 119:165</u>** (OCS)
+>
+> Wanaopenda sheria yako wana amani tele, wala hakuna kitu kinachoweza kuwakwaza.
 
 
 <!-- p130 -->
@@ -625,9 +625,9 @@ Ni muhimu sana katika maisha ya kila muumini kuimarisha imani (tumaini) kuelekea
 <!-- p132 -->
 <span class="x-scripture" data-book="ISA" data-chapter="1" data-lang="sw" data-type="quote" data-verses="19" data-version="OCS">
 <!-- p133 -->
-&gt; **<u>Is 1:19</u>** (OCS)
-&gt;
-&gt; Mkikubali na kutii, mtakula mema ya nchi,
+> **<u>Is 1:19</u>** (OCS)
+>
+> Mkikubali na kutii, mtakula mema ya nchi,
 
 
 <!-- p134 -->
@@ -638,10 +638,10 @@ Ni muhimu sana katika maisha ya kila muumini kuimarisha imani (tumaini) kuelekea
 <!-- p136 -->
 <span class="x-scripture" data-book="PSA" data-chapter="37" data-lang="sw" data-type="quote" data-verses="23-24" data-version="OCS">
 <!-- p137 -->
-&gt; **<u>Zab 37:23-24</u>** (OCS)
-&gt;
-&gt; Kama Mwenyezi Mungu akipendezwa na njia ya mtu, yeye huimarisha hatua zake,
-&gt; ajapojikwaa, hataanguka, kwa maana Mwenyezi Mungu humtegemeza kwa mkono wake.
+> **<u>Zab 37:23-24</u>** (OCS)
+>
+> Kama Mwenyezi Mungu akipendezwa na njia ya mtu, yeye huimarisha hatua zake,
+> ajapojikwaa, hataanguka, kwa maana Mwenyezi Mungu humtegemeza kwa mkono wake.
 
 
 <!-- p138 -->
@@ -652,9 +652,9 @@ Ni muhimu sana katika maisha ya kila muumini kuimarisha imani (tumaini) kuelekea
 <!-- p140 -->
 <span class="x-scripture" data-book="ISA" data-chapter="40" data-lang="sw" data-type="fragment" data-verses="31" data-version="OCS">
 <!-- p141 -->
-&gt; **<u>Is 40:31</u>** (OCS)
-&gt;
-&gt; bali wale wamtumainio Mwenyezi Mungu atafanya upya nguvu zao. Watapaa juu kwa mabawa kama tai; watapiga mbio wala hawatachoka, watatembea kwa miguu wala hawatazimia.
+> **<u>Is 40:31</u>** (OCS)
+>
+> bali wale wamtumainio Mwenyezi Mungu atafanya upya nguvu zao. Watapaa juu kwa mabawa kama tai; watapiga mbio wala hawatachoka, watatembea kwa miguu wala hawatazimia.
 
 
 <!-- p142 -->
@@ -665,9 +665,9 @@ Ni muhimu sana katika maisha ya kila muumini kuimarisha imani (tumaini) kuelekea
 <!-- p144 -->
 <span class="x-scripture" data-book="EXO" data-chapter="20" data-lang="sw" data-type="quote" data-verses="6" data-version="OCS">
 <!-- p145 -->
-&gt; **<u>Kuto 20:6</u>** (OCS)
-&gt;
-&gt; lakini ninaonesha upendo kwa maelfu ya vizazi vya wale wanaonipenda na kuzishika amri zangu.
+> **<u>Kuto 20:6</u>** (OCS)
+>
+> lakini ninaonesha upendo kwa maelfu ya vizazi vya wale wanaonipenda na kuzishika amri zangu.
 
 
 <!-- p146 -->
@@ -678,9 +678,9 @@ Ni muhimu sana katika maisha ya kila muumini kuimarisha imani (tumaini) kuelekea
 <!-- p148 -->
 <span class="x-scripture" data-book="ROM" data-chapter="2" data-lang="sw" data-type="quote" data-verses="7" data-version="OCS">
 <!-- p149 -->
-&gt; **<u>rom 2:7</u>** (OCS)
-&gt;
-&gt; Wale ambao kwa kuvumilia katika kutenda mema hutafuta utukufu, heshima na maisha yasiyoharibika, Mungu atawapa uzima wa milele.
+> **<u>rom 2:7</u>** (OCS)
+>
+> Wale ambao kwa kuvumilia katika kutenda mema hutafuta utukufu, heshima na maisha yasiyoharibika, Mungu atawapa uzima wa milele.
 
 
 <!-- p150 -->

@@ -163,9 +163,9 @@ Katika uwepo wenye nguvu wa kichaka kilichokuwa kinawaka moto lakini hakikuteket
 <!-- p26 -->
 <span class="x-scripture" data-book="EXO" data-chapter="3" data-lang="sw" data-type="quote" data-verses="14" data-version="OCS">
 <!-- p27 -->
-&gt; **<u>Kuto 3:14</u>** (OCS)
-&gt;
-&gt; Mungu akamwambia Musa, “MIMI NIKO AMBAYE NIKO. Hivyo ndivyo utakavyowaambia Waisraeli: ‘MIMI NIKO amenituma kwenu.’ ”
+> **<u>Kuto 3:14</u>** (OCS)
+>
+> Mungu akamwambia Musa, “MIMI NIKO AMBAYE NIKO. Hivyo ndivyo utakavyowaambia Waisraeli: ‘MIMI NIKO amenituma kwenu.’ ”
 
 
 <!-- p28 -->
@@ -179,9 +179,9 @@ Mungu anamtumia Musa kujidhihirisha kwa Farao:
 <!-- p31 -->
 <span class="x-scripture" data-book="EXO" data-chapter="7" data-lang="sw" data-type="quote" data-verses="16" data-version="OCS">
 <!-- p32 -->
-&gt; **<u>Kuto 7:16</u>** (OCS)
-&gt;
-&gt; Kisha umwambie, ‘Mwenyezi Mungu, Mungu wa Waebrania, amenituma nikuambie: Waachie watu wangu waende, ili wapate kuniabudu jangwani. Lakini hadi sasa hujasikiliza.
+> **<u>Kuto 7:16</u>** (OCS)
+>
+> Kisha umwambie, ‘Mwenyezi Mungu, Mungu wa Waebrania, amenituma nikuambie: Waachie watu wangu waende, ili wapate kuniabudu jangwani. Lakini hadi sasa hujasikiliza.
 
 
 <!-- p33 -->
@@ -216,9 +216,9 @@ Mapigo na mateso hufuata, lakini hatimaye Farao anakubali na kuwaacha Waisraeli 
 <!-- p36 -->
 <span class="x-scripture" data-book="EXO" data-chapter="12" data-lang="sw" data-type="quote" data-verses="31" data-version="OCS">
 <!-- p37 -->
-&gt; **<u>Kuto 12:31</u>** (OCS)
-&gt;
-&gt; Wakati huo Farao akawaita Musa na Haruni na kuwaambia, “Ondokeni! Tokeni kwa watu wangu, ninyi pamoja na Waisraeli! Nendeni mkamwabudu Mwenyezi Mungu kama mlivyoomba.
+> **<u>Kuto 12:31</u>** (OCS)
+>
+> Wakati huo Farao akawaita Musa na Haruni na kuwaambia, “Ondokeni! Tokeni kwa watu wangu, ninyi pamoja na Waisraeli! Nendeni mkamwabudu Mwenyezi Mungu kama mlivyoomba.
 
 
 <!-- p38 -->

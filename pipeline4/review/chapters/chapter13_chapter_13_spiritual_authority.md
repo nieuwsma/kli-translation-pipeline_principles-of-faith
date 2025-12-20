@@ -7,11 +7,11 @@ Yesu ndiye chanzo cha juu na kamilifu cha mamlaka ya kiroho. Kama Kristo aliyesh
 <!-- p2 -->
 <span class="x-scripture" data-book="MAT" data-chapter="28" data-lang="sw" data-type="quote" data-verses="18-20" data-version="OCS">
 <!-- p3 -->
-&gt; **<u>Mat 28:18-20</u>** (OCS)
-&gt;
-&gt; Isa akawajia na kusema, “Nimepewa mamlaka yote mbinguni na duniani.
-&gt; Kwa sababu hii, nendeni mkawafanye mataifa yote kuwa wanafunzi, mkiwabatiza kwa Jina la Baba na la Mwana na la Roho wa Mungu,
-&gt; nanyi wafundisheni kuyashika mambo yote niliyowaamuru ninyi. Hakika mimi niko pamoja nanyi siku zote, hadi mwisho wa nyakati.”
+> **<u>Mat 28:18-20</u>** (OCS)
+>
+> Isa akawajia na kusema, “Nimepewa mamlaka yote mbinguni na duniani.
+> Kwa sababu hii, nendeni mkawafanye mataifa yote kuwa wanafunzi, mkiwabatiza kwa Jina la Baba na la Mwana na la Roho wa Mungu,
+> nanyi wafundisheni kuyashika mambo yote niliyowaamuru ninyi. Hakika mimi niko pamoja nanyi siku zote, hadi mwisho wa nyakati.”
 
 
 <!-- p4 -->
@@ -139,9 +139,9 @@ Kama Yesu alivyosema katika Mathayo, ‘Mamlaka yote’ yamepewa. Hebu tuangalie
 <!-- p24 -->
 <span class="x-scripture" data-book="MAT" data-chapter="28" data-lang="sw" data-type="quote" data-verses="18" data-version="OCS">
 <!-- p25 -->
-&gt; **<u>Mat 28:18</u>** (OCS)
-&gt;
-&gt; Isa akawajia na kusema, “Nimepewa mamlaka yote mbinguni na duniani.
+> **<u>Mat 28:18</u>** (OCS)
+>
+> Isa akawajia na kusema, “Nimepewa mamlaka yote mbinguni na duniani.
 
 
 <!-- p26 -->
@@ -155,10 +155,10 @@ Mamlaka ya Kristo inaenea kwa kila kitu katika uumbaji, ikijumuisha ulimwengu wa
 <!-- p29 -->
 <span class="x-scripture" data-book="JHN" data-chapter="10" data-lang="sw" data-type="quote" data-verses="17-18" data-version="OCS">
 <!-- p30 -->
-&gt; **<u>Yoh 10:17-18</u>** (OCS)
-&gt;
-&gt; Baba yangu ananipenda kwa kuwa ninautoa uhai wangu ili niupate tena.
-&gt; Hakuna mtu aniondoleaye uhai wangu, bali ninautoa kwa hiari yangu mwenyewe. Ninao uwezo wa kuutoa uhai wangu, na pia ninao uwezo wa kuutwaa tena. Amri hii nimepewa na Baba yangu.”
+> **<u>Yoh 10:17-18</u>** (OCS)
+>
+> Baba yangu ananipenda kwa kuwa ninautoa uhai wangu ili niupate tena.
+> Hakuna mtu aniondoleaye uhai wangu, bali ninautoa kwa hiari yangu mwenyewe. Ninao uwezo wa kuutoa uhai wangu, na pia ninao uwezo wa kuutwaa tena. Amri hii nimepewa na Baba yangu.”
 
 
 <!-- p31 -->
@@ -172,9 +172,9 @@ Yesu anao udhibiti kamili juu ya uzima na mauti, jambo lililoonyeshwa katika kif
 <!-- p34 -->
 <span class="x-scripture" data-book="MRK" data-chapter="2" data-lang="sw" data-type="fragment" data-verses="10" data-version="OCS">
 <!-- p35 -->
-&gt; **<u>Mar 2:10</u>** (OCS)
-&gt;
-&gt; Lakini ili mpate kujua kwamba Mwana wa Adamu anayo mamlaka duniani ya kusamehe dhambi”: Isa akamwambia yule aliyepooza,
+> **<u>Mar 2:10</u>** (OCS)
+>
+> Lakini ili mpate kujua kwamba Mwana wa Adamu anayo mamlaka duniani ya kusamehe dhambi”: Isa akamwambia yule aliyepooza,
 
 
 <!-- p36 -->
@@ -188,9 +188,9 @@ Kristo anao mamlaka ya kusamehe dhambi, akipatanisha wanadamu na Mungu kupitia d
 <!-- p39 -->
 <span class="x-scripture" data-book="LUK" data-chapter="10" data-lang="sw" data-type="quote" data-verses="19" data-version="OCS">
 <!-- p40 -->
-&gt; **<u>Luk 10:19</u>** (OCS)
-&gt;
-&gt; Tazama nimewapa mamlaka ya kukanyaga nyoka na nge na juu ya nguvu zote za adui; wala hakuna kitu chochote kitakachowadhuru.
+> **<u>Luk 10:19</u>** (OCS)
+>
+> Tazama nimewapa mamlaka ya kukanyaga nyoka na nge na juu ya nguvu zote za adui; wala hakuna kitu chochote kitakachowadhuru.
 
 
 <!-- p41 -->
@@ -204,10 +204,10 @@ Yesu anawaamuru mapepo na nguvu za kiroho, akidhihirisha ushindi Wake juu ya She
 <!-- p44 -->
 <span class="x-scripture" data-book="MAT" data-chapter="8" data-lang="sw" data-type="quote" data-verses="16-17" data-version="OCS">
 <!-- p45 -->
-&gt; **<u>Mat 8:16-17</u>** (OCS)
-&gt;
-&gt; Jioni ile, wakamletea watu wengi waliopagawa na pepo wachafu, naye akawatoa wale pepo wachafu kwa neno lake, na kuwaponya wagonjwa wote.
-&gt; Haya yalifanyika ili litimie neno lililonenwa kwa kinywa cha nabii Isaya, kwamba: “Mwenyewe alitwaa udhaifu wetu na akachukua magonjwa yetu.”
+> **<u>Mat 8:16-17</u>** (OCS)
+>
+> Jioni ile, wakamletea watu wengi waliopagawa na pepo wachafu, naye akawatoa wale pepo wachafu kwa neno lake, na kuwaponya wagonjwa wote.
+> Haya yalifanyika ili litimie neno lililonenwa kwa kinywa cha nabii Isaya, kwamba: “Mwenyewe alitwaa udhaifu wetu na akachukua magonjwa yetu.”
 
 
 <!-- p46 -->
@@ -221,10 +221,10 @@ Yesu aliponya aina zote za magonjwa, akitimiza unabii na kudhihirisha mamlaka Ya
 <!-- p49 -->
 <span class="x-scripture" data-book="JHN" data-chapter="5" data-lang="sw" data-type="quote" data-verses="22-23" data-version="OCS">
 <!-- p50 -->
-&gt; **<u>Yoh 5:22-23</u>** (OCS)
-&gt;
-&gt; Wala Baba hamhukumu mtu yeyote, lakini hukumu yote amempa Mwana,
-&gt; ili wote wamheshimu Mwana kama vile wanavyomheshimu Baba. Yeyote asiyemheshimu Mwana, hamheshimu Baba aliyemtuma.
+> **<u>Yoh 5:22-23</u>** (OCS)
+>
+> Wala Baba hamhukumu mtu yeyote, lakini hukumu yote amempa Mwana,
+> ili wote wamheshimu Mwana kama vile wanavyomheshimu Baba. Yeyote asiyemheshimu Mwana, hamheshimu Baba aliyemtuma.
 
 
 <!-- p51 -->
@@ -238,10 +238,10 @@ Kristo ndiye hakimu aliyeteuliwa juu ya watu wote, walio hai na waliokufa (<span
 <!-- p54 -->
 <span class="x-scripture" data-book="EPH" data-chapter="1" data-lang="sw" data-type="quote" data-verses="22-23" data-version="OCS">
 <!-- p55 -->
-&gt; **<u>Ef 1:22-23</u>** (OCS)
-&gt;
-&gt; Naye Mungu ameweka vitu vyote viwe chini ya miguu yake, na amemfanya yeye awe kichwa cha vitu vyote kwa ajili ya jumuiya ya waumini,
-&gt; ambayo ni mwili wake, ukamilifu wake yeye aliye yote katika yote.
+> **<u>Ef 1:22-23</u>** (OCS)
+>
+> Naye Mungu ameweka vitu vyote viwe chini ya miguu yake, na amemfanya yeye awe kichwa cha vitu vyote kwa ajili ya jumuiya ya waumini,
+> ambayo ni mwili wake, ukamilifu wake yeye aliye yote katika yote.
 
 
 <!-- p56 -->
@@ -255,10 +255,10 @@ Kristo ndiye kichwa cha Kanisa, akiwaongoza na kuwawezesha waumini kupitia Neno 
 <!-- p59 -->
 <span class="x-scripture" data-book="COL" data-chapter="1" data-lang="sw" data-type="fragment" data-verses="16-17" data-version="OCS">
 <!-- p60 -->
-&gt; **<u>Kol 1:16-17</u>** (OCS)
-&gt;
-&gt; Kwake yeye vitu vyote vilivyo mbinguni na juu ya nchi viliumbwa: vitu vinavyoonekana na visivyoonekana, viwe ni viti vya utawala au falme, au wenye mamlaka au watawala; vitu vyote viliumbwa kupitia kwake na kwa ajili yake.
-&gt; Yeye alikuwako kabla ya vitu vyote, na katika yeye vitu vyote vinashikamana pamoja.
+> **<u>Kol 1:16-17</u>** (OCS)
+>
+> Kwake yeye vitu vyote vilivyo mbinguni na juu ya nchi viliumbwa: vitu vinavyoonekana na visivyoonekana, viwe ni viti vya utawala au falme, au wenye mamlaka au watawala; vitu vyote viliumbwa kupitia kwake na kwa ajili yake.
+> Yeye alikuwako kabla ya vitu vyote, na katika yeye vitu vyote vinashikamana pamoja.
 
 
 <!-- p61 -->
@@ -272,9 +272,9 @@ Yesu ni Muumba na Mtegemezaji wa ulimwengu, akionyesha ukuu juu ya nguvu zote za
 <!-- p64 -->
 <span class="x-scripture" data-book="REV" data-chapter="1" data-lang="sw" data-type="quote" data-verses="18" data-version="OCS">
 <!-- p65 -->
-&gt; **<u>Ufu 1:18</u>** (OCS)
-&gt;
-&gt; Mimi ni Yeye Aliye Hai, niliyekuwa nimekufa, na tazama, ni hai milele na milele! Nami ninazo funguo za mauti na Kuzimu.
+> **<u>Ufu 1:18</u>** (OCS)
+>
+> Mimi ni Yeye Aliye Hai, niliyekuwa nimekufa, na tazama, ni hai milele na milele! Nami ninazo funguo za mauti na Kuzimu.
 
 
 <!-- p66 -->
@@ -288,9 +288,9 @@ Kristo ana ushindi juu ya kifo, jehenna, na kaburi, jambo linaloonyeshwa na umil
 <!-- p69 -->
 <span class="x-scripture" data-book="ACT" data-chapter="1" data-lang="sw" data-type="quote" data-verses="8" data-version="OCS">
 <!-- p70 -->
-&gt; **<u>Mat 1:8</u>** (OCS)
-&gt;
-&gt; Lakini mtapokea nguvu, Roho wa Mungu akiwajilia juu yenu, nanyi mtakuwa mashahidi wangu katika Yerusalemu, na Yudea yote, na Samaria, na miisho ya dunia.”
+> **<u>Mat 1:8</u>** (OCS)
+>
+> Lakini mtapokea nguvu, Roho wa Mungu akiwajilia juu yenu, nanyi mtakuwa mashahidi wangu katika Yerusalemu, na Yudea yote, na Samaria, na miisho ya dunia.”
 
 
 <!-- p71 -->
@@ -313,9 +313,9 @@ Ingawa Yesu alikuwa na mamlaka ya asili kama Mwana wa Mungu, ushindi Wake juu ya
 <!-- p77 -->
 <span class="x-scripture" data-book="REV" data-chapter="1" data-lang="sw" data-type="quote" data-verses="18" data-version="OCS">
 <!-- p78 -->
-&gt; **<u>Ufu 1:18</u>** (OCS)
-&gt;
-&gt; Mimi ni Yeye Aliye Hai, niliyekuwa nimekufa, na tazama, ni hai milele na milele! Nami ninazo funguo za mauti na Kuzimu.
+> **<u>Ufu 1:18</u>** (OCS)
+>
+> Mimi ni Yeye Aliye Hai, niliyekuwa nimekufa, na tazama, ni hai milele na milele! Nami ninazo funguo za mauti na Kuzimu.
 
 
 <!-- p79 -->
@@ -326,9 +326,9 @@ Ingawa Yesu anao mamlaka yote, Yeye huyatumia kwa makubaliano kamili na moyo na 
 <!-- p81 -->
 <span class="x-scripture" data-book="JHN" data-chapter="5" data-lang="sw" data-type="quote" data-verses="19" data-version="OCS">
 <!-- p82 -->
-&gt; **<u>Yoh 5:19</u>** (OCS)
-&gt;
-&gt; Isa akawaambia, “Amin, amin nawaambia, Mwana hawezi kufanya jambo lolote peke yake. Yeye aweza tu kufanya lile analomwona Baba yake akifanya, kwa maana lolote afanyalo Baba, Mwana pia hufanya vivyo hivyo.
+> **<u>Yoh 5:19</u>** (OCS)
+>
+> Isa akawaambia, “Amin, amin nawaambia, Mwana hawezi kufanya jambo lolote peke yake. Yeye aweza tu kufanya lile analomwona Baba yake akifanya, kwa maana lolote afanyalo Baba, Mwana pia hufanya vivyo hivyo.
 
 
 <!-- p83 -->
@@ -342,9 +342,9 @@ Yesu kamwe hamlazimishi mtu yeyote kutii. Anaheshimu uhuru wetu na kwa upole ana
 <!-- p86 -->
 <span class="x-scripture" data-book="REV" data-chapter="3" data-lang="sw" data-type="quote" data-verses="20" data-version="OCS">
 <!-- p87 -->
-&gt; **<u>Ufu 3:20</u>** (OCS)
-&gt;
-&gt; Tazama! Nasimama mlangoni nabisha. Kama mtu yeyote akisikia sauti yangu na kufungua mlango, nitaingia ndani na kula pamoja naye, naye pamoja nami.
+> **<u>Ufu 3:20</u>** (OCS)
+>
+> Tazama! Nasimama mlangoni nabisha. Kama mtu yeyote akisikia sauti yangu na kufungua mlango, nitaingia ndani na kula pamoja naye, naye pamoja nami.
 
 
 <!-- p88 -->
@@ -355,10 +355,10 @@ Mamlaka ya Kristo hufanya kazi kupitia upendo na neema kurejesha maisha yaliyovu
 <!-- p90 -->
 <span class="x-scripture" data-book="GAL" data-chapter="6" data-lang="sw" data-type="quote" data-verses="7-8" data-version="OCS">
 <!-- p91 -->
-&gt; **<u>Gal 6:7-8</u>** (OCS)
-&gt;
-&gt; Msidanganyike, Mungu hadhihakiwi. Kwa kuwa kile apandacho mtu ndicho atakachovuna.
-&gt; Apandaye kwa mwili, katika mwili wake atavuna uharibifu, lakini yeye apandaye katika Roho wa Mungu, katika Roho atavuna uzima wa milele.
+> **<u>Gal 6:7-8</u>** (OCS)
+>
+> Msidanganyike, Mungu hadhihakiwi. Kwa kuwa kile apandacho mtu ndicho atakachovuna.
+> Apandaye kwa mwili, katika mwili wake atavuna uharibifu, lakini yeye apandaye katika Roho wa Mungu, katika Roho atavuna uzima wa milele.
 
 
 <!-- p92 -->
@@ -372,11 +372,11 @@ Yesu aliwakabidhi waamini maeneo mahususi ya mamlaka. Mamlaka haya ni ya mahusia
 <!-- p95 -->
 <span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="sw" data-type="quote" data-verses="12-14" data-version="OCS">
 <!-- p96 -->
-&gt; **<u>Yoh 14:12-14</u>** (OCS)
-&gt;
-&gt; Amin, amin nawaambia, yeyote anayeniamini mimi, kazi ninazozifanya naye atazifanya. Naam, na atazifanya kazi kubwa kuliko hizi, kwa sababu mimi ninaenda kwa Baba.
-&gt; Nanyi mkiomba lolote kwa Jina langu, hilo nitalifanya, ili Baba apate kutukuzwa katika Mwana.
-&gt; Mkiniomba lolote kwa Jina langu, nitalifanya.
+> **<u>Yoh 14:12-14</u>** (OCS)
+>
+> Amin, amin nawaambia, yeyote anayeniamini mimi, kazi ninazozifanya naye atazifanya. Naam, na atazifanya kazi kubwa kuliko hizi, kwa sababu mimi ninaenda kwa Baba.
+> Nanyi mkiomba lolote kwa Jina langu, hilo nitalifanya, ili Baba apate kutukuzwa katika Mwana.
+> Mkiniomba lolote kwa Jina langu, nitalifanya.
 
 
 <!-- p97 -->
@@ -387,10 +387,10 @@ Yesu alisema kwamba kazi hizi kubwa zimefungamanishwa na Jina Lake (mamlaka Yake
 <!-- p99 -->
 <span class="x-scripture" data-book="JAS" data-chapter="4" data-lang="sw" data-type="fragment" data-verses="2-3" data-version="OCS">
 <!-- p100 -->
-&gt; **<u>Yak 4:2-3</u>** (OCS)
-&gt;
-&gt; Mnatamani lakini hampati, kwa hiyo mwaua. Mwatamani kupata lakini hampati vile mnavyotaka, kwa hiyo mnajitia katika magomvi na mapigano. Mmepungukiwa kwa sababu hammwombi Mungu.
-&gt; Mnapoomba hampati kwa sababu mnaomba kwa nia mbaya, ili mpate kuvitumia hivyo mtakavyopata kwa tamaa zenu.
+> **<u>Yak 4:2-3</u>** (OCS)
+>
+> Mnatamani lakini hampati, kwa hiyo mwaua. Mwatamani kupata lakini hampati vile mnavyotaka, kwa hiyo mnajitia katika magomvi na mapigano. Mmepungukiwa kwa sababu hammwombi Mungu.
+> Mnapoomba hampati kwa sababu mnaomba kwa nia mbaya, ili mpate kuvitumia hivyo mtakavyopata kwa tamaa zenu.
 
 
 <!-- p101 -->
@@ -404,14 +404,14 @@ Tunapoomba, tunapaswa kuomba kwa imani (<span class="x-scripture" data-book="MRK
 <!-- p104 -->
 <span class="x-scripture" data-book="MRK" data-chapter="16" data-lang="sw" data-type="quote" data-verses="15-20" data-version="OCS">
 <!-- p105 -->
-&gt; **<u>Mar 16:15-20</u>** (OCS)
-&gt;
-&gt; Akawaambia, “Nendeni ulimwenguni kote, mkaihubiri Injili kwa kila kiumbe.
-&gt; Yeyote aaminiye na kubatizwa ataokoka. Lakini yeyote asiyeamini atahukumiwa.
-&gt; Nazo ishara hizi zitafuatana na wanaoamini: Kwa Jina langu watatoa pepo wachafu; watasema kwa lugha mpya;
-&gt; watashika nyoka kwa mikono yao; na hata wakinywa kitu chochote cha kuua, hakitawadhuru kamwe; wataweka mikono yao juu ya wagonjwa, nao watapona.”
-&gt; Baada ya Bwana Isa kusema nao, alichukuliwa juu mbinguni na kuketi mkono wa kuume wa Mungu.
-&gt; Kisha wanafunzi wake wakatoka, wakahubiri kila mahali, naye Bwana Isa akatenda kazi pamoja nao na kulithibitisha neno lake kwa ishara zilizofuatana nalo.]]
+> **<u>Mar 16:15-20</u>** (OCS)
+>
+> Akawaambia, “Nendeni ulimwenguni kote, mkaihubiri Injili kwa kila kiumbe.
+> Yeyote aaminiye na kubatizwa ataokoka. Lakini yeyote asiyeamini atahukumiwa.
+> Nazo ishara hizi zitafuatana na wanaoamini: Kwa Jina langu watatoa pepo wachafu; watasema kwa lugha mpya;
+> watashika nyoka kwa mikono yao; na hata wakinywa kitu chochote cha kuua, hakitawadhuru kamwe; wataweka mikono yao juu ya wagonjwa, nao watapona.”
+> Baada ya Bwana Isa kusema nao, alichukuliwa juu mbinguni na kuketi mkono wa kuume wa Mungu.
+> Kisha wanafunzi wake wakatoka, wakahubiri kila mahali, naye Bwana Isa akatenda kazi pamoja nao na kulithibitisha neno lake kwa ishara zilizofuatana nalo.]]
 
 
 <!-- p106 -->
@@ -461,9 +461,9 @@ Hata hivyo, Biblia pia hutoa maonyo kuhusu utaratibu huo:
 <!-- p121 -->
 <span class="x-scripture" data-book="1TI" data-chapter="5" data-lang="sw" data-type="quote" data-verses="22" data-version="OCS">
 <!-- p122 -->
-&gt; **<u>1Ti 5:22</u>** (OCS)
-&gt;
-&gt; Usiwe na haraka kumwekea mtu mikono wala usishiriki dhambi za watu wengine. Jilinde nafsi yako uwe safi.
+> **<u>1Ti 5:22</u>** (OCS)
+>
+> Usiwe na haraka kumwekea mtu mikono wala usishiriki dhambi za watu wengine. Jilinde nafsi yako uwe safi.
 
 
 <!-- p123 -->
@@ -651,9 +651,9 @@ Kama waumini tumepewa mamlaka yaliyokabidhiwa na Yesu ya kufukuza pepo kwa Jina 
 <!-- p170 -->
 <span class="x-scripture" data-book="MRK" data-chapter="16" data-lang="sw" data-type="fragment" data-verses="17" data-version="OCS">
 <!-- p171 -->
-&gt; **<u>Mar 16:17</u>** (OCS)
-&gt;
-&gt; Nazo ishara hizi zitafuatana na wanaoamini: Kwa Jina langu watatoa pepo wachafu; watasema kwa lugha mpya;
+> **<u>Mar 16:17</u>** (OCS)
+>
+> Nazo ishara hizi zitafuatana na wanaoamini: Kwa Jina langu watatoa pepo wachafu; watasema kwa lugha mpya;
 
 
 <!-- p172 -->
@@ -667,9 +667,9 @@ Kukabiliana na roho mbaya au najisi, mtindo unaoonyeshwa katika maandiko ni kuch
 <!-- p175 -->
 <span class="x-scripture" data-book="MAT" data-chapter="18" data-lang="sw" data-type="quote" data-verses="18" data-version="OCS">
 <!-- p176 -->
-&gt; **<u>Mat 18:18</u>** (OCS)
-&gt;
-&gt; “Amin, nawaambia, lolote mtakalolifunga duniani litakuwa limefungwa mbinguni, na lolote mtakalolifungua duniani litakuwa limefunguliwa mbinguni.
+> **<u>Mat 18:18</u>** (OCS)
+>
+> “Amin, nawaambia, lolote mtakalolifunga duniani litakuwa limefungwa mbinguni, na lolote mtakalolifungua duniani litakuwa limefunguliwa mbinguni.
 
 
 <!-- p177 -->

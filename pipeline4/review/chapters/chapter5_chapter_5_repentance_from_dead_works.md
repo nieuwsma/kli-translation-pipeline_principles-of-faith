@@ -10,9 +10,9 @@ Mwandishi wa Waebrania anaweka ‘toba kutoka kwa matendo yaliyokufa’ kama kip
 <!-- p3 -->
 <span class="x-scripture" data-book="HEB" data-chapter="6" data-lang="sw" data-type="quote" data-verses="1" data-version="OCS">
 <!-- p4 -->
-&gt; **<u>Ebr 6:1</u>** (OCS)
-&gt;
-&gt; Kwa hiyo, tukiachana na mafundisho yale ya awali kuhusu Al-Masihi na tukisonga mbele ili tufikie utimilifu, tusiweke tena msingi wa mafundisho ya kuzitubia kazi zisizo na uhai na imani katika Mungu,
+> **<u>Ebr 6:1</u>** (OCS)
+>
+> Kwa hiyo, tukiachana na mafundisho yale ya awali kuhusu Al-Masihi na tukisonga mbele ili tufikie utimilifu, tusiweke tena msingi wa mafundisho ya kuzitubia kazi zisizo na uhai na imani katika Mungu,
 
 
 <!-- p5 -->
@@ -176,9 +176,9 @@ Kazi zilizokufa si hamu ya Mungu kwetu. Mungu anataka kutuletea uzima!
 <!-- p30 -->
 <span class="x-scripture" data-book="JHN" data-chapter="10" data-lang="sw" data-type="quote" data-verses="10" data-version="OCS">
 <!-- p31 -->
-&gt; **<u>Yoh 10:10</u>** (OCS)
-&gt;
-&gt; Mwizi huja ili aibe, aue na aangamize. Mimi nimekuja ili wapate uzima, kisha wawe nao tele.
+> **<u>Yoh 10:10</u>** (OCS)
+>
+> Mwizi huja ili aibe, aue na aangamize. Mimi nimekuja ili wapate uzima, kisha wawe nao tele.
 
 
 <!-- p32 -->
@@ -237,9 +237,9 @@ Neno linalotumika katika Waebrania ni *toba*. Hili linatofautishwa na neno *tubu
 <!-- p43 -->
 <span class="x-scripture" data-book="MAT" data-chapter="4" data-lang="sw" data-type="quote" data-verses="17" data-version="OCS">
 <!-- p44 -->
-&gt; **<u>Mat 4:17</u>** (OCS)
-&gt;
-&gt; Tangu wakati huo, Isa alianza kuhubiri akisema: “Tubuni, kwa maana ufalme wa mbinguni umekaribia.”
+> **<u>Mat 4:17</u>** (OCS)
+>
+> Tangu wakati huo, Isa alianza kuhubiri akisema: “Tubuni, kwa maana ufalme wa mbinguni umekaribia.”
 
 
 <!-- p45 -->
@@ -308,9 +308,9 @@ Tunabadilishaje mawazo yetu? Kwa makusudi, kupitia kukutana na kweli.
 <span class="x-scripture" data-book="JHN" data-chapter="8" data-lang="sw" data-type="quote" data-verses="31-32" data-version="OCS">
 <!-- p53 -->
 ; **<u>Yoh 8:31-32</u>** (OCS)
-&gt;
-&gt; Kisha Isa akawaambia wale Wayahudi waliomwamini, “Mkidumu katika maneno yangu, mtakuwa wanafunzi wangu kweli kweli.
-&gt; Ndipo mtaijua kweli, nayo kweli itawaweka huru.”
+>
+> Kisha Isa akawaambia wale Wayahudi waliomwamini, “Mkidumu katika maneno yangu, mtakuwa wanafunzi wangu kweli kweli.
+> Ndipo mtaijua kweli, nayo kweli itawaweka huru.”
 
 
 <!-- p54 -->
@@ -318,9 +318,9 @@ Tunabadilishaje mawazo yetu? Kwa makusudi, kupitia kukutana na kweli.
 <!-- p55 -->
 <span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="sw" data-type="quote" data-verses="13" data-version="OCS">
 <!-- p56 -->
-&gt; **<u>Yoh 16:13</u>** (OCS)
-&gt;
-&gt; Atakapokuja huyo Roho wa kweli, atawaongoza awatie katika kweli yote. Yeye hatanena kwa ajili yake mwenyewe, bali atanena yale yote atakayosikia, naye atawaonesha mambo yajayo.
+> **<u>Yoh 16:13</u>** (OCS)
+>
+> Atakapokuja huyo Roho wa kweli, atawaongoza awatie katika kweli yote. Yeye hatanena kwa ajili yake mwenyewe, bali atanena yale yote atakayosikia, naye atawaonesha mambo yajayo.
 
 
 <!-- p57 -->
@@ -461,15 +461,15 @@ Yesu, alipokuwa akihubiria makutano, mara nyingi alikutana na watu ambao hawakuj
 Yesu anakabiliana na mchakato huu wa polepole na wakati mwingine kushindwa kubadilika kwa kusema kwa mifano. Kwa nini Yesu aliamua kusema kwa mifano? Anafichua sababu katika Mathayo:
 
 <!-- p82 -->
-&gt; <u>**Mathayo 13:10,11,13,15**</u> (NKJV)
-&gt;
-&gt;***10** Wanafunzi wakamjia wakamwambia, "Kwa nini Unasema nao kwa mifano?"*
-&gt;
-&gt;***11** Akajibu akawaambia…*
-&gt;
-&gt;***13** … Nawasemea kwa mifano, kwa sababu wakitazama hawaoni, na wakisikia hawasikii, wala hawaelewi.*
-&gt;
-&gt;***15** … KWA MAANA MIOYO YA WATU HAWA IMEKUWA NZITO. MASIKIO YAO NI MAGUMU KUSIKIA, NA MACHO YAO WAMEYAFUNGA, ISIJE WAKAONA KWA MACHO YAO NA WAKASIKIA KWA MASIKIO YAO, ISIJE WAKAFAHAMU KWA MIOYO YAO NA WAKAGEUKA, ILI NIWAPONYE.'*
+> <u>**Mathayo 13:10,11,13,15**</u> (NKJV)
+>
+>***10** Wanafunzi wakamjia wakamwambia, "Kwa nini Unasema nao kwa mifano?"*
+>
+>***11** Akajibu akawaambia…*
+>
+>***13** … Nawasemea kwa mifano, kwa sababu wakitazama hawaoni, na wakisikia hawasikii, wala hawaelewi.*
+>
+>***15** … KWA MAANA MIOYO YA WATU HAWA IMEKUWA NZITO. MASIKIO YAO NI MAGUMU KUSIKIA, NA MACHO YAO WAMEYAFUNGA, ISIJE WAKAONA KWA MACHO YAO NA WAKASIKIA KWA MASIKIO YAO, ISIJE WAKAFAHAMU KWA MIOYO YAO NA WAKAGEUKA, ILI NIWAPONYE.'*
 
 <!-- p83 -->
 Yesu anasema kwamba Anatumia mifano kufungua taratibu akili na macho ya watu wasioona wala kuelewa ukweli. Ukweli ni kama mwanga unaotia upofu, mwingi sana kwa mara moja unatulazimisha kufumba macho, unauma sana. Kwa kujifunua kwa sehemu ya mwanga huo, huleta mwangaza unaotufanya tuone giza tulilomo kwa kweli. Tunapopata mwangaza huu, tunatambua kwamba neno la Mungu ni kama taa kwa njia yetu na mwanga kwa miguu yetu (<span class="x-scripture" data-book="PSA" data-chapter="119" data-lang="sw" data-type="ref" data-verses="110" data-version="OCS">Zab 119:110</span>) na kwamba tunaweza kutumia maneno ya ukweli kuleta mwanga katika kipengele chochote cha maisha yetu.
@@ -507,10 +507,10 @@ Tunapokumbatia kwa kweli mabadiliko haya tunaweza kuomba kama Mfalme Daudi:
 <!-- p87 -->
 <span class="x-scripture" data-book="PSA" data-chapter="139" data-lang="sw" data-type="quote" data-verses="23-24" data-version="OCS">
 <!-- p88 -->
-&gt; **<u>Zab 139:23-24</u>** (OCS)
-&gt;
-&gt; Ee Mungu, nichunguze, uujue moyo wangu, nijaribu na ujue mawazo yangu.
-&gt; Uone kama kuna njia iletayo machukizo ndani yangu, uniongoze katika njia ya milele.
+> **<u>Zab 139:23-24</u>** (OCS)
+>
+> Ee Mungu, nichunguze, uujue moyo wangu, nijaribu na ujue mawazo yangu.
+> Uone kama kuna njia iletayo machukizo ndani yangu, uniongoze katika njia ya milele.
 
 
 <!-- p89 -->
@@ -527,9 +527,9 @@ Ingawa kufikia chini kabisa ni hadithi zaidi kuliko sharti la hakika la mabadili
 <!-- p93 -->
 <span class="x-scripture" data-book="2CO" data-chapter="7" data-lang="sw" data-type="quote" data-verses="10" data-version="OCS">
 <!-- p94 -->
-&gt; **<u>2Kor 7:10</u>** (OCS)
-&gt;
-&gt; Kwa maana huzuni ya kiungu huleta toba iletayo wokovu, wala haina majuto. Lakini huzuni ya kidunia husababisha mauti.
+> **<u>2Kor 7:10</u>** (OCS)
+>
+> Kwa maana huzuni ya kiungu huleta toba iletayo wokovu, wala haina majuto. Lakini huzuni ya kidunia husababisha mauti.
 
 
 <!-- p95 -->
@@ -639,11 +639,11 @@ Sijui kwa nini watu wengine wanakwama na wengine wako tayari sana kubadilika, la
 <!-- p116 -->
 <span class="x-scripture" data-book="EPH" data-chapter="2" data-lang="sw" data-type="quote" data-verses="8-10" data-version="OCS">
 <!-- p117 -->
-&gt; **<u>Ef 2:8-10</u>** (OCS)
-&gt;
-&gt; Kwa maana mmeokolewa kwa neema, kupitia kwa imani, nayo haikutokana na ninyi wenyewe. Hii ni zawadi kutoka kwa Mungu,
-&gt; si kwa matendo, ili mtu yeyote asije akajisifu.
-&gt; Kwa maana sisi ni kazi ya mikono ya Mungu, tulioumbwa katika Al-Masihi Isa, ili tupate kutenda matendo mema, ambayo Mungu alitangulia kuyaandaa tupate kuishi katika hayo.
+> **<u>Ef 2:8-10</u>** (OCS)
+>
+> Kwa maana mmeokolewa kwa neema, kupitia kwa imani, nayo haikutokana na ninyi wenyewe. Hii ni zawadi kutoka kwa Mungu,
+> si kwa matendo, ili mtu yeyote asije akajisifu.
+> Kwa maana sisi ni kazi ya mikono ya Mungu, tulioumbwa katika Al-Masihi Isa, ili tupate kutenda matendo mema, ambayo Mungu alitangulia kuyaandaa tupate kuishi katika hayo.
 
 
 <!-- p118 -->

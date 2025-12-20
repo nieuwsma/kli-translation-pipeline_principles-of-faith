@@ -234,9 +234,9 @@ Mungu kamwe hakuteremshi! Hatawahi kukudharau; atakujenga tu. Mungu anaponena na
 <!-- p38 -->
 <span class="x-scripture" data-book="JER" data-chapter="29" data-lang="sw" data-type="quote" data-verses="11" data-version="OCS">
 <!-- p39 -->
-&gt; **<u>Yer 29:11</u>** (OCS)
-&gt;
-&gt; Kwa maana ninajua mipango niliyo nayo kwa ajili yenu,” asema Mwenyezi Mungu, “ni mipango ya kuwafanikisha na wala si ya kuwadhuru, ni mipango ya kuwapa tumaini katika siku zijazo.
+> **<u>Yer 29:11</u>** (OCS)
+>
+> Kwa maana ninajua mipango niliyo nayo kwa ajili yenu,” asema Mwenyezi Mungu, “ni mipango ya kuwafanikisha na wala si ya kuwadhuru, ni mipango ya kuwapa tumaini katika siku zijazo.
 
 
 <!-- p40 -->

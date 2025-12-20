@@ -49,11 +49,11 @@ Lazima tuiweke imani yetu kwa usahihi na tujifunze kuishiriki kwa ufanisi. Yesu 
 <!-- p9 -->
 <span class="x-scripture" data-book="MAT" data-chapter="28" data-lang="sw" data-type="fragment" data-verses="18-20" data-version="OCS">
 <!-- p10 -->
-&gt; **<u>Mat 28:18-20</u>** (OCS)
-&gt;
-&gt; Isa akawajia na kusema, “Nimepewa mamlaka yote mbinguni na duniani.
-&gt; Kwa sababu hii, nendeni mkawafanye mataifa yote kuwa wanafunzi, mkiwabatiza kwa Jina la Baba na la Mwana na la Roho wa Mungu,
-&gt; nanyi wafundisheni kuyashika mambo yote niliyowaamuru ninyi. Hakika mimi niko pamoja nanyi siku zote, hadi mwisho wa nyakati.”
+> **<u>Mat 28:18-20</u>** (OCS)
+>
+> Isa akawajia na kusema, “Nimepewa mamlaka yote mbinguni na duniani.
+> Kwa sababu hii, nendeni mkawafanye mataifa yote kuwa wanafunzi, mkiwabatiza kwa Jina la Baba na la Mwana na la Roho wa Mungu,
+> nanyi wafundisheni kuyashika mambo yote niliyowaamuru ninyi. Hakika mimi niko pamoja nanyi siku zote, hadi mwisho wa nyakati.”
 
 
 <!-- p11 -->
@@ -133,10 +133,10 @@ Hebu tuchunguze kila kipengele kwa undani zaidi kidogo:
 <!-- p29 -->
 <span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="sw" data-type="quote" data-verses="13-14" data-version="OCS">
 <!-- p30 -->
-&gt; **<u>Yoh 16:13-14</u>** (OCS)
-&gt;
-&gt; Atakapokuja huyo Roho wa kweli, atawaongoza awatie katika kweli yote. Yeye hatanena kwa ajili yake mwenyewe, bali atanena yale yote atakayosikia, naye atawaonesha mambo yajayo.
-&gt; Atanitukuza mimi, kwa maana atayachukua yaliyo yangu na kuwajulisha ninyi.
+> **<u>Yoh 16:13-14</u>** (OCS)
+>
+> Atakapokuja huyo Roho wa kweli, atawaongoza awatie katika kweli yote. Yeye hatanena kwa ajili yake mwenyewe, bali atanena yale yote atakayosikia, naye atawaonesha mambo yajayo.
+> Atanitukuza mimi, kwa maana atayachukua yaliyo yangu na kuwajulisha ninyi.
 
 
 <!-- p31 -->
@@ -150,9 +150,9 @@ Mungu, kupitia Roho Mtakatifu, alihamasisha Maandiko yote yaliyoandikwa, lakini 
 <!-- p34 -->
 <span class="x-scripture" data-book="2TI" data-chapter="3" data-lang="sw" data-type="quote" data-verses="16" data-version="OCS">
 <!-- p35 -->
-&gt; **<u>2Ti 3:16</u>** (OCS)
-&gt;
-&gt; Maandiko yote yamevuviwa na Mungu, na yafaa kwa mafundisho, kwa kuwaonya watu makosa yao, kwa kuwaongoza na kwa kuwafundisha katika haki,
+> **<u>2Ti 3:16</u>** (OCS)
+>
+> Maandiko yote yamevuviwa na Mungu, na yafaa kwa mafundisho, kwa kuwaonya watu makosa yao, kwa kuwaongoza na kwa kuwafundisha katika haki,
 
 
 <!-- p36 -->
@@ -163,9 +163,9 @@ Mkusanyiko wa maandiko tulio nao leo unaakisi maneno yaliyoandikwa ya Mungu. Mun
 <!-- p38 -->
 <span class="x-scripture" data-book="EXO" data-chapter="24" data-lang="sw" data-type="quote" data-verses="4" data-version="OCS">
 <!-- p39 -->
-&gt; **<u>Kuto 24:4</u>** (OCS)
-&gt;
-&gt; Ndipo Musa akaandika kila kitu Mwenyezi Mungu alichokuwa amesema. Akaamka kesho yake asubuhi na mapema na kujenga madhabahu chini ya mlima na kusimamisha nguzo kumi na mbili za mawe kuwakilisha makabila kumi na mawili ya Israeli.
+> **<u>Kuto 24:4</u>** (OCS)
+>
+> Ndipo Musa akaandika kila kitu Mwenyezi Mungu alichokuwa amesema. Akaamka kesho yake asubuhi na mapema na kujenga madhabahu chini ya mlima na kusimamisha nguzo kumi na mbili za mawe kuwakilisha makabila kumi na mawili ya Israeli.
 
 
 <!-- p40 -->
@@ -173,9 +173,9 @@ Mkusanyiko wa maandiko tulio nao leo unaakisi maneno yaliyoandikwa ya Mungu. Mun
 <!-- p41 -->
 <span class="x-scripture" data-book="NUM" data-chapter="33" data-lang="sw" data-type="quote" data-verses="2" data-version="OCS">
 <!-- p42 -->
-&gt; **<u>Hesa 33:2</u>** (OCS)
-&gt;
-&gt; Kwa agizo la Mwenyezi Mungu, Musa aliweka kumbukumbu ya vituo katika safari yao. Hivi ndivyo vituo katika safari yao:
+> **<u>Hesa 33:2</u>** (OCS)
+>
+> Kwa agizo la Mwenyezi Mungu, Musa aliweka kumbukumbu ya vituo katika safari yao. Hivi ndivyo vituo katika safari yao:
 
 
 <!-- p43 -->
@@ -183,10 +183,10 @@ Mkusanyiko wa maandiko tulio nao leo unaakisi maneno yaliyoandikwa ya Mungu. Mun
 <!-- p44 -->
 <span class="x-scripture" data-book="DEU" data-chapter="31" data-lang="sw" data-type="fragment" data-verses="9,11" data-version="OCS">
 <!-- p45 -->
-&gt; **<u>Kum 31:9,11</u>** (OCS)
-&gt;
-&gt; Kwa hiyo Musa akaandika sheria hii na kuwapa makuhani, wana wa Lawi, waliochukua Sanduku la Agano la Mwenyezi Mungu na wazee wote wa Israeli.
-&gt; Waisraeli wote wanapokuja mbele za Mwenyezi Mungu, Mungu wenu, mahali atakapopachagua, utasoma sheria hii mbele yao masikioni mwao.
+> **<u>Kum 31:9,11</u>** (OCS)
+>
+> Kwa hiyo Musa akaandika sheria hii na kuwapa makuhani, wana wa Lawi, waliochukua Sanduku la Agano la Mwenyezi Mungu na wazee wote wa Israeli.
+> Waisraeli wote wanapokuja mbele za Mwenyezi Mungu, Mungu wenu, mahali atakapopachagua, utasoma sheria hii mbele yao masikioni mwao.
 
 
 <!-- p46 -->
@@ -197,21 +197,21 @@ Kadiri historia ilivyoendelea, Mungu alidumisha uhusiano wake na watu wake, na m
 <!-- p48 -->
 <span class="x-scripture" data-book="ISA" data-chapter="30" data-lang="sw" data-type="quote" data-verses="8" data-version="OCS">
 <!-- p49 -->
-&gt; **<u>Is 30:8</u>** (OCS)
-&gt;
-&gt; Nenda sasa, liandike neno hili juu ya kibao kwa ajili yao, liandike kwenye kitabu, ili liweze kuwa shahidi milele kwa ajili ya siku zijazo.
+> **<u>Is 30:8</u>** (OCS)
+>
+> Nenda sasa, liandike neno hili juu ya kibao kwa ajili yao, liandike kwenye kitabu, ili liweze kuwa shahidi milele kwa ajili ya siku zijazo.
 
 
 <!-- p50 -->
 </span>
 <!-- p51 -->
-<x-scripture id="p34-1" ref='&lt;span class="x-scripture" data-type="ref" data-book="John" data-chapter="8" data-verses="31-35" data-lang="en" data-version="NKJV"&gt;John 8:31-35&lt;/span&gt;' type="quote" version="NKJV"></x-scripture>
+<x-scripture id="p34-1" ref='&lt;span class="x-scripture" data-type="ref" data-book="John" data-chapter="8" data-verses="31-35" data-lang="en" data-version="NKJV">John 8:31-35&lt;/span>' type="quote" version="NKJV"></x-scripture>
 <!-- p52 -->
 <span class="x-scripture" data-book="JER" data-chapter="36" data-lang="sw" data-type="quote" data-verses="2" data-version="OCS">
 <!-- p53 -->
-&gt; **<u>Yer 36:2</u>** (OCS)
-&gt;
-&gt; “Chukua kitabu uandike ndani yake maneno yote niliyonena nawe kuhusu Israeli, Yuda na mataifa mengine yote, tangu nilipoanza kunena nawe wakati wa utawala wa Yosia hadi sasa.
+> **<u>Yer 36:2</u>** (OCS)
+>
+> “Chukua kitabu uandike ndani yake maneno yote niliyonena nawe kuhusu Israeli, Yuda na mataifa mengine yote, tangu nilipoanza kunena nawe wakati wa utawala wa Yosia hadi sasa.
 
 
 <!-- p54 -->
@@ -219,9 +219,9 @@ Kadiri historia ilivyoendelea, Mungu alidumisha uhusiano wake na watu wake, na m
 <!-- p55 -->
 <span class="x-scripture" data-book="HAB" data-chapter="2" data-lang="sw" data-type="quote" data-verses="2" data-version="OCS">
 <!-- p56 -->
-&gt; **<u>Hab 2:2</u>** (OCS)
-&gt;
-&gt; Kisha Mwenyezi Mungu akajibu: “Andika ufunuo huu, na ukaufanye wazi juu ya vibao, ili mpiga mbiu akimbie nao.
+> **<u>Hab 2:2</u>** (OCS)
+>
+> Kisha Mwenyezi Mungu akajibu: “Andika ufunuo huu, na ukaufanye wazi juu ya vibao, ili mpiga mbiu akimbie nao.
 
 
 <!-- p57 -->
@@ -268,9 +268,9 @@ Strong’s Concordance hutusaidia kuelewa kile Biblia ilikusudia katika lugha ya
 <!-- p64 -->
 <span class="x-scripture" data-book="MAT" data-chapter="28" data-lang="sw" data-type="quote" data-verses="20" data-version="OCS">
 <!-- p65 -->
-&gt; **<u>Mat 28:20</u>** (OCS)
-&gt;
-&gt; nanyi wafundisheni kuyashika mambo yote niliyowaamuru ninyi. Hakika mimi niko pamoja nanyi siku zote, hadi mwisho wa nyakati.”
+> **<u>Mat 28:20</u>** (OCS)
+>
+> nanyi wafundisheni kuyashika mambo yote niliyowaamuru ninyi. Hakika mimi niko pamoja nanyi siku zote, hadi mwisho wa nyakati.”
 
 
 <!-- p66 -->

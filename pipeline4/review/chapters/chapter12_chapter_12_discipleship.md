@@ -10,11 +10,11 @@ Uanafunzi ndilo agizo kuu katika Wito Mkuu. Yesu alifafanua utume huu katika:
 <!-- p3 -->
 <span class="x-scripture" data-book="MAT" data-chapter="28" data-lang="sw" data-type="quote" data-verses="18-20" data-version="OCS">
 <!-- p4 -->
-&gt; **<u>Mat 28:18-20</u>** (OCS)
-&gt;
-&gt; Isa akawajia na kusema, “Nimepewa mamlaka yote mbinguni na duniani.
-&gt; Kwa sababu hii, nendeni mkawafanye mataifa yote kuwa wanafunzi, mkiwabatiza kwa Jina la Baba na la Mwana na la Roho wa Mungu,
-&gt; nanyi wafundisheni kuyashika mambo yote niliyowaamuru ninyi. Hakika mimi niko pamoja nanyi siku zote, hadi mwisho wa nyakati.”
+> **<u>Mat 28:18-20</u>** (OCS)
+>
+> Isa akawajia na kusema, “Nimepewa mamlaka yote mbinguni na duniani.
+> Kwa sababu hii, nendeni mkawafanye mataifa yote kuwa wanafunzi, mkiwabatiza kwa Jina la Baba na la Mwana na la Roho wa Mungu,
+> nanyi wafundisheni kuyashika mambo yote niliyowaamuru ninyi. Hakika mimi niko pamoja nanyi siku zote, hadi mwisho wa nyakati.”
 
 
 <!-- p5 -->
@@ -106,9 +106,9 @@ Yesu anaelezea mfano wa uanagenzi katika:
 <!-- p27 -->
 <span class="x-scripture" data-book="LUK" data-chapter="6" data-lang="sw" data-type="quote" data-verses="40" data-version="OCS">
 <!-- p28 -->
-&gt; **<u>Luk 6:40</u>** (OCS)
-&gt;
-&gt; Mwanafunzi hawezi kumzidi mwalimu wake, ila yule aliyehitimu aweza kuwa kama mwalimu wake.
+> **<u>Luk 6:40</u>** (OCS)
+>
+> Mwanafunzi hawezi kumzidi mwalimu wake, ila yule aliyehitimu aweza kuwa kama mwalimu wake.
 
 
 <!-- p29 -->

@@ -109,9 +109,9 @@ Yesu anatajwa waziwazi kuwa Mpatanishi wa Agano Jipya katika
 <!-- p15 -->
 <span class="x-scripture" data-book="HEB" data-chapter="9" data-lang="sw" data-type="quote" data-verses="15" data-version="OCS">
 <!-- p16 -->
-&gt; **<u>Ebr 9:15</u>** (OCS)
-&gt;
-&gt; Kwa sababu hii Al-Masihi ni mpatanishi wa agano jipya, ili wale walioitwa waweze kupokea ile ahadi ya urithi wa milele: kwa vile yeye alikufa awe ukombozi wao kutoka kwa dhambi walizozitenda chini ya agano la kwanza.
+> **<u>Ebr 9:15</u>** (OCS)
+>
+> Kwa sababu hii Al-Masihi ni mpatanishi wa agano jipya, ili wale walioitwa waweze kupokea ile ahadi ya urithi wa milele: kwa vile yeye alikufa awe ukombozi wao kutoka kwa dhambi walizozitenda chini ya agano la kwanza.
 
 
 <!-- p17 -->
@@ -171,30 +171,30 @@ Imani ya Mitume imetumika kama chombo cha mafundisho na katekisimu kwa karne nyi
 Mtu hahitaji kuelewa kikamilifu imani hizi ili kumjia Mungu na kupokea wokovu, wokovu ni kwa imani, si kwa mtihani wa mafundisho! Hata hivyo, katika kuendelea katika imani hiyo sote tunapaswa kuzielewa kweli hizi za msingi.
 
 <!-- p29 -->
-&gt; *Naamini kwa Mungu, Baba mwenye uweza wote,  
-&gt; muumba wa mbingu na dunia.*
-&gt;
-&gt; *Naamini kwa Yesu Kristo, Mwana Wake wa pekee, Bwana wetu.  
-&gt; Alitungwa kwa nguvu ya Roho Mtakatifu  
-&gt; na kuzaliwa na Bikira Maria.  
-&gt; Aliteswa chini ya Ponsio Pilato,  
-&gt; akasulubiwa, akafa, na akazikwa.  
-&gt; Alishuka kwa wafu.  
-&gt; Siku ya tatu akafufuka tena.  
-&gt; Akapaa mbinguni,  
-&gt; na ameketi mkono wa kuume wa Baba.  
-&gt; Atakuja tena kuhukumu walio hai na wafu.*
-&gt;
-&gt; *Naamini kwa Roho Mtakatifu,  
-&gt; Kanisa Katoliki takatifu\*,  
-&gt; ushirika wa watakatifu,  
-&gt; msamaha wa dhambi,  
-&gt; kufufuliwa kwa mwili,  
-&gt; na uzima wa milele. Amina.*
-&gt;
-&gt; *Toleo la Kisasa la Imani ya Mitume, [<u>https://www.rca.org/about/theology/creeds-and-confessions/the-apostles-creed/</u>](https://www.rca.org/about/theology/creeds-and-confessions/the-apostles-creed/)*
-&gt;
-&gt; \*Ikimaanisha Kanisa la Kikristo la ulimwengu wote-waamini wote katika Yesu Kristo
+> *Naamini kwa Mungu, Baba mwenye uweza wote,  
+> muumba wa mbingu na dunia.*
+>
+> *Naamini kwa Yesu Kristo, Mwana Wake wa pekee, Bwana wetu.  
+> Alitungwa kwa nguvu ya Roho Mtakatifu  
+> na kuzaliwa na Bikira Maria.  
+> Aliteswa chini ya Ponsio Pilato,  
+> akasulubiwa, akafa, na akazikwa.  
+> Alishuka kwa wafu.  
+> Siku ya tatu akafufuka tena.  
+> Akapaa mbinguni,  
+> na ameketi mkono wa kuume wa Baba.  
+> Atakuja tena kuhukumu walio hai na wafu.*
+>
+> *Naamini kwa Roho Mtakatifu,  
+> Kanisa Katoliki takatifu\*,  
+> ushirika wa watakatifu,  
+> msamaha wa dhambi,  
+> kufufuliwa kwa mwili,  
+> na uzima wa milele. Amina.*
+>
+> *Toleo la Kisasa la Imani ya Mitume, [<u>https://www.rca.org/about/theology/creeds-and-confessions/the-apostles-creed/</u>](https://www.rca.org/about/theology/creeds-and-confessions/the-apostles-creed/)*
+>
+> \*Ikimaanisha Kanisa la Kikristo la ulimwengu wote-waamini wote katika Yesu Kristo
 
 <!-- p30 -->
 ## Maelezo Mafupi ya Imani ya Mitume

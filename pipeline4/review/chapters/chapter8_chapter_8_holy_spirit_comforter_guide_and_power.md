@@ -10,11 +10,11 @@ Yesu aliwapa wanafunzi Wake, na sisi sote, ahadi yenye nguvu ya Roho Mtakatifu.
 <!-- p3 -->
 <span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="sw" data-type="quote" data-verses="16-18" data-version="OCS">
 <!-- p4 -->
-&gt; **<u>Yoh 14:16-18</u>** (OCS)
-&gt;
-&gt; Nami nitamwomba Baba, naye atawapa Msaidizi mwingine akae nanyi milele.
-&gt; Huyo ndiye Roho wa kweli ambaye ulimwengu hauwezi kumpokea, kwa sababu haumwoni wala haumjui. Ninyi mnamjua kwa kuwa yuko pamoja nanyi, naye anakaa ndani yenu.
-&gt; Sitawaacha ninyi yatima; nitakuja kwenu.
+> **<u>Yoh 14:16-18</u>** (OCS)
+>
+> Nami nitamwomba Baba, naye atawapa Msaidizi mwingine akae nanyi milele.
+> Huyo ndiye Roho wa kweli ambaye ulimwengu hauwezi kumpokea, kwa sababu haumwoni wala haumjui. Ninyi mnamjua kwa kuwa yuko pamoja nanyi, naye anakaa ndani yenu.
+> Sitawaacha ninyi yatima; nitakuja kwenu.
 
 
 <!-- p5 -->
@@ -34,9 +34,9 @@ Yesu alisema:
 <!-- p10 -->
 <span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="sw" data-type="quote" data-verses="7" data-version="OCS">
 <!-- p11 -->
-&gt; **<u>Yoh 16:7</u>** (OCS)
-&gt;
-&gt; Lakini nawaambia kweli, yafaa mimi niondoke, kwa kuwa nisipoondoka, huyo Msaidizi hatakuja kwenu; lakini nikienda nitamtuma kwenu.
+> **<u>Yoh 16:7</u>** (OCS)
+>
+> Lakini nawaambia kweli, yafaa mimi niondoke, kwa kuwa nisipoondoka, huyo Msaidizi hatakuja kwenu; lakini nikienda nitamtuma kwenu.
 
 
 <!-- p12 -->
@@ -56,14 +56,14 @@ Baadaye, mwishoni mwa kipindi cha siku 40 kati ya kufufuka na kupaa kwake mbingu
 <!-- p17 -->
 <span class="x-scripture" data-book="ACT" data-chapter="1" data-lang="sw" data-type="quote" data-verses="4-9" data-version="OCS">
 <!-- p18 -->
-&gt; **<u>Mat 1:4-9</u>** (OCS)
-&gt;
-&gt; Wakati mmoja alipokuwa pamoja nao, aliwapa amri hii, “Msitoke Yerusalemu, bali ingojeni ahadi ya Baba, ambayo mmenisikia nikisema habari zake.
-&gt; Yahya aliwabatiza kwa maji, lakini baada ya siku chache mtabatizwa kwa Roho wa Mungu.”
-&gt; Mitume walipokuwa wamekusanyika pamoja, wakamuuliza Isa, “Bwana, je, huu ndio wakati wa kuwarudishia Israeli ufalme?”
-&gt; Isa akawaambia, “Sio wajibu wenu kujua nyakati au majira ambayo Baba ameyaweka kwa mamlaka yake mwenyewe.
-&gt; Lakini mtapokea nguvu, Roho wa Mungu akiwajilia juu yenu, nanyi mtakuwa mashahidi wangu katika Yerusalemu, na Yudea yote, na Samaria, na miisho ya dunia.”
-&gt; Baada ya kusema mambo haya, walipokuwa wanatazama, akachukuliwa juu mbinguni mbele ya macho yao na wingu likampokea wasimwone tena.
+> **<u>Mat 1:4-9</u>** (OCS)
+>
+> Wakati mmoja alipokuwa pamoja nao, aliwapa amri hii, “Msitoke Yerusalemu, bali ingojeni ahadi ya Baba, ambayo mmenisikia nikisema habari zake.
+> Yahya aliwabatiza kwa maji, lakini baada ya siku chache mtabatizwa kwa Roho wa Mungu.”
+> Mitume walipokuwa wamekusanyika pamoja, wakamuuliza Isa, “Bwana, je, huu ndio wakati wa kuwarudishia Israeli ufalme?”
+> Isa akawaambia, “Sio wajibu wenu kujua nyakati au majira ambayo Baba ameyaweka kwa mamlaka yake mwenyewe.
+> Lakini mtapokea nguvu, Roho wa Mungu akiwajilia juu yenu, nanyi mtakuwa mashahidi wangu katika Yerusalemu, na Yudea yote, na Samaria, na miisho ya dunia.”
+> Baada ya kusema mambo haya, walipokuwa wanatazama, akachukuliwa juu mbinguni mbele ya macho yao na wingu likampokea wasimwone tena.
 
 
 <!-- p19 -->
@@ -281,10 +281,10 @@ Tunapompokea Yesu kwa imani, tunapokea wokovu na muhuri wa Roho Mtakatifu.
 <!-- p41 -->
 <span class="x-scripture" data-book="EPH" data-chapter="1" data-lang="sw" data-type="quote" data-verses="13-14" data-version="OCS">
 <!-- p42 -->
-&gt; **<u>Ef 1:13-14</u>** (OCS)
-&gt;
-&gt; Ninyi pia mliingia ndani ya Al-Masihi mliposikia neno la kweli, Injili ya wokovu wenu. Baada ya kuamini, mlitiwa muhuri ndani yake, huyo Roho Mtakatifu wa Mungu mliyeahidiwa,
-&gt; yeye ambaye ni amana yetu ya kutuhakikishia urithi wetu hadi ukombozi wa wale walio milki ya Mungu, kwa sifa ya utukufu wake.
+> **<u>Ef 1:13-14</u>** (OCS)
+>
+> Ninyi pia mliingia ndani ya Al-Masihi mliposikia neno la kweli, Injili ya wokovu wenu. Baada ya kuamini, mlitiwa muhuri ndani yake, huyo Roho Mtakatifu wa Mungu mliyeahidiwa,
+> yeye ambaye ni amana yetu ya kutuhakikishia urithi wetu hadi ukombozi wa wale walio milki ya Mungu, kwa sifa ya utukufu wake.
 
 
 <!-- p43 -->
@@ -340,9 +340,9 @@ Yesu pia aliahidi kwamba Roho wa Kweli, ambaye alimiminwa juu yao siku ya Pentek
 <!-- p53 -->
 <span class="x-scripture" data-book="1JN" data-chapter="4" data-lang="sw" data-type="quote" data-verses="1" data-version="OCS">
 <!-- p54 -->
-&gt; **<u>1Yoh 4:1</u>** (OCS)
-&gt;
-&gt; Wapendwa, msiamini kila roho, bali zijaribuni hizo roho mwone kama zimetoka kwa Mungu, kwa sababu manabii wengi wa uongo wametokea ulimwenguni.
+> **<u>1Yoh 4:1</u>** (OCS)
+>
+> Wapendwa, msiamini kila roho, bali zijaribuni hizo roho mwone kama zimetoka kwa Mungu, kwa sababu manabii wengi wa uongo wametokea ulimwenguni.
 
 
 <!-- p55 -->
@@ -443,11 +443,11 @@ Yesu alitupatia utume Wake, Agizo Kuu:
 <!-- p66 -->
 <span class="x-scripture" data-book="MAT" data-chapter="28" data-lang="sw" data-type="quote" data-verses="18-20" data-version="OCS">
 <!-- p67 -->
-&gt; **<u>Mat 28:18-20</u>** (OCS)
-&gt;
-&gt; Isa akawajia na kusema, “Nimepewa mamlaka yote mbinguni na duniani.
-&gt; Kwa sababu hii, nendeni mkawafanye mataifa yote kuwa wanafunzi, mkiwabatiza kwa Jina la Baba na la Mwana na la Roho wa Mungu,
-&gt; nanyi wafundisheni kuyashika mambo yote niliyowaamuru ninyi. Hakika mimi niko pamoja nanyi siku zote, hadi mwisho wa nyakati.”
+> **<u>Mat 28:18-20</u>** (OCS)
+>
+> Isa akawajia na kusema, “Nimepewa mamlaka yote mbinguni na duniani.
+> Kwa sababu hii, nendeni mkawafanye mataifa yote kuwa wanafunzi, mkiwabatiza kwa Jina la Baba na la Mwana na la Roho wa Mungu,
+> nanyi wafundisheni kuyashika mambo yote niliyowaamuru ninyi. Hakika mimi niko pamoja nanyi siku zote, hadi mwisho wa nyakati.”
 
 
 <!-- p68 -->
@@ -458,12 +458,12 @@ Roho Mtakatifu ana sehemu muhimu katika utume, akiuhakikisha ulimwengu juu ya dh
 <!-- p70 -->
 <span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="sw" data-type="quote" data-verses="8-11" data-version="OCS">
 <!-- p71 -->
-&gt; **<u>Yoh 16:8-11</u>** (OCS)
-&gt;
-&gt; Naye atakapokuja, atauthibitishia ulimwengu kuhusu dhambi, haki na hukumu.
-&gt; Kwa habari ya dhambi, kwa sababu hawaniamini mimi;
-&gt; kwa habari ya haki, kwa sababu ninaenda kwa Baba, nanyi hamtaniona tena;
-&gt; kwa habari ya hukumu, kwa sababu yule mkuu wa ulimwengu huu amekwisha kuhukumiwa.
+> **<u>Yoh 16:8-11</u>** (OCS)
+>
+> Naye atakapokuja, atauthibitishia ulimwengu kuhusu dhambi, haki na hukumu.
+> Kwa habari ya dhambi, kwa sababu hawaniamini mimi;
+> kwa habari ya haki, kwa sababu ninaenda kwa Baba, nanyi hamtaniona tena;
+> kwa habari ya hukumu, kwa sababu yule mkuu wa ulimwengu huu amekwisha kuhukumiwa.
 
 
 <!-- p72 -->
@@ -486,9 +486,9 @@ Roho Mtakatifu pia huwezesha utume. Roho Mtakatifu huwapa waamini nguvu ya kuwa 
 <!-- p78 -->
 <span class="x-scripture" data-book="ACT" data-chapter="1" data-lang="sw" data-type="quote" data-verses="8" data-version="OCS">
 <!-- p79 -->
-&gt; **<u>Mat 1:8</u>** (OCS)
-&gt;
-&gt; Lakini mtapokea nguvu, Roho wa Mungu akiwajilia juu yenu, nanyi mtakuwa mashahidi wangu katika Yerusalemu, na Yudea yote, na Samaria, na miisho ya dunia.”
+> **<u>Mat 1:8</u>** (OCS)
+>
+> Lakini mtapokea nguvu, Roho wa Mungu akiwajilia juu yenu, nanyi mtakuwa mashahidi wangu katika Yerusalemu, na Yudea yote, na Samaria, na miisho ya dunia.”
 
 
 <!-- p80 -->
@@ -520,10 +520,10 @@ Mungu alijua kwamba upinzani huu ungetokea, Yesu alitoa unabii kuhusu hilo:
 <!-- p89 -->
 <span class="x-scripture" data-book="LUK" data-chapter="12" data-lang="sw" data-type="quote" data-verses="11-12" data-version="OCS">
 <!-- p90 -->
-&gt; **<u>Luk 12:11-12</u>** (OCS)
-&gt;
-&gt; “Watakapowapeleka katika masinagogi, na mbele ya watawala na wenye mamlaka, msiwe na wasiwasi kuhusu namna mtakavyojitetea au mtakavyosema.
-&gt; Kwa maana Roho wa Mungu atawafundisha wakati huo huo mnachopaswa kusema.”
+> **<u>Luk 12:11-12</u>** (OCS)
+>
+> “Watakapowapeleka katika masinagogi, na mbele ya watawala na wenye mamlaka, msiwe na wasiwasi kuhusu namna mtakavyojitetea au mtakavyosema.
+> Kwa maana Roho wa Mungu atawafundisha wakati huo huo mnachopaswa kusema.”
 
 
 <!-- p91 -->
@@ -534,9 +534,9 @@ Msiogope! Yesu alituahidi kwamba:
 <!-- p93 -->
 <span class="x-scripture" data-book="MAT" data-chapter="16" data-lang="sw" data-type="fragment" data-verses="18" data-version="OCS">
 <!-- p94 -->
-&gt; **<u>Mat 16:18</u>** (OCS)
-&gt;
-&gt; Nami nakuambia, wewe ndiwe Petro na juu ya mwamba huu nitajenga jumuiya ya wafuasi wangu, hata malango ya Kuzimu hayataweza kuwashinda.
+> **<u>Mat 16:18</u>** (OCS)
+>
+> Nami nakuambia, wewe ndiwe Petro na juu ya mwamba huu nitajenga jumuiya ya wafuasi wangu, hata malango ya Kuzimu hayataweza kuwashinda.
 
 
 <!-- p95 -->

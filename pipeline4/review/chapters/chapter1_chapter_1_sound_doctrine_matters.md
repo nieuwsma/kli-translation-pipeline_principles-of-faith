@@ -31,11 +31,11 @@ Yesu alipoagiza kanisa Lake ‘kufundisha’, alikuwa akiwaagiza wawashirikishe 
 <!-- p3 -->
 <span class="x-scripture" data-book="MAT" data-chapter="28" data-lang="sw" data-type="quote" data-verses="18-20" data-version="OCS">
 <!-- p4 -->
-&gt; **<u>Mat 28:18-20</u>** (OCS)
-&gt;
-&gt; Isa akawajia na kusema, “Nimepewa mamlaka yote mbinguni na duniani.
-&gt; Kwa sababu hii, nendeni mkawafanye mataifa yote kuwa wanafunzi, mkiwabatiza kwa Jina la Baba na la Mwana na la Roho wa Mungu,
-&gt; nanyi wafundisheni kuyashika mambo yote niliyowaamuru ninyi. Hakika mimi niko pamoja nanyi siku zote, hadi mwisho wa nyakati.”
+> **<u>Mat 28:18-20</u>** (OCS)
+>
+> Isa akawajia na kusema, “Nimepewa mamlaka yote mbinguni na duniani.
+> Kwa sababu hii, nendeni mkawafanye mataifa yote kuwa wanafunzi, mkiwabatiza kwa Jina la Baba na la Mwana na la Roho wa Mungu,
+> nanyi wafundisheni kuyashika mambo yote niliyowaamuru ninyi. Hakika mimi niko pamoja nanyi siku zote, hadi mwisho wa nyakati.”
 
 
 <!-- p5 -->
@@ -112,9 +112,9 @@ Mafundisho ya Yesu ndiyo mwamba wa imani yetu! Yeye ndiye mbunifu mkuu mwenye mu
 <!-- p15 -->
 <span class="x-scripture" data-book="PSA" data-chapter="127" data-lang="sw" data-type="fragment" data-verses="1" data-version="OCS">
 <!-- p16 -->
-&gt; **<u>Zab 127:1</u>** (OCS)
-&gt;
-&gt; Wimbo wa kwenda juu. Wa Sulemani. Mwenyezi Mungu asipoijenga nyumba, wajengao hufanya kazi bure. Mwenyezi Mungu asipoulinda mji, walinzi wakesha bure.
+> **<u>Zab 127:1</u>** (OCS)
+>
+> Wimbo wa kwenda juu. Wa Sulemani. Mwenyezi Mungu asipoijenga nyumba, wajengao hufanya kazi bure. Mwenyezi Mungu asipoulinda mji, walinzi wakesha bure.
 
 
 <!-- p17 -->
@@ -182,10 +182,10 @@ Imani zetu huamua matendo yetu na hatima yetu. Mithali hutufundisha kwamba kama 
 <!-- p24 -->
 <span class="x-scripture" data-book="JHN" data-chapter="8" data-lang="sw" data-type="quote" data-verses="31-32" data-version="OCS">
 <!-- p25 -->
-&gt; **<u>Yoh 8:31-32</u>** (OCS)
-&gt;
-&gt; Kisha Isa akawaambia wale Wayahudi waliomwamini, “Mkidumu katika maneno yangu, mtakuwa wanafunzi wangu kweli kweli.
-&gt; Ndipo mtaijua kweli, nayo kweli itawaweka huru.”
+> **<u>Yoh 8:31-32</u>** (OCS)
+>
+> Kisha Isa akawaambia wale Wayahudi waliomwamini, “Mkidumu katika maneno yangu, mtakuwa wanafunzi wangu kweli kweli.
+> Ndipo mtaijua kweli, nayo kweli itawaweka huru.”
 
 
 <!-- p26 -->
@@ -218,10 +218,10 @@ Kuwa mwanafunzi wa Yesu kunawezekana tu kwa kuendelea katika Neno Lake (logos Wa
 Wanafunzi, baada ya kufundishwa nidhamu, wanaweza kutekeleza amri za Bwana. Kila mtu katika kanisa la Agano Jipya ameitwa:
 
 <!-- p29 -->
-1.  Kuwa mwanafunzi -\&gt; tujitiishe kwa nidhamu ya mafundisho yenye afya.
+1.  Kuwa mwanafunzi -\> tujitiishe kwa nidhamu ya mafundisho yenye afya.
 
 <!-- p30 -->
-2.  Kufanya wanafunzi -\&gt; kuwafundisha wengine wajitiishe kwa nidhamu ya mafundisho yenye afya.
+2.  Kufanya wanafunzi -\> kuwafundisha wengine wajitiishe kwa nidhamu ya mafundisho yenye afya.
 
 <!-- p31 -->
 ### Tunawezaje Kujenga Maisha Yetu Juu ya Mwamba?
@@ -265,14 +265,14 @@ Ukristo ni mchezo wa timu, na tuna kocha mkamilifu anayejua hasa tunachohitaji. 
 <!-- p37 -->
 <span class="x-scripture" data-book="EPH" data-chapter="4" data-lang="sw" data-type="quote" data-verses="11-16" data-version="OCS">
 <!-- p38 -->
-&gt; **<u>Ef 4:11-16</u>** (OCS)
-&gt;
-&gt; Ndiye aliweka wengine kuwa mitume, wengine kuwa manabii, wengine kuwa wainjilisti, wengine kuwa wachungaji na walimu,
-&gt; kwa kusudi la kuwakamilisha watakatifu kwa ajili ya kazi za huduma, ili mwili wa Al-Masihi upate kujengwa
-&gt; hadi sote tutakapoufikia umoja katika imani na katika kumjua Mwana wa Mungu na kuwa watu wazima, kwa kufikia kimo cha ukamilifu wa Al-Masihi.
-&gt; Basi hatutakuwa tena watoto wachanga, tukiyumbishwa na mawimbi, na tukipeperushwa hapa na pale na kila upepo wa mafundisho, na kwa ujanja na hila za watu katika njama zao.
-&gt; Badala yake, tukiambiana kweli kwa upendo, katika mambo yote tukue, hata tumfikie yeye aliye kichwa, yaani Al-Masihi.
-&gt; Kutoka kwake, mwili wote ukiwa umeungamanishwa na kushikanishwa pamoja kwa msaada wa kila kiungo, hukua na kujijenga wenyewe katika upendo, huku kila kiungo kikifanya kazi yake.
+> **<u>Ef 4:11-16</u>** (OCS)
+>
+> Ndiye aliweka wengine kuwa mitume, wengine kuwa manabii, wengine kuwa wainjilisti, wengine kuwa wachungaji na walimu,
+> kwa kusudi la kuwakamilisha watakatifu kwa ajili ya kazi za huduma, ili mwili wa Al-Masihi upate kujengwa
+> hadi sote tutakapoufikia umoja katika imani na katika kumjua Mwana wa Mungu na kuwa watu wazima, kwa kufikia kimo cha ukamilifu wa Al-Masihi.
+> Basi hatutakuwa tena watoto wachanga, tukiyumbishwa na mawimbi, na tukipeperushwa hapa na pale na kila upepo wa mafundisho, na kwa ujanja na hila za watu katika njama zao.
+> Badala yake, tukiambiana kweli kwa upendo, katika mambo yote tukue, hata tumfikie yeye aliye kichwa, yaani Al-Masihi.
+> Kutoka kwake, mwili wote ukiwa umeungamanishwa na kushikanishwa pamoja kwa msaada wa kila kiungo, hukua na kujijenga wenyewe katika upendo, huku kila kiungo kikifanya kazi yake.
 
 
 <!-- p39 -->
@@ -579,12 +579,12 @@ Paulo alimwagiza mwanawe wa kiroho katika Bwana, Timotheo, akisema:
 <!-- p56 -->
 <span class="x-scripture" data-book="2TI" data-chapter="4" data-lang="sw" data-type="quote" data-verses="1-4" data-version="OCS">
 <!-- p57 -->
-&gt; **<u>2Ti 4:1-4</u>** (OCS)
-&gt;
-&gt; Nakuagiza mbele za Mungu na mbele za Al-Masihi Isa, atakayewahukumu watu walio hai na waliokufa wakati wa kuja kwake na ufalme wake, kwamba:
-&gt; Hubiri Neno; kuwa tayari wakati ufaao na wakati usiofaa; karipia, kemea na utie moyo kwa uvumilivu wote na kwa mafundisho mazuri.
-&gt; Maana wakati utakuja watu watakapokataa kuyakubali mafundisho yenye uzima. Badala yake, ili kutimiza tamaa zao wenyewe, watajikusanyia idadi kubwa ya walimu watakaowaambia yale masikio yao yanatamani kusikia.
-&gt; Watakataa kusikiliza kweli na kuzigeukia hadithi za uongo.
+> **<u>2Ti 4:1-4</u>** (OCS)
+>
+> Nakuagiza mbele za Mungu na mbele za Al-Masihi Isa, atakayewahukumu watu walio hai na waliokufa wakati wa kuja kwake na ufalme wake, kwamba:
+> Hubiri Neno; kuwa tayari wakati ufaao na wakati usiofaa; karipia, kemea na utie moyo kwa uvumilivu wote na kwa mafundisho mazuri.
+> Maana wakati utakuja watu watakapokataa kuyakubali mafundisho yenye uzima. Badala yake, ili kutimiza tamaa zao wenyewe, watajikusanyia idadi kubwa ya walimu watakaowaambia yale masikio yao yanatamani kusikia.
+> Watakataa kusikiliza kweli na kuzigeukia hadithi za uongo.
 
 
 <!-- p58 -->
@@ -595,17 +595,17 @@ Timotheo, kiongozi chipukizi kanisani, aliagizwa awe na uelewa wa kina wa mafund
 <!-- p60 -->
 <span class="x-scripture" data-book="2TI" data-chapter="3" data-lang="sw" data-type="quote" data-verses="1-9" data-version="OCS">
 <!-- p61 -->
-&gt; **<u>2Ti 3:1-9</u>** (OCS)
-&gt;
-&gt; Lakini yakupasa ufahamu jambo hili: kwamba siku za mwisho kutakuwa na nyakati za hatari.
-&gt; Kwa maana watu watakuwa wenye kujipenda wenyewe, wenye kupenda fedha, wenye kujisifu, wenye kiburi, wenye kumkufuru Mungu, wasiotii wazazi wao, wasio na shukrani, wasio watakatifu,
-&gt; wasio na upendo, wasiopenda kupatanishwa, wasingiziaji, wasiozuia tamaa zao, wakatili, wasiopenda mema,
-&gt; wasaliti, wakaidi, waliojaa majivuno, wanaopenda anasa kuliko kumpenda Mungu:
-&gt; wakiwa na mfano wa utauwa kwa nje, lakini wakizikana nguvu za Mungu. Jiepushe na watu kama hao.
-&gt; Miongoni mwao wamo wale wajiingizao katika nyumba za watu na kuwachukua mateka wanawake wajinga, waliolemewa na dhambi zao na kuyumbishwa na aina zote za tamaa mbaya.
-&gt; Hawa hujifunza siku zote, lakini kamwe hawawezi kuufikia ujuzi wa kweli.
-&gt; Kama vile Yane na Yambre walivyopingana na Musa, vivyo hivyo watu hawa hupingana na kweli. Hawa ni watu wenye akili zilizopotoka, ambao wamekataliwa kwa mambo ya imani.
-&gt; Lakini hawataendelea sana, kwa sababu upumbavu wao utakuwa dhahiri kwa watu wote, kama vile upumbavu wa hao watu wawili ulivyokuwa dhahiri.
+> **<u>2Ti 3:1-9</u>** (OCS)
+>
+> Lakini yakupasa ufahamu jambo hili: kwamba siku za mwisho kutakuwa na nyakati za hatari.
+> Kwa maana watu watakuwa wenye kujipenda wenyewe, wenye kupenda fedha, wenye kujisifu, wenye kiburi, wenye kumkufuru Mungu, wasiotii wazazi wao, wasio na shukrani, wasio watakatifu,
+> wasio na upendo, wasiopenda kupatanishwa, wasingiziaji, wasiozuia tamaa zao, wakatili, wasiopenda mema,
+> wasaliti, wakaidi, waliojaa majivuno, wanaopenda anasa kuliko kumpenda Mungu:
+> wakiwa na mfano wa utauwa kwa nje, lakini wakizikana nguvu za Mungu. Jiepushe na watu kama hao.
+> Miongoni mwao wamo wale wajiingizao katika nyumba za watu na kuwachukua mateka wanawake wajinga, waliolemewa na dhambi zao na kuyumbishwa na aina zote za tamaa mbaya.
+> Hawa hujifunza siku zote, lakini kamwe hawawezi kuufikia ujuzi wa kweli.
+> Kama vile Yane na Yambre walivyopingana na Musa, vivyo hivyo watu hawa hupingana na kweli. Hawa ni watu wenye akili zilizopotoka, ambao wamekataliwa kwa mambo ya imani.
+> Lakini hawataendelea sana, kwa sababu upumbavu wao utakuwa dhahiri kwa watu wote, kama vile upumbavu wa hao watu wawili ulivyokuwa dhahiri.
 
 
 <!-- p62 -->
@@ -628,9 +628,9 @@ Maandiko yanatuonya:
 <!-- p68 -->
 <span class="x-scripture" data-book="COL" data-chapter="2" data-lang="sw" data-type="quote" data-verses="8" data-version="OCS">
 <!-- p69 -->
-&gt; **<u>Kol 2:8</u>** (OCS)
-&gt;
-&gt; Chungeni mtu yeyote asiwafanye ninyi mateka kwa elimu batili na madanganyo matupu, yanayotegemea mapokeo ya wanadamu na mafundisho ya ulimwengu badala ya Al-Masihi.
+> **<u>Kol 2:8</u>** (OCS)
+>
+> Chungeni mtu yeyote asiwafanye ninyi mateka kwa elimu batili na madanganyo matupu, yanayotegemea mapokeo ya wanadamu na mafundisho ya ulimwengu badala ya Al-Masihi.
 
 
 <!-- p70 -->
@@ -638,10 +638,10 @@ Maandiko yanatuonya:
 <!-- p71 -->
 <span class="x-scripture" data-book="MRK" data-chapter="7" data-lang="sw" data-type="fragment" data-verses="9,13" data-version="OCS">
 <!-- p72 -->
-&gt; **<u>Mar 7:9,13</u>** (OCS)
-&gt;
-&gt; Naye akawaambia, “Ninyi mnayo njia nzuri ya kukataa amri za Mungu ili mpate kuyashika mapokeo yenu!
-&gt; Kwa njia hiyo ninyi mnabatilisha neno la Mungu kwa mapokeo yenu mliyojiwekea. Nanyi mnafanya mambo mengi ya aina hiyo.”
+> **<u>Mar 7:9,13</u>** (OCS)
+>
+> Naye akawaambia, “Ninyi mnayo njia nzuri ya kukataa amri za Mungu ili mpate kuyashika mapokeo yenu!
+> Kwa njia hiyo ninyi mnabatilisha neno la Mungu kwa mapokeo yenu mliyojiwekea. Nanyi mnafanya mambo mengi ya aina hiyo.”
 
 
 <!-- p73 -->
@@ -652,10 +652,10 @@ Watu wanaweza kupotosha mafundisho yenye afya kupitia tafsiri ya kibinafsi. Hili
 <!-- p75 -->
 <span class="x-scripture" data-book="2PE" data-chapter="1" data-lang="sw" data-type="quote" data-verses="20-21" data-version="OCS">
 <!-- p76 -->
-&gt; **<u>2Pe 1:20-21</u>** (OCS)
-&gt;
-&gt; Zaidi ya yote, yawapasa mjue kwamba hakuna unabii katika Maandiko uliofasiriwa kama alivyopenda nabii mwenyewe.
-&gt; Kwa maana unabii haukuja kamwe kwa mapenzi ya mwanadamu, bali watu walinena yaliyotoka kwa Mungu wakiongozwa na Roho Mtakatifu wa Mungu.
+> **<u>2Pe 1:20-21</u>** (OCS)
+>
+> Zaidi ya yote, yawapasa mjue kwamba hakuna unabii katika Maandiko uliofasiriwa kama alivyopenda nabii mwenyewe.
+> Kwa maana unabii haukuja kamwe kwa mapenzi ya mwanadamu, bali watu walinena yaliyotoka kwa Mungu wakiongozwa na Roho Mtakatifu wa Mungu.
 
 
 <!-- p77 -->
@@ -669,9 +669,9 @@ Katika hali zote mbili, iwe kupitia mapokeo ya kikundi au tafsiri ya kibinafsi t
 <!-- p80 -->
 <span class="x-scripture" data-book="1TI" data-chapter="4" data-lang="sw" data-type="quote" data-verses="1" data-version="OCS">
 <!-- p81 -->
-&gt; **<u>1Ti 4:1</u>** (OCS)
-&gt;
-&gt; Roho wa Mungu asema waziwazi kwamba katika siku za mwisho baadhi ya watu wataiacha imani na kufuata roho zidanganyazo na mafundisho ya mashetani.
+> **<u>1Ti 4:1</u>** (OCS)
+>
+> Roho wa Mungu asema waziwazi kwamba katika siku za mwisho baadhi ya watu wataiacha imani na kufuata roho zidanganyazo na mafundisho ya mashetani.
 
 
 <!-- p82 -->
@@ -682,9 +682,9 @@ Kama vile mzazi lazima alinde watoto wake, wanafunzi waliokomaa huwalinda wasio 
 <!-- p84 -->
 <span class="x-scripture" data-book="JHN" data-chapter="15" data-lang="sw" data-type="quote" data-verses="8" data-version="OCS">
 <!-- p85 -->
-&gt; **<u>Yoh 15:8</u>** (OCS)
-&gt;
-&gt; Kwa hiyo Baba yangu hutukuzwa kwa vile mnavyozaa matunda mengi, nanyi mtajidhihirisha kuwa wanafunzi wangu.
+> **<u>Yoh 15:8</u>** (OCS)
+>
+> Kwa hiyo Baba yangu hutukuzwa kwa vile mnavyozaa matunda mengi, nanyi mtajidhihirisha kuwa wanafunzi wangu.
 
 
 <!-- p86 -->
@@ -740,10 +740,10 @@ Katika kazi hii tutajifunza hasa mafundisho ya msingi ya kanisa la Agano Jipya. 
 <!-- p89 -->
 <span class="x-scripture" data-book="HEB" data-chapter="6" data-lang="sw" data-type="quote" data-verses="1-2" data-version="OCS">
 <!-- p90 -->
-&gt; **<u>Ebr 6:1-2</u>** (OCS)
-&gt;
-&gt; Kwa hiyo, tukiachana na mafundisho yale ya awali kuhusu Al-Masihi na tukisonga mbele ili tufikie utimilifu, tusiweke tena msingi wa mafundisho ya kuzitubia kazi zisizo na uhai na imani katika Mungu,
-&gt; mafundisho kuhusu aina za ubatizo, kuwekea watu mikono, ufufuo wa wafu, na hukumu ya milele.
+> **<u>Ebr 6:1-2</u>** (OCS)
+>
+> Kwa hiyo, tukiachana na mafundisho yale ya awali kuhusu Al-Masihi na tukisonga mbele ili tufikie utimilifu, tusiweke tena msingi wa mafundisho ya kuzitubia kazi zisizo na uhai na imani katika Mungu,
+> mafundisho kuhusu aina za ubatizo, kuwekea watu mikono, ufufuo wa wafu, na hukumu ya milele.
 
 
 <!-- p91 -->

@@ -28,9 +28,9 @@ Katika Agano Jipya**,** linatumika hasa kurejelea jumuiya ya waamini katika Yesu
 <!-- p9 -->
 <span class="x-scripture" data-book="1CO" data-chapter="1" data-lang="sw" data-type="quote" data-verses="2" data-version="OCS">
 <!-- p10 -->
-&gt; **<u>1Kor 1:2</u>** (OCS)
-&gt;
-&gt; Kwa kundi la waumini wa Mungu walioko Korintho, kwa wale waliotakaswa katika Al-Masihi Isa na walioitwa kuwa watakatifu, pamoja na wale wote ambao kila mahali wanaliitia Jina la Al-Masihi Isa Bwana wetu, aliye Bwana wao na wetu pia.
+> **<u>1Kor 1:2</u>** (OCS)
+>
+> Kwa kundi la waumini wa Mungu walioko Korintho, kwa wale waliotakaswa katika Al-Masihi Isa na walioitwa kuwa watakatifu, pamoja na wale wote ambao kila mahali wanaliitia Jina la Al-Masihi Isa Bwana wetu, aliye Bwana wao na wetu pia.
 
 
 <!-- p11 -->
@@ -41,9 +41,9 @@ Katika Agano Jipya**,** linatumika hasa kurejelea jumuiya ya waamini katika Yesu
 <!-- p13 -->
 <span class="x-scripture" data-book="MAT" data-chapter="16" data-lang="sw" data-type="fragment" data-verses="18" data-version="OCS">
 <!-- p14 -->
-&gt; **<u>Mat 16:18</u>** (OCS)
-&gt;
-&gt; Nami nakuambia, wewe ndiwe Petro na juu ya mwamba huu nitajenga jumuiya ya wafuasi wangu, hata malango ya Kuzimu hayataweza kuwashinda.
+> **<u>Mat 16:18</u>** (OCS)
+>
+> Nami nakuambia, wewe ndiwe Petro na juu ya mwamba huu nitajenga jumuiya ya wafuasi wangu, hata malango ya Kuzimu hayataweza kuwashinda.
 
 
 <!-- p15 -->
@@ -708,11 +708,11 @@ Yesu aliweka karama tano maalum za huduma, ambazo mara nyingi huitwa **karama za
 <!-- p102 -->
 <span class="x-scripture" data-book="EPH" data-chapter="4" data-lang="sw" data-type="quote" data-verses="11-13" data-version="OCS">
 <!-- p103 -->
-&gt; **<u>Ef 4:11-13</u>** (OCS)
-&gt;
-&gt; Ndiye aliweka wengine kuwa mitume, wengine kuwa manabii, wengine kuwa wainjilisti, wengine kuwa wachungaji na walimu,
-&gt; kwa kusudi la kuwakamilisha watakatifu kwa ajili ya kazi za huduma, ili mwili wa Al-Masihi upate kujengwa
-&gt; hadi sote tutakapoufikia umoja katika imani na katika kumjua Mwana wa Mungu na kuwa watu wazima, kwa kufikia kimo cha ukamilifu wa Al-Masihi.
+> **<u>Ef 4:11-13</u>** (OCS)
+>
+> Ndiye aliweka wengine kuwa mitume, wengine kuwa manabii, wengine kuwa wainjilisti, wengine kuwa wachungaji na walimu,
+> kwa kusudi la kuwakamilisha watakatifu kwa ajili ya kazi za huduma, ili mwili wa Al-Masihi upate kujengwa
+> hadi sote tutakapoufikia umoja katika imani na katika kumjua Mwana wa Mungu na kuwa watu wazima, kwa kufikia kimo cha ukamilifu wa Al-Masihi.
 
 
 <!-- p104 -->

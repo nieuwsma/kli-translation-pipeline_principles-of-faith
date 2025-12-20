@@ -37,9 +37,9 @@ Sehemu ya kukua ni kukomaa kupita njia zetu za kitoto, lakini tunapobanwa, kwa u
 <!-- p12 -->
 <span class="x-scripture" data-book="JAS" data-chapter="4" data-lang="sw" data-type="quote" data-verses="1" data-version="OCS">
 <!-- p13 -->
-&gt; **<u>Yak 4:1</u>** (OCS)
-&gt;
-&gt; Ni kitu gani kinachosababisha mapigano na ugomvi miongoni mwenu? Je, haya hayatokani na tamaa zenu zinazoshindana ndani yenu?
+> **<u>Yak 4:1</u>** (OCS)
+>
+> Ni kitu gani kinachosababisha mapigano na ugomvi miongoni mwenu? Je, haya hayatokani na tamaa zenu zinazoshindana ndani yenu?
 
 
 <!-- p14 -->
@@ -53,11 +53,11 @@ Mgongano huu kati ya mwili na roho upo ndani ya kila mmoja wetu, na ni kazi yetu
 <!-- p17 -->
 <span class="x-scripture" data-book="ROM" data-chapter="8" data-lang="sw" data-type="quote" data-verses="6-8" data-version="OCS">
 <!-- p18 -->
-&gt; **<u>rom 8:6-8</u>** (OCS)
-&gt;
-&gt; Kwa maana kuwa na nia ya mwili ni mauti, bali kuwa na nia inayoongozwa na Roho wa Mungu ni uzima na amani.
-&gt; Kwa kuwa ile nia ya mwili ni uadui na Mungu, kwa maana haiitii Torati ya Mungu, wala haiwezi kuitii.
-&gt; Wale wanaotawaliwa na mwili, hawawezi kumpendeza Mungu.
+> **<u>rom 8:6-8</u>** (OCS)
+>
+> Kwa maana kuwa na nia ya mwili ni mauti, bali kuwa na nia inayoongozwa na Roho wa Mungu ni uzima na amani.
+> Kwa kuwa ile nia ya mwili ni uadui na Mungu, kwa maana haiitii Torati ya Mungu, wala haiwezi kuitii.
+> Wale wanaotawaliwa na mwili, hawawezi kumpendeza Mungu.
 
 
 <!-- p19 -->
@@ -71,11 +71,11 @@ Jipeni moyo, kuna tumaini kwetu! Lazima tutembee kulingana na Roho na tuongozwe 
 <!-- p22 -->
 <span class="x-scripture" data-book="ROM" data-chapter="8" data-lang="sw" data-type="fragment" data-verses="1,13,14" data-version="OCS">
 <!-- p23 -->
-&gt; **<u>rom 8:1,13,14</u>** (OCS)
-&gt;
-&gt; Kwa hiyo, sasa hakuna hukumu ya adhabu kwa wale walio ndani ya Al-Masihi Isa.
-&gt; kwa maana mkiishi kwa kuufuata mwili, mtakufa, lakini mkiyaua matendo ya mwili kwa Roho, mtaishi.
-&gt; Kwa kuwa wote wanaoongozwa na Roho wa Mungu, hao ndio watoto wa Mungu.
+> **<u>rom 8:1,13,14</u>** (OCS)
+>
+> Kwa hiyo, sasa hakuna hukumu ya adhabu kwa wale walio ndani ya Al-Masihi Isa.
+> kwa maana mkiishi kwa kuufuata mwili, mtakufa, lakini mkiyaua matendo ya mwili kwa Roho, mtaishi.
+> Kwa kuwa wote wanaoongozwa na Roho wa Mungu, hao ndio watoto wa Mungu.
 
 
 <!-- p24 -->
@@ -89,10 +89,10 @@ Vivyo hivyo, Mungu hawezi kuitekeleza imani yetu kwa ajili yetu. Atatufundisha, 
 <!-- p27 -->
 <span class="x-scripture" data-book="PHP" data-chapter="2" data-lang="sw" data-type="quote" data-verses="12-13" data-version="OCS">
 <!-- p28 -->
-&gt; **<u>Fil 2:12-13</u>** (OCS)
-&gt;
-&gt; Kwa hiyo, wapendwa wangu, kama vile mmekuwa mkitii siku zote, si tu wakati nikiwa pamoja nanyi, bali sasa zaidi sana nisipokuwepo, utimizeni wokovu wenu kwa kuogopa na kutetemeka,
-&gt; kwa maana Mungu ndiye atendaye kazi ndani yenu, kutaka kwenu na kutenda kwenu kwa kulitimiza kusudi lake jema.
+> **<u>Fil 2:12-13</u>** (OCS)
+>
+> Kwa hiyo, wapendwa wangu, kama vile mmekuwa mkitii siku zote, si tu wakati nikiwa pamoja nanyi, bali sasa zaidi sana nisipokuwepo, utimizeni wokovu wenu kwa kuogopa na kutetemeka,
+> kwa maana Mungu ndiye atendaye kazi ndani yenu, kutaka kwenu na kutenda kwenu kwa kulitimiza kusudi lake jema.
 
 
 <!-- p29 -->
@@ -109,12 +109,12 @@ Mchakato huu ni wa ushirikiano. Mungu husaidia, hutoa msaada, hutuongoza, hutuel
 <!-- p33 -->
 <span class="x-scripture" data-book="JHN" data-chapter="15" data-lang="sw" data-type="quote" data-verses="1-4" data-version="OCS">
 <!-- p34 -->
-&gt; **<u>Yoh 15:1-4</u>** (OCS)
-&gt;
-&gt; “Mimi ndimi mzabibu wa kweli, na Baba yangu ndiye mkulima.
-&gt; Kila tawi ndani yangu lisilozaa matunda, Baba yangu hulikata, nalo kila tawi linalozaa, hulisafisha ili lipate kuzaa matunda zaidi.
-&gt; Ninyi mmekwisha kuwa safi kwa sababu ya lile neno nililonena nanyi.
-&gt; Kaeni ndani yangu, nami nikae ndani yenu. Kama vile tawi lisivyoweza kuzaa matunda lisipokaa ndani ya mzabibu, vivyo hivyo ninyi msipokaa ndani yangu hamwezi kuzaa matunda.
+> **<u>Yoh 15:1-4</u>** (OCS)
+>
+> “Mimi ndimi mzabibu wa kweli, na Baba yangu ndiye mkulima.
+> Kila tawi ndani yangu lisilozaa matunda, Baba yangu hulikata, nalo kila tawi linalozaa, hulisafisha ili lipate kuzaa matunda zaidi.
+> Ninyi mmekwisha kuwa safi kwa sababu ya lile neno nililonena nanyi.
+> Kaeni ndani yangu, nami nikae ndani yenu. Kama vile tawi lisivyoweza kuzaa matunda lisipokaa ndani ya mzabibu, vivyo hivyo ninyi msipokaa ndani yangu hamwezi kuzaa matunda.
 
 
 <!-- p35 -->
@@ -137,10 +137,10 @@ Je, tunafundishwaje na haki? Kwa kubadilishwa kupitia kufanywa upya kwa nia zetu
 <!-- p41 -->
 <span class="x-scripture" data-book="ROM" data-chapter="12" data-lang="sw" data-type="quote" data-verses="1-2" data-version="OCS">
 <!-- p42 -->
-&gt; **<u>rom 12:1-2</u>** (OCS)
-&gt;
-&gt; Kwa hiyo, ndugu zangu, nawasihi kwa rehema zake Mungu, itoeni miili yenu iwe dhabihu iliyo hai, takatifu na inayompendeza Mungu, hii ndiyo ibada yenu yenye maana.
-&gt; Msifuatishe tena mfano wa ulimwengu huu, bali mgeuzwe kwa kufanywa upya nia zenu. Ndipo mtaweza kujaribu ili kuthibitisha mapenzi ya Mungu yaliyo mema, yanayopendeza na kamilifu machoni pake.
+> **<u>rom 12:1-2</u>** (OCS)
+>
+> Kwa hiyo, ndugu zangu, nawasihi kwa rehema zake Mungu, itoeni miili yenu iwe dhabihu iliyo hai, takatifu na inayompendeza Mungu, hii ndiyo ibada yenu yenye maana.
+> Msifuatishe tena mfano wa ulimwengu huu, bali mgeuzwe kwa kufanywa upya nia zenu. Ndipo mtaweza kujaribu ili kuthibitisha mapenzi ya Mungu yaliyo mema, yanayopendeza na kamilifu machoni pake.
 
 
 <!-- p43 -->
@@ -190,12 +190,12 @@ Mapambano yetu dhidi ya mwili hayatashindwa kwa mwili wetu, bali kwa uwezeshaji 
 <!-- p51 -->
 <span class="x-scripture" data-book="2CO" data-chapter="10" data-lang="sw" data-type="quote" data-verses="3-6" data-version="OCS">
 <!-- p52 -->
-&gt; **<u>2Kor 10:3-6</u>** (OCS)
-&gt;
-&gt; Ingawa tunaishi duniani, hatupigani vita kama ulimwengu ufanyavyo.
-&gt; Silaha za vita vyetu si za mwili, bali zina uwezo katika Mungu hata kuangusha ngome.
-&gt; Tunaangusha mawazo na kila kitu kijiinuacho juu ya elimu ya Mungu, na kuteka nyara kila fikira ipate kumtii Al-Masihi.
-&gt; Tena tunakuwa tayari kuadhibu kila tendo la kutotii, hapo kutii kwenu kutakapokamilika.
+> **<u>2Kor 10:3-6</u>** (OCS)
+>
+> Ingawa tunaishi duniani, hatupigani vita kama ulimwengu ufanyavyo.
+> Silaha za vita vyetu si za mwili, bali zina uwezo katika Mungu hata kuangusha ngome.
+> Tunaangusha mawazo na kila kitu kijiinuacho juu ya elimu ya Mungu, na kuteka nyara kila fikira ipate kumtii Al-Masihi.
+> Tena tunakuwa tayari kuadhibu kila tendo la kutotii, hapo kutii kwenu kutakapokamilika.
 
 
 <!-- p53 -->

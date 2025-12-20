@@ -163,14 +163,14 @@ Badala yake, Yesu aliweka ufalme usioweza kutikisika. Utume wake haukutegemea ng
 <!-- p40 -->
 <span class="x-scripture" data-book="LUK" data-chapter="4" data-lang="sw" data-type="quote" data-verses="16-21" data-version="OCS">
 <!-- p41 -->
-&gt; **<u>Luk 4:16-21</u>** (OCS)
-&gt;
-&gt; Isa akaenda Nasiri, alipolelewa, na siku ya Sabato alienda katika sinagogi kama ilivyokuwa desturi yake. Akasimama ili asome,
-&gt; naye akapewa kitabu cha nabii Isaya, akakifungua na kukuta mahali palipoandikwa:
-&gt; “Roho wa Bwana Mungu Mwenyezi yu juu yangu, kwa sababu amenipaka mafuta kuwahubiria maskini Habari Njema. Amenituma kuwatangazia wafungwa kufunguliwa kwao, na vipofu kupata kuona tena, kuwaweka huru wanaoteswa,
-&gt; na kutangaza mwaka wa Mwenyezi Mungu uliokubalika.”
-&gt; Kisha akakifunga kitabu, akamrudishia mtumishi na akaketi. Watu wote waliokuwamo katika sinagogi wakamkazia macho.
-&gt; Ndipo akaanza kwa kuwaambia, “Leo andiko hili limetimia mkiwa mnasikia.”
+> **<u>Luk 4:16-21</u>** (OCS)
+>
+> Isa akaenda Nasiri, alipolelewa, na siku ya Sabato alienda katika sinagogi kama ilivyokuwa desturi yake. Akasimama ili asome,
+> naye akapewa kitabu cha nabii Isaya, akakifungua na kukuta mahali palipoandikwa:
+> “Roho wa Bwana Mungu Mwenyezi yu juu yangu, kwa sababu amenipaka mafuta kuwahubiria maskini Habari Njema. Amenituma kuwatangazia wafungwa kufunguliwa kwao, na vipofu kupata kuona tena, kuwaweka huru wanaoteswa,
+> na kutangaza mwaka wa Mwenyezi Mungu uliokubalika.”
+> Kisha akakifunga kitabu, akamrudishia mtumishi na akaketi. Watu wote waliokuwamo katika sinagogi wakamkazia macho.
+> Ndipo akaanza kwa kuwaambia, “Leo andiko hili limetimia mkiwa mnasikia.”
 
 
 <!-- p42 -->
@@ -505,9 +505,9 @@ Tunapompokea Yesu, kwa imani (itajadiliwa baadaye), tunapokea wokovu Wake. Wokov
 <!-- p75 -->
 <span class="x-scripture" data-book="JHN" data-chapter="3" data-lang="sw" data-type="quote" data-verses="16" data-version="OCS">
 <!-- p76 -->
-&gt; **<u>Yoh 3:16</u>** (OCS)
-&gt;
-&gt; “Kwa maana jinsi hii Mungu aliupenda ulimwengu hata akamtoa Mwanawe wa pekee, ili kila mtu amwaminiye asipotee, bali awe na uzima wa milele.
+> **<u>Yoh 3:16</u>** (OCS)
+>
+> “Kwa maana jinsi hii Mungu aliupenda ulimwengu hata akamtoa Mwanawe wa pekee, ili kila mtu amwaminiye asipotee, bali awe na uzima wa milele.
 
 
 <!-- p77 -->
@@ -542,9 +542,9 @@ Kuangamia kunamaanisha kuharibika—kama tunda linalooza kabla halijafurahiwa. N
 <!-- p80 -->
 <span class="x-scripture" data-book="2CO" data-chapter="5" data-lang="sw" data-type="quote" data-verses="17" data-version="OCS">
 <!-- p81 -->
-&gt; **<u>2Kor 5:17</u>** (OCS)
-&gt;
-&gt; Kwa hiyo mtu akiwa ndani ya Al-Masihi, amekuwa kiumbe kipya: ya kale yamepita; tazama, yamekuwa mapya.
+> **<u>2Kor 5:17</u>** (OCS)
+>
+> Kwa hiyo mtu akiwa ndani ya Al-Masihi, amekuwa kiumbe kipya: ya kale yamepita; tazama, yamekuwa mapya.
 
 
 <!-- p82 -->
@@ -555,10 +555,10 @@ Tunapompokea Yesu, tunakuwa ‘kuzaliwa upya’. Kauli hii inatumiwa na Yesu kue
 <!-- p84 -->
 <span class="x-scripture" data-book="ROM" data-chapter="10" data-lang="sw" data-type="quote" data-verses="9-10" data-version="OCS">
 <!-- p85 -->
-&gt; **<u>rom 10:9-10</u>** (OCS)
-&gt;
-&gt; Kwa sababu, ukikiri kwa kinywa chako kwamba “Isa ni Bwana,” na kuamini moyoni mwako kwamba Mungu alimfufua kutoka kwa wafu, utaokoka.
-&gt; Kwa maana kwa moyo mtu huamini na hivyo kuhesabiwa haki, tena kwa kinywa mtu hukiri na hivyo kupata wokovu.
+> **<u>rom 10:9-10</u>** (OCS)
+>
+> Kwa sababu, ukikiri kwa kinywa chako kwamba “Isa ni Bwana,” na kuamini moyoni mwako kwamba Mungu alimfufua kutoka kwa wafu, utaokoka.
+> Kwa maana kwa moyo mtu huamini na hivyo kuhesabiwa haki, tena kwa kinywa mtu hukiri na hivyo kupata wokovu.
 
 
 <!-- p86 -->

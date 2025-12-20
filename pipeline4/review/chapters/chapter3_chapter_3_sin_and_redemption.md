@@ -106,24 +106,24 @@ Tuzingatie mauaji ya Kaini ya ndugu yake Abeli katika Mwanzo 4.
 <!-- p14 -->
 <span class="x-scripture" data-book="GEN" data-chapter="4" data-lang="sw" data-type="quote" data-verses="1-16" data-version="OCS">
 <!-- p15 -->
-&gt; **<u>Mwa 4:1-16</u>** (OCS)
-&gt;
-&gt; Adamu akakutana kimwili na mkewe Hawa, naye akapata mimba, akamzaa Kaini. Hawa akasema, “Kwa msaada wa Mwenyezi Mungu nimemzaa mtoto wa kiume.”
-&gt; Baadaye akamzaa Habili ndugu yake. Basi Habili akawa mfugaji, na Kaini akawa mkulima.
-&gt; Baada ya muda, Kaini akaleta baadhi ya mazao ya shamba ikiwa sadaka kwa Mwenyezi Mungu.
-&gt; Lakini Habili akaleta fungu nono kutoka baadhi ya wazaliwa wa kwanza wa mifugo yake. Mwenyezi Mungu akamkubali Habili pamoja na sadaka yake,
-&gt; lakini Mungu hakumkubali Kaini pamoja na sadaka yake. Kwa hiyo Kaini akakasirika sana, uso wake ukawa na huzuni.
-&gt; Kisha Mwenyezi Mungu akamwambia Kaini, “Kwa nini umekasirika? Kwa nini uso wako una huzuni?
-&gt; Ukifanya lililo sawa, je, hutakubalika? Lakini usipofanya lililo sawa, dhambi inakuvizia mlangoni mwako, ikikutamani wewe, lakini inakupasa uishinde.”
-&gt; Basi Kaini akamwambia ndugu yake Habili, “Twende shambani.” Walipokuwa shambani, Kaini akamshambulia Habili ndugu yake, akamuua.
-&gt; Kisha Mwenyezi Mungu akamuuliza Kaini, “Ndugu yako Habili yuko wapi?” Akamjibu, “Sijui. Je, mimi ni mlinzi wa ndugu yangu?”
-&gt; Mwenyezi Mungu akasema, “Umefanya nini? Sikiliza! Damu ya ndugu yako inanililia mimi kutoka ardhini.
-&gt; Sasa umelaaniwa na umehamishwa kutoka ardhi, ambayo imefungua kinywa chake na kupokea damu ya ndugu yako kutoka mkononi mwako.
-&gt; Utakapoilima ardhi, haitakupa tena mazao yake. Utakuwa mtu wa kutangatanga duniani bila utulivu.”
-&gt; Kaini akamwambia Mwenyezi Mungu, “Adhabu yangu ni zaidi ya ninavyoweza kustahimili.
-&gt; Leo unanifukuza kutoka nchi, nami nitafichwa mbali na uwepo wako. Nitakuwa mtu wa kutangatanga duniani bila utulivu, na yeyote anionaye ataniua.”
-&gt; Lakini Mwenyezi Mungu akamwambia, “La, sivyo! Ikiwa mtu yeyote atamuua Kaini, atalipizwa kisasi mara saba.” Kisha Mwenyezi Mungu akamwekea Kaini alama ili yeyote angemwona asimuue.
-&gt; Kwa hiyo Kaini akaondoka mbele za Mwenyezi Mungu, akaenda kuishi katika nchi ya Nodi, mashariki mwa Edeni.
+> **<u>Mwa 4:1-16</u>** (OCS)
+>
+> Adamu akakutana kimwili na mkewe Hawa, naye akapata mimba, akamzaa Kaini. Hawa akasema, “Kwa msaada wa Mwenyezi Mungu nimemzaa mtoto wa kiume.”
+> Baadaye akamzaa Habili ndugu yake. Basi Habili akawa mfugaji, na Kaini akawa mkulima.
+> Baada ya muda, Kaini akaleta baadhi ya mazao ya shamba ikiwa sadaka kwa Mwenyezi Mungu.
+> Lakini Habili akaleta fungu nono kutoka baadhi ya wazaliwa wa kwanza wa mifugo yake. Mwenyezi Mungu akamkubali Habili pamoja na sadaka yake,
+> lakini Mungu hakumkubali Kaini pamoja na sadaka yake. Kwa hiyo Kaini akakasirika sana, uso wake ukawa na huzuni.
+> Kisha Mwenyezi Mungu akamwambia Kaini, “Kwa nini umekasirika? Kwa nini uso wako una huzuni?
+> Ukifanya lililo sawa, je, hutakubalika? Lakini usipofanya lililo sawa, dhambi inakuvizia mlangoni mwako, ikikutamani wewe, lakini inakupasa uishinde.”
+> Basi Kaini akamwambia ndugu yake Habili, “Twende shambani.” Walipokuwa shambani, Kaini akamshambulia Habili ndugu yake, akamuua.
+> Kisha Mwenyezi Mungu akamuuliza Kaini, “Ndugu yako Habili yuko wapi?” Akamjibu, “Sijui. Je, mimi ni mlinzi wa ndugu yangu?”
+> Mwenyezi Mungu akasema, “Umefanya nini? Sikiliza! Damu ya ndugu yako inanililia mimi kutoka ardhini.
+> Sasa umelaaniwa na umehamishwa kutoka ardhi, ambayo imefungua kinywa chake na kupokea damu ya ndugu yako kutoka mkononi mwako.
+> Utakapoilima ardhi, haitakupa tena mazao yake. Utakuwa mtu wa kutangatanga duniani bila utulivu.”
+> Kaini akamwambia Mwenyezi Mungu, “Adhabu yangu ni zaidi ya ninavyoweza kustahimili.
+> Leo unanifukuza kutoka nchi, nami nitafichwa mbali na uwepo wako. Nitakuwa mtu wa kutangatanga duniani bila utulivu, na yeyote anionaye ataniua.”
+> Lakini Mwenyezi Mungu akamwambia, “La, sivyo! Ikiwa mtu yeyote atamuua Kaini, atalipizwa kisasi mara saba.” Kisha Mwenyezi Mungu akamwekea Kaini alama ili yeyote angemwona asimuue.
+> Kwa hiyo Kaini akaondoka mbele za Mwenyezi Mungu, akaenda kuishi katika nchi ya Nodi, mashariki mwa Edeni.
 
 
 <!-- p16 -->
@@ -242,9 +242,9 @@ Mungu ni Mungu mtakatifu (safi, asiye na hatia, asiye na lawama). Mwanadamu anap
 <!-- p33 -->
 <span class="x-scripture" data-book="ISA" data-chapter="59" data-lang="sw" data-type="quote" data-verses="2" data-version="OCS">
 <!-- p34 -->
-&gt; **<u>Is 59:2</u>** (OCS)
-&gt;
-&gt; Lakini maovu yenu yamewatenga ninyi na Mungu wenu, dhambi zenu zimewaficha ninyi uso wake, ili asisikie.
+> **<u>Is 59:2</u>** (OCS)
+>
+> Lakini maovu yenu yamewatenga ninyi na Mungu wenu, dhambi zenu zimewaficha ninyi uso wake, ili asisikie.
 
 
 <!-- p35 -->
@@ -252,9 +252,9 @@ Mungu ni Mungu mtakatifu (safi, asiye na hatia, asiye na lawama). Mwanadamu anap
 <!-- p36 -->
 <span class="x-scripture" data-book="ROM" data-chapter="6" data-lang="sw" data-type="quote" data-verses="23" data-version="OCS">
 <!-- p37 -->
-&gt; **<u>rom 6:23</u>** (OCS)
-&gt;
-&gt; Kwa maana mshahara wa dhambi ni mauti, bali karama ya Mungu ni uzima wa milele katika Al-Masihi Isa Bwana wetu.
+> **<u>rom 6:23</u>** (OCS)
+>
+> Kwa maana mshahara wa dhambi ni mauti, bali karama ya Mungu ni uzima wa milele katika Al-Masihi Isa Bwana wetu.
 
 
 <!-- p38 -->
@@ -262,10 +262,10 @@ Mungu ni Mungu mtakatifu (safi, asiye na hatia, asiye na lawama). Mwanadamu anap
 <!-- p39 -->
 <span class="x-scripture" data-book="GAL" data-chapter="6" data-lang="sw" data-type="quote" data-verses="7-8" data-version="OCS">
 <!-- p40 -->
-&gt; **<u>Gal 6:7-8</u>** (OCS)
-&gt;
-&gt; Msidanganyike, Mungu hadhihakiwi. Kwa kuwa kile apandacho mtu ndicho atakachovuna.
-&gt; Apandaye kwa mwili, katika mwili wake atavuna uharibifu, lakini yeye apandaye katika Roho wa Mungu, katika Roho atavuna uzima wa milele.
+> **<u>Gal 6:7-8</u>** (OCS)
+>
+> Msidanganyike, Mungu hadhihakiwi. Kwa kuwa kile apandacho mtu ndicho atakachovuna.
+> Apandaye kwa mwili, katika mwili wake atavuna uharibifu, lakini yeye apandaye katika Roho wa Mungu, katika Roho atavuna uzima wa milele.
 
 
 <!-- p41 -->
@@ -282,10 +282,10 @@ Maandiko yanatangaza kwamba kutakuwa na hukumu ya mwisho kwa kila mtu kulingana 
 <!-- p45 -->
 <span class="x-scripture" data-book="REV" data-chapter="20" data-lang="sw" data-type="fragment" data-verses="12-13" data-version="OCS">
 <!-- p46 -->
-&gt; **<u>Ufu 20:12-13</u>** (OCS)
-&gt;
-&gt; Nami nikawaona wafu, wakubwa na wadogo, wakiwa wamesimama mbele ya hicho kiti cha enzi na vitabu vikafunguliwa. Pia kitabu kingine kikafunguliwa ambacho ni kitabu cha uzima. Hao wafu wakahukumiwa sawasawa na matendo yao kama yalivyoandikwa ndani ya hivyo vitabu.
-&gt; Bahari ikawatoa wafu waliokuwamo, nayo mauti na Kuzimu zikawatoa wafu waliokuwamo. Kila mtu akahukumiwa kulingana na yale aliyoyatenda.
+> **<u>Ufu 20:12-13</u>** (OCS)
+>
+> Nami nikawaona wafu, wakubwa na wadogo, wakiwa wamesimama mbele ya hicho kiti cha enzi na vitabu vikafunguliwa. Pia kitabu kingine kikafunguliwa ambacho ni kitabu cha uzima. Hao wafu wakahukumiwa sawasawa na matendo yao kama yalivyoandikwa ndani ya hivyo vitabu.
+> Bahari ikawatoa wafu waliokuwamo, nayo mauti na Kuzimu zikawatoa wafu waliokuwamo. Kila mtu akahukumiwa kulingana na yale aliyoyatenda.
 
 
 <!-- p47 -->
@@ -293,10 +293,10 @@ Maandiko yanatangaza kwamba kutakuwa na hukumu ya mwisho kwa kila mtu kulingana 
 <!-- p48 -->
 <span class="x-scripture" data-book="MAT" data-chapter="12" data-lang="sw" data-type="quote" data-verses="36-37" data-version="OCS">
 <!-- p49 -->
-&gt; **<u>Mat 12:36-37</u>** (OCS)
-&gt;
-&gt; Lakini nawaambia, katika siku ya hukumu watu watatoa maelezo kuhusu kila neno walilonena lisilo la maana.
-&gt; Kwa maana kwa maneno yako utahesabiwa haki, na kwa maneno yako utahukumiwa.”
+> **<u>Mat 12:36-37</u>** (OCS)
+>
+> Lakini nawaambia, katika siku ya hukumu watu watatoa maelezo kuhusu kila neno walilonena lisilo la maana.
+> Kwa maana kwa maneno yako utahesabiwa haki, na kwa maneno yako utahukumiwa.”
 
 
 <!-- p50 -->
@@ -328,9 +328,9 @@ Huenda tukakabili matokeo ya dhambi katika maisha yetu ya asili. Huenda tukahisi
 <!-- p52 -->
 <span class="x-scripture" data-book="HEB" data-chapter="9" data-lang="sw" data-type="quote" data-verses="27" data-version="OCS">
 <!-- p53 -->
-&gt; **<u>Ebr 9:27</u>** (OCS)
-&gt;
-&gt; Kama vile mwanadamu alivyowekewa kufa mara moja tu na baada ya kufa akabili hukumu,
+> **<u>Ebr 9:27</u>** (OCS)
+>
+> Kama vile mwanadamu alivyowekewa kufa mara moja tu na baada ya kufa akabili hukumu,
 
 
 <!-- p54 -->
@@ -338,9 +338,9 @@ Huenda tukakabili matokeo ya dhambi katika maisha yetu ya asili. Huenda tukahisi
 <!-- p55 -->
 <span class="x-scripture" data-book="ECC" data-chapter="12" data-lang="sw" data-type="quote" data-verses="14" data-version="OCS">
 <!-- p56 -->
-&gt; **<u>Mhub 12:14</u>** (OCS)
-&gt;
-&gt; Kwa maana Mungu ataleta hukumuni kila kazi, pamoja na kila neno la siri, likiwa jema au baya.
+> **<u>Mhub 12:14</u>** (OCS)
+>
+> Kwa maana Mungu ataleta hukumuni kila kazi, pamoja na kila neno la siri, likiwa jema au baya.
 
 
 <!-- p57 -->
@@ -348,10 +348,10 @@ Huenda tukakabili matokeo ya dhambi katika maisha yetu ya asili. Huenda tukahisi
 <!-- p58 -->
 <span class="x-scripture" data-book="ROM" data-chapter="2" data-lang="sw" data-type="quote" data-verses="5-6" data-version="OCS">
 <!-- p59 -->
-&gt; **<u>rom 2:5-6</u>** (OCS)
-&gt;
-&gt; Lakini kwa sababu ya ukaidi wenu na mioyo yenu isiyotaka kutubu, mnajiwekea akiba ya ghadhabu dhidi yenu wenyewe kwa siku ile ya ghadhabu ya Mungu, wakati hukumu yake ya haki itakapodhihirishwa.
-&gt; Kwa maana Mungu atamlipa kila mtu kulingana na matendo yake.
+> **<u>rom 2:5-6</u>** (OCS)
+>
+> Lakini kwa sababu ya ukaidi wenu na mioyo yenu isiyotaka kutubu, mnajiwekea akiba ya ghadhabu dhidi yenu wenyewe kwa siku ile ya ghadhabu ya Mungu, wakati hukumu yake ya haki itakapodhihirishwa.
+> Kwa maana Mungu atamlipa kila mtu kulingana na matendo yake.
 
 
 <!-- p60 -->
@@ -518,9 +518,9 @@ Ukweli ni kwamba sote tuna hatia ya dhambi, na sote tunapaswa kulipa gharama ya 
 <!-- p93 -->
 <span class="x-scripture" data-book="ROM" data-chapter="3" data-lang="sw" data-type="quote" data-verses="23" data-version="OCS">
 <!-- p94 -->
-&gt; **<u>rom 3:23</u>** (OCS)
-&gt;
-&gt; kwa kuwa wote wametenda dhambi na kupungukiwa na utukufu wa Mungu,
+> **<u>rom 3:23</u>** (OCS)
+>
+> kwa kuwa wote wametenda dhambi na kupungukiwa na utukufu wa Mungu,
 
 
 <!-- p95 -->
@@ -531,11 +531,11 @@ Kila mmoja wetu ametenda dhambi, amejitenga na Mungu, na atasimama mbele ya huku
 <!-- p97 -->
 <span class="x-scripture" data-book="1JN" data-chapter="1" data-lang="sw" data-type="quote" data-verses="8-10" data-version="OCS">
 <!-- p98 -->
-&gt; **<u>1Yoh 1:8-10</u>** (OCS)
-&gt;
-&gt; Tukisema kwamba hatuna dhambi, twajidanganya wenyewe wala kweli haimo ndani yetu.
-&gt; Tukiziungama dhambi zetu, yeye ni mwaminifu na wa haki, atatusamehe dhambi zetu na kutusafisha kutokana na udhalimu wote.
-&gt; Tukisema hatujatenda dhambi, twamfanya yeye kuwa mwongo na neno lake halimo ndani yetu.
+> **<u>1Yoh 1:8-10</u>** (OCS)
+>
+> Tukisema kwamba hatuna dhambi, twajidanganya wenyewe wala kweli haimo ndani yetu.
+> Tukiziungama dhambi zetu, yeye ni mwaminifu na wa haki, atatusamehe dhambi zetu na kutusafisha kutokana na udhalimu wote.
+> Tukisema hatujatenda dhambi, twamfanya yeye kuwa mwongo na neno lake halimo ndani yetu.
 
 
 <!-- p99 -->
@@ -544,7 +544,7 @@ Kila mmoja wetu ametenda dhambi, amejitenga na Mungu, na atasimama mbele ya huku
 Kwa kuwa sote tumetenda dhambi, sote tunahitaji ukombozi, la sivyo tutapitia hukumu, na utengano wa milele na Mungu. Lakini hadithi haiishii hapo. Shukrani kwa Mungu-Yeye alifanya njia ili tuokolewe, tuponywe, na turudishwe Kwake!
 
 <!-- p101 -->
-&gt; <u>**Yohana 3:16**</u> (NKJV) Kwa maana jinsi hii Mungu aliupenda ulimwengu hata akamtoa Mwana wake wa pekee, ili kila amwaminiye asipotee bali awe na uzima wa milele.*
+> <u>**Yohana 3:16**</u> (NKJV) Kwa maana jinsi hii Mungu aliupenda ulimwengu hata akamtoa Mwana wake wa pekee, ili kila amwaminiye asipotee bali awe na uzima wa milele.*
 
 <!-- p102 -->
 Tangu dhabihu ya kwanza katika Mwanzo hadi msalaba wa Kristo, mpango wa Mungu siku zote umekuwa ni kutukomboa na kurejesha uhusiano wetu Naye. Hakuna dhambi iliyo kubwa mno, na hakuna umbali ulio mbali mno kiasi kwamba neema ya Mungu haifiki kwetu.
