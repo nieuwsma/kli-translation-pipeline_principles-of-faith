@@ -9,6 +9,7 @@
 
 <!-- p3 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p3**
 >
@@ -32,6 +33,7 @@
 
 <!-- p4 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p4**
 >
@@ -88,6 +90,7 @@ Imarisha dhana kuu za kibiblia kuhusu mafundisho kwa kuchunguza Maandiko yanayoa
 
 <!-- p16 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p16**
 >
@@ -114,6 +117,7 @@ Imarisha dhana kuu za kibiblia kuhusu mafundisho kwa kuchunguza Maandiko yanayoa
 
 <!-- p18 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p18**
 >
@@ -287,6 +291,7 @@ Fundisha washiriki jinsi ya kujumuisha majina na sifa za Mungu katika **sala ya 
 
 <!-- p69 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p69**
 >
@@ -334,6 +339,7 @@ Saidia washiriki **kutafakari na kutumia** sifa za Mungu katika maisha yao kupit
 
 <!-- p78 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p78**
 >
@@ -378,6 +384,7 @@ Saidia washiriki **kutafakari na kutumia** sifa za Mungu katika maisha yao kupit
 
 <!-- p86 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p86**
 >
@@ -435,6 +442,7 @@ Onyesheni jinsi athari za dhambi zinavyosambaa kama mawimbi, zikiathiri **mahusi
 
 <!-- p98 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p98**
 >
@@ -470,6 +478,7 @@ Onyesheni jinsi athari za dhambi zinavyosambaa kama mawimbi, zikiathiri **mahusi
 
 <!-- p103 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p103**
 >
@@ -493,6 +502,7 @@ Onyesheni jinsi athari za dhambi zinavyosambaa kama mawimbi, zikiathiri **mahusi
 
 <!-- p104 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p104**
 >
@@ -516,6 +526,7 @@ Onyesheni jinsi athari za dhambi zinavyosambaa kama mawimbi, zikiathiri **mahusi
 
 <!-- p105 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p105**
 >
@@ -563,6 +574,7 @@ Fuata **mpango wa ukombozi** wa Mungu kuanzia **Mwanzo hadi Kristo**, ukilenga *
 
 <!-- p114 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p114**
 >
@@ -589,6 +601,7 @@ Fuata **mpango wa ukombozi** wa Mungu kuanzia **Mwanzo hadi Kristo**, ukilenga *
 
 <!-- p116 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p116**
 >
@@ -618,6 +631,7 @@ Fuata **mpango wa ukombozi** wa Mungu kuanzia **Mwanzo hadi Kristo**, ukilenga *
 
 <!-- p119 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p119**
 >
@@ -644,6 +658,7 @@ Fuata **mpango wa ukombozi** wa Mungu kuanzia **Mwanzo hadi Kristo**, ukilenga *
 
 <!-- p121 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p121**
 >
@@ -667,6 +682,7 @@ Fuata **mpango wa ukombozi** wa Mungu kuanzia **Mwanzo hadi Kristo**, ukilenga *
 
 <!-- p122 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p122**
 >
@@ -717,6 +733,7 @@ Waongoze washiriki **kuushughulikia msamaha binafsi**-zote mbili **kuupokea** na
 
 <!-- p132 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p132**
 >
@@ -758,6 +775,7 @@ Waongoze washiriki **kuushughulikia msamaha binafsi**-zote mbili **kuupokea** na
 
 <!-- p139 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p139**
 >
@@ -808,6 +826,7 @@ Chunguza **majina na vyeo vya Yesu** na jinsi vinavyofunua Utume Wake kama Masih
 
 <!-- p149 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p149**
 >
@@ -834,6 +853,7 @@ Chunguza **majina na vyeo vya Yesu** na jinsi vinavyofunua Utume Wake kama Masih
 
 <!-- p151 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p151**
 >
@@ -857,6 +877,7 @@ Chunguza **majina na vyeo vya Yesu** na jinsi vinavyofunua Utume Wake kama Masih
 
 <!-- p152 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p152**
 >
@@ -883,6 +904,7 @@ Chunguza **majina na vyeo vya Yesu** na jinsi vinavyofunua Utume Wake kama Masih
 
 <!-- p154 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p154**
 >
@@ -906,6 +928,7 @@ Chunguza **majina na vyeo vya Yesu** na jinsi vinavyofunua Utume Wake kama Masih
 
 <!-- p155 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p155**
 >
@@ -929,6 +952,7 @@ Chunguza **majina na vyeo vya Yesu** na jinsi vinavyofunua Utume Wake kama Masih
 
 <!-- p156 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p156**
 >
@@ -970,6 +994,7 @@ Fuata nyakati muhimu katika utume wa Yesu ili kuunganisha unabii na utimilifu.
 
 <!-- p163 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p163**
 >
@@ -1026,6 +1051,7 @@ Tumia mpako wa Yesu kama **Nabii, Kuhani, na Mfalme** katika maisha ya kila siku
 
 <!-- p175 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p175**
 >
@@ -1052,6 +1078,7 @@ Tumia mpako wa Yesu kama **Nabii, Kuhani, na Mfalme** katika maisha ya kila siku
 
 <!-- p177 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p177**
 >
@@ -1084,6 +1111,7 @@ Tumia mpako wa Yesu kama **Nabii, Kuhani, na Mfalme** katika maisha ya kila siku
 
 <!-- p181 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p181**
 >
@@ -1143,6 +1171,7 @@ Saidia washiriki kutambua na kushughulikia “matendo ya mauti” katika maisha 
 
 <!-- p194 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p194**
 >
@@ -1178,6 +1207,7 @@ Saidia washiriki kutambua na kushughulikia “matendo ya mauti” katika maisha 
 
 <!-- p199 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p199**
 >
@@ -1201,6 +1231,7 @@ Saidia washiriki kutambua na kushughulikia “matendo ya mauti” katika maisha 
 
 <!-- p200 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p200**
 >
@@ -1230,6 +1261,7 @@ Saidia washiriki kutambua na kushughulikia “matendo ya mauti” katika maisha 
 
 <!-- p203 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p203**
 >
@@ -1256,6 +1288,7 @@ Saidia washiriki kutambua na kushughulikia “matendo ya mauti” katika maisha 
 
 <!-- p205 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p205**
 >
@@ -1279,6 +1312,7 @@ Saidia washiriki kutambua na kushughulikia “matendo ya mauti” katika maisha 
 
 <!-- p206 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p206**
 >
@@ -1317,6 +1351,7 @@ Saidia washiriki kutambua na kushughulikia “matendo ya mauti” katika maisha 
 
 <!-- p212 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p212**
 >
@@ -1343,6 +1378,7 @@ Saidia washiriki kutambua na kushughulikia “matendo ya mauti” katika maisha 
 
 <!-- p214 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p214**
 >
@@ -1387,6 +1423,7 @@ Waongoze washiriki kufahamu hatua za toba na jinsi zinavyoongoza kwenye mabadili
 
 <!-- p222 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p222**
 >
@@ -1419,6 +1456,7 @@ Waongoze washiriki kufahamu hatua za toba na jinsi zinavyoongoza kwenye mabadili
 
 <!-- p226 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p226**
 >
@@ -1466,6 +1504,7 @@ Chota masomo kutokana na toba ya Daudi ili kuwatia moyo washiriki wakumbatie mai
 
 <!-- p235 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p235**
 >
@@ -1489,6 +1528,7 @@ Chota masomo kutokana na toba ya Daudi ili kuwatia moyo washiriki wakumbatie mai
 
 <!-- p236 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p236**
 >
@@ -1518,6 +1558,7 @@ Chota masomo kutokana na toba ya Daudi ili kuwatia moyo washiriki wakumbatie mai
 
 <!-- p239 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p239**
 >
@@ -1544,6 +1585,7 @@ Chota masomo kutokana na toba ya Daudi ili kuwatia moyo washiriki wakumbatie mai
 
 <!-- p241 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p241**
 >
@@ -1570,6 +1612,7 @@ Chota masomo kutokana na toba ya Daudi ili kuwatia moyo washiriki wakumbatie mai
 
 <!-- p243 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p243**
 >
@@ -1626,6 +1669,7 @@ Saidia washiriki kuelewa jinsi **imani huja kwa kusikia** na kutambua nyakati am
 
 <!-- p255 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p255**
 >
@@ -1670,6 +1714,7 @@ Onyesha uhusiano kati ya **imani na utii** na wahimize washiriki kuchukua hatua 
 
 <!-- p263 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p263**
 >
@@ -1753,6 +1798,7 @@ Watie moyo washiriki kutekeleza nidhamu za vitendo zinazokuza imani na kuimarish
 
 <!-- p284 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p284**
 >
@@ -1797,6 +1843,7 @@ Watie moyo washiriki kutekeleza nidhamu za vitendo zinazokuza imani na kuimarish
 
 <!-- p292 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p292**
 >
@@ -1832,6 +1879,7 @@ Watie moyo washiriki kutekeleza nidhamu za vitendo zinazokuza imani na kuimarish
 
 <!-- p297 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p297**
 >
@@ -1858,6 +1906,7 @@ Watie moyo washiriki kutekeleza nidhamu za vitendo zinazokuza imani na kuimarish
 
 <!-- p299 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p299**
 >
@@ -1905,6 +1954,7 @@ Watie moyo washiriki kutekeleza nidhamu za vitendo zinazokuza imani na kuimarish
 
 <!-- p308 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p308**
 >
@@ -2015,6 +2065,7 @@ Watie moyo washiriki kutekeleza nidhamu za vitendo zinazokuza imani na kuimarish
 
 <!-- p338 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p338**
 >
@@ -2056,6 +2107,7 @@ Saidia washiriki kuelewa na kuhusiana na taswira mbalimbali za kibiblia za kanis
 
 <!-- p345 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p345**
 >
@@ -2193,6 +2245,7 @@ Kuwahakikishia washiriki kwamba utakaso ni safari ya maisha yote na kuwahimiza w
 
 <!-- p384 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p384**
 >
@@ -2219,6 +2272,7 @@ Kuwahakikishia washiriki kwamba utakaso ni safari ya maisha yote na kuwahimiza w
 
 <!-- p386 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p386**
 >
@@ -2257,6 +2311,7 @@ Saidia washiriki kutambua tabia mbaya zinazokwamisha utakaso na wajifunze kutamb
 
 <!-- p392 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p392**
 >
@@ -2283,6 +2338,7 @@ Saidia washiriki kutambua tabia mbaya zinazokwamisha utakaso na wajifunze kutamb
 
 <!-- p394 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p394**
 >
@@ -2339,6 +2395,7 @@ Saidia washiriki kutambua tabia mbaya zinazokwamisha utakaso na wajifunze kutamb
 
 <!-- p406 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p406**
 >
@@ -2371,6 +2428,7 @@ Saidia washiriki kutambua tabia mbaya zinazokwamisha utakaso na wajifunze kutamb
 
 <!-- p410 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p410**
 >
@@ -2409,6 +2467,7 @@ Waongoze washiriki kuunda tabia chanya zinazoendana na safari yao ya utakaso kwa
 
 <!-- p416 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p416**
 >
@@ -2465,6 +2524,7 @@ Waongoze washiriki kuunda tabia chanya zinazoendana na safari yao ya utakaso kwa
 
 <!-- p428 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p428**
 >
@@ -2497,6 +2557,7 @@ Waongoze washiriki kuunda tabia chanya zinazoendana na safari yao ya utakaso kwa
 
 <!-- p432 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p432**
 >
@@ -2529,6 +2590,7 @@ Waongoze washiriki kuunda tabia chanya zinazoendana na safari yao ya utakaso kwa
 
 <!-- p436 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p436**
 >
@@ -2558,6 +2620,7 @@ Saidia washiriki kutafakari juu ya umuhimu wa kitheolojia na wa kibinafsi wa uba
 
 <!-- p439 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p439**
 >
@@ -2620,6 +2683,7 @@ Watie moyo washiriki kutafuta ubatizo wa Roho Mtakatifu na kuelewa jukumu lake k
 
 <!-- p453 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p453**
 >
@@ -2667,6 +2731,7 @@ Watie moyo washiriki kutafuta ubatizo wa Roho Mtakatifu na kuelewa jukumu lake k
 
 <!-- p462 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p462**
 >
@@ -2747,6 +2812,7 @@ Saidia washiriki kuchunguza uashiria wenye utajiri wa ubatizo na kuuhusisha na s
 
 <!-- p482 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p482**
 >
@@ -2788,6 +2854,7 @@ Saidia washiriki kuchunguza uashiria wenye utajiri wa ubatizo na kuuhusisha na s
 
 <!-- p489 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p489**
 >
@@ -2832,6 +2899,7 @@ Saidia washiriki kutambua watu ambao Mungu amewaweka katika maisha yao ili kuwaf
 
 <!-- p497 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p497**
 >
@@ -2864,6 +2932,7 @@ Saidia washiriki kutambua watu ambao Mungu amewaweka katika maisha yao ili kuwaf
 
 <!-- p501 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p501**
 >
@@ -2890,6 +2959,7 @@ Saidia washiriki kutambua watu ambao Mungu amewaweka katika maisha yao ili kuwaf
 
 <!-- p503 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p503**
 >
@@ -2922,6 +2992,7 @@ Himiza washiriki kutafakari kuhusu sifa zinazomfanya mtengeneza wanafunzi kuwa m
 
 <!-- p507 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p507**
 >
@@ -2951,6 +3022,7 @@ Himiza washiriki kutafakari kuhusu sifa zinazomfanya mtengeneza wanafunzi kuwa m
 
 <!-- p510 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p510**
 >
@@ -2986,6 +3058,7 @@ Himiza washiriki kutafakari kuhusu sifa zinazomfanya mtengeneza wanafunzi kuwa m
 
 <!-- p515 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p515**
 >
@@ -3054,6 +3127,7 @@ Saidia washiriki kutambua mifano ya mamlaka ya kiroho katika Biblia na kutafakar
 
 <!-- p531 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p531**
 >
@@ -3101,6 +3175,7 @@ Saidia washiriki kutambua mifano ya mamlaka ya kiroho katika Biblia na kutafakar
 
 <!-- p540 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p540**
 >
@@ -3169,6 +3244,7 @@ Hamasisha washiriki kutambua maeneo yao ya ushawishi na mamlaka waliyopewa na Mu
 
 <!-- p556 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p556**
 >
@@ -3192,6 +3268,7 @@ Hamasisha washiriki kutambua maeneo yao ya ushawishi na mamlaka waliyopewa na Mu
 
 <!-- p557 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p557**
 >
@@ -3230,6 +3307,7 @@ Hamasisha washiriki kutambua maeneo yao ya ushawishi na mamlaka waliyopewa na Mu
 
 <!-- p563 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p563**
 >
@@ -3263,6 +3341,7 @@ Kuongeza uelewa wa washiriki kuhusu malaika kama sehemu ya Ufalme wa Mungu na ju
 
 <!-- p567 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p567**
 >
@@ -3286,6 +3365,7 @@ Kuongeza uelewa wa washiriki kuhusu malaika kama sehemu ya Ufalme wa Mungu na ju
 
 <!-- p568 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p568**
 >
@@ -3369,6 +3449,7 @@ Kuongeza uelewa wa washiriki kuhusu malaika kama sehemu ya Ufalme wa Mungu na ju
 
 <!-- p589 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p589**
 >
@@ -3401,6 +3482,7 @@ Saidia washiriki kuzingatia umilele na kuoanisha maisha yao na vipaumbele vya mi
 
 <!-- p593 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p593**
 >
@@ -3442,6 +3524,7 @@ Saidia washiriki kuzingatia umilele na kuoanisha maisha yao na vipaumbele vya mi
 
 <!-- p600 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p600**
 >

@@ -19,6 +19,7 @@ Mwandishi wa Waebrania anaweka ‘toba kutoka kwa matendo yaliyokufa’ kama kip
 </span>
 <!-- p6 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p6**
 >
@@ -78,6 +79,7 @@ Katika masomo ya biolojia, kuna vigezo kadhaa vinavyotumiwa kubaini kama kiumbe 
 
 <!-- p19 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p19**
 >
@@ -116,6 +118,7 @@ Tukitumia kiwango hiki cha ‘uhai’ kwa kazi zetu kwa uhuru kidogo wa ubunifu,
 
 <!-- p25 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p25**
 >
@@ -145,6 +148,7 @@ Tukitumia kiwango hiki cha ‘uhai’ kwa kazi zetu kwa uhuru kidogo wa ubunifu,
 
 <!-- p28 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p28**
 >
@@ -181,6 +185,7 @@ Kazi zilizokufa si hamu ya Mungu kwetu. Mungu anataka kutuletea uzima!
 </span>
 <!-- p33 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p33**
 >
@@ -253,6 +258,7 @@ Tunahitaji kutubu mara ngapi? Swali la kitatanishi! Tunahitaji kuendelea kubadil
 
 <!-- p50 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p50**
 >
@@ -276,6 +282,7 @@ Tunahitaji kutubu mara ngapi? Swali la kitatanishi! Tunahitaji kuendelea kubadil
 
 <!-- p51 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p51**
 >
@@ -300,7 +307,7 @@ Tunabadilishaje mawazo yetu? Kwa makusudi, kupitia kukutana na kweli.
 <!-- p52 -->
 <span class="x-scripture" data-book="JHN" data-chapter="8" data-lang="sw" data-type="quote" data-verses="31-32" data-version="OCS">
 <!-- p53 -->
-&gt; **<u>Yoh 8:31-32</u>** (OCS)
+; **<u>Yoh 8:31-32</u>** (OCS)
 &gt;
 &gt; Kisha Isa akawaambia wale Wayahudi waliomwamini, “Mkidumu katika maneno yangu, mtakuwa wanafunzi wangu kweli kweli.
 &gt; Ndipo mtaijua kweli, nayo kweli itawaweka huru.”
@@ -320,6 +327,7 @@ Tunabadilishaje mawazo yetu? Kwa makusudi, kupitia kukutana na kweli.
 </span>
 <!-- p58 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p58**
 >
@@ -343,6 +351,7 @@ Tunabadilisha mawazo yetu kwa kusikia kweli inayobadilisha imani yetu inayoleta 
 
 <!-- p59 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p59**
 >
@@ -399,6 +408,7 @@ Hakuna muda uliowekwa kuhusu ni kwa muda gani hatua yoyote inaweza kuchukua. Kwa
 
 <!-- p71 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p71**
 >
@@ -472,6 +482,7 @@ Wanapoanza kupitia mchakato wa mabadiliko wa toba, huo huleta mavuno mema katika
 
 <!-- p86 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p86**
 >
@@ -534,6 +545,7 @@ Mateso ni uvumilivu wa maumivu-ya mwili, kihisia, kiakili, au kiroho-hasa yanapo
 
 <!-- p99 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p99**
 >
@@ -578,6 +590,7 @@ Jibu la baba lilikuwa, “Ninasikitika kwamba unajali zaidi kuhusu kijiti chako 
 
 <!-- p107 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p107**
 >
@@ -646,6 +659,7 @@ Roho Mtakatifu ndiye wakala mkuu wa mabadiliko ambaye wanadamu wanaweza kushirik
 
 <!-- p122 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p122**
 >
@@ -669,6 +683,7 @@ Katika masomo yetu yanayofuata kuhusu Roho Mtakatifu na kuhusu utakaso, tutaona 
 
 <!-- p123 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p123**
 >

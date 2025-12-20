@@ -51,6 +51,7 @@ Ulipompokea Yesu, muujiza wa wokovu ulikufanya uzaliwe upya kwa mbegu isiyoharib
 
 <!-- p16 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p16**
 >
@@ -123,6 +124,7 @@ Kwa muhtasari, kusudi na lengo la mfano wa uanagenzi unaotumiwa katika uanafunzi
 
 <!-- p33 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p33**
 >
@@ -146,6 +148,7 @@ Kwa muhtasari, kusudi na lengo la mfano wa uanagenzi unaotumiwa katika uanafunzi
 
 <!-- p34 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p34**
 >
@@ -184,6 +187,7 @@ Kila uhusiano wa uanafunzi hupitia mfululizo wa awamu nane. Awamu, au hatua, si 
 
 <!-- p40 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p40**
 >
@@ -207,6 +211,7 @@ Hatua nane za ufuasi ni:
 
 <!-- p41 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p41**
 >
@@ -233,6 +238,7 @@ Hatua nane za ufuasi ni:
 
 <!-- p43 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p43**
 >
@@ -271,6 +277,7 @@ Hatua nane za ufuasi ni:
 
 <!-- p49 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p49**
 >
@@ -309,6 +316,7 @@ Watengenezaji wanafunzi wanapaswa kujitolea kufundisha Biblia kwa uaminifu, waki
 
 <!-- p55 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p55**
 >
@@ -356,6 +364,7 @@ Marekebisho katika uanafunzi yanapaswa kuwa yamejaa neema na ya kujenga- yaliyot
 
 <!-- p64 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p64**
 >
@@ -394,6 +403,7 @@ Uanafunzi unahusisha kuwaandaa wanafunzi kuwafanya wengine kuwa wanafunzi, na hi
 
 <!-- p70 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p70**
 >
@@ -453,6 +463,7 @@ Mtengeneza wanafunzi lazima aendelee kujitolea kwa utume wa kuwafanya watu kuwa 
 
 <!-- p83 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p83**
 >
@@ -485,6 +496,7 @@ Unyenyekevu ni alama ya mtengeneza wanafunzi mwenye ufanisi. Kama Paulo alivyoag
 
 <!-- p87 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p87**
 >
@@ -520,6 +532,7 @@ Ufuasi wenye ufanisi unahitaji zana na mazoea ya kimakusudi yanayokuza ukuaji wa
 
 <!-- p92 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p92**
 >
@@ -558,6 +571,7 @@ Kuwafundisha wanafunzi jinsi ya kuomba-binafsi na kwa pamoja-huwawezesha kukuza 
 
 <!-- p98 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p98**
 >
@@ -587,6 +601,7 @@ Kanisa la mahali hapo hutumika kama kitovu kikuu cha mahusiano ya uanafunzi, lik
 
 <!-- p101 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p101**
 >

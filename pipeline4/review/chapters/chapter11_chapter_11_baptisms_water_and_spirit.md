@@ -41,6 +41,7 @@ Kukazia hoja hii, Wakristo hawana wajibu wa kufanya maoshaji yoyote ya kiseremon
 
 <!-- p13 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p13**
 >
@@ -73,6 +74,7 @@ Ubatizo wa Yohana ulitimizwa na kupitwa kupitia kifo, maziko, na ufufuo wa Yesu 
 
 <!-- p17 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p17**
 >
@@ -123,6 +125,7 @@ Baada ya kuthibitisha ubatizo wa maji kama ishara ya nje ya imani, sasa tunageuk
 
 <!-- p27 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p27**
 >
@@ -171,6 +174,7 @@ Ukamaji huu ulianzisha mwanzo wa **Enzi ya Kanisa** na ukaonyesha kwamba nguvu z
 
 <!-- p36 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p36**
 >
@@ -197,6 +201,7 @@ Wakati mtu anapoweka imani yake kwa Yesu, Roho Mtakatifu huwapa uzima mpya ndani
 
 <!-- p38 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p38**
 >
@@ -344,6 +349,7 @@ Wakati wengine walipokea Roho Mtakatifu ghafla (<span class="x-scripture" data-b
 </span>
 <!-- p78 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p78**
 >
@@ -415,6 +421,7 @@ Paulo alisisitiza kwamba karama za kiroho lazima zitumiwe kwa heshima na kwa uta
 
 <!-- p96 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p96**
 >
@@ -507,6 +514,7 @@ Paulo anaweka wazi kwamba karama zote ni za thamani na zinapaswa kufanya kazi pa
 
 <!-- p120 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p120**
 >

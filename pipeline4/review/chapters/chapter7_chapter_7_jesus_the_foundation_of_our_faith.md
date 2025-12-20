@@ -12,6 +12,7 @@ Wazo la mpatanishi linahusisha mtu wa kati anayevuka pengo kati ya pande mbili, 
 
 <!-- p4 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p4**
 >
@@ -44,6 +45,7 @@ Nafasi za Wapatanishi katika Agano la Kale:
 
 <!-- p8 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p8**
 >
@@ -70,6 +72,7 @@ Inafaa kutambua kwamba wapatanishi wote wa Agano la Kale walikuwa wanadamu kamil
 
 <!-- p10 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p10**
 >
@@ -118,6 +121,7 @@ Kupitia kifo Chake cha upatanisho na ufufuo, Kristo anaweka agano hili jipya, ak
 
 <!-- p19 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p19**
 >
@@ -317,6 +321,7 @@ Kama vile somo letu kuhusu Mungu, Maandiko yamejaa majina mbalimbali yanayomreje
 
 <!-- p71 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p71**
 >

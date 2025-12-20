@@ -24,6 +24,7 @@ Tunachoamini na jinsi tunavyokiwasilisha kina uwezo wa kujenga mtu, familia, jam
 
 <!-- p8 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p8**
 >
@@ -104,6 +105,7 @@ Tumepewa chanzo kikuu cha mafundisho sahihi, mafundisho ya Roho Mtakatifu, yaliy
 
 <!-- p27 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p27**
 >
@@ -241,6 +243,7 @@ Strong’s Concordance hutusaidia kuelewa kile Biblia ilikusudia katika lugha ya
 
 <!-- p63 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p63**
 >

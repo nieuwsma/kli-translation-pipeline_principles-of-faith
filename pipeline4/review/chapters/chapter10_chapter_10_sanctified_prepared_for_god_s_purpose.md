@@ -162,6 +162,7 @@ Mungu anataka kubadilisha kwa msingi nia zetu na mtindo wetu wa kufikiri. Tamaa 
 
 <!-- p49 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p49**
 >
@@ -222,6 +223,7 @@ Katika sehemu inayofuata nitaelezea kila moja ya mifumo ya kumbukumbu, madhumuni
 
 <!-- p61 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p61**
 >
@@ -257,6 +259,7 @@ Katika sehemu inayofuata nitaelezea kila moja ya mifumo ya kumbukumbu, madhumuni
 
 <!-- p66 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p66**
 >
@@ -280,6 +283,7 @@ Katika sehemu inayofuata nitaelezea kila moja ya mifumo ya kumbukumbu, madhumuni
 
 <!-- p67 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p67**
 >

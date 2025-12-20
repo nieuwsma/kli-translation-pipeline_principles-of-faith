@@ -3,6 +3,7 @@
 
 <!-- p1 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p1**
 >
@@ -35,6 +36,7 @@ Ni muhimu sana tuweke msingi imara katika maarifa ya Mungu ni nani. Tunaweza kuj
 
 <!-- p5 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p5**
 >
@@ -58,6 +60,7 @@ Maandiko yanafichua sifa za Mungu kwa upekee, kila kipengele kikizidisha uelewa 
 
 <!-- p6 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p6**
 >
@@ -96,6 +99,7 @@ Dhamira kuu katika simulizi la Mungu ni hamu yake ya kukaa pamoja na uumbaji wak
 
 <!-- p12 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p12**
 >
@@ -187,6 +191,7 @@ Musa anamwambia Farao, Mungu ni ‘MIMI NIKO’ na kwamba Mungu anadai Waisraeli
 
 <!-- p35 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p35**
 >
@@ -241,6 +246,7 @@ Kama tuonavyo katika Maandiko, Mungu anajifunua kupitia matendo, mahusiano, na h
 
 <!-- p46 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p46**
 >
@@ -300,6 +306,7 @@ Maandiko hutoa muktadha wa mikutano hii, yakituonyesha uaminifu wa Mungu kwa wat
 
 <!-- p59 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p59**
 >

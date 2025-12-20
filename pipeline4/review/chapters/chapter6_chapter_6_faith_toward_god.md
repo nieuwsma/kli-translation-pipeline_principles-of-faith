@@ -23,6 +23,7 @@ Katika sura hii tutajadili imani ni nini, na si nini, jinsi ya kuongeza imani ye
 
 <!-- p7 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p7**
 >
@@ -58,6 +59,7 @@ Imani ni kipengele cha Ukristo kinachokosewa kueleweka na kuwasilishwa vibaya ma
 
 <!-- p12 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p12**
 >
@@ -84,6 +86,7 @@ Wakati mwingine watu hufikiri imani ni kama nguvu ya kichawi-lakini si hivyo Maa
 
 <!-- p14 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p14**
 >
@@ -110,6 +113,7 @@ Imani zetu huunda jinsi tunavyoona na kuingiliana na ulimwengu unaotuzunguka. Im
 
 <!-- p16 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p16**
 >
@@ -337,6 +341,7 @@ Maandiko yanawasilisha mwendelezo wa asili wa imani. Tunapomjua Mungu na kuonja 
 
 <!-- p82 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p82**
 >
@@ -371,6 +376,7 @@ Tafakari tena kifungu hiki kutoka Warumi:
 </span>
 <!-- p86 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p86**
 >
@@ -400,6 +406,7 @@ Tukilichambua hili kwa mpangilio wa nyuma:
 
 <!-- p89 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p89**
 >
@@ -476,6 +483,7 @@ Matokeo ya matendo haya (utii) ni kwamba yanatoa mavuno mazuri na yenye faida. M
 
 <!-- p105 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p105**
 >
@@ -553,6 +561,7 @@ Ni muhimu sana katika maisha ya kila muumini kuimarisha imani (tumaini) kuelekea
 </span>
 <!-- p119 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p119**
 >
@@ -687,6 +696,7 @@ Kutembea na Mungu ni suala la uhusiano, lakini kuna ujuzi wa kujifunza ukitaka m
 
 <!-- p154 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p154**
 >
@@ -710,6 +720,7 @@ Kutembea na Mungu ni suala la uhusiano, lakini kuna ujuzi wa kujifunza ukitaka m
 
 <!-- p155 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p155**
 >

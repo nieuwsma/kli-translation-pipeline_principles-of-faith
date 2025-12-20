@@ -3,6 +3,7 @@
 
 <!-- p1 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p1**
 >
@@ -104,6 +105,7 @@ Watu wa Kiyahudi walikuwa wamesubiri kwa muda mrefu kuja kwa Masihi. Imani za Ki
 
 <!-- p28 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p28**
 >
@@ -184,6 +186,7 @@ Yesu alitangaza:
 
 <!-- p46 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p46**
 >
@@ -213,6 +216,7 @@ Watu aliowajia walikuwa:
 
 <!-- p49 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p49**
 >
@@ -236,6 +240,7 @@ Watu aliowajia walikuwa:
 
 <!-- p50 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p50**
 >
@@ -259,6 +264,7 @@ Watu aliowajia walikuwa:
 
 <!-- p51 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p51**
 >
@@ -282,6 +288,7 @@ Watu aliowajia walikuwa:
 
 <!-- p52 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p52**
 >
@@ -308,6 +315,7 @@ Yesu aliwabadili watu hawa waliovunjika kwa:
 
 <!-- p54 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p54**
 >
@@ -331,6 +339,7 @@ Yesu aliwabadili watu hawa waliovunjika kwa:
 
 <!-- p55 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p55**
 >
@@ -354,6 +363,7 @@ Yesu aliwabadili watu hawa waliovunjika kwa:
 
 <!-- p56 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p56**
 >
@@ -404,6 +414,7 @@ Neno wokovu kwa Kigiriki ni **Sōtēria** (*so-tay-REE-ah - **G4991)**.* Kimsing
 
 <!-- p66 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p66**
 >
@@ -436,6 +447,7 @@ Neno wokovu kwa Kigiriki ni **Sōtēria** (*so-tay-REE-ah - **G4991)**.* Kimsing
 
 <!-- p70 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p70**
 >
@@ -462,6 +474,7 @@ Neno wokovu kwa Kigiriki ni **Sōtēria** (*so-tay-REE-ah - **G4991)**.* Kimsing
 
 <!-- p72 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p72**
 >
@@ -504,6 +517,7 @@ Kuangamia kunamaanisha kuharibika—kama tunda linalooza kabla halijafurahiwa. N
 
 <!-- p79 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p79**
 >

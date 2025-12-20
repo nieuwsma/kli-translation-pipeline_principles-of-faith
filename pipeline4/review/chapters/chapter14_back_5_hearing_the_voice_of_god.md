@@ -3,6 +3,7 @@
 
 <!-- p1 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p1**
 >
@@ -49,6 +50,7 @@ Mbali na taabu zitakazowaangamiza,*
 
 <!-- p9 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p9**
 >
@@ -95,6 +97,7 @@ Kuna wakati Yesu alipokuwa anabatizwa katika mto Yordani na Baba akanena: “Huy
 
 <!-- p17 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p17**
 >
@@ -125,6 +128,7 @@ Yeye kamwe hatuachi tujaze mapengo. Kwa kufumba na kufumbua, Mungu anaweza kujaz
 
 <!-- p21 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p21**
 >
@@ -150,6 +154,7 @@ Yeye si mtawala wa kazi; Yeye ni Mchungaji. Wafugaji husukuma, lakini Wachungaji
 
 <!-- p23 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p23**
 >
@@ -204,6 +209,7 @@ Soma <span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="sw" 
 Soma Kumbukumbu la Torati 28:1-2, <span class="x-scripture" data-book="ISA" data-chapter="30" data-lang="sw" data-type="ref" data-verses="21" data-version="OCS">Is 30:21</span>, na <span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="sw" data-type="ref" data-verses="13" data-version="OCS">Yoh 16:13</span>
 <!-- p37 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p37**
 >

@@ -30,6 +30,7 @@ Hapa kuna mifano michache ya kusaidia kuelewa tofauti kati ya nguvu na mamlaka.
 
 <!-- p9 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p9**
 >
@@ -83,6 +84,7 @@ Kama Yesu alivyosema katika Mathayo, ‘Mamlaka yote’ yamepewa. Hebu tuangalie
 
 <!-- p20 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p20**
 >
@@ -106,6 +108,7 @@ Kama Yesu alivyosema katika Mathayo, ‘Mamlaka yote’ yamepewa. Hebu tuangalie
 
 <!-- p21 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p21**
 >
@@ -533,6 +536,7 @@ Ingawa Biblia inaangazia majukumu na vyeo mbalimbali vya malaika, haitoi mfumo w
 
 <!-- p146 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p146**
 >
@@ -601,6 +605,7 @@ Maandiko yanaeleza kazi na shughuli za ibilisi kuwa:
 
 <!-- p162 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p162**
 >

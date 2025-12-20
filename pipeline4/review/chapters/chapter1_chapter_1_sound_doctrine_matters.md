@@ -6,6 +6,7 @@ Mafundisho kwa urahisi yanamaanisha kweli za msingi tunazoamini na kufundisha-kw
 
 <!-- p2 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p2**
 >
@@ -41,6 +42,7 @@ Yesu alipoagiza kanisa Lake ‘kufundisha’, alikuwa akiwaagiza wawashirikishe 
 </span>
 <!-- p6 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p6**
 >
@@ -85,6 +87,7 @@ Sasa, fikiria kwamba mbunifu anawakusanya **wanagenzi**-wale wanaotamani kujifun
 
 <!-- p14 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p14**
 >
@@ -124,6 +127,7 @@ Inahitajika zaidi ya kadi ya uanachama wa gym ili kumfanya mtu awe mwenye afya n
 
 <!-- p20 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p20**
 >
@@ -147,6 +151,7 @@ Agizo la Yesu linakwenda zaidi yetu. Ni jambo jema kwamba tunakuwa kamili, wenye
 
 <!-- p21 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p21**
 >
@@ -190,6 +195,7 @@ Kuwa mwanafunzi wa Yesu kunawezekana tu kwa kuendelea katika Neno Lake (logos Wa
 
 <!-- p28 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p28**
 >
@@ -222,6 +228,7 @@ Wanafunzi, baada ya kufundishwa nidhamu, wanaweza kutekeleza amri za Bwana. Kila
 
 <!-- p32 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p32**
 >
@@ -275,6 +282,7 @@ Ukristo ni mchezo wa timu, na tuna kocha mkamilifu anayejua hasa tunachohitaji. 
 
 <!-- p41 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p41**
 >
@@ -298,6 +306,7 @@ Mungu amelipa kanisa hizi karama maalum kutuleta katika ukomavu, ili tuwe na tuw
 
 <!-- p42 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p42**
 >
@@ -321,6 +330,7 @@ Mungu amelipa kanisa hizi karama maalum kutuleta katika ukomavu, ili tuwe na tuw
 
 <!-- p43 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p43**
 >
@@ -344,6 +354,7 @@ Mungu amelipa kanisa hizi karama maalum kutuleta katika ukomavu, ili tuwe na tuw
 
 <!-- p44 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p44**
 >
@@ -367,6 +378,7 @@ Mungu amelipa kanisa hizi karama maalum kutuleta katika ukomavu, ili tuwe na tuw
 
 <!-- p45 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p45**
 >
@@ -390,6 +402,7 @@ Mungu amelipa kanisa hizi karama maalum kutuleta katika ukomavu, ili tuwe na tuw
 
 <!-- p46 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p46**
 >
@@ -413,6 +426,7 @@ Mungu amelipa kanisa hizi karama maalum kutuleta katika ukomavu, ili tuwe na tuw
 
 <!-- p47 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p47**
 >
@@ -435,6 +449,7 @@ Mungu amelipa kanisa hizi karama maalum kutuleta katika ukomavu, ili tuwe na tuw
 Bila mafundisho sahihi tutakuwa <u>watoto, tukizungushwa huku na huko na kubebwa.</u>
 <!-- p48 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p48**
 >
@@ -461,6 +476,7 @@ Watoto ni sehemu muhimu ya familia ya Mungu, lakini kiasili watoto ni:
 
 <!-- p50 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p50**
 >
@@ -484,6 +500,7 @@ Watoto ni sehemu muhimu ya familia ya Mungu, lakini kiasili watoto ni:
 
 <!-- p51 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p51**
 >
@@ -507,6 +524,7 @@ Watoto ni sehemu muhimu ya familia ya Mungu, lakini kiasili watoto ni:
 
 <!-- p52 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p52**
 >
@@ -530,6 +548,7 @@ Watoto ni sehemu muhimu ya familia ya Mungu, lakini kiasili watoto ni:
 
 <!-- p53 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p53**
 >
@@ -672,6 +691,7 @@ Kama vile mzazi lazima alinde watoto wake, wanafunzi waliokomaa huwalinda wasio 
 </span>
 <!-- p87 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p87**
 >
@@ -695,6 +715,7 @@ Ni mafundisho Yake yapi, tutasoma nini?
 
 <!-- p88 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p88**
 >
@@ -729,6 +750,7 @@ Katika kazi hii tutajifunza hasa mafundisho ya msingi ya kanisa la Agano Jipya. 
 </span>
 <!-- p92 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p92**
 >
@@ -752,6 +774,7 @@ Mafundisho ya msingi tutakayojifunza ni:
 
 <!-- p93 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p93**
 >
@@ -793,6 +816,7 @@ Mafundisho ya msingi tutakayojifunza ni:
 
 <!-- p100 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p100**
 >

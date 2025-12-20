@@ -65,6 +65,7 @@ Kuna taswira kadhaa kuu za kimajazi zinazotumiwa kuonyesha sifa za kanisa:
 
 <!-- p21 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p21**
 >
@@ -88,6 +89,7 @@ Kuna taswira kadhaa kuu za kimajazi zinazotumiwa kuonyesha sifa za kanisa:
 
 <!-- p22 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p22**
 >
@@ -111,6 +113,7 @@ Kuna taswira kadhaa kuu za kimajazi zinazotumiwa kuonyesha sifa za kanisa:
 
 <!-- p23 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p23**
 >
@@ -137,6 +140,7 @@ Kuna taswira kadhaa kuu za kimajazi zinazotumiwa kuonyesha sifa za kanisa:
 
 <!-- p25 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p25**
 >
@@ -163,6 +167,7 @@ Kuna taswira kadhaa kuu za kimajazi zinazotumiwa kuonyesha sifa za kanisa:
 
 <!-- p27 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p27**
 >
@@ -186,6 +191,7 @@ Kila mfano unaangazia kipengele cha kipekee cha kanisa, ilhali kwa pamoja, wanaf
 
 <!-- p28 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p28**
 >
@@ -212,6 +218,7 @@ Kanisa mara nyingi hufafanuliwa kama **Mwili wa Kristo**, likisisitiza umoja wak
 
 <!-- p30 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p30**
 >
@@ -238,6 +245,7 @@ Kanisa linaelezwa kama **Bibi-arusi wa Kristo**, jambo hili linaakisi uhusiano w
 
 <!-- p32 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p32**
 >
@@ -264,6 +272,7 @@ Kanisa linaelezwa kama **Hekalu la Mungu**, makao ya Roho Wake. Waamini wanaelez
 
 <!-- p34 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p34**
 >
@@ -290,6 +299,7 @@ Kanisa linaelezwa kama **Familia ya Mungu**, likisisitiza umoja wa uhusiano na u
 
 <!-- p36 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p36**
 >
@@ -322,6 +332,7 @@ Kanisa linaelezwa kama **Mzabibu na Matawi**, likionyesha uhusiano muhimu kati y
 
 <!-- p40 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p40**
 >
@@ -372,6 +383,7 @@ Yesu ni nuru ya ulimwengu (<span class="x-scripture" data-book="JHN" data-chapte
 
 <!-- p50 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p50**
 >
@@ -395,6 +407,7 @@ Yesu ni nuru ya ulimwengu (<span class="x-scripture" data-book="JHN" data-chapte
 
 <!-- p51 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p51**
 >
@@ -475,6 +488,7 @@ Nafasi na Majukumu:
 
 <!-- p71 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p71**
 >
@@ -537,6 +551,7 @@ Mchakato wa Uteuzi (<span class="x-scripture" data-book="ACT" data-chapter="6" d
 
 <!-- p85 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p85**
 >
@@ -563,6 +578,7 @@ Mchakato wa Uteuzi (<span class="x-scripture" data-book="ACT" data-chapter="6" d
 
 <!-- p87 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p87**
 >
@@ -592,6 +608,7 @@ Mchakato wa Uteuzi (<span class="x-scripture" data-book="ACT" data-chapter="6" d
 
 <!-- p90 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p90**
 >
@@ -624,6 +641,7 @@ Kwa kutumia yale tuliyojifunza hadi sasa kuhusu kanuni na miundo ya uongozi, heb
 
 <!-- p94 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p94**
 >
@@ -650,6 +668,7 @@ Kanisa la Yerusalemu liliongozwa hasa na **mitume**, ambao walijikita katika maf
 
 <!-- p96 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p96**
 >
@@ -739,6 +758,7 @@ Yesu alitoa karama maalum za huduma kwa ajili ya kuwaandaa watakatifu kwa kazi y
 
 <!-- p118 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p118**
 >
@@ -762,6 +782,7 @@ Yesu alitoa karama maalum za huduma kwa ajili ya kuwaandaa watakatifu kwa kazi y
 
 <!-- p119 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p119**
 >
@@ -973,6 +994,7 @@ Kumbuka, kanisa si jengo wala taasisi; ni mwili ulio hai, unaopumua, ulioundwa n
 
 <!-- p184 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p184**
 >

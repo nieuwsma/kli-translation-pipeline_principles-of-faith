@@ -73,6 +73,7 @@ Wanafunzi walipaswa kusubiri ahadi ya Roho iliyomiminwa, na kwamba hii ilikuwa k
 
 <!-- p21 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p21**
 >
@@ -96,6 +97,7 @@ Wanafunzi walipaswa kusubiri ahadi ya Roho iliyomiminwa, na kwamba hii ilikuwa k
 
 <!-- p22 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p22**
 >
@@ -125,6 +127,7 @@ Kuna vivumishi vingine kadhaa vya msingi vya kumwelezea Roho Mtakatifu. Kila kim
 
 <!-- p25 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p25**
 >
@@ -172,6 +175,7 @@ Katika sifa hizi zote Roho Mtakatifu pia anatambulika ipasavyo kama Msaidizi au 
 
 <!-- p34 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p34**
 >
@@ -195,6 +199,7 @@ Mwombezi hunena kwa niaba ya mwingine, kama wakili wa utetezi. Huombea na kumsai
 
 <!-- p35 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p35**
 >
@@ -221,6 +226,7 @@ Roho Mtakatifu ana madhumuni na majukumu kadhaa mahususi katika huduma Yake. Kaz
 
 <!-- p37 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p37**
 >
@@ -244,6 +250,7 @@ Roho Mtakatifu ana madhumuni na majukumu kadhaa mahususi katika huduma Yake. Kaz
 
 <!-- p38 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p38**
 >
@@ -296,6 +303,7 @@ Kuna mengi zaidi ya kusemwa kuhusu kazi ya ndani ya Roho Mtakatifu na jukumu lak
 
 <!-- p48 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p48**
 >
@@ -350,6 +358,7 @@ Kila dai la ‘Mungu aliniambia!’ au mafundisho ‘mapya’ linapaswa kupimwa 
 
 <!-- p59 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p59**
 >
@@ -373,6 +382,7 @@ Kila dai la ‘Mungu aliniambia!’ au mafundisho ‘mapya’ linapaswa kupimwa 
 
 <!-- p60 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p60**
 >
@@ -396,6 +406,7 @@ Kila dai la ‘Mungu aliniambia!’ au mafundisho ‘mapya’ linapaswa kupimwa 
 
 <!-- p61 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p61**
 >
@@ -532,6 +543,7 @@ Msiogope! Yesu alituahidi kwamba:
 </span>
 <!-- p96 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p96**
 >
@@ -561,6 +573,7 @@ Yesu alisema tutafanya kazi hizi na kubwa zaidi! (<span class="x-scripture" data
 
 <!-- p99 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p99**
 >
@@ -590,6 +603,7 @@ Kila uhusiano unahitaji muda na uzoefu ili kukua kwa undani. Roho Mtakatifu ni m
 
 <!-- p102 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p102**
 >
@@ -621,6 +635,7 @@ Wait I wrote "kutiwa—hapana," Mistake. I must correct.
 
 <!-- p122 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p122**
 >
@@ -647,6 +662,7 @@ Sasa je?
 
 <!-- p124 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p124**
 >

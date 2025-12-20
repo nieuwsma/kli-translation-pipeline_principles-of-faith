@@ -12,6 +12,7 @@ Agano la Kale na Agano Jipya hutumia maneno mbalimbali kwa dhambi, kila moja lik
 
 <!-- p4 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p4**
 >
@@ -35,6 +36,7 @@ Agano la Kale na Agano Jipya hutumia maneno mbalimbali kwa dhambi, kila moja lik
 
 <!-- p5 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p5**
 >
@@ -79,6 +81,7 @@ Kila dhambi huleta matokeo-wakati mwingine ya haraka, wakati mwingine yanachelew
 
 <!-- p13 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p13**
 >
@@ -142,6 +145,7 @@ Kaini alikosa shabaha wapi? (kwa mpangilio wa wakati)
 
 <!-- p22 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p22**
 >
@@ -165,6 +169,7 @@ Matokeo ya matendo ya Kaini yalikuwa nini?
 
 <!-- p23 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p23**
 >
@@ -188,6 +193,7 @@ Matokeo ya matendo ya Kaini yalikuwa nini?
 
 <!-- p24 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p24**
 >
@@ -297,6 +303,7 @@ Maandiko yanatangaza kwamba kutakuwa na hukumu ya mwisho kwa kila mtu kulingana 
 </span>
 <!-- p51 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p51**
 >
@@ -351,6 +358,7 @@ Huenda tukakabili matokeo ya dhambi katika maisha yetu ya asili. Huenda tukahisi
 </span>
 <!-- p61 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p61**
 >
@@ -416,6 +424,7 @@ Sadaka ya hatia, au ***Asham***, ilishughulikia dhambi zilizohusisha kuvunja uam
 
 <!-- p76 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p76**
 >
@@ -484,6 +493,7 @@ Katika Injili, Yesu anaonya kuhusu dhambi, anawaita watu watubu kibinafsi, na an
 
 <!-- p92 -->
 <span class="x-drift">
+
 ---
 > **🧩 Drift Summary for p92**
 >
