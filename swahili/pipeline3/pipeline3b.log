@@ -1,0 +1,80 @@
+⚪ Skipped (no changes): /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter0_0_intro.md
+⚪ Skipped (no changes): /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter0_1_dedication.md
+⚪ Skipped (no changes): /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter0_2_acknowledgements.md
+⚪ Skipped (no changes): /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter0_3_table_of_contents.md
+⚪ Skipped (no changes): /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter0_4_list_of_tables.md
+⚪ Skipped (no changes): /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter0_5_foreword.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter0_6_preface.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter0_6_preface.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter11_chapter_11_baptisms_water_and_spirit.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter11_chapter_11_baptisms_water_and_spirit.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter12_chapter_12_discipleship.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter12_chapter_12_discipleship.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter13_chapter_13_spiritual_authority.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter13_chapter_13_spiritual_authority.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter14_back_1_postscript.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter14_back_1_postscript.md
+⚪ Skipped (no changes): /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter14_back_3_extended_reference_tables.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter14_back_4_end_of_chapter_activities.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter14_back_4_end_of_chapter_activities.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter14_back_5_hearing_the_voice_of_god.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter14_back_5_hearing_the_voice_of_god.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter14_chapter_14_keep_watch.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter14_chapter_14_keep_watch.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter1_chapter_1_sound_doctrine_matters.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter1_chapter_1_sound_doctrine_matters.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter2_chapter_2_god_eternal_creator_and_loving_father.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter2_chapter_2_god_eternal_creator_and_loving_father.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter3_chapter_3_sin_and_redemption.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter3_chapter_3_sin_and_redemption.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter4_chapter_4_jesus_the_messiah.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter4_chapter_4_jesus_the_messiah.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter5_chapter_5_repentance_from_dead_works.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter5_chapter_5_repentance_from_dead_works.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter6_chapter_6_faith_toward_god.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter6_chapter_6_faith_toward_god.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/chapters/chapter9_chapter_9_the_church_our_role_in_it.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter9_chapter_9_the_church_our_role_in_it.md
+⚠️ Logged 130 missing entries → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/missing_sw.csv
+[OK] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter0_0_intro.md
+[OK] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter0_1_dedication.md
+[OK] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter0_2_acknowledgements.md
+[OK] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter0_3_table_of_contents.md
+[OK] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter0_4_list_of_tables.md
+[OK] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter0_5_foreword.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter0_6_preface.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter11_chapter_11_baptisms_water_and_spirit.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter12_chapter_12_discipleship.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter13_chapter_13_spiritual_authority.md
+[OK] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter14_back_1_postscript.md
+[OK] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter14_back_3_extended_reference_tables.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter14_back_4_end_of_chapter_activities.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter14_back_5_hearing_the_voice_of_god.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter14_chapter_14_keep_watch.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter1_chapter_1_sound_doctrine_matters.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter2_chapter_2_god_eternal_creator_and_loving_father.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter3_chapter_3_sin_and_redemption.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter4_chapter_4_jesus_the_messiah.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter5_chapter_5_repentance_from_dead_works.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter6_chapter_6_faith_toward_god.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/chapters/chapter9_chapter_9_the_church_our_role_in_it.md
+
+Done. Files checked: 25 | Updated: 17
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/tables/table1.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table1.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/tables/table10.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table10.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/tables/table11.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table11.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/tables/table12.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table12.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/tables/table2.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table2.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/tables/table3.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table3.md
+⚪ Skipped (no changes): /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/tables/table4.md
+⚪ Skipped (no changes): /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/tables/table5.md
+⚪ Skipped (no changes): /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/tables/table6.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/tables/table7.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table7.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/tables/table8.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table8.md
+✅ /Users/andrew/repo/swahili-principles-of-faith/pipeline2/translation/tables/table9.md → /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table9.md
+✅ All verses found and substituted cleanly.
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table1.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table10.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table11.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table12.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table2.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table3.md
+[OK] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table4.md
+[OK] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table5.md
+[OK] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table6.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table7.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table8.md
+[UPDATED] /Users/andrew/repo/swahili-principles-of-faith/pipeline3/substituted/tables/table9.md
+
+Done. Files checked: 12 | Updated: 9

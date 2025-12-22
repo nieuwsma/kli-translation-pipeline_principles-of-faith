@@ -1,0 +1,579 @@
+{
+  "metadata": {
+    "language": "sw",
+    "translation": "GNBS",
+    "abbreviation": "GNBS",
+    "spdx": "Bible.SW.GNBS.Standard",
+    "right_to_left": false,
+    "license": "Copyright",
+    "copyright": "Swahili Good News Bible. Copyright Tanzania Bible Society. ",
+    "reference_display_local": "1Kor 1:2",
+    "book_name_map": {
+      "1CO": "1Kor",
+      "1JN": "1Yoh",
+      "1SA": "1Sam",
+      "1TH": "1The",
+      "1TI": "1Ti",
+      "2CO": "2Kor",
+      "2PE": "2Pe",
+      "2TI": "2Ti",
+      "ACT": "Mat",
+      "COL": "Kol",
+      "DEU": "Kum",
+      "ECC": "Mhub",
+      "EPH": "Ef",
+      "EXO": "Kuto",
+      "GAL": "Gal",
+      "GEN": "Mwa",
+      "HAB": "Hab",
+      "HEB": "Ebr",
+      "ISA": "Is",
+      "JAS": "Yak",
+      "JER": "Yer",
+      "JHN": "Yoh",
+      "LUK": "Luk",
+      "MAT": "Mat",
+      "MRK": "Mar",
+      "NUM": "Hesa",
+      "PHP": "Fil",
+      "PSA": "Zab",
+      "REV": "Ufu",
+      "ROM": "rom"
+    },
+    "book_numbers": {
+      "1CO": 530,
+      "1JN": 690,
+      "1SA": 90,
+      "1TH": 590,
+      "1TI": 610,
+      "2CO": 540,
+      "2PE": 680,
+      "2TI": 620,
+      "ACT": 510,
+      "COL": 580,
+      "DEU": 50,
+      "ECC": 250,
+      "EPH": 560,
+      "EXO": 20,
+      "GAL": 550,
+      "GEN": 10,
+      "HAB": 420,
+      "HEB": 650,
+      "ISA": 290,
+      "JAS": 660,
+      "JER": 300,
+      "JHN": 500,
+      "LUK": 490,
+      "MAT": 470,
+      "MRK": 480,
+      "NUM": 40,
+      "PHP": 570,
+      "PSA": 230,
+      "REV": 730,
+      "ROM": 520
+    }
+  },
+  "books": {
+    "1CO": {
+      "1": {
+        "2": "tunawaandikia nyinyi mlio kanisa la Mungu huko Korintho. Nyinyi mmefanywa watakatifu katika kuungana na Kristo Yesu, mkaitwa muwe watu wa Mungu, pamoja na watu wote popote wanaomwomba Bwana wetu Yesu Kristo aliye Bwana wao na wetu pia."
+      },
+      "3": {
+        "12": "Juu ya msingi huo mtu anaweza kujenga kwa dhahabu, fedha au mawe ya thamani; anaweza kutumia miti, majani au nyasi.",
+        "13": "Iwe iwavyo, ubora wa kazi ya kila mmoja utaonekana wakati siku ile ya Kristo itakapoifichua. Maana, siku hiyo itatokea na moto, na huo moto utaipima na kuonesha ubora wake.",
+        "14": "Ikiwa alichojenga mtu juu ya huo msingi kitaustahimili huo moto, atapokea tuzo;",
+        "15": "lakini kama alichojenga kitaunguzwa, basi, atapoteza tuzo lake; lakini yeye mwenyewe ataokolewa kana kwamba ameponyoka kutoka motoni."
+      }
+    },
+    "1JN": {
+      "1": {
+        "8": "Tukisema kwamba hatuna dhambi, tunajidanganya wenyewe, na ukweli haumo ndani yetu.",
+        "9": "Lakini tukiziungama dhambi zetu, basi, Mungu ni mwaminifu na mwadilifu, naye atatusamehe dhambi zetu na kututakasa uovu wote.",
+        "10": "Tukisema kwamba hatujatenda dhambi, tutakuwa tumemfanya Mungu mwongo, na neno lake halimo ndani yetu."
+      },
+      "3": {
+        "22": "na kupokea kwake chochote tunachoomba, maana tunazitii amri zake na kufanya yale yanayompendeza."
+      },
+      "4": {
+        "1": "Wapenzi wangu, msimsadiki kila mtu asemaye kwamba ana Roho wa Mungu, bali chunguzeni kwa makini kama huyo mtu anaongozwa na Roho wa Mungu au la, maana manabii wengi wa uongo wamezuka ulimwenguni."
+      }
+    },
+    "1SA": {
+      "15": {
+        "22": "Ndipo Samueli akamwambia, “Je, Mwenyezi-Mungu anapendelea zaidi dhabihu za kuteketezwa na matambiko, kuliko kuitii sauti yake? Tazama, kumtii yeye ni bora kuliko matambiko na kumsikiliza kuliko kumtambikia mafuta ya beberu."
+      }
+    },
+    "1TH": {
+      "4": {
+        "16": "Maana patatolewa amri, sauti ya malaika mkuu, sauti ya tarumbeta ya Mungu, naye Bwana mwenyewe atashuka kutoka mbinguni. Ndipo wale waliokufa wakiwa wanamwamini Kristo watafufuliwa kwanza."
+      }
+    },
+    "1TI": {
+      "4": {
+        "1": "Roho asema waziwazi kwamba siku za baadaye watu wengine wataitupilia mbali imani; watazitii roho danganyifu na kufuata mafundisho ya pepo."
+      },
+      "5": {
+        "22": "Usiharakishe kumwekea mtu yeyote mikono kwa ajili ya kumtumikia Bwana. Usishiriki dhambi za wengine; jiweke katika hali safi."
+      }
+    },
+    "2CO": {
+      "5": {
+        "7": "Maana tunaishi kwa imani, na si kwa kuona.",
+        "10": "Maana sote ni lazima tusimame mbele ya kiti cha hukumu cha Kristo, ili kila mmoja apokee anayostahili kwa matendo aliyoyafanya wakati alipokuwa anaishi duniani, mema au mabaya.",
+        "17": "Mtu yeyote akiungana na Kristo huwa kiumbe kipya, mambo ya kale yamepita, hali mpya imefika."
+      },
+      "7": {
+        "10": "Kuwa na huzuni jinsi atakavyo Mungu husababisha badiliko la moyo, badiliko lenye kuleta wokovu; hivyo hakuna sababu ya kujuta. Lakini huzuni ya kidunia huleta kifo."
+      },
+      "10": {
+        "3": "Kweli tunaishi duniani, lakini hatupigani vita kidunia.",
+        "4": "Maana, silaha tunazotumia katika vita vyetu si silaha za kidunia, ila ni nguvu ya Mungu yenye kuharibu ngome zote. Tunaharibu hoja zote za uongo",
+        "5": "na kubomoa kila kizuizi cha majivuno kilichowekwa kuipinga elimu ya Mungu; tunaziteka fikira zote na kuzifanya zimtii Kristo.",
+        "6": "Mkisha kuwa wakamilifu katika kutii, sisi tuko tayari kuadhibu kila namna ya kutotii."
+      }
+    },
+    "2PE": {
+      "1": {
+        "20": "Zaidi ya hayo, lakini, kumbukeni kwamba hakuna mtu yeyote awezaye kufafanua mwenyewe unabii ulio katika Maandiko Matakatifu.",
+        "21": "Maana hakuna ujumbe wa kinabii unaotokana na matakwa ya binadamu, bali watu walitoa unabii wakiongozwa na Roho Mtakatifu."
+      }
+    },
+    "2TI": {
+      "3": {
+        "1": "Kumbuka kwamba, katika siku za mwisho kutakuwa na nyakati za taabu.",
+        "2": "Watu watakuwa na ubinafsi, wenye tamaa ya fedha, wenye majivuno, wenye kujiona, wenye kumtukana Mungu, wasiowatii wazazi wao, wasio na shukrani na waovu;",
+        "3": "watatokea watu wasio na upendo moyoni, wasio na huruma, wachongezi, walafi na wakali; watachukia chochote kilicho chema;",
+        "4": "watakuwa wahaini, wakaidi na waliojaa kiburi; watapenda anasa kuliko kumpenda Mungu.",
+        "5": "Kwa nje wataonekana kama watu wenye kumcha Mungu, lakini wataikana nguvu yake. Jiepushe kabisa na watu wa namna hiyo.",
+        "6": "Baadhi yao huenda katika nyumba za watu na huwateka wanawake dhaifu waliolemewa mizigo ya dhambi na ambao wanaongozwa na tamaa za kila aina;",
+        "7": "wanawake ambao wanajaribu daima kujifunza lakini hawawezi kuufikia ujuzi wa huo ukweli.",
+        "8": "Watu hao huupinga ukweli kama vile Yane na Yambre walivyompinga Mose. Hao ni watu wa akili potovu na imani ya uongo.",
+        "9": "Lakini hawataweza kuendelea zaidi kwa maana upumbavu wao utaonekana wazi kwa wote. Ndivyo ilivyokuwa kwa akina Yane na Yambre.",
+        "16": "Maandiko yote Matakatifu yameandikwa kwa uongozi wa Mungu, na yanafaa katika kufundishia ukweli, kuonya, kusahihisha makosa, na kuwaongoza watu waishi maisha adili,"
+      },
+      "4": {
+        "1": "Nakuamuru mbele ya Mungu, na mbele ya Kristo Yesu atakayewahukumu watu walio hai na wafu, na kwa sababu anakuja kutawala akiwa Mfalme:",
+        "2": "Hubiri huo ujumbe, sisitiza kuutangaza (iwe ni wakati wa kufaa au wakati usiofaa), karipia, onya na himiza watu ukiwafundisha kwa uvumilivu wote.",
+        "3": "Utakuja wakati ambapo watu hawatasikiliza mafundisho ya kweli, ila watafuata tamaa zao wenyewe na kujikusanyia waalimu tele watakaowaambia mambo yale tu ambayo masikio yao yako tayari kusikia.",
+        "4": "Watakataa kuusikia ukweli, watageukia hadithi za uongo."
+      }
+    },
+    "ACT": {
+      "1": {
+        "4": "Wakati alipokutana pamoja nao aliwaamuru hivi: “Msiondoke Yerusalemu, bali ngojeni ile zawadi aliyoahidi Baba, ambayo mlikwisha nisikia nikiongea juu yake.",
+        "5": "Kwani Yohane alibatiza kwa maji, lakini baada ya siku chache, nyinyi mtabatizwa kwa Roho Mtakatifu.”",
+        "6": "Basi, mitume walipokutana pamoja na Yesu, walimwuliza, “Je, Bwana, wakati huu ndipo utakaporudisha ule ufalme kwa Israeli?”",
+        "7": "Lakini Yesu akawaambia, “Nyakati na majira ya mambo hayo viko chini ya mamlaka ya Baba yangu, wala si shauri lenu kujua yatakuwa lini.",
+        "8": "Lakini wakati Roho Mtakatifu atakapowashukieni nyinyi, mtapokea nguvu na mtakuwa mashahidi wangu katika Yerusalemu, katika nchi yote ya Yudea na Samaria, na hata miisho ya dunia.”",
+        "9": "Baada ya kusema hayo, wote wakiwa wanamtazama, alichukuliwa mbinguni; wingu likamficha wasimwone tena.",
+        "11": "wakasema, “Enyi wananchi wa Galilaya! Mbona mnasimama mkitazama angani? Yesu huyu ambaye amechukuliwa kutoka kwenu kwenda mbinguni atakuja tena namna hiyohiyo mlivyomwona akienda mbinguni.”"
+      },
+      "2": {
+        "38": "Petro akajibu, “Tubuni na kila mmoja wenu abatizwe kwa jina la Yesu Kristo ili mpate kuondolewa dhambi zenu na kupokea ile ahadi ya Roho Mtakatifu.",
+        "39": "Maana, ahadi ile ilikuwa kwa ajili yenu, kwa ajili ya watoto wenu, kwa ajili ya wote wanaokaa mbali na kwa ajili ya kila mtu ambaye Bwana Mungu wetu atamwita kwake.”"
+      },
+      "8": {
+        "17": "Basi, Petro na Yohane wakawawekea mikono hao waumini, nao wakampokea Roho Mtakatifu."
+      },
+      "19": {
+        "6": "Basi, Paulo akawawekea mikono, na Roho Mtakatifu akawashukia, wakaanza kusema lugha ngeni na kutangaza ujumbe wa Mungu."
+      }
+    },
+    "COL": {
+      "1": {
+        "16": "Maana kwake vitu vyote viliumbwa kila kitu duniani na mbinguni, vitu vinavyoonekana na visivyoonekana: Wenye enzi, watawala, wakuu na wenye nguvu. Vyote viliumbwa kwake na kwa ajili yake.",
+        "17": "Yeye alikuwako kabla ya vitu vyote; vyote huendelea kuwako kwa uwezo wake."
+      },
+      "2": {
+        "8": "Angalieni, basi, mtu asiwapotoshe kwa udanganyifu mtupu wa hekima ya kibinadamu, ambayo chanzo chake ni mafundisho ya mapokeo ya watu na ya pepo watawala, na wala si Kristo mwenyewe!"
+      }
+    },
+    "DEU": {
+      "28": {
+        "1": "“Kama mkiitii sauti ya Mwenyezi-Mungu, Mungu wenu na kuzingatia kwa uangalifu amri ambazo ninawaamuru leo, yeye atawaweka juu ya mataifa yote duniani.",
+        "2": "Kama mkitii sauti ya Mwenyezi-Mungu, Mungu wenu, mtapewa baraka zifuatazo;",
+        "3": "“Miji yenu itabarikiwa na mashamba yenu.",
+        "4": "“Mtabarikiwa mpate wazawa wengi, mavuno mengi, ng'ombe na kondoo wengi.",
+        "5": "“Vikapu vyenu vya nafaka vitabarikiwa na vyombo vyenu vya kukandia.",
+        "6": "Mtabarikiwa mnaporudi nyumbani na mnapotoka nje.",
+        "7": "Maadui zenu wakiwashambulia, Bwana atawapeni ushindi juu yao. Wakija kuwashambulia kwa njia moja watawakimbieni kwa njia saba.",
+        "8": "Baraka za Mwenyezi-Mungu zitakuwa katika ghala zenu za nafaka na katika shughuli zenu zote. Atawabariki katika nchi ambayo anawapeni.",
+        "9": "“Mwenyezi-Mungu atawafanyeni kuwa watu wake watakatifu kama alivyowaahidi, kama mkizitii amri zake yeye Mwenyezi-Mungu, Mungu wenu, na kufuata njia zake.",
+        "10": "Mataifa yote duniani yakiona kwamba nyinyi mnaitwa kwa jina la Mwenyezi-Mungu yatawaogopa.",
+        "11": "Mwenyezi-Mungu atawafanikisha kwa wingi: Watoto, mifugo na mavuno shambani katika nchi aliyowaapia wazee wenu kuwa atawapeni,",
+        "12": "Mwenyezi-Mungu atawafungulieni hazina yake nzuri kutoka mbinguni na kunyesha mvua katika nchi kwa wakati wake, na kubariki kazi zenu. Mtayakopesha mataifa mengi, lakini nyinyi hamtakopa.",
+        "13": "Mwenyezi-Mungu, Mungu wenu, atawafanya kuwa wa kwanza kwa nguvu na sio wa mwisho. Mtaendelea mbele na sio kurudi nyuma kama mkishika amri zake ambazo ninawapeni leo na kuwa waangalifu kuzitekeleza,",
+        "14": "bila kugeuka kulia au kushoto kuifuata miungu mingine na kuitumikia."
+      },
+      "31": {
+        "9": "Basi, Mose aliandika sheria hiyo, akawapa makuhani wa ukoo wa Lawi ambao walikuwa na jukumu la kubeba agano la Mwenyezi-Mungu, na wazee wote wa Israeli.",
+        "11": "wakati watu wa Israeli wanapokuja mbele ya Mwenyezi-Mungu mahali pale atakapochagua mtawasomea watu wote wa Israeli sheria hii."
+      }
+    },
+    "ECC": {
+      "12": {
+        "14": "Maana, Mungu atahukumu matendo yetu yote, hata yale yanayotendwa kwa siri, yawe mema au mabaya."
+      }
+    },
+    "EPH": {
+      "1": {
+        "13": "Nanyi pia watu wa mataifa mengine, mliusikia ujumbe wa kweli yaani Habari Njema iliyowaletea wokovu, mkamwamini Kristo; naye Mungu, ili kuonesha kuwa nyinyi ni wake, akawapiga mhuri kwa kuwapeni yule Roho Mtakatifu aliyetuahidia.",
+        "14": "Huyu Roho ni dhamana ya kupata yote yale Mungu aliyowaahidia watu wake, na jambo hili latuhakikishia kwamba Mungu atawakomboa kabisa wote walio wake. Tuusifu utukufu wake!",
+        "22": "Mungu ameweka vitu vyote chini ya miguu yake, akamkabidhi kwa kanisa akiwa mkuu wa vitu vyote.",
+        "23": "Kanisa ni mwili wa Kristo, na ukamilifu wake yeye anayekamilisha vitu vyote kila mahali."
+      },
+      "2": {
+        "8": "Maana, kwa neema ya Mungu mmekombolewa kwa njia ya imani. Jambo hili si matokeo ya juhudi zenu, bali ni zawadi ya Mungu.",
+        "9": "Wala halitokani na matendo yenu wenyewe, asije mtu akajivunia kitu.",
+        "10": "Sisi ni viumbe vyake Mungu, na kwa kuungana na Kristo Yesu, alituumba kwa ajili ya kuishi maisha ya matendo mema aliyotutayarishia tuyatende."
+      },
+      "4": {
+        "11": "Ndiye aliyewapa watu zawadi: Wengine aliwajalia wawe mitume, wengine manabii, wengine wawe waeneza Injili, wengine wachungaji na waalimu.",
+        "12": "Alifanya hivyo apate kuwatayarisha watu wote wa Mungu kwa ajili ya kazi ya huduma ya Kikristo ili kuujenga mwili wa Kristo,",
+        "13": "na hivyo sote tuufikie umoja wa imani na kumjua Mwana wa Mungu; tuwe watu waliokomaa na kuufikia utimilifu wake Kristo mwenyewe.",
+        "14": "Basi, hatutakuwa tena kama watoto, tukitupwa na kupeperushwa huko na huko kwa kila upepo wa mafundisho wanayozua watu wadanganyifu ili wawapotoshe wengine kwa hila.",
+        "15": "Kama tukiuzingatia ukweli kwa moyo wa mapendo tutakua katika kila jambo kulingana na Kristo ambaye ndiye kichwa;",
+        "16": "chini ya uongozi wake, viungo vyote vya mwili hushikamana pamoja, na mwili wote hutegemezwa kwa msaada wa viungo vyake. Basi, kila kiungo kikitekeleza kazi yake ipasavyo, mwili wote hukua na kujijenga katika upendo."
+      }
+    },
+    "EXO": {
+      "3": {
+        "14": "Mungu akamjibu, “MIMI NDIMI NILIYE. Waambie hivi watu wa Israeli: Yule anayeitwa, NDIMI NILIYE, amenituma kwenu."
+      },
+      "7": {
+        "16": "Kisha mwambie hivi, Mwenyezi-Mungu, Mungu wa Waebrania, amenituma kwako, naye asema hivi, ‘Waache watu wangu waende zao ili wanitumikie jangwani, lakini mpaka sasa wewe hupendi kutii."
+      },
+      "12": {
+        "31": "Hapo Farao akawaita Mose na Aroni, usiku huohuo, akamwambia, “Amkeni! Ondokeni miongoni mwa watu wangu. Nendeni, nyinyi pamoja na hao Waisraeli, mkamtumikie Mwenyezi-Mungu kama mlivyosema."
+      },
+      "20": {
+        "6": "Lakini nawafadhili maelfu ya wale wanipendao na kuzishika amri zangu."
+      },
+      "24": {
+        "4": "Mose akayaandika maagizo yote ambayo Mwenyezi-Mungu alimpa. Kisha akaamka asubuhi na mapema, akajenga madhabahu chini ya mlima na kusimamisha nguzo kumi na mbili kulingana na idadi ya makabila kumi na mbili ya Israeli."
+      }
+    },
+    "GAL": {
+      "3": {
+        "2": "Napenda kujua tu kitu kimoja kutoka kwenu: Je, mlipokea Roho wa Mungu kwa sababu ya kutimiza matakwa ya sheria ama kwa sababu ya kuisikia na kuiamini Injili?"
+      },
+      "6": {
+        "7": "Msidanganyike; Mungu hafanyiwi dhihaka. Alichopanda mtu ndicho atakachovuna.",
+        "8": "Apandaye katika tamaa za kidunia, atavuna humo uharibifu; lakini akipanda katika Roho, atavuna kutoka kwa Roho uhai wa milele."
+      }
+    },
+    "GEN": {
+      "4": {
+        "1": "Adamu akalala na Hawa mkewe, naye akapata mimba, akamzaa Kaini. Hawa akasema, “Nimepata mtoto wa kiume kwa msaada wa Mwenyezi-Mungu!”",
+        "2": "Halafu akamzaa Abeli nduguye. Abeli alikuwa mfugaji kondoo na Kaini alikuwa mkulima.",
+        "3": "Baada ya muda fulani, Kaini alimtolea Mwenyezi-Mungu sadaka kutokana na mazao ya shambani,",
+        "4": "naye Abeli akamtolea Mungu sadaka ya wazawa wa kwanza wa kondoo wake na nyama nono. Mwenyezi-Mungu akapendezwa na Abeli na tambiko yake,",
+        "5": "lakini hakupendezwa na Kaini wala na tambiko yake. Basi, Kaini akakasirika sana na uso wake ukakunjamana.",
+        "6": "Mwenyezi-Mungu akamwambia Kaini, “Kwa nini umekasirika, na kwa nini uso wako umekunjamana?",
+        "7": "Je, ukitenda vyema hutakubaliwa? Na usipotenda vyema, basi, dhambi inakuvizia mlangoni; inakutamani, lakini unapaswa kuishinda.”",
+        "8": "Baadaye, Kaini akamwambia Abeli nduguye, “Twende nje shambani” Basi, walipokuwa shambani, Kaini akamvamia Abeli nduguye, akamuua.",
+        "9": "Mwenyezi-Mungu akamwuliza Kaini, “Ndugu yako Abeli yuko wapi?” Kaini akamjibu, “Mimi sijui! Je, mimi ni mlinzi wa ndugu yangu?”",
+        "10": "Mwenyezi-Mungu akasema, “Umefanya nini? Damu ya ndugu yako yanililia kutoka udongoni.",
+        "11": "Sasa wewe umelaaniwa! Hutailima tena ardhi yenye rutuba ambayo kama kinywa imeipokea damu ya nduguyo uliyemuua.",
+        "12": "Ukiilima ardhi haitakupatia tena mazao yake. Utakuwa mtu wa kutangatanga, asiye na makao maalumu duniani.”",
+        "13": "Kaini akamwambia Mwenyezi-Mungu, “Adhabu yangu ni kubwa mno; siwezi kuistahimili.",
+        "14": "Leo umenifukuza kutoka ardhi yenye rutuba na mbali nawe. Basi, nitakuwa mtu wa kutangatanga, asiye na makao maalumu duniani, na yeyote atakayeniona ataniua.”",
+        "15": "Lakini Mwenyezi-Mungu akamjibu, “Sivyo! Atakayekuua wewe Kaini atalipizwa mara saba.” Basi, Mwenyezi-Mungu akamtia Kaini alama ya tahadhari, ili yeyote atakayemwona asimuue.",
+        "16": "Kisha Kaini akaondoka mbele ya Mwenyezi-Mungu, akawa anaishi katika nchi ya Nodi, upande wa mashariki wa Edeni."
+      }
+    },
+    "HAB": {
+      "2": {
+        "2": "Kisha, Mwenyezi-Mungu akanijibu hivi: “Yaandike maono haya; yaandike wazi juu ya vibao, anayepitia hapo apate kuyasoma."
+      }
+    },
+    "HEB": {
+      "6": {
+        "1": "Basi, tuyaache nyuma yale mafundisho ya mwanzomwanzo juu ya Kristo, tusonge mbele kwa yale yaliyokomaa, na sio kuendelea kuweka msingi kuhusu kuachana na matendo ya kifo, na juu ya kumwamini Mungu;",
+        "2": "mafundisho juu ya ubatizo na kuwekewa mikono; ufufuo wa wafu na hukumu ya milele."
+      },
+      "9": {
+        "15": "Hivyo yeye ni mpatanishi wa agano jipya ambamo wale walioitwa na Mungu wanaweza kupokea baraka za milele walizoahidiwa. Kifo chake huwakomboa watu kutoka yale makosa waliyofanya wakati wa lile agano la kale.",
+        "27": "Basi, kama vile kila mtu hufa mara moja tu, kisha husimama mbele ya hukumu ya Mungu,"
+      },
+      "10": {
+        "1": "Kwa vile sheria ni kivuli tu cha mambo mema yatakayokuja na si picha kamili ya mambo yale halisi, tambiko zilezile za sheria zinazotolewa mwaka hata mwaka, haziwezi kamwe kuwafanya wale wanaoabudu wawe wakamilifu!",
+        "2": "Kama hao watu wanaomwabudu Mungu wangekuwa wametakaswa dhambi zao kweli, hawangejisikia tena kuwa na dhambi, na tambiko hizo zote zingekoma.",
+        "3": "Lakini tambiko hizo hufanyika kila mwaka kuwakumbusha watu dhambi zao.",
+        "4": "Maana damu ya fahali na mbuzi haiwezi kamwe kuondoa dhambi."
+      }
+    },
+    "ISA": {
+      "1": {
+        "19": "Mkiwa tayari kunitii, mtakula mazao mema ya nchi."
+      },
+      "30": {
+        "8": "Mungu aliniambia: “Sasa chukua kibao cha kuandikia, uandike jambo hili mbele yao, liwe ushahidi wa milele:"
+      },
+      "40": {
+        "31": "Lakini wote wanaomtumainia Mwenyezi-Mungu, watapata nguvu mpya. Watapanda juu kwa mabawa kama tai; watakimbia bila kuchoka; watatembea bila kulegea."
+      },
+      "59": {
+        "2": "Dhambi zenu ndizo zinazowatenga na Mungu wenu, dhambi zenu zimemfanya ajifiche mbali nanyi hata asiweze kuwasikieni."
+      }
+    },
+    "JAS": {
+      "1": {
+        "22": "Msijidanganye wenyewe kwa kusikiliza tu neno lake, bali litekelezeni kwa vitendo."
+      },
+      "2": {
+        "14": "Ndugu zangu, kuna faida gani mtu kusema ana imani, lakini haonyeshi kwa vitendo? Je, hiyo imani yawezaje kumwokoa?",
+        "15": "Tuseme kaka au dada hana nguo au chakula.",
+        "16": "Yafaa kitu gani nyinyi kuwaambia hao: “Nendeni salama mkaote moto na kushiba,” bila kuwapatia mahitaji yao ya maisha?",
+        "17": "Vivyo hivyo, imani peke yake bila matendo imekufa.",
+        "18": "Lakini mtu anaweza kusema: “Wewe unayo imani, mimi ninayo matendo!” Haya! Nioneshe jinsi mtu anavyoweza kuwa na imani bila matendo, nami nitakuonesha imani yangu kwa matendo yangu.",
+        "19": "Je, wewe unaamini kwamba yuko Mungu mmoja? Sawa! Lakini hata pepo huamini hilo, na hutetemeka kwa hofu.",
+        "20": "Mpumbavu wee! Je, wataka kuoneshwa kwamba imani bila matendo imekufa?"
+      },
+      "4": {
+        "1": "Mapigano na ugomvi wote kati yenu vinatoka wapi? Hutoka katika tamaa zenu mbaya ambazo hupigana daima ndani yenu.",
+        "2": "Mnatamani vitu na kwa vile hamvipati mko tayari kuua; mwatamani sana kupata vitu, lakini hamvipati; hivyo mnagombana na kupigana. Hampati kile mnachotaka kwa sababu hamkiombi kwa Mungu.",
+        "3": "Tena, mnapoomba hampati kwa sababu mnaomba kwa nia mbaya; mnaomba ili mpate kutosheleza tamaa zenu."
+      }
+    },
+    "JER": {
+      "29": {
+        "11": "Maana, mimi Mwenyezi-Mungu ninajua mambo niliyowapangia. Nimewapangieni mema na si mabaya, ili mpate kuwa na tumaini la baadaye."
+      },
+      "36": {
+        "2": "“Chukua kitabu uandike humo maneno yote niliyokuambia juu ya Israeli, juu ya Yuda na mataifa yote, tangu siku nilipoanza kuongea nawe, wakati Yosia alipokuwa mfalme mpaka leo."
+      }
+    },
+    "JHN": {
+      "3": {
+        "16": "Maana Mungu aliupenda ulimwengu hivi hata akamtoa Mwana wake wa pekee, ili kila amwaminiye asipotee, bali awe na uhai wa milele."
+      },
+      "5": {
+        "19": "Yesu akawaambia, “Kweli nawaambieni, Mwana hawezi kufanya kitu peke yake; anaweza tu kufanya kile anachomwona Baba akikifanya. Maana kile anachofanya Baba, Mwana hukifanya vilevile.",
+        "22": "Baba hamhukumu mtu yeyote; shughuli yote ya hukumu amemkabidhi Mwana,",
+        "23": "ili watu wote wamheshimu Mwana kama vile wanavyomheshimu Baba. Asiyemheshimu Mwana hamheshimu Baba ambaye amemtuma.",
+        "28": "Msistaajabie jambo hili; maana wakati unakuja ambapo wote waliomo makaburini wataisikia sauti yake,",
+        "29": "nao watafufuka: Wale waliotenda mema watafufuka na kuishi, na wale waliotenda maovu watafufuka na kuhukumiwa."
+      },
+      "8": {
+        "31": "Basi, Yesu akawaambia wale Wayahudi waliomwamini, “Kama mkiyazingatia mafundisho yangu mtakuwa kweli wanafunzi wangu.",
+        "32": "Mtaujua ukweli, nao ukweli utawapeni uhuru.”"
+      },
+      "10": {
+        "10": "Mwizi huja kwa shabaha ya kuiba, kuua na kuharibu. Mimi nimekuja mpate kuwa na uhai – uhai kamili.",
+        "17": "“Baba ananipenda kwani nautoa uhai wangu ili nipate kuupokea tena.",
+        "18": "Hakuna mtu anayeninyanganya uhai wangu; mimi nautoa kwa hiari yangu mwenyewe. Ninao uwezo wa kuutoa na uwezo wa kuuchukua tena. Hivi ndivyo Baba alivyoniamuru nifanye.”"
+      },
+      "14": {
+        "12": "Kweli nawaambieni, anayeniamini atafanya mambo ninayofanya mimi; naam, atafanya hata makuu zaidi, kwani ninakwenda kwa Baba.",
+        "13": "Na chochote mtakachoomba kwa jina langu nitafanya, ili Baba atukuzwe ndani ya Mwana.",
+        "14": "Mkiniomba chochote kwa jina langu, nitawafanyieni.",
+        "16": "Nami nitamwomba Baba naye atawapeni Msaidizi mwingine, atakayekaa nanyi milele.",
+        "17": "Yeye ni Roho wa ukweli. Ulimwengu hauwezi kumpokea kwa sababu hauwezi kumwona wala kumjua. Lakini nyinyi mnamjua kwa sababu anabaki nanyi na yu ndani yenu.",
+        "18": "“Sitawaacha nyinyi yatima; nitakuja tena kwenu."
+      },
+      "15": {
+        "1": "“Mimi ni mzabibu wa kweli, na Baba yangu ndiye mkulima.",
+        "2": "Kila tawi ndani yangu lisilozaa matunda yeye huliondoa, na kila tawi lizaalo hulisafisha lipate kuzaa zaidi.",
+        "3": "Nyinyi mmekwisha kuwa safi kwa sababu ya ule ujumbe niliowaambieni.",
+        "4": "Kaeni ndani yangu, nami nikae ndani yenu. Kama vile tawi haliwezi peke yake kuzaa matunda lisipobaki katika mzabibu, hali kadhalika nanyi hamwezi kuzaa matunda msipokaa ndani yangu.",
+        "8": "Baba yangu hutukuzwa kama mkizaa matunda mengi na kuwa wanafunzi wangu."
+      },
+      "16": {
+        "7": "Lakini, nawaambieni ukweli: Afadhali kwenu mimi niende zangu, maana nisipokwenda Msaidizi hatakuja kwenu. Lakini nikienda, basi, nitamtuma kwenu.",
+        "8": "Naye atakapokuja atawathibitishia walimwengu kwamba wamekosea kuhusu dhambi, uadilifu na hukumu ya Mungu.",
+        "9": "Wamekosea kuhusu dhambi kwa sababu hawaniamini;",
+        "10": "kuhusu uadilifu, kwa sababu nakwenda zangu kwa Baba, nanyi hamtaniona tena;",
+        "11": "kuhusu hukumu, kwa sababu mkuu wa ulimwengu huu amekwisha hukumiwa.",
+        "13": "Lakini atakapokuja huyo Roho wa ukweli atawaongoza kwenye ukweli wote; maana hatasema kwa mamlaka yake mwenyewe, bali atasema atakayoyasikia na kuwajulisheni yatakayokuja.",
+        "14": "Yeye atanitukuza mimi kwa kuwa atawajulisheni yale atakayopata kutoka kwangu."
+      },
+      "20": {
+        "24": "Thoma, mmoja wa wale kumi na wawili (aitwaye Pacha), hakuwa pamoja nao wakati Yesu alipokuja.",
+        "25": "Basi, wale wanafunzi wengine wakamwambia, “Tumemwona Bwana.” Thoma akawaambia, “Nisipoona mikononi mwake alama za misumari na kutia kidole changu katika kovu hizo, na kutia mkono wangu ubavuni mwake, sitasadiki.”",
+        "26": "Basi, baada ya siku nane hao wanafunzi walikuwa tena pamoja mle ndani, na Thoma alikuwa pamoja nao. Milango ilikuwa imefungwa, lakini Yesu akaja, akasimama kati yao, akasema, “Amani kwenu!”",
+        "27": "Kisha akamwambia Thoma, “Lete kidole chako hapa uitazame mikono yangu; lete mkono wako ukautie ubavuni mwangu. Usiwe na mashaka, ila amini!”",
+        "28": "Thoma akamjibu, “Bwana wangu na Mungu wangu!”",
+        "29": "Yesu akamwambia, “Je, unaamini kwa kuwa umeniona? Heri yao wale ambao hawajaona, lakini wameamini.”"
+      }
+    },
+    "LUK": {
+      "4": {
+        "16": "Basi, Yesu alikwenda Nazareti, mahali alipolelewa, na siku ya Sabato, aliingia katika sunagogi kama ilivyokuwa desturi yake. Akasimama ili asome Maandiko Matakatifu kwa sauti.",
+        "17": "Akapokea kitabu cha nabii Isaya, akakifungua na akakuta mahali palipoandikwa:",
+        "18": "“Roho wa Bwana yu juu yangu, kwani ameniweka wakfu niwaletee maskini Habari Njema. Amenituma niwatangazie mateka uhuru wao, na vipofu watapata kuona tena; amenituma niwakomboe wanaoonewa,",
+        "19": "na kutangaza mwaka wa neema ya Bwana.”",
+        "20": "Baada ya kusoma, akafunga kile kitabu, akampa mtumishi, kisha akaketi; watu wote wakamkodolea macho.",
+        "21": "Naye akaanza kuwaambia, “Andiko hili mlilosikia limetimia leo.”"
+      },
+      "6": {
+        "40": "Mwanafunzi hampiti mwalimu wake, lakini kila mwanafunzi akisha hitimu huwa kama mwalimu wake."
+      },
+      "10": {
+        "19": "Naam, nimewapeni uwezo wa kukanyaga nyoka na nge, na uwezo juu ya nguvu zote za yule adui; hakuna chochote kitakachowadhuru."
+      },
+      "11": {
+        "13": "Kama nyinyi, ingawa ni waovu, mnajua kuwapa watoto wenu vitu vizuri, hakika baba yenu wa mbinguni atafanya zaidi; atawapa Roho Mtakatifu wale wanaomwomba.”"
+      },
+      "12": {
+        "11": "“Watakapowapeleka nyinyi mbele ya masunagogi na mbele ya wakuu na watawala, msiwe na wasiwasi juu ya jinsi mtakavyojitetea au jinsi mtakavyosema.",
+        "12": "Kwa maana wakati huo Roho Mtakatifu atawafundisheni kile mnachopaswa kusema.”"
+      }
+    },
+    "MAT": {
+      "3": {
+        "11": "Mimi ninawabatizeni kwa maji kuonesha mmetubu. Lakini anayekuja baada yangu ana nguvu kuliko mimi, nami sistahili hata kubeba viatu vyake. Yeye atawabatizeni kwa Roho Mtakatifu na kwa moto."
+      },
+      "4": {
+        "17": "Tangu wakati huo Yesu alianza kuhubiri akisema, “Tubuni, maana ufalme wa mbinguni umekariia!”"
+      },
+      "8": {
+        "16": "Ilipokuwa jioni, walimletea watu wengi waliokuwa wamepagawa na pepo; naye, kwa kusema neno tu, akawafukuza hao pepo. Aliwaponya pia watu wote waliokuwa wagonjwa.",
+        "17": "Alifanya hivyo ili yale aliyosema nabii Isaya yatimie: “Yeye mwenyewe ameuchukua udhaifu wetu, ameyabeba magonjwa yetu.”"
+      },
+      "12": {
+        "36": "“Basi, nawaambieni, siku ya hukumu watu watapaswa kujibu juu ya kila neno lisilofaa wanalosema.",
+        "37": "Maana kwa maneno yako utakubaliwa kuwa mwadilifu, na kwa maneno yako utahukumiwa kuwa na hatia.”"
+      },
+      "13": {
+        "10": "Wanafunzi wake wakamwendea, wakamwuliza, “Kwa nini unasema na watu kwa mifano?”",
+        "11": "Yesu akawajibu, “Nyinyi mmejaliwa kuzijua siri za ufalme wa mbinguni, lakini wao hawakujaliwa.",
+        "13": "Ndio maana ninasema nao kwa mifano, kwa sababu wanatazama lakini hawaoni, wanasikiliza lakini hawasikii, wala hawaelewi.",
+        "15": "Maana akili za watu hawa zimepumbaa, wameyaziba masikio yao, wameyafumba macho yao. La sivyo, wangeona kwa macho yao, wangesikia kwa masikio yao, wangeelewa kwa akili zao, na kunigeukia, asema Bwana, nami ningewaponya.’"
+      },
+      "16": {
+        "18": "Nami nakuambia: Wewe ni Petro, na juu ya mwamba huu nitalijenga kanisa langu; wala nguvu za kifo hazitaweza kulishinda."
+      },
+      "18": {
+        "18": "“Nawaambieni kweli, mtakachofunga duniani kitafungwa mbinguni, na mtakachofungua duniani kitafunguliwa mbinguni."
+      },
+      "25": {
+        "46": "Basi, hawa watakwenda kwenye adhabu ya milele, lakini wale waadilifu watakwenda kwenye uhai wa milele.”"
+      },
+      "28": {
+        "18": "Yesu akaja karibu, akawaambia, “Nimepewa mamlaka yote mbinguni na duniani.",
+        "19": "Nendeni basi, mkawafanye watu wa mataifa yote wawe wanafunzi wangu, mkiwabatiza kwa jina la Baba, na la Mwana, na la Roho Mtakatifu.",
+        "20": "Wafundisheni kushika maagizo yote niliyowapeni. Nami nipo pamoja nanyi siku zote; naam, mpaka mwisho wa nyakati.”"
+      }
+    },
+    "MRK": {
+      "2": {
+        "10": "Basi, nataka mjue kwamba Mwana wa Mtu anayo mamlaka ya kuwasamehe watu dhambi duniani.” Hapo akamwambia huyo mtu aliyepooza,"
+      },
+      "7": {
+        "9": "Yesu akaendelea kusema, “Nyinyi mnajua kuepa kwa ujanja sheria ya Mungu kwa ajili ya kufuata mapokeo yenu!",
+        "13": "Hivyo ndivyo mnavyodharau neno la Mungu kwa ajili ya mafundisho mnayopokezana. Tena mnafanya mambo mengi ya namna hiyo.”"
+      },
+      "16": {
+        "15": "Basi, akawaambia, “Nendeni ulimwenguni kote mkahubiri Habari Njema kwa kila mtu.",
+        "16": "Anayeamini na kubatizwa ataokolewa. Asiyeamini atahukumiwa.",
+        "17": "Na ishara hizi zitaandamana na wale wanaoamini: Kwa jina langu watatoa pepo na watasema kwa lugha mpya.",
+        "18": "Wakishika nyoka au wakinywa kitu chochote chenye sumu, hakitawadhuru. Watawawekea wagonjwa mikono, nao watapona.”",
+        "19": "Basi, Bwana Yesu alipokwisha sema nao, akachukuliwa mbinguni, akaketi upande wa kulia wa Mungu.",
+        "20": "Wanafunzi wakaenda wakihubiri kila mahali. Bwana akafanya kazi pamoja nao na kuimarisha ujumbe huo kwa ishara zilizoandamana nao.]"
+      }
+    },
+    "NUM": {
+      "33": {
+        "2": "Mose aliandika jina la kila mahali walipopiga kambi, kituo baada ya kituo, kwa agizo la Mwenyezi-Mungu."
+      }
+    },
+    "PHP": {
+      "2": {
+        "12": "Wapenzi wangu, nilipokuwa nanyi mlinitii daima, na hata sasa niwapo mbali nanyi endeleeni kutii. Fanyeni kazi kwa hofu na tetemeko kwa ajili ya ukombozi wenu,",
+        "13": "kwani Mungu ndiye afanyaye kazi daima ndani yenu, na kuwapeni uwezo wa kutaka na kutekeleza mambo yanayopatana na mpango wake mwenyewe."
+      },
+      "3": {
+        "12": "Sijidai kwamba nimekwisha faulu au nimekwisha kuwa mkamilifu. Naendelea kujitahidi kupata lile tuzo ambalo kwalo Kristo amekwisha nipata mimi.",
+        "13": "Ama kweli, ndugu zangu, sidhani kuwa nimekwisha pata tuzo hilo; lakini jambo moja nafanya: Nayasahau yale yaliyopita na kufanya bidii kuyazingatia yale yaliyo mbele.",
+        "14": "Basi, nimo mbioni kuelekea lengo langu, ili nipate lile tuzo, ambalo ni mwito wa Mungu kwa maisha ya juu kwa njia ya Kristo Yesu."
+      },
+      "4": {
+        "6": "Msiwe na wasiwasi juu ya kitu chochote, ila kwa kila hali, mwombeni Mungu katika sala juu ya mahitaji yenu, kwa shukrani.",
+        "7": "Nayo amani ya Mungu ipitayo akili zote za watu italinda salama mioyo na akili zenu katika kuungana na Kristo Yesu."
+      }
+    },
+    "PSA": {
+      "32": {
+        "8": "Mungu asema: “Nitakufunza na kukuonesha njia unayopaswa kufuata. Nitakushauri kwa uangalifu mkubwa."
+      },
+      "34": {
+        "7": "Malaika wa Mwenyezi-Mungu huwalinda wote wamchao, na kuwaokoa katika hatari."
+      },
+      "37": {
+        "23": "Mwenyezi-Mungu huziongoza nyayo za mtu, humlinda yule ampendezaye.",
+        "24": "Ajapoanguka, haanguki akabaki chini, kwa sababu Mwenyezi-Mungu humtegemeza."
+      },
+      "119": {
+        "165": "Wapendao sheria yako wana amani kuu; hakuna kinachoweza kuwaangusha."
+      },
+      "127": {
+        "1": "Mwenyezi-Mungu asipoijenga nyumba, waijengao wanajisumbua bure. Mwenyezi-Mungu asipoulinda mji, waulindao wanakesha bure."
+      },
+      "139": {
+        "23": "Unichunguze, ee Mungu, unijue moyo wangu, unipime, uyajue mawazo yangu.",
+        "24": "Uangalie kama mwenendo wangu ni mbaya, uniongoze katika njia ya milele."
+      }
+    },
+    "REV": {
+      "1": {
+        "18": "Mimi ni yeye aliye hai! Nilikuwa nimekufa, lakini, tazama, sasa ni hai milele na milele. Ninazo funguo za kifo na kuzimu."
+      },
+      "3": {
+        "20": "Sikiliza! Mimi nasimama mlangoni na kubisha hodi. Mtu akisikia sauti yangu na kufungua mlango, nitaingia nyumbani kwake na kula chakula pamoja naye, naye atakula pamoja nami."
+      },
+      "20": {
+        "10": "Naye Ibilisi aliyekuwa anawapotosha, akatupwa ndani ya ziwa linalowaka madini ya kiberiti, walimo yule mnyama na yule nabii wa uongo, nao watateswa mchana na usiku, milele na milele.",
+        "11": "Kisha, nikaona kiti cha enzi kikubwa cheupe, na yule aketiye juu yake. Dunia na mbingu vikatoweka mbele ya macho yake, na havikuonekana tena.",
+        "12": "Kisha nikawaona watu wakubwa na wadogo, wamesimama mbele ya kiti cha enzi, na vitabu vikafunguliwa. Halafu kitabu kingine, yaani kitabu cha uhai, kikafunguliwa pia. Wafu wakahukumiwa kadiri ya matendo yao, kama ilivyoandikwa ndani ya vitabu hivyo.",
+        "13": "Bahari ikawatoa nje wafu waliokuwa ndani yake; Kifo na Kuzimu vikawatoa nje wafu waliokuwa ndani yao. Kila mmoja akahukumiwa kufuatana na matendo yake."
+      },
+      "21": {
+        "1": "Kisha, nikaona mbingu mpya na dunia mpya. Mbingu ile ya kwanza na dunia ile ya kwanza vilikuwa vimetoweka, nayo bahari pia haikuwako tena.",
+        "3": "Kisha nikasikia sauti kubwa kutoka katika kiti cha enzi ikisema, “Tazama! Maskani ya Mungu kati ya watu. Atakaa kati yao, nao watakuwa watu wake, naye atakuwa Mungu wao."
+      },
+      "22": {
+        "12": "“Sikiliza!” Asema Yesu, “Naja upesi pamoja na tuzo nitakalompa kila mmoja kufuatana na matendo yake."
+      }
+    },
+    "ROM": {
+      "2": {
+        "4": "Au labda unaudharau wema wake mkuu, uvumilivu wake na saburi yake, bila kutambua kwamba wema wake huo una shabaha ya kukuongoza upate kutubu?",
+        "5": "Lakini unao ugumu na ukaidi wa moyo, na hivyo unajirundikia adhabu kwa siku ile ya ghadhabu wakati hukumu ya haki ya Mungu itakapodhihirishwa.",
+        "6": "Siku hiyo Mungu atamlipa kila mmoja kufuatana na matendo yake.",
+        "7": "Wale wanaozingatia kutenda mema, kutafuta utukufu na heshima ya Mungu na kutokufa, watapata uhai wa milele."
+      },
+      "3": {
+        "23": "Watu wote wametenda dhambi na wametindikiwa utukufu wa Mungu."
+      },
+      "4": {
+        "19": "Alikuwa mzee wa karibu miaka 100, lakini imani yake haikufifia ingawa alijua kwamba mwili wake ulikuwa kama umekufa, na pia mkewe, Sara, alikuwa tasa.",
+        "20": "Abrahamu hakuionea mashaka ile ahadi ya Mungu; alipata nguvu kutokana na imani, akamtukuza Mungu.",
+        "21": "Alijua kwamba Mungu anaweza kuyatekeleza yale aliyoahidi.",
+        "22": "Ndiyo maana Mungu alimkubali kuwa mwadilifu."
+      },
+      "6": {
+        "23": "Kwa maana mshahara wa dhambi ni kifo; lakini zawadi anayotoa Mungu ni uhai wa milele katika kuungana na Kristo Yesu, Bwana wetu."
+      },
+      "8": {
+        "1": "Kwa hiyo, sasa hakuna hukumu kwa wale ambao katika maisha yao wameungana na Kristo.",
+        "6": "Fikira za mwili huleta kifo; fikira za Roho huleta uhai na amani.",
+        "7": "Maana, mwenye kutawaliwa na fikira za mwili ni adui wa Mungu; haitii sheria ya Mungu, wala hawezi kuitii.",
+        "8": "Watu wanaotii matakwa ya mwili hawawezi kumpendeza Mungu.",
+        "13": "Kwa maana, kama mkiishi kufuatana na matakwa ya maumbile ya kibinadamu, hakika mtakufa. Lakini, kama kwa njia ya Roho mnayaua matendo yenu maovu, basi, mtaishi.",
+        "14": "Wote wanaoongozwa na Roho wa Mungu ni watoto wa Mungu."
+      },
+      "10": {
+        "9": "Kama ukikiri kwa kinywa chako kwamba Yesu ni Bwana na kuamini moyoni mwako kwamba Mungu alimfufua kutoka kwa wafu, utaokoka.",
+        "10": "Maana mtu huamini kwa moyo akafanywa mwadilifu; na hukiri kwa kinywa akaokolewa.",
+        "16": "Lakini wote hawakuipokea hiyo habari njema. Maana Isaya alisema: “Bwana, ni nani aliyeamini ujumbe wetu?”",
+        "17": "Hivyo basi, imani inatokana na kuusikia ujumbe, na huo ujumbe unatokana na neno la Kristo."
+      },
+      "12": {
+        "1": "Kwa hiyo, ndugu zangu, maadamu Mungu ni mwenye huruma nyingi, nawasihi kwa moyo wote: Mtoleeni Mungu miili yenu kama tambiko iliyo hai, takatifu na yenye kupendeza. Hii ndiyo njia yenu halisi ya kumwabudu.",
+        "2": "Msiige mitindo ya ulimwengu huu, bali Mungu afanye mabadiliko ndani yenu kwa kuzigeuza fikira zenu. Hapo ndipo mtakapoweza kuyajua mapenzi ya Mungu na kutambua jambo lililo jema, linalompendeza na kamilifu."
+      }
+    }
+  },
+  "missing": []
+}

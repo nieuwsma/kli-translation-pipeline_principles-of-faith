@@ -1,0 +1,12 @@
+{
+  "work_root": "/Users/andrew/repo/urdu-principles-of-faith",
+  "raw_file": "/Users/andrew/repo/urdu-principles-of-faith/principles_of_faith.md",
+  "scriptura_root": "/Users/andrew/repo/scriptura-omnium",
+  "bible_spdx": "Bible.UR.OUCV.2024",
+  "source_lang": "en",
+  "target_lang": "ur",
+  "annotated_version": "NKJV",
+  "generated_at": "2025-12-22T03:10:44.690009+00:00",
+  "raw_filename": "principles_of_faith.md",
+  "raw_sha256": "226d2ae1d53be827e07418e6144230beea20cd374307c5a6efaed38bb9a1e560"
+}

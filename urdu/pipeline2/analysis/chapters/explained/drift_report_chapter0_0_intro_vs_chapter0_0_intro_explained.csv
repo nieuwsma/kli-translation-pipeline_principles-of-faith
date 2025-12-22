@@ -1,0 +1,4 @@
+# Drift explanation generated 2025-12-20T05:47:04.527425
+# Source drift file: /Users/andrew/repo/urdu-principles-of-faith/pipeline2/analysis/chapters/drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"19","0.8908","MEDIUM","no","paraphrase","The back-translation simply expands the abbreviation 'AI' to its full form 'Artificial Intelligence' without altering the original meaning or intent.","**Use of AI**","**Use of Artificial Intelligence**"
