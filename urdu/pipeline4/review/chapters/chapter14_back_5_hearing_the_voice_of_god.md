@@ -1,0 +1,242 @@
+<!-- p0 -->
+
+# خدا کی آواز سننا
+
+<!-- p1 -->
+
+<div class="x-drift" dir="ltr" lang="en" style="text-align: left;">
+<hr />
+<p><strong>🧩 Drift Summary for p1</strong></p>
+<p><strong>Similarity:</strong> 0.897<br />
+<strong>Quality:</strong> MEDIUM<br />
+<strong>Meaning Change:</strong> no<br />
+<strong>Type:</strong> paraphrase</p>
+<p><strong>Summary:</strong><br />The back-translation maintains the same conceptual meaning as the original, with minor changes in wording such as 'supplement' instead of 'appendix' and 'Pastor' instead of 'Rev.', but these do not alter the overall intent or doctrinal content.</p>
+<p><strong>Source (EN):</strong><br />The following guest appendix by Rev. Larry Low ([<u>www.LarryLow.com</u>](http://www.larrylow.com)) complements our exploration of the Holy Spirit’s role, offering practical insights on hearing God’s voice. The following guest contribution is used with permission.</p>
+<p><strong>Back Translation (target_lang → EN):</strong><br />The following guest supplement by Pastor Larry Low ([<u>www.LarryLow.com</u>](http://www.larrylow.com)) completes our exploration of the role of the Holy Spirit, offering practical insights on hearing God's voice. The following guest writing is used with permission.</p>
+</div>
+
+
+ذیل میں پادری لیری لو ([<u>www.LarryLow.com</u>](http://www.larrylow.com)) کا مہمان ضمیمہ ہماری روح القدس کے کردار کی جستجو کو مکمل کرتا ہے، خدا کی آواز سننے پر عملی بصیرتیں پیش کرتا ہے۔ درج ذیل مہمان تحریر اجازت کے ساتھ استعمال کی گئی ہے۔
+
+<!-- p2 -->
+
+ایک صبح دعا کے دوران، میں نے **خدا** سے یہ سوال کیا: “وہ سب سے اہم بات کیا ہے جو میں آپ کی قوم کو سکھا سکتا ہوں اُن زمانوں کے لیے جو ہماری طرف آرہے ہیں؟” اور اُس نے مجھے بہت جلد جواب دیا، اور مجھے احساس ہوا کہ یہ بہت ضروری ہے جب اُس نے کہا: “**انہیں میری آواز سننا سکھاؤ۔**”
+
+<!-- p3 -->
+
+جب خداوند مجھے اس طرح کی ہدایت دیتا ہے، تو میں ہمیشہ ایک پیڈ اور پنسل اٹھاتا ہوں اور لکھنا شروع کرتا ہوں جو تھوڑا بہت میں جانتا ہوں، یا جو میں سمجھتا ہوں کہ جانتا ہوں، اور وہ آیات جو اس کی تائید کرتی ہیں۔ مجھے اُن موضوعات پر کلامی مطالعے کرنا پسند ہے جن کی تعلیم دینے کے لیے خداوند میری رہنمائی کرتا ہے۔ مجھے منادی کے لیے مسح پسند ہے، مگر مجھے حقیقت میں کلام سکھانا زیادہ محبوب ہے۔ وہ چیزیں ڈھونڈنا جو ہمیشہ سے موجود رہی ہیں مگر نظر انداز ہو گئی ہیں، ایک مہم جوئی ہے۔
+
+<!-- p4 -->
+
+یقیناً داؤد خدا کی سچائیوں کو دریافت کرنے کی آرزو رکھتا تھا، کیونکہ اُس نے زبور 119 کی آیت 18 میں یوں دعا کی: “میری آنکھیں کھول کہ میں تیری شریعت کی عجائب چیزیں دیکھوں۔”
+
+<!-- p5 -->
+
+یہی میں دیکھنا چاہتا ہوں-اُس کے کلام کی عجائب چیزیں۔
+
+<!-- p6 -->
+
+جب میں خدا کی آواز سننے اور تمیز کرنے کے موضوع پر دوسرا پیغام سکھانے کے لیے مطالعہ اور تیاری کر رہا تھا، تو اُس نے میرے دل سے یوں کہا:
+
+<!-- p7 -->
+
+“*انہیں میری آواز سننا سکھاؤ،  
+انہیں تعظیم اور فرمانبرداری سکھاؤ۔*
+
+<!-- p8 -->
+
+*ہاں، انہیں میری آواز سننا سکھاؤ اور میں ہمیشہ انہیں دور لے جاؤں گا:  
+ایسی مصیبتوں سے دور جو انہیں تباہ کر دیں،*
+
+<!-- p9 -->
+
+*جن آزمائشوں میں وہ ہیں ان سے دور،  
+ایسے مقام کی طرف جہاں امن، محبت اور خوشی ہو، جس میں بہت کم لوگ کبھی رہے ہیں۔*
+
+<!-- p10 -->
+
+<div class="x-drift" dir="ltr" lang="en" style="text-align: left;">
+<hr />
+<p><strong>🧩 Drift Summary for p10</strong></p>
+<p><strong>Similarity:</strong> 0.8754<br />
+<strong>Quality:</strong> MEDIUM<br />
+<strong>Meaning Change:</strong> yes<br />
+<strong>Type:</strong> doctrinal</p>
+<p><strong>Summary:</strong><br />The original phrase uses 'Divine ecstasy,' which implies a profound spiritual experience associated with divinity, while the back-translation uses 'divine delight,' which may suggest a more general sense of pleasure rather than a deep spiritual connection.</p>
+<p><strong>Source (EN):</strong><br />*Away to a place of refreshing,  \\\\nto a place of Divine ecstasy.*</p>
+<p><strong>Back Translation (target_lang → EN):</strong><br />*to a place of refreshing,  \\\\nto a place of divine delight.*</p>
+</div>
+
+
+*تازگی کے مقام کی طرف،  
+الٰہی سرور کے مقام کی طرف۔*
+
+<!-- p11 -->
+
+*ہاں بیٹے، انہیں میری آواز سننا سکھاؤ  
+اور یہ لوگ ہمیشہ کے لیے آزاد ہو جائیں گے*۔”
+
+<!-- p12 -->
+
+05/27/00 9:10 A.M.
+
+<!-- p13 -->
+
+درجِ ذیل گیارہ نکات آپ کو یہ سمجھنے میں مدد دیں گے کہ خداوند آپ سے کس طرح گفتگو کرے گا:
+
+<!-- p14 -->
+
+1.  <u>خدا کی آواز سننا کوئی سُنائی دینے والی آواز نہیں بلکہ آپ کے دل میں ایک یقین ہوتا ہے۔</u>
+<!-- p15 -->
+
+ایک بار ایسا ہوا کہ اُس کا کلام اتنا واضح اور پُراثر آیا کہ وہ سُنائی دینے والی آواز بھی ہو سکتا تھا۔ میں نے بلند آواز سے جواب دیا، یہ اتنا حقیقی تھا۔ تاہم، وہاں میرے اور خداوند کے سوا کوئی نہ تھا، اس لیے میں یقین سے نہیں کہہ سکتا کہ اُس نے مجھ سے ویسے ہی بولا تھا جیسے ہم ایک دوسرے سے بات کرتے ہیں۔
+
+<!-- p16 -->
+
+جب یسوع دریائے یردن میں بپتسمہ لے رہے تھے تو باپ نے فرمایا: “یہ میرا پیارا بیٹا ہے جس سے میں خوش ہوں”، لیکن وہاں موجود بعض لوگوں نے کہا کہ یہ تو گرج کی سی آواز تھی۔ تو میرا خیال ہے کہ وہ مجھ سے سُنائی دینے والی آواز میں بھی بول سکتا تھا، مگر فی الحال میں چاہتا ہوں کہ آپ یہ سمجھیں کہ جب میں کہتا ہوں کہ خدا مجھ سے بولا، تو وہ میرے کان میں آواز سے زیادہ میرے دل میں ایک یقین ہوتا ہے۔
+
+<!-- p17 -->
+
+<div class="x-drift" dir="ltr" lang="en" style="text-align: left;">
+<hr />
+<p><strong>🧩 Drift Summary for p17</strong></p>
+<p><strong>Similarity:</strong> 0.9053<br />
+<strong>Quality:</strong> MEDIUM<br />
+<strong>Meaning Change:</strong> no<br />
+<strong>Type:</strong> paraphrase</p>
+<p><strong>Summary:</strong><br />Both paragraphs convey the same idea that knowing is not derived from logical reasoning but represents a complete thought or understanding. The back-translation maintains the original intent and meaning without significant alteration.</p>
+<p><strong>Source (EN):</strong><br />2.  <u>The KNOWING is NOT built by logic within your mind; however, it is a complete thought or understanding.</u></p>
+<p><strong>Back Translation (target_lang → EN):</strong><br />2.  <u>This knowing is not formed by the logic of your mind; however, it is a complete thought or understanding.</u></p>
+</div>
+
+
+2.  <u>یہ یقین آپ کے ذہن کی منطق سے تشکیل نہیں پاتا؛ تاہم، یہ ایک مکمل خیال یا سمجھ بوجھ ہوتا ہے۔</u>
+<!-- p18 -->
+
+خداوند نے مجھ سے کبھی ایسی کوئی بات نہیں کہی جس نے مجھے الجھن میں ڈالا ہو۔ اُس نے کبھی ایسی بات نہیں کہی جس نے مجھے یہ سوچنے پر چھوڑ دیا ہو کہ ‘کیوں’۔ یہ ہمیشہ مکمل سمجھ بوجھ کے ساتھ ایک یقین ہوتا ہے۔ خدا ابتری کا خالق نہیں ہے (<span class="x-scripture" data-book="1CO" data-chapter="14" data-lang="ur" data-type="ref" data-verses="33" data-version="OUCV" dir="rtl" style="text-align: right;">1 کُرِنتھِیوں 14:33</span>)۔
+
+<!-- p19 -->
+
+3.  <u>جب وہ بولتا ہے تو مکمل خیالات کی صورت میں بولتا ہے۔</u>
+<!-- p20 -->
+
+وہ ہمیں کبھی خالی جگہیں خود پُر کرنے کے لیے نہیں چھوڑتا۔ پلک جھپکتے ہی، خدا آپ کے دل کو اتنی معلومات سے بھر سکتا ہے کہ آپ عمر بھر منادی کرتے رہیں۔ خدا کا ایک لمس آپ کو ایسی آگ سے بھر سکتا ہے جو آپ کو ابد تک جلائے رکھے۔ وہ ایک کامل پیغام رساں ہے۔
+
+<!-- p21 -->
+
+4.  <u>جب خدا ہم سے بات کرتا ہے، وہ کبھی ہانکتا نہیں۔ وہ راہنمائی کرتا ہے۔</u>
+<!-- p22 -->
+
+وہ مشقت کروانے والا آقا نہیں؛ وہ چرواہا ہے۔ مال بان ہانکتے ہیں، مگر چرواہے راہنمائی کرتے ہیں۔ یسوع بھیڑوں کا عظیم چرواہا ہے، اور ہم اس کی چراگاہ کی بھیڑیں ہیں۔
+
+<!-- p23 -->
+
+5.  <u>جب وہ اپنے بچوں سے بات کرتا ہے، وہ کبھی ملامت نہیں کرتا؛ وہ قائل کرتا ہے۔</u>
+<!-- p24 -->
+
+اس کے بچے وہ ہیں جو **یسوع** کے بہائے ہوئے خون اور اس کے کلوری پر کیے گئے کام پر اپنے اعترافِ ایمان کے سبب دوبارہ پیدا ہوئے ہیں (<span class="x-scripture" data-book="JHN" data-chapter="3" data-lang="ur" data-type="ref" data-verses="3" data-version="OUCV" dir="rtl" style="text-align: right;">یُوحنّا 3:3</span>, 5)۔ ایسے کسی کی بات کون سننا چاہے گا جو ہر وقت ہماری غلطیوں پر ہمیں ملامت کرے؟ میرا یقین ہے کہ **خدا** کے زیادہ تر بچے اس سے ڈرتے ہیں کہ **خدا** ان سے بات کرے، کیونکہ انہیں بتایا گیا ہے کہ **خدا** اس بات یا اُس بات پر انہیں ملامت کرے گا۔ <span class="x-scripture" data-book="1JN" data-chapter="3" data-lang="ur" data-type="ref" data-verses="19-20" data-version="OUCV" dir="rtl" style="text-align: right;">1 یُوحنّا 3:19-20</span> کو دیکھیں۔ وہ کس کے بارے میں کہتا ہے کہ وہ ہمیں ملامت یا مجرم ٹھہراتا ہے؟ یہ ہماری اپنی رُوح یا دل ہے جو **خدا** کے فرزند کو مجرم ٹھہراتا ہے، مگر وہ **خدا روح القدس** ہے جو سب کچھ جانتا ہے اور ہمارے دلوں سے بڑا ہے۔ وہ ہمارے لیے تسلی دینے والا بن کر موجود ہے۔ اگلی آیات پڑھیں؛ اس سے آپ کو سمجھنے میں مدد ملے گی کہ روح القدس صرف گناہگاروں کو ہی ملامت کرتا ہے۔ <span class="x-scripture" data-book="ROM" data-chapter="8" data-lang="ur" data-type="ref" data-verses="33-34" data-version="OUCV" dir="rtl" style="text-align: right;">رُومیوں 8:33-34</span> ہمیں سکھاتی ہے کہ ہمارے اور **خدا** کی محبت کے درمیان کچھ بھی حائل نہیں ہو سکتا۔ <span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="ur" data-type="ref" data-verses="16" data-version="OUCV" dir="rtl" style="text-align: right;">یُوحنّا 14:16</span>, 26 ہمیں سکھاتی ہے کہ روح القدس ہمارا تسلی دینے والا ہے، ہمارا ملامت کرنے والا نہیں؛ ہمارا مشیر ہے، ہمارا تادیب کرنے والا نہیں؛ ہمارا شفاعت کرنے والا اور مددگار ہے، ہمارا روڑے اٹکانے والا نہیں۔ <span class="x-scripture" data-book="ACT" data-chapter="9" data-lang="ur" data-type="ref" data-verses="31" data-version="OUCV" dir="rtl" style="text-align: right;">اعمال 9:31</span> اور 15:28 بھی پڑھیں کہ روح القدس (**خدا** کی آواز) ہمیں کیسے مدد دیتا، دلاسا دیتا، اور مضبوط کرتا ہے۔
+
+<!-- p25 -->
+
+6.  <u>خدا کی آواز کو پرکھا جا سکتا ہے تاکہ آپ جان سکیں کہ یہ خدا ہے اور نہ آپ کے خیالات یا مانوس روحوں کی آواز۔</u>
+<!-- p26 -->
+
+<span class="x-scripture" data-book="1JN" data-chapter="4" data-lang="ur" data-type="ref" data-verses="1-3" data-version="OUCV" dir="rtl" style="text-align: right;">1 یُوحنّا 4:1-3</span> ہمیں ہدایت دیتی ہے کہ "ہر روح کو پرکھو" تاکہ ہم یقینی ہو سکیں کہ وہ خدا کی طرف سے ہے۔ جب آپ سمجھیں کہ آپ خدا سے سن رہے ہیں، تو آپ کو حق ہے اور ذمہ داری بھی کہ اُس آواز سے سوال کریں (یہی روح کو آزمانا یا ثابت کرنا ہے)۔ پوچھنے کا سوال یہ ہے: "کیا یسوع مسیح جسم میں آئے تھے؟" مانوس روحیں ایک بات کبھی نہیں مانیں گی کہ یسوع جسم میں زمین پر آئے تھے۔ وہ پوری طرح انسان بھی تھے اور پوری طرح خدا بھی۔ کوئی جھوٹی روح یا مذہب یہ نہیں مانے گا کہ یسوع اس زمین پر جسم میں آئے اور انسانوں کو ان کے تمام گناہوں سے ابد تک فدیہ دیا۔ جو آواز آپ سنتے ہیں اسے پرکھیں۔ آپ کو یہ بھی جان لینا چاہیے کہ خدا کبھی آپ کو اپنی لکھی ہوئی کلام، یعنی بائبل، کے باہر نہیں لے جائے گا۔ اگر آپ کچھ ایسا سن رہے ہیں جس کی تائید بائبل میں نہیں ملتی تو آپ خدا سے نہیں سن رہے۔ اسے چھوڑ دیں! جو آواز آپ سنتے ہیں اسے پرکھیں کہ آیا وہ خدا کی طرف سے ہے یا نہیں۔
+
+<!-- p27 -->
+
+7.  <u>خدا کی آواز ہمیشہ یسوع مسیح کو جلال دیتی ہے۔</u>
+<!-- p28 -->
+
+روح القدس آسمان کی آواز ہے۔ وہی یہاں زمین پر ہمارے ساتھ مل کر کام کرنے کے لیے ہے، اور یسوع نے کہا کہ وہ ہمیشہ وہی بولے گا جو وہ سنتا ہے، اور وہ ہمیشہ یسوع کو جلال دے گا (<span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="ur" data-type="ref" data-verses="13-14" data-version="OUCV" dir="rtl" style="text-align: right;">یُوحنّا 16:13-14</span>)۔ وہ یہاں آپ کی خدمت، یا آپ کے کاموں، یا کلیسیا کے پروگراموں کو جلال دینے کے لیے نہیں ہے۔ یہ سب چیزیں اچھی ہیں، اور ان میں سے اکثر وہ کام کرنے کے لیے ضروری بھی ہیں جو ہم کرتے ہیں، لیکن روح القدس بات کرے گا اور یسوع کی ذات کو جلال دے گا۔ اگر جو آواز آپ سن رہے ہیں اس سے آپ ہی کو جلال مل رہا ہے، تو آپ خدا سے نہیں سن رہے۔ جلال پانے اور حوصلہ افزائی و تقویت پانے میں فرق ہے۔ روح القدس جب بھی آپ سے بات کرے گا تو ہمیشہ آپ کی حوصلہ افزائی اور تقویت کرے گا، یہاں تک کہ جب وہ کلام کے ساتھ آپ کی اصلاح (رہنمائی) کر رہا ہو۔ لیکن جلال تب ہے جب آپ یہ سمجھنے لگیں کہ آپ ہی کوئی بڑی ہستی ہیں۔ یسوع کے بغیر آپ کچھ بھی نہیں-وہی واقعی ہستی ہے، ہم نہیں۔
+
+<!-- p29 -->
+
+8.  <u>خدا کی آواز ہمیشہ ہمیں کچھ نہ کچھ ظاہر کرے گی۔</u>
+<!-- p30 -->
+
+<span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="ur" data-type="ref" data-verses="14" data-version="OUCV" dir="rtl" style="text-align: right;">یُوحنّا 16:14</span> کو دیکھیں۔ وہ ہمیشہ جو کچھ **یسوع** کا ہے اسے لیتا ہے اور ہمیں ظاہر کرتا ہے۔ Amplified ترجمہ لفظ "ظاہر" کے حوالے سے یہ الفاظ بھی شامل کرتا ہے: "اعلان کرنا، آشکار کرنا، اور منتقل کرنا"۔ **خدا** ہمیشہ ہمیں کچھ نہ کچھ پہلے اعلان کرتا ہے، پھر اسے ہم پر آشکار کرتا ہے، اور پھر آپ کے ایمان کے وسیلے سے اسے ہم تک منتقل کرتا ہے۔ <span class="x-scripture" data-book="1CO" data-chapter="2" data-lang="ur" data-type="ref" data-verses="10" data-version="OUCV" dir="rtl" style="text-align: right;">1 کُرِنتھِیوں 2:10</span> اور 12 کا مطالعہ بھی کریں۔
+
+<!-- p31 -->
+
+9.  <u>خدا کی آواز ہمیشہ سلامتی لائے گی۔</u>
+<!-- p32 -->
+
+<span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="ur" data-type="ref" data-verses="26" data-version="OUCV" dir="rtl" style="text-align: right;">یُوحنّا 14:26</span> اور 27، اور <span class="x-scripture" data-book="COL" data-chapter="3" data-lang="ur" data-type="ref" data-verses="14" data-version="OUCV" dir="rtl" style="text-align: right;">کلُسّیِوں 3:14</span> اور 15 کو پڑھیں۔ اس کی آواز ہمیں کبھی مضطرب نہیں کرتی۔ یہ ایسی آواز ہے جو کامل سلامتی لاتی ہے۔ باطنی سلامتی اس لیے ہوتی ہے کہ اندر ایک یقین ہوتا ہے جو ہمیں خدا کے حضور دلی اعتماد دیتا ہے، اور یہ کامل سلامتی میں ڈھل جاتا ہے۔ اگر وہ آواز جسے آپ سن رہے ہیں آپ کو بے چین کرتی ہے، تو آپ خدا سے نہیں سن رہے-اسے بند کر دیں۔ یسوع نے ہمیں سلامتی کا وعدہ کیا، ایسی نہیں جیسی دنیا دیتی ہے، بلکہ جیسی وہ روح القدس کے تسلی بخش کلمات اور ہمیشہ قائم رہنے والی معیت کے ذریعے ہمیں دیتا ہے (<span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="ur" data-type="ref" data-verses="27" data-version="OUCV" dir="rtl" style="text-align: right;">یُوحنّا 14:27</span>)۔
+
+<!-- p33 -->
+
+10. <u>خدا کی آواز ہمیشہ سچائی لاتی ہے۔</u>
+<!-- p34 -->
+
+<span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="ur" data-type="ref" data-verses="17" data-version="OUCV" dir="rtl" style="text-align: right;">یُوحنّا 14:17</span>، 26؛ 16:13 کو پڑھیں۔ حقیقت یہ ہے کہ <span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="ur" data-type="ref" data-verses="13" data-version="OUCV" dir="rtl" style="text-align: right;">یُوحنّا 16:13</span> روح القدس کو: "روحِ سچائی" کہتا ہے۔ خدا جھوٹ نہیں بول سکتا! وہ سچائی ہے، اس لیے وہ صرف سچ ہی بولے گا۔ بہت سے لوگوں کو میں نے یہ کہتے سنا ہے: "مجھے یقین نہیں آتا کہ جو میں سن رہا/رہی ہوں وہ خدا کی طرف سے ہے۔ یہ سچ ہونے کے لیے بہت اچھا ہے۔" اور شاید واقعی یہ سچ ہونے کے لیے بہت اچھا ہو؛ اسی لیے آپ کو لازماً روح کو پرکھنا چاہیے، اسے خدا کے کلام کے مطابق ملا کر دیکھیں تاکہ یقین ہو کہ یہ سچ ہے۔ کچھ لوگ بس اس لیے یقین نہیں کر پاتے کہ جو وہ سن رہے ہیں وہ ہمیشہ مثبت ہوتا ہے، اور انہیں سکھایا گیا ہے کہ خدا ہماری غلطی پر ہمیں ملامت کرتا ہے۔ خدا صرف سچ ہی بتائے گا، اور وہ ہمیشہ خوشخبری ہوگی۔ افسوس ناک سچ یہ ہے کہ زیادہ تر لوگ جس آواز کو سنتے ہیں اس سے صرف بری خبریں ہی سنتے ہیں اور کبھی اچھی خبر کی توقع نہیں رکھتے؛ لہٰذا جب اچھی خبر آتی ہے تو وہ اسے ممکنہ غیر سچ سمجھ کر سوال اٹھاتے ہیں۔ **سچائی ہمیشہ خوشخبری ہے!** ہمیں آزاد کرنے والی **وہ سچائی جو** ہے، تو **سچائی** خوشخبری کے علاوہ اور کچھ کیسے ہو سکتی ہے؟
+
+<!-- p35 -->
+
+11. <u>**خدا** کی آواز ہمیشہ ہمیں آگے اور اوپر کی طرف لے جاتی ہے۔</u>
+<!-- p36 -->
+
+استثنا 28:1-2، <span class="x-scripture" data-book="ISA" data-chapter="30" data-lang="ur" data-type="ref" data-verses="21" data-version="OUCV" dir="rtl" style="text-align: right;">یَشعیاہ 30:21</span>، اور <span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="ur" data-type="ref" data-verses="13" data-version="OUCV" dir="rtl" style="text-align: right;">یُوحنّا 16:13</span> کو پڑھیں
+
+<!-- p37 -->
+
+<div class="x-drift" dir="ltr" lang="en" style="text-align: left;">
+<hr />
+<p><strong>🧩 Drift Summary for p37</strong></p>
+<p><strong>Similarity:</strong> 0.8798<br />
+<strong>Quality:</strong> MEDIUM<br />
+<strong>Meaning Change:</strong> no<br />
+<strong>Type:</strong> paraphrase</p>
+<p><strong>Summary:</strong><br />Both paragraphs convey the same core message about God's uplifting nature and the absence of despair in His communication. The back-translation maintains the original intent and doctrinal meaning while using slightly different wording.</p>
+<p><strong>Source (EN):</strong><br />God never takes you down! He will never run you down; He only builds you up. When God speaks to you, He is speaking from the frame of reference that everything the Word says about you has already been accomplished and ACCEPTED by you. <span class="x-scripture" data-book="JER" data-chapter="33" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV" dir="ltr" style="text-align: left;">Jeremiah 33:3</span> says: “Call to Me, and I will answer you, and show you **GREAT AND MIGHTY** things which you do not know.” Does that sound like running you down or doom and gloom? There is NO doom and gloom in God, therefore He cannot tell you anything doomy or gloomy. You’ll have to tune in to the world’s news agency for doom and gloom.</p>
+<p><strong>Back Translation (target_lang → EN):</strong><br />God never takes you downward! He never brings you down; He only strengthens you. When God speaks to you, He speaks from the standpoint that everything the Word says about you has already been accomplished and you have received it. <span class="x-scripture" data-book="JER" data-chapter="33" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV" dir="ltr" style="text-align: left;">Jeremiah 33:3</span> says: "Call to Me, and I will answer you, and show you great and mighty things which you do not know." Does that sound like bringing you down or like despair and darkness? There is absolutely no despair and darkness in God, therefore He cannot tell you anything ominous or dark. For despair and darkness you will have to contact the world’s news agency.</p>
+</div>
+
+
+خدا کبھی آپ کو نیچے نہیں لے جاتا! وہ کبھی آپ کو گراتا نہیں؛ وہ صرف آپ کو مضبوط کرتا ہے۔ جب خدا آپ سے بات کرتا ہے، وہ اس نقطۂ نظر سے بات کرتا ہے کہ کلام آپ کے بارے میں جو کچھ کہتا ہے وہ سب پہلے ہی پورا ہو چکا ہے اور آپ اسے قبول کر چکے ہیں۔ <span class="x-scripture" data-book="JER" data-chapter="33" data-lang="ur" data-type="ref" data-verses="3" data-version="OUCV" dir="rtl" style="text-align: right;">یرمیاہؔ 33:3</span> کہتا ہے: "مجھے پکار، اور میں تجھے جواب دوں گا، اور تجھے بڑی اور زبردست باتیں دکھاؤں گا جنہیں تو نہیں جانتا۔" کیا یہ آپ کو گرانے یا مایوسی اور تاریکی جیسا لگتا ہے؟ خدا میں بالکل بھی مایوسی اور تاریکی نہیں، اس لیے وہ آپ کو کوئی منحوس یا تاریک بات نہیں بتا سکتا۔ مایوسی اور تاریکی کے لیے آپ کو دنیا کی خبروں کے ادارے سے رابطہ کرنا پڑے گا۔
+
+<!-- p38 -->
+
+<span class="x-scripture" data-book="JER" data-chapter="29" data-lang="ur" data-type="quote" data-verses="11" data-version="OUCV" dir="rtl" style="text-align: right;">
+<!-- p39 -->
+
+> **<u>یرمیاہؔ 29:11</u>** (OUCV)
+>
+> کیونکہ مَیں تمہارے حق میں اَپنے مقصد کو جانتا ہُوں،“ یَاہوِہ فرماتے ہیں، ”وہ تمہاری خُوشحالی کے ہیں، تمہارے نُقصان کے نہیں ہیں، میرے پاس تمہارے حق میں اُمّید اَور مُستقبِل دینے کے منصُوبے ہیں۔
+>
+
+
+<!-- p40 -->
+
+</span>
+<!-- p41 -->
+
+اب، اگر خدا ہمارے بارے میں امن، مستقبل، اور امید کے اچھے خیالات سوچتا ہے، تو وہ اس کے برخلاف کیوں بولے گا؟ جواب یہ ہے، وہ ایسا نہ کرے گا، اور وہ ایسا کرتا بھی نہیں! وہ ہمیں صرف اوپر کی طرف اور آگے کی طرف بڑی امید کے ساتھ رہنمائی کرتا ہے تاکہ ہمیں ایک متوقع مستقبل فراہم کرے۔
+
+<!-- p42 -->
+
+میں امید کرتا ہوں کہ یہ آپ کو “اسے پکارنے” کی ترغیب دے اور **اس کی آواز سننا** سیکھنے میں مدد کرے۔ اس کے پاس آپ کو بتانے کے لیے عظیم باتیں ہیں، لیکن اس کی ساری اچھائیاں آپ کے کسی کام آ سکیں، اس سے پہلے اسے آپ کے سننے والے کان کی ضرورت ہے۔
+
+<!-- p43 -->
+
+خدا کی آواز سننے کے بارے میں مزید وسائل کے لیے، میں آپ کو دعوت دیتا ہوں کہ ملاحظہ کریں [<u>www.LarryLow.com</u>](http://www.larrylow.com)
+
+<!-- p44 -->
+
+- یہ صفحہ دانستہ طور پر خالی چھوڑا گیا ہے -
+
+<!-- p45 -->
+
+<img alt="The Logo of Andrew Nieuwsma" src="./media/media/image1.png" style="width:1.97222in;height:1.97222in"/>
+<!-- p46 -->
+
+مصنف کا نوٹ <sub>-</sub>
+<!-- p47 -->
+
+یہ کتاب پڑھنے کے لیے آپ کا شکریہ، مجھے امید ہے کہ یہ آپ کے سفر میں ایک مفید وسیلہ ثابت ہوئی ہوگی۔ مجھ سے جڑے رہنے کے لیے براہِ کرم میری ویب سائٹ ملاحظہ کریں [www.faithprinciples.org](http://www.faithprinciples.org)
+
+<!-- p48 -->
+
+-اینڈریو
+
