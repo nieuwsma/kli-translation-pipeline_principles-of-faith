@@ -1,0 +1,4 @@
+# Drift explanation generated 2025-12-30T02:37:48.489775
+# Source drift file: /Users/andrew/repo/kli-translation-pipeline_principles-of-faith/urdu/pipeline2/analysis/chapters/drift_report_chapter0_1_dedication_vs_chapter0_1_dedication.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"2","0.864","MEDIUM","no","paraphrase","The back-translated paragraph maintains the same doctrinal meaning and intent as the original, with only slight variations in wording (e.g., 'Zachariah' vs. 'Zechariah' and 'testament' vs. 'testimony').","To my son, Zachariah,  \\\\nwhose name is a reminder that ""The Lord has remembered us,"" a living testament to God's faithfulness and grace.","My son, Zechariah,  \\\\nwhose name is a reminder that ""The Lord has remembered us,"" a living testimony to God's faithfulness and grace."

@@ -1,0 +1,5 @@
+# Drift explanation generated 2025-12-30T02:37:52.091000
+# Source drift file: /Users/andrew/repo/kli-translation-pipeline_principles-of-faith/urdu/pipeline2/analysis/chapters/drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"8","0.9197","MEDIUM","no","paraphrase","The back-translation maintains the same conceptual meaning as the original, simply using different wording without altering the intent or doctrinal significance.","**Scripture Quotations:**\\\\nScripture taken from:","**Scripture quotations:**\\\\nQuotations drawn from:"
+"19","0.8908","MEDIUM","no","paraphrase","The back-translated paragraph maintains the same meaning as the original, simply expanding the abbreviation 'AI' to its full form 'Artificial Intelligence' without altering any doctrinal, logical, or intentional aspects.","**Use of AI**","**Use of Artificial Intelligence**"
