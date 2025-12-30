@@ -1,4 +1,0 @@
-# Drift explanation generated 2025-12-20T05:48:57.589658
-# Source drift file: /Users/andrew/repo/urdu-principles-of-faith/pipeline2/analysis/chapters/drift_report_chapter0_2_acknowledgements_vs_chapter0_2_acknowledgements.csv
-"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
-"3","0.9144","MEDIUM","no","paraphrase","Both paragraphs express gratitude for contributions to the completion of a book, emphasizing dedication and impact. The slight variations in wording do not alter the overall meaning or intent.","Thank you all for your dedication to excellence and for helping me bring this book to completion. Your contributions have made a lasting impact, and I am truly grateful.","Thank you all for showing your dedication to the highest standards and for helping me bring this book to completion. Your efforts have made a lasting impact, and I am deeply grateful."
