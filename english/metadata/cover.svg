@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2560" viewBox="0 0 1600 2560">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="0%" stop-color="#06172a"/>
       <stop offset="100%" stop-color="#1f2937"/>
     </linearGradient>
   </defs>
@@ -13,12 +13,7 @@
   <text x="200" y="680" fill="#cbd5f5" font-family="Georgia, serif" font-size="64">
     Foundations for Modern Believers
   </text>
-    <text x="200" y="920" fill="#e2e8f0" font-family="Georgia, serif" font-size="110">
-    Kanuni za Imani
-  </text>
-  <text x="200" y="1080" fill="#cbd5f5" font-family="Georgia, serif" font-size="64">
-    Misingi kwa Waumini wa Kisasa
-  </text>
+
   <text x="200" y="2140" fill="#94a3b8" font-family="Georgia, serif" font-size="46">
     Rev. Andrew D. Nieuwsma  (Kingsway Fellowship)
   </text>
