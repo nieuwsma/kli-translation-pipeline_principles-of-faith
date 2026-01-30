@@ -376,3 +376,103 @@ As we build our faith in God, it naturally produces obedience in us. This obedie
 <!-- p109 -->
 ### The benefits of obedience
 
+<!-- p110 -->
+It is very important in every believer’s life that they strengthen their faith (trust) toward God. God has wonderful promises and blessings for all who obey Him; there are so many that not all can be mentioned here, but some of these are:
+
+<!-- p111 -->
+1.  **Blessings and Provision**
+
+<!-- p112 -->
+<span class="x-scripture" data-book="DEU" data-chapter="28" data-lang="en" data-type="fragment" data-verses="1-14" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p113 -->
+> **<u>Deuteronomy 28:1-14</u>** (NKJV)
+>
+> "Now it shall come to pass that if you diligently obey the voice of the LORD your God, to carefully observe all His commandments which I command you today, then the LORD your God will set you high above all the nations of the earth.
+>
+> And all these blessings shall come upon you and overtake you, because you obey the voice of the LORD your God:
+>
+> "Blessed shall you be in the city, and blessed shall you be in the country.
+>
+> "Blessed shall be the fruit of your womb, the produce of your land and the increase of your herds, the increase of your cattle and the offspring of your flocks.
+>
+> "Blessed shall be your basket and your kneading bowl.
+>
+> "Blessed shall you be when you come in, and blessed shall you be when you go out.
+>
+> "The LORD will cause your enemies who rise against you to be defeated before your face; they shall come out against you one way, and flee before you seven ways.
+>
+> "The LORD will command the blessing on you in your storehouses and in all to which you set your hand, and He will bless you in the land which the LORD your God is giving you.
+>
+> "The LORD will establish you as a holy people to Himself, just as He has sworn to you, if you keep the commandments of the LORD your God and walk in His ways.
+>
+> Then all the peoples of the earth shall see that you are called by the name of the LORD, and they shall be afraid of you.
+>
+> And the LORD will grant you plenty, in the fruit of your womb, in the increase of your livestock, and in the produce of your land, in the land which the LORD swore to your fathers to give you.
+>
+> The LORD will open to you His good treasure, the heavens, to give the rain to your land in its season, and to bless all the work of your hand. You shall lend to many nations, but you shall not borrow.
+>
+> And the LORD will make you the head and not the tail; you shall be only above, and not beneath, if you heed the commandments of the LORD your God which I command you today, and are careful to observe them.
+>
+> So you shall not turn aside from any of the words which I command you today, to the right or to the left, to go after other gods to serve them.
+>
+
+<!-- p114 -->
+</span>
+
+<!-- p115 -->
+2.  **Guidance and Wisdom**
+
+<!-- p116 -->
+<span class="x-scripture" data-book="PSA" data-chapter="32" data-lang="en" data-type="quote" data-verses="8" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p117 -->
+> **<u>Psalm 32:8</u>** (NKJV)
+>
+> I will instruct you and teach you in the way you should go; I will guide you with My eye.
+>
+
+<!-- p118 -->
+</span>
+
+<!-- p119 -->
+3.  **Answers to Prayers**
+
+<!-- p120 -->
+<span class="x-scripture" data-book="1JN" data-chapter="3" data-lang="en" data-type="quote" data-verses="22" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p121 -->
+> **<u>1 John 3:22</u>** (NKJV)
+>
+> And whatever we ask we receive from Him, because we keep His commandments and do those things that are pleasing in His sight.
+>
+
+<!-- p122 -->
+</span>
+
+<!-- p123 -->
+4.  **Protection and Safety**
+
+<!-- p124 -->
+<span class="x-scripture" data-book="PSA" data-chapter="34" data-lang="en" data-type="quote" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p125 -->
+> **<u>Psalm 34:7</u>** (NKJV)
+>
+> The angel of the LORD encamps all around those who fear Him, and delivers them.
+>
+
+<!-- p126 -->
+</span>
+
+<!-- p127 -->
+5.  **Joy and Peace**
+
+<!-- p128 -->
+<span class="x-scripture" data-book="PSA" data-chapter="119" data-lang="en" data-type="quote" data-verses="165" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p129 -->
+> **<u>Psalm 119:165</u>** (NKJV)
+>
+> Great peace have those who love Your law, and nothing causes them to stumble.
+

@@ -371,3 +371,63 @@ Jesus gave specific ministry gifts to equip the saints for the work of ministry.
 <!-- p119 -->
 Thus far in this chapter we have discussed church leadership and the key metaphors for the church. Let us consider, specifically based on the metaphor of *the body*—a marathon runner.
 
+<!-- p120 -->
+### You are a part of the whole
+
+<!-- p121 -->
+As the body of Christ, the church depends on every member working together to fulfill its mission. Just as a body cannot function normally when a part is missing, so the church also needs every believer’s active participation, growth, and service. Every part of the body has a very important role. Being part of the body means being connected. A body can live with reduced capacity without a part, but a part cannot live if it is separated from the body. We must be an active part of the church and not be isolated. <span class="x-scripture" data-book="HEB" data-chapter="10" data-lang="en" data-type="ref" data-verses="24" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 10:24</span> says that we should come together and not abandon the assembly.
+
+<!-- p122 -->
+To truly work together and be effective, you need to have fellowship! You need to know others, love others, and ideally even like others! Build strong relationships and friendships, and repair them when they are under pressure or have been hurt. When a joint is injured or inflamed, you need to work to give it rest and/or restore it so that the displaced joint does not rupture! A broken and unhealed member will eventually become detached, and you cannot be part of the body on your own.
+
+<!-- p123 -->
+We do not all have the same work. Some of us can share the gospel from a platform, and others at the dinner table. But we are all called to be ministers of reconciliation (<span class="x-scripture" data-book="2CO" data-chapter="5" data-lang="en" data-type="ref" data-verses="18-19" data-version="NKJV" dir="ltr" style="text-align: left;">2 Corinthians 5:18-19</span>). We have all been received into the priesthood of believers (<span class="x-scripture" data-book="1PE" data-chapter="2" data-lang="en" data-type="ref" data-verses="9" data-version="NKJV" dir="ltr" style="text-align: left;">1 Peter 2:9</span>, <span class="x-scripture" data-book="REV" data-chapter="1" data-lang="en" data-type="ref" data-verses="6" data-version="NKJV" dir="ltr" style="text-align: left;">Revelation 1:6</span>). This means that we all ought to be able to do the work of ministry by the power of the Holy Spirit.
+
+<!-- p124 -->
+The toe works with the foot, the foot works with the ankle, in this way-each part contributes to the overall mission. Marathon runners have to train if they want to finish the race. You must be prepared—not only by learning, but by putting what you have learned into practice. The church, like a marathon runner, thrives when each member plays their role in unity.
+
+<!-- p125 -->
+There are many people in your life whom perhaps only you can reach. A pastor cannot try to shepherd them alone, and an evangelist cannot try to reach them alone either. God wants to use you, through the power of His Holy Spirit, to reach unbelievers. We all do the work of ministry; the Holy Spirit helps us.
+
+<!-- p126 -->
+### You need training
+
+<!-- p127 -->
+Just as a runner strengthens the specific muscles for the race, so believers must be trained and equipped for their own roles in the church. If you suddenly jump into a marathon without training, you will not succeed, and not all training is the same; you must be properly prepared for the race. Jesus has given specific ministry gifts to equip believers, not so that they do all the work themselves, but so that each member is enabled to serve effectively in their own role.
+
+<!-- p128 -->
+Training for a marathon brings change. You need strength, and you also need to be transformed. It is our responsibility to present ourselves to God and to let Him renew and transform us (<span class="x-scripture" data-book="ROM" data-chapter="12" data-lang="en" data-type="ref" data-verses="1-2" data-version="NKJV" dir="ltr" style="text-align: left;">Romans 12:1-2</span>). Transformation will lead you to maturity so that you can carry your own load and help others. You must be able to bear much fruit. This will be discussed in detail in the chapter on sanctification.
+
+<!-- p129 -->
+Training is hard; sometimes it is uncomfortable. At times you may want to avoid the transformation you need to go through. But if you want to reach the goal, you must stay on the narrow path. Sometimes you may need warning, comfort, or help—all with patience (<span class="x-scripture" data-book="1TH" data-chapter="5" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV" dir="ltr" style="text-align: left;">1 Thessalonians 5:14</span>).
+
+<!-- p130 -->
+Every great marathon runner has a coach to train them; you will also need a trainer to help you. Of course, you have the Holy Spirit, but He often works through His coaches—the mature men and women of God in the body of Christ with whom you have been called to work.
+
+<!-- p131 -->
+As individuals, we must first and foremost submit ourselves to God and, second, in this context, to the one body of believers. Submission in the church means honoring godly leadership (<span class="x-scripture" data-book="HEB" data-chapter="13" data-lang="en" data-type="ref" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 13:17</span>) and, in humility, submitting to one another (<span class="x-scripture" data-book="EPH" data-chapter="5" data-lang="en" data-type="ref" data-verses="21" data-version="NKJV" dir="ltr" style="text-align: left;">Ephesians 5:21</span>).
+
+<!-- p132 -->
+Submitting can be difficult, especially when you have previously experienced broken trust or failed leadership. It does not mean blind obedience or control; rather, it expresses an attitude of respect and cooperation. Worldly submission is demanded by those in authority and can be demeaning and breed resentment. Biblical submission, built on humility and discernment, strengthens the church and builds accountability. Be willing to listen to guidance and constructive feedback.
+
+<!-- p133 -->
+Now that we have laid a solid foundation - you are a meaningful part of the body, but training is needed - let’s now look for where you fit best.
+
+<!-- p134 -->
+### Finding where you fit
+
+<!-- p135 -->
+Finding your role in the church means seeking God’s guidance, understanding your spiritual gifts, and being actively engaged with your church community. It is a journey of prayer, exploration, and growth in which you discover how God has uniquely equipped you to contribute to His kingdom. It is very important to note that your role in the church will likely change over time and is unlikely to remain the same throughout your life.
+
+<!-- p136 -->
+Here is a practical approach to help you find your place, presented as steps for clarity, but in your walk with God you will likely repeat the same steps multiple times.
+
+<!-- p137 -->
+#### Step 1 - Seeking God’s guidance through prayer and the Word
+
+<!-- p138 -->
+Begin by **seeking God’s guidance through prayer**. God is the ultimate source of your purpose and calling (<span class="x-scripture" data-book="JER" data-chapter="29" data-lang="en" data-type="ref" data-verses="11" data-version="NKJV" dir="ltr" style="text-align: left;">Jeremiah 29:11</span>). Pray regularly for clarity about how you can serve in the church, and pray that He would reveal your spiritual gifts and desires. Trust that He will direct your steps as you submit your plans to His will (<span class="x-scripture" data-book="PRO" data-chapter="3" data-lang="en" data-type="ref" data-verses="5-6" data-version="NKJV" dir="ltr" style="text-align: left;">Proverbs 3:5-6</span>).
+
+<!-- p139 -->
+**Study God’s Word** to deepen your understanding of the church’s mission and your role in it. Key passages like 1 Corinthians 12 and <span class="x-scripture" data-book="EPH" data-chapter="4" data-lang="en" data-type="ref" data-verses="11-12" data-version="NKJV" dir="ltr" style="text-align: left;">Ephesians 4:11-12</span> highlight the diversity of spiritual gifts and roles in the body of Christ. Reflect on examples of people in Scripture, such as Paul, Timothy, and Lydia, who discovered and fulfilled their roles.
+
