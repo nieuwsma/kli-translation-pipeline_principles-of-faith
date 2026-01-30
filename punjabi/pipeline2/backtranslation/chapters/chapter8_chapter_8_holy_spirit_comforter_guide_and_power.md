@@ -77,3 +77,71 @@ In the ministry of the Holy Spirit there are many different purposes and roles. 
 <!-- p39 -->
 Before Jesus performed any miracles or began his public ministry, he was baptized by John the Baptist and the Spirit of God descended upon him, and a voice from heaven said, ‘This is my beloved Son, with whom I am well pleased’ (<span class="x-scripture" data-book="MAT" data-chapter="3" data-lang="en" data-type="ref" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 3:17</span>).
 
+<!-- p40 -->
+When we receive Jesus through faith, then we obtain salvation and the seal of the Holy Spirit.
+
+<!-- p41 -->
+<span class="x-scripture" data-book="EPH" data-chapter="1" data-lang="en" data-type="quote" data-verses="13-14" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p42 -->
+> **<u>Ephesians 1:13-14</u>** (NKJV)
+>
+> In Him you also trusted, after you heard the word of truth, the gospel of your salvation; in whom also, having believed, you were sealed with the Holy Spirit of promise,
+>
+> who is the guarantee of our inheritance until the redemption of the purchased possession, to the praise of His glory.
+>
+
+<!-- p43 -->
+</span>
+
+<!-- p44 -->
+This seal is not metaphorical, but literal. It is the sign of our salvation and the down payment on the full inheritance that we receive as children of God. Romans 8 describes that through new birth we receive in our mortal bodies the very Spirit of God who raised Christ from the dead, and we become the actual temple of the Holy Spirit (<span class="x-scripture" data-book="2CO" data-chapter="6" data-lang="en" data-type="ref" data-verses="16" data-version="NKJV" dir="ltr" style="text-align: left;">2 Corinthians 6:16</span>).
+
+<!-- p45 -->
+Receiving the Spirit of God transforms us, and it causes rivers of living water to flow from within us (<span class="x-scripture" data-book="JHN" data-chapter="7" data-lang="en" data-type="ref" data-verses="38" data-version="NKJV" dir="ltr" style="text-align: left;">John 7:38</span>). This renewal is immediate and complete, yet continues throughout our whole lives. The river of the Holy Spirit should never stop in our lives!
+
+<!-- p46 -->
+Through salvation and the indwelling of the Holy Spirit we can abide in Christ and He in us. The Spirit of God no longer remains outside, but can dwell deeply with us. From now into eternal life we can walk in fellowship and harmony with God.
+
+<!-- p47 -->
+There is much more to say about the inner work of the Holy Spirit and His role in our sanctification, but this will be discussed in the chapter on sanctification.
+
+<!-- p48 -->
+### Furthermore—the Holy Spirit Testifies of Jesus
+
+<!-- p49 -->
+The Holy Spirit is from God and is God’s. Just as Jesus said that He does nothing except what the Father shows Him (<span class="x-scripture" data-book="JHN" data-chapter="5" data-lang="en" data-type="ref" data-verses="19" data-version="NKJV" dir="ltr" style="text-align: left;">John 5:19</span>), so the Holy Spirit also does nothing apart from the Father’s direction. Because the Holy Spirit is the Helper, He does not act on His own will, but works in perfect harmony with the Father.
+
+<!-- p50 -->
+The Spirit testifies of Jesus (<span class="x-scripture" data-book="JHN" data-chapter="15" data-lang="en" data-type="ref" data-verses="26" data-version="NKJV" dir="ltr" style="text-align: left;">John 15:26</span>), glorifies Jesus, and declares and proclaims what Jesus has for us (<span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV" dir="ltr" style="text-align: left;">John 16:14</span>).
+
+<!-- p51 -->
+The Holy Spirit will bear witness to Jesus, glorify Him, teach, and bring Jesus’ teachings to our remembrance (<span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="en" data-type="ref" data-verses="26" data-version="NKJV" dir="ltr" style="text-align: left;">John 14:26</span>), and will guide us into all truth (<span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="en" data-type="ref" data-verses="13" data-version="NKJV" dir="ltr" style="text-align: left;">John 16:13</span>). Jesus told His disciples that He had much more to teach them, but they could not bear it yet; however, the Holy Spirit would lead them into all truth. This is another subtle point in theology. The teachings that Jesus needed His disciples to know were conveyed in many ways. Jesus Himself taught them, even before His crucifixion, and also after the resurrection and before His ascension.
+
+<!-- p52 -->
+Jesus also promised that the Spirit of truth, who was poured out upon them on the day of Pentecost, would lead them into all truth through divine revelation. Does divine revelation still happen today? **Most certainly, yes!** The gifts of the Holy Spirit, including prophecy and words of knowledge and wisdom, have not ceased! However, no prophecy or word from any spirit is of private interpretation (<span class="x-scripture" data-book="2PE" data-chapter="1" data-lang="en" data-type="ref" data-verses="20" data-version="NKJV" dir="ltr" style="text-align: left;">2 Peter 1:20</span>). This is very important. Some people will mistakenly claim that they are hearing the Holy Spirit, but their deeds and words do not bear witness to Jesus. <span class="x-scripture" data-book="1JN" data-chapter="4" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV" dir="ltr" style="text-align: left;">1 John 4:3</span> warns against any spirit that does not testify of Jesus, saying that such a spirit is of antichrist. This bears repeating—if any spirit deviates from the teaching of Christ, it is not the Holy Spirit, but unholy!
+
+<!-- p53 -->
+<span class="x-scripture" data-book="1JN" data-chapter="4" data-lang="en" data-type="quote" data-verses="1" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p54 -->
+> **<u>1 John 4:1</u>** (NKJV)
+>
+> Beloved, do not believe every spirit, but test the spirits, whether they are of God; because many false prophets have gone out into the world.
+>
+
+<!-- p55 -->
+</span>
+
+<!-- p56 -->
+Throughout Scripture, we see examples of claims made in error, often by false prophets or well-intentioned individuals who spoke against God’s will. For example, Jeremiah warned against prophets who spoke visions of their own minds, claiming peace when destruction was near (<span class="x-scripture" data-book="JER" data-chapter="23" data-lang="en" data-type="ref" data-verses="16-17" data-version="NKJV" dir="ltr" style="text-align: left;">Jeremiah 23:16-17</span>). Similarly, in <span class="x-scripture" data-book="ACT" data-chapter="16" data-lang="en" data-type="ref" data-verses="16-18" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 16:16-18</span>, the words of a slave girl about Paul and Silas were accurate but were inspired not by the Holy Spirit, but by an evil spirit. These examples remind us that words which appear true can still spring from unrighteous sources.
+
+<!-- p57 -->
+Every claim of ‘God told me!’ or of ‘new’ teaching must be tested against the biblical standard of truth. To test properly, we should ask:
+
+<!-- p58 -->
+- Is this consistent with Scripture?
+
+<!-- p59 -->
+- Does it glorify Jesus Christ?
+
