@@ -291,3 +291,63 @@ Jesus said that we would do these works and even greater ones! (<span class="x-s
 <!-- p99 -->
 Jesus’ chosen instrument for change on the earth is His church, empowered, emboldened, and guided by the Holy Spirit.
 
+<!-- p100 -->
+## Building a Relationship with the Holy Spirit
+
+<!-- p101 -->
+Every relationship needs time and experience to develop in depth. The Holy Spirit is our advocate, our comforter, our helper, and our guide. He empowers us and sanctifies us.
+
+<!-- p102 -->
+Begin to think about the Holy Spirit in the same way you think about a person. In our relationship we can both do things to build it or do things that weaken our relationship. He can be ignored, quenched, blasphemed, or he can be heard, honored, and obeyed.
+
+<!-- p103 -->
+Do not ignore the voice of the Holy Spirit. He is always speaking to us and to the Church. If you do not yet know how to recognize the voice of the Holy Spirit, that takes time, willingness, and effort (like every healthy and beneficial relationship). But do not worry, you already have within you all the necessary parts needed to begin forming a personal relationship with the Holy Spirit.
+
+<!-- p104 -->
+The fastest and most reliable ways to build an effective relationship with the Holy Spirit are to
+
+<!-- p105 -->
+1.  Invite him in prayer **personally**, pause, and wait for him to speak.
+
+<!-- p106 -->
+2.  As part of a **group** of people who know him (the Church), invite him, pause, and wait for him to speak.
+
+<!-- p107 -->
+I use the phrase ‘invite’ to mean literally, with your mouth, or in whatever way you speak (with your hands if you cannot speak out loud with your mouth). Why speak? A few reasons:
+
+<!-- p108 -->
+1.  We are speaking spirits made in the image of God. God speaks, and we speak as well.
+
+<!-- p109 -->
+2.  The primary way we communicate is by speaking. You can also write what you want to say (journaling) and speak it out loud.
+
+<!-- p110 -->
+3.  Speaking is a deliberate act, and it tells the one you are speaking with that you want to converse with him.
+
+<!-- p111 -->
+#### What should you say?
+
+<!-- p112 -->
+If you have never spoken with God, try introducing yourself. Surely, it will feel a little awkward, but that discomfort is okay and temporary. Along with your introduction, tell God that you want to talk with him and that you want him to talk back to you.
+
+<!-- p113 -->
+Consider asking him a question. It does not need to be a deep theological question; it can start simply. Can you show me your love for me? Why do I feel a particular way? What do you want to say to me?
+
+<!-- p114 -->
+#### Then what?
+
+<!-- p115 -->
+Well, in every effective relationship you speak for a while, then pause and listen. God will speak.
+
+<!-- p116 -->
+God speaks in many ways, but he wants to do this personally and internally. It will likely not be an audible voice (like your best friend saying your name out loud), but it will be an inner voice that speaks to your heart and mind. Elijah calls it a ‘still small voice’ (<span class="x-scripture" data-book="1KI" data-chapter="19" data-lang="en" data-type="ref" data-verses="11-13" data-version="NKJV" dir="ltr" style="text-align: left;">1 Kings 19:11-13</span>).
+
+<!-- p117 -->
+The most common ways I have personally seen God speak to people, and I have had the blessing of teaching dozens of people to talk directly with God, are some combination of the following:
+
+<!-- p118 -->
+- An inner understanding - the person speaking with God receives an immediate understanding that helps them.
+
+<!-- p119 -->
+- A picture - in the Scriptures this is also called a vision or a dream (a vision is when you are awake, a dream is when you are asleep), God will give you a picture in your mind. Perhaps it is a memory, or a place you have been or know? Explore this picture; what do you see? As a result, what do you feel? What is happening?
+
