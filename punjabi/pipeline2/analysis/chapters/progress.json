@@ -124,5 +124,29 @@
     "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/backtranslation/chapters/chapter5_chapter_5_repentance_from_dead_works.md",
     "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works.csv",
     "generated_at": "2026-01-30T16:23:33.351913"
+  },
+  "drift_report_chapter6_chapter_6_faith_toward_god_vs_chapter6_chapter_6_faith_toward_god.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter6_chapter_6_faith_toward_god.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/backtranslation/chapters/chapter6_chapter_6_faith_toward_god.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/drift_report_chapter6_chapter_6_faith_toward_god_vs_chapter6_chapter_6_faith_toward_god.csv",
+    "generated_at": "2026-01-30T16:23:42.825074"
+  },
+  "drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/backtranslation/chapters/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith.csv",
+    "generated_at": "2026-01-30T16:23:48.749389"
+  },
+  "drift_report_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_vs_chapter8_chapter_8_holy_spirit_comforter_guide_and_power.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/backtranslation/chapters/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/drift_report_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_vs_chapter8_chapter_8_holy_spirit_comforter_guide_and_power.csv",
+    "generated_at": "2026-01-30T16:23:56.981359"
+  },
+  "drift_report_chapter9_chapter_9_the_church_our_role_in_it_vs_chapter9_chapter_9_the_church_our_role_in_it.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter9_chapter_9_the_church_our_role_in_it.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/backtranslation/chapters/chapter9_chapter_9_the_church_our_role_in_it.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/drift_report_chapter9_chapter_9_the_church_our_role_in_it_vs_chapter9_chapter_9_the_church_our_role_in_it.csv",
+    "generated_at": "2026-01-30T16:24:08.820194"
   }
 }

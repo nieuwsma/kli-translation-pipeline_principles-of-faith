@@ -132,3 +132,80 @@
 <!-- p39 -->
 <span class="x-scripture" data-book="REV" data-chapter="20" data-lang="en" data-type="fragment" data-verses="11-12" data-version="NKJV" dir="ltr" style="text-align: left;">
 
+<!-- p40 -->
+> **<u>ヨハネの黙示録 20:11-12</u>** (NKJV)
+>
+> それから私は、大きな白い御座と、その上に座しておられる方を見た。御顔の前から地と天は逃げ去り、彼らのために見つかる場所はなかった。
+>
+> また私は、小さな者も大いなる者も、死んだ者たちが神の前に立っているのを見た。そして数々の書が開かれた。さらにもう一つの書、すなわちいのちの書が開かれた。死んだ者たちは、その行いに応じて、これらの書に記されているところによって裁かれた。
+>
+
+<!-- p41 -->
+</span>
+
+<!-- p42 -->
+罪についての章で述べたように、不信者すべてに対して、偉大で恐るべき最終的な裁きがあるでしょう。その罰は神からの永遠の分離です！**この裁きは信者のためのものではありません。**
+
+<!-- p43 -->
+#### キリストの裁きの座
+
+<!-- p44 -->
+信者として私たちの名は**小羊の*いのちの書***に記されています *(*ヨハネの黙示録を参照 *ヨハネの黙示録)**.** そのため私たちは立つ* *その **キリストの裁きの座***. この裁きは罪に定めるためではなく、むしろ報いのためです！ もう一度**、** それは信者にとって**恥や恐れ**の瞬間ではなく、神が私たちを通して成し遂げてくださったことの**祝賀**です。 それは、私たちの人生が重要であることを思い起こさせます-今日だけでなく**永遠**に。
+
+<!-- p45 -->
+<span class="x-scripture" data-book="2CO" data-chapter="5" data-lang="en" data-type="quote" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p46 -->
+> **<u>第二コリント 5:10</u>** (NKJV)
+>
+> 私たちは皆、キリストの裁きの座の前に現れなければなりません。それは、それぞれが、善であれ悪であれ、自分が体において行ったことに応じて受けるためです。
+>
+
+<!-- p47 -->
+</span>
+
+<!-- p48 -->
+<span class="x-scripture" data-book="1CO" data-chapter="3" data-lang="en" data-type="quote" data-verses="12-15" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p49 -->
+> **<u>第一コリント 3:12-15</u>** (NKJV)
+>
+> もし誰かがこの土台の上に、金、銀、宝石、木、草、わらで建てるなら、
+>
+> それぞれの働きは明らかになります。というのは、その日はそれを示すからです。なぜならそれは火によって明らかにされ、その火はそれぞれの働きがどのようなものかを試すからです。
+>
+> もし誰かの働きが、それの上に建てたものが残れば、その人は報いを受けます。
+>
+> もし誰かの働きが焼けてしまえば、その人は損害を受けます。しかしその人自身は救われます。ただ、火をくぐるようにしてです。
+>
+
+<!-- p50 -->
+</span>
+
+<!-- p51 -->
+この裁きにおいて、私たちは行ってきた善いわざに対して報いを受けます！この裁きにいるすべての人は、信者として生き、死んだ人々であり、その永遠の救いは保証されています。しかし、すべての人がさらなる報いを持つわけではありません。新約聖書は、勝利、栄誉、忠実さを表す報いとしての冠について述べています。これらの月桂冠は、神の御国における信者の忠実と奉仕に対する神の認定を際立たせます。
+
+<!-- p52 -->
+報い:
+
+<!-- p53 -->
+1.  **義の冠** *(<span class="x-scripture" data-book="2TI" data-chapter="4" data-lang="en" data-type="ref" data-verses="8" data-version="NKJV" dir="ltr" style="text-align: left;">第二テモテ 4:8</span>)* - キリストの現れを慕い、敬虔に生きる者たちのため。
+
+<!-- p54 -->
+2.  **朽ちない冠** *(<span class="x-scripture" data-book="1CO" data-chapter="9" data-lang="en" data-type="ref" data-verses="24-25" data-version="NKJV" dir="ltr" style="text-align: left;">第一コリント 9:24-25</span>)* - 自制と忠実を実践する信者のため。
+
+<!-- p55 -->
+3.  **いのちの冠** *(<span class="x-scripture" data-book="JAS" data-chapter="1" data-lang="en" data-type="ref" data-verses="12" data-version="NKJV" dir="ltr" style="text-align: left;">ヤコブ 1:12</span>; <span class="x-scripture" data-book="REV" data-chapter="2" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">ヨハネの黙示録 2:10</span>)* - 試練、迫害、試みを耐え忍ぶ者たちのため。
+
+<!-- p56 -->
+4.  **栄光の冠** *(<span class="x-scripture" data-book="1PE" data-chapter="5" data-lang="en" data-type="ref" data-verses="2-4" data-version="NKJV" dir="ltr" style="text-align: left;">第一ペテロ 5:2-4</span>)* - 神の民を忠実に導く指導者や牧者のため。
+
+<!-- p57 -->
+5.  **喜びの冠** *(<span class="x-scripture" data-book="1TH" data-chapter="2" data-lang="en" data-type="ref" data-verses="19-20" data-version="NKJV" dir="ltr" style="text-align: left;">第一テサロニケ 2:19-20</span>)* - 他の人々をキリストに導き、弟子とする者たちのため。
+
+<!-- p58 -->
+**私たちは何をすべきでしょうか?**
+
+<!-- p59 -->
+- **目的をもって生きる:** 御国のための私たちの努力が永遠に意味を持つことを知って、勤勉に働こう。
+
