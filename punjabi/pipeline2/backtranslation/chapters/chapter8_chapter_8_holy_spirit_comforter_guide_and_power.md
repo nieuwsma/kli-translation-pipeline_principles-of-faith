@@ -145,3 +145,81 @@ Every claim of ‘God told me!’ or of ‘new’ teaching must be tested agains
 <!-- p59 -->
 - Does it glorify Jesus Christ?
 
+<!-- p60 -->
+- Does it produce godly fruit?
+
+<!-- p61 -->
+By applying these tests, we can distinguish the true guidance of the Holy Spirit from errors or deception.
+
+<!-- p62 -->
+God gives us abundant &amp; plentiful wisdom and guidance (<span class="x-scripture" data-book="JAS" data-chapter="1" data-lang="en" data-type="ref" data-verses="5" data-version="NKJV" dir="ltr" style="text-align: left;">James 1:5</span> &amp; <span class="x-scripture" data-book="JER" data-chapter="33" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV" dir="ltr" style="text-align: left;">Jeremiah 33:3</span>). God’s divine wisdom will not violate Scripture, but it will also go beyond the bounds of Scripture. His *entolē* *(*commands*)* are instructions to be obeyed immediately; these are *rhema* words (as discussed in the chapter on faith).
+
+<!-- p63 -->
+This wisdom, understanding, and direction will likely not be word-for-word in Scripture. For example, Scripture gives good general guidance on what to look for in a spouse, but does not give specific instructions about the exact person. God promises that He will show us our path, will lead us into all truth, and we can take comfort in knowing that this wisdom and guidance from the Holy Spirit will never violate any teaching of Scripture.
+
+<!-- p64 -->
+### Outward-facing-the Holy Spirit empowers the mission
+
+<!-- p65 -->
+Jesus gave us His mission, the Great Commission:
+
+<!-- p66 -->
+<span class="x-scripture" data-book="MAT" data-chapter="28" data-lang="en" data-type="quote" data-verses="18-20" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p67 -->
+> **<u>Matthew 28:18-20</u>** (NKJV)
+>
+> And Jesus came and spoke to them, saying, "All authority in heaven and on earth has been given to Me.
+>
+> Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,
+>
+> teaching them to observe all things that I have commanded you; and behold, I am with you always, to the end of the age." Amen.
+>
+
+<!-- p68 -->
+</span>
+
+<!-- p69 -->
+The Holy Spirit plays an integral role in the mission, convicting the world concerning sin, righteousness, and judgment:
+
+<!-- p70 -->
+<span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="en" data-type="quote" data-verses="8-11" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p71 -->
+> **<u>John 16:8-11</u>** (NKJV)
+>
+> And when He has come, He will convict the world of sin, and of righteousness, and of judgment:
+>
+> of sin, because they do not believe in Me;
+>
+> of righteousness, because I go to My Father and you see Me no more;
+>
+> of judgment, because the ruler of this world is judged.
+>
+
+<!-- p72 -->
+</span>
+
+<!-- p73 -->
+Looking deeper, the Spirit brings conviction of these three truths:
+
+<!-- p74 -->
+1.  **Conviction of sin**: Revealing the reality of human rebellion against God, and drawing people's attention to the fallenness of their lives.
+
+<!-- p75 -->
+2.  **Conviction of righteousness**: Showing Jesus’ perfect fulfillment of the Father’s will, and that Jesus’ sacrifice provided the necessary once-for-all atonement for the forgiveness of sins.
+
+<!-- p76 -->
+3.  **Conviction of judgment**: Affirming the defeat of Satan, the certainty of God’s judgment, and that everyone will stand before judgment for the works and deeds of their lives.
+
+<!-- p77 -->
+The Holy Spirit also empowers the mission. The Holy Spirit gives believers the power to become bold witnesses in the face of persecution to share the gospel. Boldness does not mean being loud. It means having courage despite fear. Power means might, strength, and ability. The Holy Spirit gives power and ability to be witnesses of the gospel despite threats and fear of punishment.
+
+<!-- p78 -->
+<span class="x-scripture" data-book="ACT" data-chapter="1" data-lang="en" data-type="quote" data-verses="8" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p79 -->
+> **<u>Acts 1:8</u>** (NKJV)
+>
+> But you shall receive power when the Holy Spirit has come upon you; and you shall be My witnesses in Jerusalem, and in all Judea and Samaria, and to the end of the earth."
+
