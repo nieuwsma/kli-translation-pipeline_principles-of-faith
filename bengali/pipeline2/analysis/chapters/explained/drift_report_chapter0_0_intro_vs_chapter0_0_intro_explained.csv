@@ -1,0 +1,7 @@
+# Drift explanation generated 2026-01-30T16:03:20.366440
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"1","0.8416","LOW","no","paraphrase","The back-translation 'Faith Principles' retains the same conceptual meaning as 'Principles of Faith,' simply rearranging the words without altering the underlying theological concepts.","Principles of Faith","Faith Principles"
+"2","0.8416","LOW","no","paraphrase","The back-translation 'Faith Principles' retains the same conceptual meaning as 'Principles of Faith,' simply reordering the words without altering the underlying theological concepts.","Principles of Faith","Faith Principles"
+"4","0.856","MEDIUM","no","paraphrase","The terms 'Principles of Faith' and 'Faith Principles' convey the same conceptual meaning, referring to foundational beliefs or doctrines, without altering the doctrinal, logical, or intentional aspects.","Principles of Faith -","Faith Principles -"
+"19","0.8908","MEDIUM","no","paraphrase","The back-translation expands the abbreviation 'AI' to its full form 'Artificial Intelligence' without altering the original meaning or intent of the term.","**Use of AI**","**Use of Artificial Intelligence**"

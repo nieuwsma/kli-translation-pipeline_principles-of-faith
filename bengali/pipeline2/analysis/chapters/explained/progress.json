@@ -68,5 +68,15 @@
     "drift_report": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/drift_report_chapter0_1_dedication_vs_chapter0_1_dedication.csv",
     "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/explained/drift_report_chapter0_1_dedication_vs_chapter0_1_dedication_explained.csv",
     "generated_at": "2026-01-30T16:03:10.224080"
+  },
+  "drift_report_chapter0_0_intro_vs_chapter0_0_intro_explained.csv": {
+    "drift_report": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/explained/drift_report_chapter0_0_intro_vs_chapter0_0_intro_explained.csv",
+    "generated_at": "2026-01-30T16:03:20.367969"
+  },
+  "drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith_explained.csv": {
+    "drift_report": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith.csv",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/explained/drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith_explained.csv",
+    "generated_at": "2026-01-30T16:03:30.482127"
   }
 }
