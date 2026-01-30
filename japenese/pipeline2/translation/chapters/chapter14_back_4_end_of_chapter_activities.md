@@ -1319,3 +1319,63 @@
 <!-- p439 -->
 1.  **聖書の学び (5分):**
 
+<!-- p440 -->
+- <span class="x-scripture" data-book="ROM" data-chapter="6" data-lang="en" data-type="ref" data-verses="3-4" data-version="NKJV" dir="ltr" style="text-align: left;">ローマ 6:3-4</span> と <span class="x-scripture" data-book="ACT" data-chapter="19" data-lang="en" data-type="ref" data-verses="1-6" data-version="NKJV" dir="ltr" style="text-align: left;">使徒 19:1-6</span> を読む。
+
+<!-- p441 -->
+- 尋ねる: *“これらの箇所は、水のバプテスマと聖霊のバプテスマについてのあなたの理解をどのように深めますか？”*
+
+<!-- p442 -->
+2.  **グループでの振り返り (10分):**
+
+<!-- p443 -->
+- 2人組または小グループで、話し合う:
+
+<!-- p444 -->
+- *“あなたにとって、バプテスマは個人的にどのような意味がありますか？”*
+
+<!-- p445 -->
+- *“あなたのバプテスマの体験は、どのようにしてキリストとの関係を形作ってきましたか？”*
+
+<!-- p446 -->
+3.  **祈りと励まし (5分):**
+
+<!-- p447 -->
+- バプテスマへの新たな理解と、信仰において従順の一歩を踏み出す勇気のために、共に祈る。
+
+<!-- p448 -->
+### アクティビティ 2: 聖霊の力を求める (祈りと適用)
+
+<!-- p449 -->
+#### 目的:
+
+<!-- p450 -->
+参加者が聖霊のバプテスマを求め、その役割を自分の生活の中で理解するよう励ます。
+
+<!-- p451 -->
+#### 手順:
+
+<!-- p452 -->
+1.  **振り返り (5分):**
+
+<!-- p453 -->
+- 問いかけを用意する:
+
+<!-- p454 -->
+- *“あなたの人生や奉仕のどの領域が、聖霊の力から益を受けるでしょうか？”*
+
+<!-- p455 -->
+- *“聖霊の力を十分に求めることを妨げているものは何ですか？”*
+
+<!-- p456 -->
+2.  **グループでの祈り (10分):**
+
+<!-- p457 -->
+- 聖霊のバプテスマを求める人々のために、祈りの時を導く。
+
+<!-- p458 -->
+- 参加者が期待をもって祈るよう励まし、その土台として <span class="x-scripture" data-book="ACT" data-chapter="1" data-lang="en" data-type="ref" data-verses="8" data-version="NKJV" dir="ltr" style="text-align: left;">使徒 1:8</span> と <span class="x-scripture" data-book="LUK" data-chapter="11" data-lang="en" data-type="ref" data-verses="13" data-version="NKJV" dir="ltr" style="text-align: left;">ルカ 11:13</span> を用いる。
+
+<!-- p459 -->
+3.  **締めの励まし (5分):**
+
