@@ -1619,3 +1619,63 @@
 <!-- p539 -->
 - 5,000人に食べ物を与える: *<span class="x-scripture" data-book="MAT" data-chapter="14" data-lang="en" data-type="ref" data-verses="13-21" data-version="NKJV" dir="ltr" style="text-align: left;">マタイ 14:13-21</span>.*
 
+<!-- p540 -->
+- **弟子たち:**
+
+<!-- p541 -->
+- 足の不自由な人を癒す: *<span class="x-scripture" data-book="ACT" data-chapter="3" data-lang="en" data-type="ref" data-verses="1-10" data-version="NKJV" dir="ltr" style="text-align: left;">使徒の働き 3:1-10</span>.*
+
+<!-- p542 -->
+- ピリピで悪霊を追い出す: *<span class="x-scripture" data-book="ACT" data-chapter="16" data-lang="en" data-type="ref" data-verses="16-18" data-version="NKJV" dir="ltr" style="text-align: left;">使徒の働き 16:16-18</span>.*
+
+<!-- p543 -->
+- 魔術師エリマスに対するパウロの宣言: *<span class="x-scripture" data-book="ACT" data-chapter="13" data-lang="en" data-type="ref" data-verses="8-12" data-version="NKJV" dir="ltr" style="text-align: left;">使徒の働き 13:8-12</span>.*
+
+<!-- p544 -->
+- ペテロがタビタ（ドルカス）を死からよみがえらせる: *<span class="x-scripture" data-book="ACT" data-chapter="9" data-lang="en" data-type="ref" data-verses="36-42" data-version="NKJV" dir="ltr" style="text-align: left;">使徒の働き 9:36-42</span>.*
+
+<!-- p545 -->
+- パウロが蛇にかまれても助かる: *<span class="x-scripture" data-book="ACT" data-chapter="28" data-lang="en" data-type="ref" data-verses="3-6" data-version="NKJV" dir="ltr" style="text-align: left;">使徒の働き 28:3-6</span>.*
+
+<!-- p546 -->
+3.  **ディスカッション:**
+
+<!-- p547 -->
+- 各グループに次のことを話し合ってもらいます:
+
+<!-- p548 -->
+- *“この物語は霊的権威について私たちに何を教えていますか？”*
+
+<!-- p549 -->
+- *“この模範を今日の私たちの生活にどのように適用できますか？”*
+
+<!-- p550 -->
+4.  **分かち合い:**
+
+<!-- p551 -->
+- 各グループは自分たちの発見を全体のグループに発表します。
+
+<!-- p552 -->
+### アクティビティ 2: あなたの権威の領域を理解する (黙想と分かち合い)
+
+<!-- p553 -->
+#### 目的:
+
+<!-- p554 -->
+参加者が神から与えられた影響力と権威の領域を認識するよう促す。
+
+<!-- p555 -->
+#### 手順:
+
+<!-- p556 -->
+1.  **黙想:**
+
+<!-- p557 -->
+- 各自、紙に次の問いに答えてください:
+
+<!-- p558 -->
+- *“神は私にどのような影響範囲 (例えば, 家族, 仕事, 教会, 地域社会) を委ねておられますか？”*
+
+<!-- p559 -->
+- *“これらの領域に神の御国をもたらすために、私はどのように霊的権威を用いることができますか？”*
+
