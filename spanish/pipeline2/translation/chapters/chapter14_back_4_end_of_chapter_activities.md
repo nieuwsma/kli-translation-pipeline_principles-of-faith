@@ -1800,3 +1800,48 @@ Ayudar a los participantes a enfocarse en la eternidad y alinear sus vidas con p
 <!-- p599 -->
 3.  **Oración y compromiso (5 minutos):**
 
+<!-- p600 -->
+- Concluyan con una oración en grupo, pidiendo a Dios que ayude a todos a enfocarse en lo que más importa y a vivir listos para Su regreso.
+
+<!-- p601 -->
+### Actividad 2: La parábola de las diez vírgenes (Estudio bíblico y reflexión)
+
+<!-- p602 -->
+#### Propósito:
+
+<!-- p603 -->
+Profundizar en la parábola de las diez vírgenes para explorar la preparación espiritual.
+
+<!-- p604 -->
+#### Instrucciones:
+
+<!-- p605 -->
+1.  **Lectura de la Escritura (5 minutos):**
+
+<!-- p606 -->
+- Lean <span class="x-scripture" data-book="MAT" data-chapter="25" data-lang="en" data-type="ref" data-verses="1-13" data-version="NKJV" dir="ltr" style="text-align: left;">Mateo 25:1-13</span> en voz alta como grupo.
+
+<!-- p607 -->
+2.  **Discusión (10 minutos):**
+
+<!-- p608 -->
+- Hagan estas preguntas:
+
+<!-- p609 -->
+- *“¿Qué simboliza el aceite en esta parábola?”*
+
+<!-- p610 -->
+- *“¿Qué significa ser prudente frente a ser insensato al prepararse para el regreso de Cristo?”*
+
+<!-- p611 -->
+- *“¿Cómo podemos asegurarnos de que nuestras lámparas estén llenas?”*
+
+<!-- p612 -->
+3.  **Aplicación (5 minutos):**
+
+<!-- p613 -->
+- Animen a los participantes a escribir un área en su vida espiritual (p. ej., oración, estudio de la Escritura, servir a otros) en la que quieran “rellenar su lámpara”.
+
+<!-- p614 -->
+- Oren como grupo por la guía y el poder del Espíritu Santo.
+
