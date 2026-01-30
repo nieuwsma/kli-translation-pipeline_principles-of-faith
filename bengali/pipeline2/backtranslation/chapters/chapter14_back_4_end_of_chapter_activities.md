@@ -899,3 +899,949 @@ Encourage participants to implement practical spiritual practices that nurture f
 <!-- p299 -->
 #### Instructions:
 
+<!-- p300 -->
+1.  ***Using the list of names from the chapter:***
+
+<!-- p301 -->
+2.  ***Personal Reflection (5 minutes):***
+
+<!-- p302 -->
+- *Ask participants to choose a name that resonates with them the most and reflect on how it relates to their current walk with God.*
+
+<!-- p303 -->
+3.  ***Group Sharing (10 minutes):***
+
+<!-- p304 -->
+- *Each person briefly shares their chosen name and why it is meaningful.*
+
+<!-- p305 -->
+4.  ***Closing Prayer (5 minutes):***
+
+<!-- p306 -->
+- *Pray together, thanking God for the many aspects of His character revealed through the names of Jesus.*
+
+<!-- p307 -->
+### Activity 3: Mediator of the New Covenant (Scripture Study and Application)
+
+<!-- p308 -->
+#### Objective:
+
+<!-- p309 -->
+*Explore how Jesus, as the **Mediator of the New Covenant**, brings salvation and transforms our relationship with God.*
+
+<!-- p310 -->
+#### Instructions:
+
+<!-- p311 -->
+1.  ***Read <span class="x-scripture" data-book="HEB" data-chapter="9" data-lang="en" data-type="ref" data-verses="15" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 9:15</span> and <span class="x-scripture" data-book="1TI" data-chapter="2" data-lang="en" data-type="ref" data-verses="5-6" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 2:5-6</span> together (10 minutes):***
+
+<!-- p312 -->
+- *Reflect on His role as the Mediator who bridges the gap between humanity and God.*
+
+<!-- p313 -->
+2.  ***Discussion (10 minutes):***
+
+<!-- p314 -->
+- *Why is Jesus uniquely qualified to be the Mediator of the New Covenant?*
+
+<!-- p315 -->
+- *How does His mediation bring us closer to God?*
+
+<!-- p316 -->
+3.  ***Personal Application (5 minutes):***
+
+<!-- p317 -->
+- *Encourage participants to write down an area of their lives where they need to rely on Jesus as Mediator-such as forgiveness, guidance, or restoration.*
+
+<!-- p318 -->
+## *Chapter 8 -* The Holy Spirit-Comforter, Guide, and Power
+
+<!-- p319 -->
+### Activity 1: Talking with God
+
+<!-- p320 -->
+#### Objective:
+
+<!-- p321 -->
+*Teach participants how to talk with God.*
+
+<!-- p322 -->
+#### Instructions:
+
+<!-- p323 -->
+1.  ***Review &amp; Teaching (5 minutes):***
+
+<!-- p324 -->
+- Based on the chapter material, start with the section: “Building a Relationship with the Holy Spirit” &amp; consider the included appendix “Hearing the Voice of God.”
+
+<!-- p325 -->
+2.  ***Guided Prayer Time (15 minutes):***
+
+<!-- p326 -->
+- *Lead the group through a time of prayer:*
+
+<!-- p327 -->
+- *Ask God to speak with them, to reveal Himself to them.*
+
+<!-- p328 -->
+- *Help them listen and verbalize (individually) out loud what they sense God is saying.*
+
+<!-- p329 -->
+### Activity 2: Recognizing the Voice of the Spirit (Reflection & Sharing)
+
+<!-- p330 -->
+#### Objective:
+
+<!-- p331 -->
+*Help participants reflect on how they have experienced the guidance of the Holy Spirit and learn to recognize His voice more clearly, if possible based on the experience from Activity 1.*
+
+<!-- p332 -->
+#### Instructions:
+
+<!-- p333 -->
+1.  ***Personal Reflection (5 minutes):***
+
+<!-- p334 -->
+- *Ask participants to think of a time when they felt they were led, guided, or comforted by the Holy Spirit.*
+
+<!-- p335 -->
+- *Prompting questions: “What was the situation? How did you understand that it was the Holy Spirit speaking to you?” “How did it make you feel?”*
+
+<!-- p336 -->
+2.  ***Group Sharing (10 minutes):***
+
+<!-- p337 -->
+- *Break into small groups and share your reflections with one another.*
+
+<!-- p338 -->
+## Chapter 9 - The Church and Our Role in It
+
+<!-- p339 -->
+### Activity 1: Exploring Biblical Images of the Church (Reflection & Sharing)
+
+<!-- p340 -->
+#### Objective:
+
+<!-- p341 -->
+Helping participants understand and connect with the church’s manifold biblical images।
+
+<!-- p342 -->
+#### Instructions:
+
+<!-- p343 -->
+1.  **Divide into small groups:** Assign each group a biblical image of the church (e.g., body, bride, temple, flock, family)।
+
+<!-- p344 -->
+2.  **Group study:**
+
+<!-- p345 -->
+- Read the Scripture passages related to that image।
+
+<!-- p346 -->
+- Discuss: *“What does this image reveal about the church’s purpose and character? In our community, how can we embody this aspect of the church in our way of life?”*
+
+<!-- p347 -->
+3.  **Sharing insights:** Each group will present their findings before the whole group।
+
+<!-- p348 -->
+### Activity 2: Helping others in the church find their role (practical exploration)
+
+<!-- p349 -->
+#### Objective:
+
+<!-- p350 -->
+Encouraging participants to identify their unique role in the body of Christ।
+
+<!-- p351 -->
+#### Instructions:
+
+<!-- p352 -->
+1.  **Self-reflection (5 minutes):**
+
+<!-- p353 -->
+- Use the chapter’s list of gifts: prophecy, service, teaching, exhortation, giving, leadership, mercy
+
+<!-- p354 -->
+- Ask participants to reflect: *“What gifts or talents has God given me? In service, where do I feel most effective or joyful?” “Among those here with me, what gifts and talents do I see?”*
+
+<!-- p355 -->
+2.  **Group discussion (10 minutes):**
+
+<!-- p356 -->
+- Break into small groups।
+
+<!-- p357 -->
+- In turn: *“Share with them the gifts and talents you see developing and being effective in one another. For the person receiving this, how does it resonate with you?”*
+
+<!-- p358 -->
+3.  **Action plan (5 minutes):**
+
+<!-- p359 -->
+- Encourage participants to write down the gifts they mentioned and decide on one way to use their gifts in service in the coming week।
+
+<!-- p360 -->
+### Activity 3: Putting the Church’s Mission into Action (Brainstorming and Application)
+
+<!-- p361 -->
+#### Objective:
+
+<!-- p362 -->
+Inspire participants to engage in the church’s upward, inward, and outward missions.
+
+<!-- p363 -->
+#### Instructions:
+
+<!-- p364 -->
+1.  **Divide into three groups:** Assign each group one dimension of the church’s mission:
+
+<!-- p365 -->
+- **Upward:** Worship and glorify God.
+
+<!-- p366 -->
+- **Inward:** Build up the body of Christ.
+
+<!-- p367 -->
+- **Outward:** Take the gospel to the world.
+
+<!-- p368 -->
+2.  **Team brainstorming (10 minutes):**
+
+<!-- p369 -->
+- Each group will discuss practical ways to carry out their assigned mission within the church and the community.
+
+<!-- p370 -->
+- Example: Host a night of worship (Upward), organize a small group (Inward), volunteer at a community outreach event (Outward).
+
+<!-- p371 -->
+3.  **Group sharing (10 minutes):**
+
+<!-- p372 -->
+- Each group will share their ideas, focusing especially on how they can motivate the larger group to take action.
+
+<!-- p373 -->
+## Chapter 10 - Sanctified-Set Apart for God’s Purposes
+
+<!-- p374 -->
+### Activity 1: Trusting the Process of Sanctification (Encouragement and Prayer)
+
+<!-- p375 -->
+#### Objective:
+
+<!-- p376 -->
+Reassure participants that sanctification is a lifelong journey and encourage them to trust God’s timing and work.
+
+<!-- p377 -->
+#### Instructions:
+
+<!-- p378 -->
+1.  **Scripture reading (5 minutes):**
+
+<!-- p379 -->
+- Read <span class="x-scripture" data-book="PHP" data-chapter="1" data-lang="en" data-type="ref" data-verses="6" data-version="NKJV" dir="ltr" style="text-align: left;">Philippians 1:6</span> (*“He who has begun a good work in you will complete it until the day of Jesus Christ.”*).
+
+<!-- p380 -->
+2.  **Group Discussion (10 minutes):**
+
+<!-- p381 -->
+- Ask: *“When sanctification feels slow, how does this verse encourage us?”*
+
+<!-- p382 -->
+- Discuss: *“What are practical ways to remind ourselves to trust God in this process?”*
+
+<!-- p383 -->
+3.  **Prayer Circle (5 minutes):**
+
+<!-- p384 -->
+- Conclude by praying for one another, specifically praying for patience, faith, and joy in the journey of sanctification.
+
+<!-- p385 -->
+### Activity 2: Eliminating Negative Habits (Reflection and Awareness of Triggers)
+
+<!-- p386 -->
+#### Objective:
+
+<!-- p387 -->
+Help participants identify negative habits that hinder sanctification and teach them to recognize the triggers and cues that lead to those behaviors.
+
+<!-- p388 -->
+#### Instructions:
+
+<!-- p389 -->
+1.  **Reflection (5 minutes):**
+
+<!-- p390 -->
+- Provide a worksheet with these prompts:
+
+<!-- p391 -->
+- *“Which habit or behavior is hindering your spiritual growth?”*
+
+<!-- p392 -->
+- *“Which situations, emotions, or thoughts typically lead to this habit?”* (Trigger/cue identification).
+
+<!-- p393 -->
+- Example triggers to consider: stress, boredom, peer pressure, time of day, or specific locations.
+
+<!-- p394 -->
+2.  **List of examples of negative habits:**
+
+<!-- p395 -->
+- **Complaining or gossip** - Speaking negatively about others instead of showing grace.
+
+<!-- p396 -->
+- **Responding with anger or impatience** - Quickly flaring up or responding unkindly under pressure.
+
+<!-- p397 -->
+- **Excessive use of social media or entertainment** - Spending excessive time on distractions that hinder meaningful spiritual growth.
+
+<!-- p398 -->
+- **Avoiding difficult conversations** - Not resolving relational conflicts, resulting in unresolved tension.
+
+<!-- p399 -->
+- **Procrastination or laziness** - Putting off responsibilities or neglecting purposeful tasks.
+
+<!-- p400 -->
+- **Holding on to resentment or bitterness** - Allowing unforgiveness to take root in your heart.
+
+<!-- p401 -->
+- **Overindulging in food, shopping, or other comforts** - Turning to these to cope instead of seeking God's peace.
+
+<!-- p402 -->
+- **Dwelling on negative thoughts** - Allowing worry, fear, or envy to dominate your mindset.
+
+<!-- p403 -->
+3.  **Group Discussion (10 minutes):**
+
+<!-- p404 -->
+- Split into small groups. Each participant will share one habit they want to eliminate and its triggers (if they feel comfortable).
+
+<!-- p405 -->
+- Discuss: *“What can you do to stop or avoid these triggers?”* (e.g., pause and pray, change your environment, seek accountability).
+
+<!-- p406 -->
+4.  **Closing (5 minutes):**
+
+<!-- p407 -->
+- Encourage participants to commit to replacing the negative habit with a positive one (see Activity 2).
+
+<!-- p408 -->
+- Pray for God's guidance and strength to identify and break these habits.
+
+<!-- p409 -->
+### Activity 3: Establishing Positive Habits (Forming New Routines and Rewards)
+
+<!-- p410 -->
+#### Objective:
+
+<!-- p411 -->
+Guide participants to build positive habits that align with their journey of sanctification by emphasizing consistent practices and their spiritual rewards.
+
+<!-- p412 -->
+#### Instructions:
+
+<!-- p413 -->
+1.  **Reflection (5 minutes):**
+
+<!-- p414 -->
+- Ask participants to reflect on areas where they can grow spiritually and consider which habits they can implement.
+
+<!-- p415 -->
+- Prompt: *“What habit can I add to strengthen my walk with God or reflect His character in my daily life?”*
+
+<!-- p416 -->
+2.  **List of Examples of Positive Habits:**
+
+<!-- p417 -->
+- **Daily prayer** - Setting aside time at the start or end of the day to connect with God.
+
+<!-- p418 -->
+- **Bible reading or study** - Setting regular time to read, meditate on, and apply Scripture.
+
+<!-- p419 -->
+- **Gratitude journaling** - Writing down three things you’re grateful for each day to shift your focus.
+
+<!-- p420 -->
+- **Serving Others** - Look for small, regular ways to help someone in need or to encourage them।
+
+<!-- p421 -->
+- **Speaking Words of Praise and Affirmation** - Intentionally encourage a family member, friend, or coworker।
+
+<!-- p422 -->
+- **Memorizing Scripture** - Learn one verse per week to meditate on God’s truth।
+
+<!-- p423 -->
+- **Practicing Silence or Solitude** - Sit quietly for a few minutes each day and try to listen for God’s voice।
+
+<!-- p424 -->
+- **Participating in Fellowship** - Attend a small group or church regularly to build relationships and accountability।
+
+<!-- p425 -->
+3.  **Habit Formation (10 minutes):**
+
+<!-- p426 -->
+- Guide participants to break the habit into three components:
+
+<!-- p427 -->
+- **Action:** Clearly define the habit (e.g., *“Spend 5 minutes in prayer every morning before breakfast।”*).
+
+<!-- p428 -->
+- **Cue:** Determine what will remind them to practice this habit (e.g., time of day, placing a Bible on the bedside table)।
+
+<!-- p429 -->
+- **Reward:** Reflect on the spiritual rewards of consistency (e.g., *“This will give me peace and help me trust God more deeply।”*).
+
+<!-- p430 -->
+4.  **Group Sharing (5 minutes):**
+
+<!-- p431 -->
+- In pairs or small groups, participants share the habit they want to establish and their plan to implement it।
+
+<!-- p432 -->
+5.  **Closing:**
+
+<!-- p433 -->
+- Encourage participants to write down their new habit and share it with an accountability partner so that they can practice it consistently।
+
+<!-- p434 -->
+## Chapter 11 - Baptism - Water and Spirit
+
+<!-- p435 -->
+### Activity 1: Exploring the Significance of Baptism (Reflection and Sharing)
+
+<!-- p436 -->
+#### Objective:
+
+<!-- p437 -->
+Help participants reflect on the theological and personal significance of baptism in their spiritual journey।
+
+<!-- p438 -->
+#### Instructions:
+
+<!-- p439 -->
+1.  **Scripture Study (5 minutes):**
+
+<!-- p440 -->
+- Read <span class="x-scripture" data-book="ROM" data-chapter="6" data-lang="en" data-type="ref" data-verses="3-4" data-version="NKJV" dir="ltr" style="text-align: left;">Romans 6:3-4</span> and <span class="x-scripture" data-book="ACT" data-chapter="19" data-lang="en" data-type="ref" data-verses="1-6" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 19:1-6</span>।
+
+<!-- p441 -->
+- Ask: *“How do these passages deepen your understanding of water baptism and Spirit baptism?”*
+
+<!-- p442 -->
+2.  **Group Reflection (10 minutes):**
+
+<!-- p443 -->
+- Discuss in pairs or small groups:
+
+<!-- p444 -->
+- *“What does baptism mean to you personally?”*
+
+<!-- p445 -->
+- *“How has your experience of baptism shaped your relationship with Christ?”*
+
+<!-- p446 -->
+3.  **Prayer and Encouragement (5 minutes):**
+
+<!-- p447 -->
+- Pray together for a renewed understanding of baptism and for courage to take steps of obedience in faith।
+
+<!-- p448 -->
+### Activity 2: Seeking the Empowerment of the Spirit (Prayer and Application)
+
+<!-- p449 -->
+#### Objective:
+
+<!-- p450 -->
+Encourage participants to seek the baptism of the Holy Spirit and to understand its role in their lives।
+
+<!-- p451 -->
+#### Instructions:
+
+<!-- p452 -->
+1.  **Reflection (5 minutes):**
+
+<!-- p453 -->
+- Provide guiding questions:
+
+<!-- p454 -->
+- *“In what areas of your life or ministry would the power of the Holy Spirit be beneficial?”*
+
+<!-- p455 -->
+- *“What is holding you back from fully seeking His empowerment?”*
+
+<!-- p456 -->
+2.  **Group Prayer (10 minutes):**
+
+<!-- p457 -->
+- Lead a time of prayer for those who desire to be baptized in the Holy Spirit।
+
+<!-- p458 -->
+- Encourage participants to pray with expectancy, using <span class="x-scripture" data-book="ACT" data-chapter="1" data-lang="en" data-type="ref" data-verses="8" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 1:8</span> and <span class="x-scripture" data-book="LUK" data-chapter="11" data-lang="en" data-type="ref" data-verses="13" data-version="NKJV" dir="ltr" style="text-align: left;">Luke 11:13</span> as a foundation।
+
+<!-- p459 -->
+3.  **Closing Encouragement (5 minutes):**
+
+<!-- p460 -->
+- Share testimonies of how the empowerment of the Holy Spirit has brought change in the lives of believers.
+
+<!-- p461 -->
+### Activity 3: Baptism Symbolism (Interactive and Creative Exercise)
+
+<!-- p462 -->
+#### Objective:
+
+<!-- p463 -->
+Help participants explore the rich symbolism of baptism and connect it to their personal journeys of faith.
+
+<!-- p464 -->
+#### Instructions:
+
+<!-- p465 -->
+1.  **Scripture Exploration (5 minutes):**
+
+<!-- p466 -->
+- Read <span class="x-scripture" data-book="ROM" data-chapter="6" data-lang="en" data-type="ref" data-verses="3-4" data-version="NKJV" dir="ltr" style="text-align: left;">Romans 6:3-4</span> (*“Therefore we were buried with Him through baptism into death, so that just as Christ was raised from the dead by the glory of the Father, so we also may live a new life.”*).
+
+<!-- p467 -->
+- Discuss: *“What do the elements of baptism-water, immersion, coming up-symbolize for believers?”*
+
+<!-- p468 -->
+2.  **Symbolism Exercise (10 minutes):**
+
+<!-- p469 -->
+- Give participants a list of the symbols of baptism and their meanings:
+
+<!-- p470 -->
+1.  **Water** - purification and sanctification; washing away sin and renewal of life.
+
+<!-- p471 -->
+2.  **Immersion** - death and burial; death to the old self and sinful nature.
+
+<!-- p472 -->
+3.  **Coming up from the water** - resurrection and new life; union with Christ’s resurrection.
+
+<!-- p473 -->
+4.  **Garment** - putting on Christ, righteousness, and a new identity.
+
+<!-- p474 -->
+5.  **Light** - illumination and guidance; walking in the light of Christ.
+
+<!-- p475 -->
+6.  **Seal** - ownership and belonging; being marked by the Holy Spirit in God’s covenant family.
+
+<!-- p476 -->
+7.  **Oil** - anointing and empowerment; being set apart for God’s purposes.
+
+<!-- p477 -->
+8.  **Dove** - the presence of the Holy Spirit; peace, purity, and empowerment for service.
+
+<!-- p478 -->
+9.  **Cross** - union with Christ’s self-sacrifice; surrender to God’s will and daily commitment.
+
+<!-- p479 -->
+10. **Community** - inclusion in the body of Christ; fellowship, accountability, and shared mission.
+
+<!-- p480 -->
+- Tell participants to reflect on which symbol resonates most with their spiritual journey and why.
+
+<!-- p481 -->
+- Optional: Give them index cards or sheets of paper to write a brief statement about how baptism has influenced their faith.
+
+<!-- p482 -->
+3.  **Group Sharing (5 minutes):**
+
+<!-- p483 -->
+- Ask participants to share their reflections in small groups or pairs. Encourage discussion on how they can carry the symbolic meaning of baptism into their daily lives.
+
+<!-- p484 -->
+4.  **Creative Option:**
+
+<!-- p485 -->
+- If time permits, invite participants to create a visual representation (drawing, word cloud, or simple sketch) of what baptism means to them based on the symbols discussed.
+
+<!-- p486 -->
+## Chapter 12 - Discipleship
+
+<!-- p487 -->
+### Activity 1: Identifying Your Circle of Influence (Reflection and Sharing)
+
+<!-- p488 -->
+#### Objective:
+
+<!-- p489 -->
+Help participants recognize those whom God has placed in their lives—those whom they will disciple and those who will inspire them to take action.
+
+<!-- p490 -->
+#### Instructions:
+
+<!-- p491 -->
+1.  **Reflection (5 minutes):**
+
+<!-- p492 -->
+- Individually: Draw three circles with the same center on a sheet of paper and label them:
+
+<!-- p493 -->
+- **Inner Circle:** Close family and friends.
+
+<!-- p494 -->
+- **Middle Circle:** Church or community members.
+
+<!-- p495 -->
+- **Outer Circle:** Acquaintances, coworkers, or neighbors.
+
+<!-- p496 -->
+- Ask participants to write down the names of those they interact with regularly.
+
+<!-- p497 -->
+2.  **Group Sharing (10 minutes):**
+
+<!-- p498 -->
+- In pairs, share one name from each circle and brainstorm ways to engage in meaningful spiritual conversations with those individuals.
+
+<!-- p499 -->
+3.  **Commitment and Prayer (5 minutes):**
+
+<!-- p500 -->
+- Ask participants to commit to one action step for one person this week (e.g., inviting them for coffee, starting a Bible study, or offering to pray for them).
+
+<!-- p501 -->
+- Conclude by praying for courage and wisdom.
+
+<!-- p502 -->
+### Activity 2: Characteristics of a Disciple-Maker (Interactive Brainstorming)
+
+<!-- p503 -->
+#### Objective:
+
+<!-- p504 -->
+Encourage participants to reflect on the qualities that make an effective disciple-maker and to identify areas for personal growth.
+
+<!-- p505 -->
+#### Instructions:
+
+<!-- p506 -->
+1.  **Brainstorming (5 minutes):**
+
+<!-- p507 -->
+- Write the following qualities on a whiteboard or handout:
+
+<!-- p508 -->
+- Patience, humility, relational focus, intentionality, faithfulness, and courage.
+
+<!-- p509 -->
+- Ask participants to add any other qualities they consider important.
+
+<!-- p510 -->
+2.  **Self-reflection (5 minutes):**
+
+<!-- p511 -->
+- Ask participants to choose one or two qualities they currently demonstrate and name one in which they would like to grow.
+
+<!-- p512 -->
+3.  **Group sharing and encouragement (10 minutes):**
+
+<!-- p513 -->
+- In small groups, share their chosen items and discuss how these qualities can be developed through prayer, practice, and accountability.
+
+<!-- p514 -->
+### Activity 3: Creating a Discipleship Plan (Practical Application)
+
+<!-- p515 -->
+#### Objective:
+
+<!-- p516 -->
+Enable participants to create a simple, actionable plan to disciple someone in their life.
+
+<!-- p517 -->
+#### Instructions:
+
+<!-- p518 -->
+1.  **Plan Template:** Provide a worksheet with the following prompts:
+
+<!-- p519 -->
+- **Who?** Write the name of the person you feel prompted in your heart to disciple.
+
+<!-- p520 -->
+- **How?** Identify a way to connect with them this week (e.g., invite to lunch, discuss a spiritual topic).
+
+<!-- p521 -->
+- **What?** Determine a tool or topic to guide the time spent together (e.g., a question to consider, a book of the Bible, prayer, or addressing life's challenges). It doesn't need to be overly structured; let it flow naturally from your relationship with them!
+
+<!-- p522 -->
+2.  **Group sharing (10 minutes):**
+
+<!-- p523 -->
+- Share your plan with a partner for encouragement and accountability.
+
+<!-- p524 -->
+3.  **Prayer for action (5 minutes):**
+
+<!-- p525 -->
+- Pray as a group for courage and guidance to implement their plans.
+
+<!-- p526 -->
+## Chapter 13 - Spiritual Authority
+
+<!-- p527 -->
+### Activity 1: Identifying Spiritual Authority in Scripture (Bible Study Exercise)
+
+<!-- p528 -->
+#### Objective:
+
+<!-- p529 -->
+Help participants identify examples of spiritual authority in the Bible and encourage them to reflect on how they apply to their lives.
+
+<!-- p530 -->
+#### Instructions:
+
+<!-- p531 -->
+1.  **Group study:**
+
+<!-- p532 -->
+- Divide into small groups and assign each group a passage that demonstrates spiritual authority. For more variety, use the expanded list below.
+
+<!-- p533 -->
+2.  **Expanded list of Scriptures (Examples of Jesus or His disciples exercising authority):**
+
+<!-- p534 -->
+- **Jesus:**
+
+<!-- p535 -->
+- Calming the storm: *<span class="x-scripture" data-book="MRK" data-chapter="4" data-lang="en" data-type="ref" data-verses="35-41" data-version="NKJV" dir="ltr" style="text-align: left;">Mark 4:35-41</span>.*
+
+<!-- p536 -->
+- Driving out a demon in the synagogue: *<span class="x-scripture" data-book="MRK" data-chapter="1" data-lang="en" data-type="ref" data-verses="21-28" data-version="NKJV" dir="ltr" style="text-align: left;">Mark 1:21-28</span>.*
+
+<!-- p537 -->
+- Healing the centurion's servant: *<span class="x-scripture" data-book="MAT" data-chapter="8" data-lang="en" data-type="ref" data-verses="5-13" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 8:5-13</span>.*
+
+<!-- p538 -->
+- Raising Lazarus from the dead: *<span class="x-scripture" data-book="JHN" data-chapter="11" data-lang="en" data-type="ref" data-verses="38-44" data-version="NKJV" dir="ltr" style="text-align: left;">John 11:38-44</span>.*
+
+<!-- p539 -->
+- Feeding the five thousand: *<span class="x-scripture" data-book="MAT" data-chapter="14" data-lang="en" data-type="ref" data-verses="13-21" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 14:13-21</span>.*
+
+<!-- p540 -->
+- **The disciples:**
+
+<!-- p541 -->
+- Healing a lame man: *<span class="x-scripture" data-book="ACT" data-chapter="3" data-lang="en" data-type="ref" data-verses="1-10" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 3:1-10</span>.*
+
+<!-- p542 -->
+- Casting out a spirit in Philippi: *<span class="x-scripture" data-book="ACT" data-chapter="16" data-lang="en" data-type="ref" data-verses="16-18" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 16:16-18</span>.*
+
+<!-- p543 -->
+- Paul’s declaration against the sorcerer Elymas: *<span class="x-scripture" data-book="ACT" data-chapter="13" data-lang="en" data-type="ref" data-verses="8-12" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 13:8-12</span>.*
+
+<!-- p544 -->
+- Peter raising Tabitha (Dorcas) from the dead: *<span class="x-scripture" data-book="ACT" data-chapter="9" data-lang="en" data-type="ref" data-verses="36-42" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 9:36-42</span>.*
+
+<!-- p545 -->
+- Paul’s protection from a snakebite: *<span class="x-scripture" data-book="ACT" data-chapter="28" data-lang="en" data-type="ref" data-verses="3-6" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 28:3-6</span>.*
+
+<!-- p546 -->
+3.  **Discussion:**
+
+<!-- p547 -->
+- Ask each group to discuss:
+
+<!-- p548 -->
+- *“What does this incident teach us about spiritual authority?”*
+
+<!-- p549 -->
+- *“How can we apply this example in our lives today?”*
+
+<!-- p550 -->
+4.  **Sharing:**
+
+<!-- p551 -->
+- Each group will present their insights to the larger group.
+
+<!-- p552 -->
+### Activity 2: Understanding Your Sphere of Authority (Reflection and Sharing)
+
+<!-- p553 -->
+#### Objective:
+
+<!-- p554 -->
+Encourage participants to identify the God-given areas of influence and authority.
+
+<!-- p555 -->
+#### Instructions:
+
+<!-- p556 -->
+1.  **Reflection:**
+
+<!-- p557 -->
+- On a piece of paper, each person should answer the following questions:
+
+<!-- p558 -->
+- *“What areas of influence has God entrusted to me (e.g., family, work, church, community)?”*
+
+<!-- p559 -->
+- *“How can I use spiritual authority to bring God’s Kingdom into these areas?”*
+
+<!-- p560 -->
+2.  **Group Discussion:**
+
+<!-- p561 -->
+- Share insights in pairs or small groups.
+
+<!-- p562 -->
+3.  **Prayer:**
+
+<!-- p563 -->
+- Conclude with a collective prayer in which participants are commissioned to walk confidently in their areas of authority.
+
+<!-- p564 -->
+### Activity 3: Understanding the Role of Angels in Spiritual Authority (Topical Bible Study)
+
+<!-- p565 -->
+**Objective:  **
+To deepen participants' understanding of angels as part of God's kingdom and their role in spiritual authority.
+
+<!-- p566 -->
+**Instructions:**
+
+<!-- p567 -->
+1.  **Scripture Study:**
+
+<!-- p568 -->
+- Assign passages about angels. Use the comprehensive list below for deeper exploration.
+
+<!-- p569 -->
+2.  **Comprehensive List of Scriptures about Angels:**
+
+<!-- p570 -->
+- **Angels Protecting and Guiding:**
+
+<!-- p571 -->
+- Protecting believers: *<span class="x-scripture" data-book="PSA" data-chapter="91" data-lang="en" data-type="ref" data-verses="11-12" data-version="NKJV" dir="ltr" style="text-align: left;">Psalms 91:11-12</span>.*
+
+<!-- p572 -->
+- Protecting Elisha and his servant: *<span class="x-scripture" data-book="2KI" data-chapter="6" data-lang="en" data-type="ref" data-verses="15-17" data-version="NKJV" dir="ltr" style="text-align: left;">2KI 6:15-17</span>.*
+
+<!-- p573 -->
+- Guiding Philip to the Ethiopian eunuch: *<span class="x-scripture" data-book="ACT" data-chapter="8" data-lang="en" data-type="ref" data-verses="26" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 8:26</span>.*
+
+<!-- p574 -->
+- **Angels in Spiritual Warfare:**
+
+<!-- p575 -->
+- Delivering Daniel from the lions: *<span class="x-scripture" data-book="DAN" data-chapter="6" data-lang="en" data-type="ref" data-verses="22" data-version="NKJV" dir="ltr" style="text-align: left;">DAN 6:22</span>.*
+
+<!-- p576 -->
+- Angelic warfare in response to prayer: *<span class="x-scripture" data-book="DAN" data-chapter="10" data-lang="en" data-type="ref" data-verses="12-14" data-version="NKJV" dir="ltr" style="text-align: left;">DAN 10:12-14</span>.*
+
+<!-- p577 -->
+- Fighting on behalf of Israel: *<span class="x-scripture" data-book="EXO" data-chapter="23" data-lang="en" data-type="ref" data-verses="20-22" data-version="NKJV" dir="ltr" style="text-align: left;">Exodus 23:20-22</span>.*
+
+<!-- p578 -->
+- **Angels as Messengers:**
+
+<!-- p579 -->
+- Announcing the birth of Jesus: *<span class="x-scripture" data-book="LUK" data-chapter="1" data-lang="en" data-type="ref" data-verses="26-38" data-version="NKJV" dir="ltr" style="text-align: left;">Luke 1:26-38</span>.*
+
+<!-- p580 -->
+- Guiding Joseph: *<span class="x-scripture" data-book="MAT" data-chapter="1" data-lang="en" data-type="ref" data-verses="20-24" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 1:20-24</span>.*
+
+<!-- p581 -->
+- Releasing the apostles from prison: *<span class="x-scripture" data-book="ACT" data-chapter="5" data-lang="en" data-type="ref" data-verses="19-20" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 5:19-20</span>.*
+
+<!-- p582 -->
+3.  **Discussion Questions:**
+
+<!-- p583 -->
+- *“What role do angels play in fulfilling God's purposes?”*
+
+<!-- p584 -->
+- *“How does this knowledge encourage us to trust God in spiritual warfare?”*
+
+<!-- p585 -->
+4.  **Reflection:**
+
+<!-- p586 -->
+- Discuss how the activities of angels align with the spiritual authority exercised by believers.
+
+<!-- p587 -->
+## Chapter 14 - Stay Awake
+
+<!-- p588 -->
+### Activity 1: Eternal Perspective (Interactive Brainstorming)
+
+<!-- p589 -->
+#### Objective:
+
+<!-- p590 -->
+Help participants focus on eternity and align their lives with eternal priorities.
+
+<!-- p591 -->
+#### Instructions:
+
+<!-- p592 -->
+1.  **Brainstorming (5 minutes):**
+
+<!-- p593 -->
+- On a whiteboard or large paper, write “Temporary” and “Eternal.”
+
+<!-- p594 -->
+- Ask participants to list the aspects of life that fall into each category.
+
+<!-- p595 -->
+2.  **Group Discussion (10 minutes):**
+
+<!-- p596 -->
+- Discuss:
+
+<!-- p597 -->
+- *“How can we invest more of our time, energy, and resources in eternal things?”*
+
+<!-- p598 -->
+- *“What are some practical ways to live with an eternal perspective?”*
+
+<!-- p599 -->
+3.  **Prayer and Commitment (5 minutes):**
+
+<!-- p600 -->
+- Conclude with a group prayer, asking God to help everyone remain focused on what is most important and to live in a state of readiness for His return.
+
+<!-- p601 -->
+### Activity 2: The Parable of the Ten Virgins (Bible Study and Reflection)
+
+<!-- p602 -->
+#### Objective:
+
+<!-- p603 -->
+Dive deeper into the Parable of the Ten Virgins to explore spiritual readiness.
+
+<!-- p604 -->
+#### Instructions:
+
+<!-- p605 -->
+1.  **Scripture Reading (5 minutes):**
+
+<!-- p606 -->
+- As a group, read aloud <span class="x-scripture" data-book="MAT" data-chapter="25" data-lang="en" data-type="ref" data-verses="1-13" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 25:1-13</span>.
+
+<!-- p607 -->
+2.  **Discussion (10 minutes):**
+
+<!-- p608 -->
+- Ask these questions:
+
+<!-- p609 -->
+- *“What is the symbolic meaning of the oil in this parable?”*
+
+<!-- p610 -->
+- *“What does it mean to be wise versus foolish in preparing for Christ’s return?”*
+
+<!-- p611 -->
+- *“How can we ensure that our lamps are filled with oil?”*
+
+<!-- p612 -->
+3.  **Application (5 minutes):**
+
+<!-- p613 -->
+- Encourage participants to write down an area of their spiritual life (e.g., prayer, Scripture study, serving others) where they would like to “refill their lamp”.
+
+<!-- p614 -->
+- Pray together for the Holy Spirit’s guidance and empowerment.
+

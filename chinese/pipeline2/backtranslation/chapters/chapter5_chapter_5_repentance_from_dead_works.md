@@ -472,3 +472,27 @@ David’s journey of repentance was not merely feeling sorry; it was a profound 
 <!-- p139 -->
 ## Small Group Discussion Questions (20-30 minutes)
 
+<!-- p140 -->
+1.  **Icebreaker question:** *“When you hear the word ‘repentance,’ what emotions or thoughts come to mind?”*
+
+<!-- p141 -->
+2.  **Scripture exploration:** *Read <span class="x-scripture" data-book="2CO" data-chapter="7" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">2 Corinthians 7:10</span>. How is “godly sorrow” different from worldly sorrow? Why is this distinction important?*
+
+<!-- p142 -->
+3.  **Dead works:** *Discuss the characteristics of “dead works” (e.g., ineffective, unfruitful, lifeless). How can we avoid or turn from them in daily life?*
+
+<!-- p143 -->
+4.  **The role of the Holy Spirit:** *Read <span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="en" data-type="ref" data-verses="13" data-version="NKJV" dir="ltr" style="text-align: left;">John 16:13</span>. How does the Holy Spirit guide us in repentance and truth? Share a personal experience when you felt the Holy Spirit leading you to change.*
+
+<!-- p144 -->
+5.  **Practical repentance:** *In <span class="x-scripture" data-book="PSA" data-chapter="51" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">Psalm 51:10</span>, what does David mean in his prayer by “renew a steadfast spirit”? How can we cultivate this in our lives?*
+
+<!-- p145 -->
+## References
+
+<!-- p146 -->
+[1] - Using the ‘Stages of Change’ to transform behavior, PsychCentral.com, retrieved on 2025-01-11, [<u>https://psychcentral.com/lib/stages-of-change#how-it-works</u>](https://psychcentral.com/lib/stages-of-change#how-it-works)
+
+<!-- p147 -->
+[2] - Grim, B. J., & Grim, M. E. (2019). Faith, behavior, and belonging: Why faith is indispensable in prevention and recovery from substance abuse. Journal of Religion and Health, 58(5), 1713-1750. <u><https: 10.1007="" doi.org="" s10943-019-00876-w=""> </https:></u>
+

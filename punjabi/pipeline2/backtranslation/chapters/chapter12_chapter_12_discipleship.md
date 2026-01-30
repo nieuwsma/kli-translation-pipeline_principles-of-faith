@@ -248,3 +248,111 @@ A disciple-maker is one who not only follows Christ but is also committed to hel
 <!-- p79 -->
 #### Rooted in Christ
 
+<!-- p80 -->
+The foundation of a disciple-maker’s life must be deeply rooted in Christ. Jesus said, *“I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing”* (<span class="x-scripture" data-book="JHN" data-chapter="15" data-lang="en" data-type="ref" data-verses="5" data-version="NKJV" dir="ltr" style="text-align: left;">John 15:5</span>). Effective disciple-makers know that the ability to grow and help others comes from staying close to Jesus daily. Yet resistance to personal growth and spiritual transformation can hinder this dependence. Disciple-makers should continually cultivate their personal relationship with Jesus through prayer, study of Scripture, and obedience, becoming an example to those they are discipling of what it means to abide in Christ.
+
+<!-- p81 -->
+#### Committed to the Mission
+
+<!-- p82 -->
+A disciple-maker must remain committed to the disciple-making mission given by Jesus in the Great Commission (<span class="x-scripture" data-book="MAT" data-chapter="28" data-lang="en" data-type="ref" data-verses="19-20" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 28:19-20</span>). This mission requires intentional focus and priority, recognizing that disciple-making is not an optional task but the central purpose of the church. Yet challenges such as time constraints, busyness, and personal distractions can make it difficult to stay focused. Disciple-makers should intentionally set aside time for mentoring, training, and relationship-building, and view disciple-making as a lifestyle rather than an occasional activity (<span class="x-scripture" data-book="LUK" data-chapter="19" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">Luke 19:10</span>).
+
+<!-- p83 -->
+#### Led by the Spirit
+
+<!-- p84 -->
+The work of disciple-making cannot be done by human strength alone; it requires the guidance and empowerment of the Holy Spirit. Jesus promised His disciples that when the Holy Spirit came upon them, they would receive power (<span class="x-scripture" data-book="ACT" data-chapter="1" data-lang="en" data-type="ref" data-verses="8" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 1:8</span>), equipping them to be witnesses and servants of the gospel. Disciple-makers should remain sensitive to the Spirit’s leading, and trust His wisdom so they can wisely navigate complex situations, cultural barriers, and difficult conversations. This dependence on the Holy Spirit enables disciple-makers to operate in love, boldness, and spiritual discernment, ensuring that their efforts are Spirit-driven rather than self-driven.
+
+<!-- p85 -->
+#### Humble and Teachable
+
+<!-- p86 -->
+Humility is the mark of an effective disciple-maker. As Paul taught, *“Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves”* (<span class="x-scripture" data-book="PHP" data-chapter="2" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV" dir="ltr" style="text-align: left;">Philippians 2:3</span>). Disciple-makers recognize that they themselves are lifelong learners who must remain teachable and accountable. They welcome correction and feedback, modeling humility for those they mentor. Pride can become a major obstacle to growth, for both disciple-makers and their disciples. Embracing accountability and maintaining a servant’s heart fosters trust and creates an environment for growth and transparency.
+
+<!-- p87 -->
+#### Patient and Persevering
+
+<!-- p88 -->
+Discipleship is rarely instantaneous—it is a long-term process that requires patience and perseverance. Paul reminds believers that, *“Let us not grow weary in doing good, for at the proper time we will reap a harvest if we do not give up”* (<span class="x-scripture" data-book="GAL" data-chapter="6" data-lang="en" data-type="ref" data-verses="9" data-version="NKJV" dir="ltr" style="text-align: left;">Galatians 6:9</span>). Growth in faith often includes setbacks, questions, and failures, but disciple-makers are called to walk alongside others, providing encouragement and support at every step. It is easy to become discouraged when progress seems slow, but disciple-makers trust that God is at work, even when results are not immediately visible.
+
+<!-- p89 -->
+Being a disciple-maker requires a blend of spiritual dependence, commitment, and humility. It is a calling that demands patience and perseverance, while remaining Spirit-led and teachable. Disciple-makers are not expected to be perfect, but they should be faithful—to abide in Christ, invest in others, and trust God to bring growth and transformation in His timing. These qualities reveal the love of Christ and help others become mature disciples who can, in turn, make other disciples.
+
+<!-- p90 -->
+## Practical Tools for Discipleship
+
+<!-- p91 -->
+Effective discipleship requires intentional tools and practices that encourage spiritual growth, accountability, and fellowship. These tools help disciples build a strong foundation in faith, grow in closeness with God, and be equipped to make other disciples. Practical approaches such as Bible study, prayer, small groups, and mentoring provide both the structure and the support needed for ongoing growth.
+
+<!-- p92 -->
+### Bible Study
+
+<!-- p93 -->
+Deep engagement with Scripture is the foundation of discipleship. Jesus emphasized the importance of God’s Word in spiritual growth, declaring that, *“Man shall not live by bread alone, but by every word that proceeds from the mouth of God”* (<span class="x-scripture" data-book="MAT" data-chapter="4" data-lang="en" data-type="ref" data-verses="4" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 4:4</span>). Regular Bible study and memorization enable disciples to internalize truth, counter lies, and apply God’s wisdom to daily life.
+
+<!-- p94 -->
+Disciples should be encouraged to immerse themselves in Scripture, not merely as an academic exercise, but to know God and transform their hearts (<span class="x-scripture" data-book="PSA" data-chapter="119" data-lang="en" data-type="ref" data-verses="105" data-version="NKJV" dir="ltr" style="text-align: left;">Psalm 119:105</span>). Practical methods such as reading plans, study guides, and group discussions provide opportunities to explore doctrine and discuss application in community. By establishing regular study habits, disciples lay a strong foundation for spiritual maturity and fruitful ministry (<span class="x-scripture" data-book="2TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="16-17" data-version="NKJV" dir="ltr" style="text-align: left;">2 Timothy 3:16-17</span>).
+
+<!-- p95 -->
+### Prayer
+
+<!-- p96 -->
+Prayer is the lifeline of discipleship, connecting believers to God’s presence, power, and guidance. Jesus taught His disciples how to pray in <span class="x-scripture" data-book="LUK" data-chapter="11" data-lang="en" data-type="ref" data-verses="1-4" data-version="NKJV" dir="ltr" style="text-align: left;">Luke 11:1-4</span>, emphasizing both dependence on God and alignment with His will. Through prayer, disciples learn to seek God’s wisdom, intercede for others, and receive strength for service.
+
+<!-- p97 -->
+Teaching disciples how to pray—individually and corporately—equips them to develop closeness with God and discern His leading (<span class="x-scripture" data-book="PHP" data-chapter="4" data-lang="en" data-type="ref" data-verses="6-7" data-version="NKJV" dir="ltr" style="text-align: left;">Philippians 4:6-7</span>). Incorporating prayer journals, prayer groups, and fasting practices fosters spiritual discipline and empowerment, ensuring that disciples remain Spirit-led and mission-focused.
+
+<!-- p98 -->
+### Small Groups and Fellowship
+
+<!-- p99 -->
+Discipleship flourishes in community. The early church modeled relational discipleship through fellowship, prayer, and breaking bread together (<span class="x-scripture" data-book="ACT" data-chapter="2" data-lang="en" data-type="ref" data-verses="42-47" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 2:42-47</span>). Small groups and accountability partnerships provide a safe place for disciples to grow together, share struggles, and celebrate victories.
+
+<!-- p100 -->
+The local church serves as the central hub for discipleship relationships and provides opportunities for group Bible studies, prayer meetings, and fellowship events. These gatherings enable disciples to practice love, bear one another’s burdens (<span class="x-scripture" data-book="GAL" data-chapter="6" data-lang="en" data-type="ref" data-verses="2" data-version="NKJV" dir="ltr" style="text-align: left;">Galatians 6:2</span>), and encourage one another toward spiritual maturity (<span class="x-scripture" data-book="HEB" data-chapter="10" data-lang="en" data-type="ref" data-verses="24-25" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 10:24-25</span>). Small groups also provide a framework for multiplying leaders, as mature disciples equip and send others so that they can lead groups and mentor new believers.
+
+<!-- p101 -->
+### Mentoring
+
+<!-- p102 -->
+Mentoring provides a personal and purposeful approach to discipleship. Jesus modeled this by investing deeply in the twelve disciples, walking alongside them through teaching, correction, and encouragement. Similarly, one-to-one relationships allow disciple-makers to tailor guidance to individual needs, helping disciples grow in faith, character, and leadership.
+
+<!-- p103 -->
+Mentors serve as accountability partners, providing support, prayer, and wisdom during times of growth and struggle. Practical tools such as spiritual assessments, goal setting, and regular check-ins ensure that disciples remain focused and motivated. Peer relationships within mentoring structures also foster mutual growth, as both mentor and disciple learn from shared experiences (<span class="x-scripture" data-book="PRO" data-chapter="27" data-lang="en" data-type="ref" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">Proverbs 27:17</span>).
+
+<!-- p104 -->
+## **Personal Reflection Questions**
+
+<!-- p105 -->
+1.  What does being a disciple of Jesus personally mean to you? How are you actively following him in your daily life?
+
+<!-- p106 -->
+2.  Reflect on Jesus’ model of discipleship. Which aspect of his approach—inviting, teaching, showing, or empowering—stands out to you the most, and why?
+
+<!-- p107 -->
+3.  How can you multiply your faith by making disciples of others? What challenges or fears might hold you back, and how can you overcome them? (Note that I said multiply your faith, not your disciples!)
+
+<!-- p108 -->
+4.  Which qualities of a disciple-maker (e.g., patience, humility, relational focus) do you see in yourself? Which qualities do you feel prompted to develop further?
+
+<!-- p109 -->
+5.  Think about the people in your life. Whom might God be calling you to disciple? How can you take the first step in building that relationship?
+
+<!-- p110 -->
+## Group Discussion Questions (20-30 minutes)
+
+<!-- p111 -->
+1.  **Icebreaker question:** Who has had the greatest impact on your spiritual growth, and what did they do that influenced you?
+
+<!-- p112 -->
+2.  **Exploring Jesus’ model:** <span class="x-scripture" data-book="MAT" data-chapter="4" data-lang="en" data-type="ref" data-verses="19" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 4:19</span> Read. How does Jesus’ call, "Follow me," capture the essence of discipleship? What does this look like today?
+
+<!-- p113 -->
+3.  **The call to make disciples:** <span class="x-scripture" data-book="MAT" data-chapter="28" data-lang="en" data-type="ref" data-verses="19-20" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 28:19-20</span> Discuss. Why is disciple-making central to the church’s mission? How can we, individually, participate in this mission?
+
+<!-- p114 -->
+4.  **Overcoming challenges:** What are some common barriers to making disciples (e.g., time, fear, lack of confidence)? How can we help one another overcome these barriers?
+
+<!-- p115 -->
+5.  **Practical application:** What is one specific step you can take this week to invest in someone’s spiritual growth? How can we, as a group, encourage one another in this process?
+
