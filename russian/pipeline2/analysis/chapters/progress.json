@@ -1,0 +1,80 @@
+{
+  "drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_0_intro.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter0_0_intro.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv",
+    "generated_at": "2026-01-30T14:01:51.749309"
+  },
+  "drift_report_chapter0_1_dedication_vs_chapter0_1_dedication.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_1_dedication.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter0_1_dedication.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter0_1_dedication_vs_chapter0_1_dedication.csv",
+    "generated_at": "2026-01-30T14:01:52.515545"
+  },
+  "drift_report_chapter0_2_acknowledgements_vs_chapter0_2_acknowledgements.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_2_acknowledgements.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter0_2_acknowledgements.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter0_2_acknowledgements_vs_chapter0_2_acknowledgements.csv",
+    "generated_at": "2026-01-30T14:01:53.467284"
+  },
+  "drift_report_chapter0_3_table_of_contents_vs_chapter0_3_table_of_contents.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_3_table_of_contents.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter0_3_table_of_contents.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter0_3_table_of_contents_vs_chapter0_3_table_of_contents.csv",
+    "generated_at": "2026-01-30T14:01:55.599746"
+  },
+  "drift_report_chapter0_4_list_of_tables_vs_chapter0_4_list_of_tables.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_4_list_of_tables.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter0_4_list_of_tables.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter0_4_list_of_tables_vs_chapter0_4_list_of_tables.csv",
+    "generated_at": "2026-01-30T14:01:57.018491"
+  },
+  "drift_report_chapter0_5_foreword_vs_chapter0_5_foreword.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_5_foreword.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter0_5_foreword.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter0_5_foreword_vs_chapter0_5_foreword.csv",
+    "generated_at": "2026-01-30T14:01:57.829420"
+  },
+  "drift_report_chapter0_6_preface_vs_chapter0_6_preface.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_6_preface.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter0_6_preface.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter0_6_preface_vs_chapter0_6_preface.csv",
+    "generated_at": "2026-01-30T14:02:02.025843"
+  },
+  "drift_report_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_vs_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_vs_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.csv",
+    "generated_at": "2026-01-30T14:02:09.735594"
+  },
+  "drift_report_chapter11_chapter_11_baptisms_water_and_spirit_vs_chapter11_chapter_11_baptisms_water_and_spirit.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter11_chapter_11_baptisms_water_and_spirit.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter11_chapter_11_baptisms_water_and_spirit.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter11_chapter_11_baptisms_water_and_spirit_vs_chapter11_chapter_11_baptisms_water_and_spirit.csv",
+    "generated_at": "2026-01-30T14:02:22.749580"
+  },
+  "drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter12_chapter_12_discipleship.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter12_chapter_12_discipleship.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship.csv",
+    "generated_at": "2026-01-30T14:02:33.114644"
+  },
+  "drift_report_chapter13_chapter_13_spiritual_authority_vs_chapter13_chapter_13_spiritual_authority.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter13_chapter_13_spiritual_authority.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter13_chapter_13_spiritual_authority.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter13_chapter_13_spiritual_authority_vs_chapter13_chapter_13_spiritual_authority.csv",
+    "generated_at": "2026-01-30T14:02:49.611609"
+  },
+  "drift_report_chapter14_back_1_postscript_vs_chapter14_back_1_postscript.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter14_back_1_postscript.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter14_back_1_postscript.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter14_back_1_postscript_vs_chapter14_back_1_postscript.csv",
+    "generated_at": "2026-01-30T14:02:51.112824"
+  },
+  "drift_report_chapter14_back_3_extended_reference_tables_vs_chapter14_back_3_extended_reference_tables.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter14_back_3_extended_reference_tables.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter14_back_3_extended_reference_tables.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter14_back_3_extended_reference_tables_vs_chapter14_back_3_extended_reference_tables.csv",
+    "generated_at": "2026-01-30T14:02:52.475966"
+  }
+}

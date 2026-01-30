@@ -567,3 +567,120 @@ Scripture describes Satan's work and activity as follows:
 <!-- p159 -->
 - Opposes the work of God *(<span class="x-scripture" data-book="1TH" data-chapter="2" data-lang="en" data-type="ref" data-verses="18" data-version="NKJV" dir="ltr" style="text-align: left;">1 Thessalonians 2:18</span>)*
 
+<!-- p160 -->
+- deceives the world *(<span class="x-scripture" data-book="REV" data-chapter="12" data-lang="en" data-type="ref" data-verses="9" data-version="NKJV" dir="ltr" style="text-align: left;">Revelation 12:9</span>; <span class="x-scripture" data-book="2CO" data-chapter="4" data-lang="en" data-type="ref" data-verses="4" data-version="NKJV" dir="ltr" style="text-align: left;">2 Corinthians 4:4</span>)*
+
+<!-- p161 -->
+- tempts and accuses believers *(<span class="x-scripture" data-book="LUK" data-chapter="22" data-lang="en" data-type="ref" data-verses="31" data-version="NKJV" dir="ltr" style="text-align: left;">Luke 22:31</span>; <span class="x-scripture" data-book="REV" data-chapter="12" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">Revelation 12:10</span>)*
+
+<!-- p162 -->
+- afflicts and causes harm *(<span class="x-scripture" data-book="JOB" data-chapter="1" data-lang="en" data-type="ref" data-verses="12" data-version="NKJV" dir="ltr" style="text-align: left;">Job 1:12</span>; <span class="x-scripture" data-book="LUK" data-chapter="13" data-lang="en" data-type="ref" data-verses="16" data-version="NKJV" dir="ltr" style="text-align: left;">Luke 13:16</span>)*
+
+<!-- p163 -->
+Satan has many names and descriptions that describe various aspects of his work.
+
+<!-- p164 -->
+[See Table 9](../tables/table9.md)
+
+<!-- p165 -->
+The Gospels and the epistles make the enemy’s work even clearer. Disembodied evil spirits often must do their work through willing and open vessels. God works through people; likewise Satan does too. This oppression is often characterized by torment, self-harm, and destructive behaviors *(<span class="x-scripture" data-book="LUK" data-chapter="8" data-lang="en" data-type="ref" data-verses="27-29" data-version="NKJV" dir="ltr" style="text-align: left;">Luke 8:27-29</span>).* Their assaults produce fear, temptation, and discouragement *(<span class="x-scripture" data-book="2CO" data-chapter="12" data-lang="en" data-type="ref" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">2 Corinthians 12:7</span>).* The most common sources of their power (not authority) in someone’s life are the influence of lies and emotional strongholds *(<span class="x-scripture" data-book="2CO" data-chapter="10" data-lang="en" data-type="ref" data-verses="3-5" data-version="NKJV" dir="ltr" style="text-align: left;">2 Corinthians 10:3-5</span>).* 
+
+<!-- p166 -->
+It is important to note that not every lie a person has believed, any illness of his body, or any stronghold in his life is a direct result of evil influence; yet such wounded places are precisely where the enemy can take advantage of us and keep us in a state of discouragement and oppression.
+
+<!-- p167 -->
+#### Jesus’ authority over the works of the enemy
+
+<!-- p168 -->
+Do not be afraid; Jesus has full and complete authority over the works of the enemy. Jesus demonstrated power over evil spirits during His ministry *(<span class="x-scripture" data-book="MRK" data-chapter="1" data-lang="en" data-type="ref" data-verses="34" data-version="NKJV" dir="ltr" style="text-align: left;">Mark 1:34</span>; <span class="x-scripture" data-book="MRK" data-chapter="5" data-lang="en" data-type="ref" data-verses="1-20" data-version="NKJV" dir="ltr" style="text-align: left;">Mark 5:1-20</span>).* The works of the enemy and Satan himself were defeated through Jesus’ death and resurrection *(<span class="x-scripture" data-book="COL" data-chapter="2" data-lang="en" data-type="ref" data-verses="15" data-version="NKJV" dir="ltr" style="text-align: left;">Colossians 2:15</span>).* 
+
+<!-- p169 -->
+As believers, Jesus has given us delegated authority to cast out evil spirits in His name:
+
+<!-- p170 -->
+<span class="x-scripture" data-book="MRK" data-chapter="16" data-lang="en" data-type="fragment" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p171 -->
+> **<u>Mark 16:17</u>** (NKJV)
+>
+> And these signs will follow those who believe: In My name they will cast out demons; they will speak with new tongues;
+>
+
+<!-- p172 -->
+</span>
+
+<!-- p173 -->
+Likewise, as heirs of salvation we have the authority to submit ourselves to God, resist Satan, and he will flee from us! (<span class="x-scripture" data-book="JAS" data-chapter="4" data-lang="en" data-type="ref" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">James 4:7</span>).
+
+<!-- p174 -->
+When dealing with an evil or unclean spirit, the pattern expressed in Scripture is to take authority over it in Jesus’ name and command it to leave. He has promised that if we ask, the Holy Spirit will give us wisdom and discernment! (<span class="x-scripture" data-book="JAS" data-chapter="1" data-lang="en" data-type="ref" data-verses="5" data-version="NKJV" dir="ltr" style="text-align: left;">James 1:5</span>). We do not need to make it a spectacle or a movie-like drama, nor do we need to converse with them; that is a tactic of Satan to distract us. Satan’s power is established and maintained only through the lies he can get us to believe.
+
+<!-- p175 -->
+<span class="x-scripture" data-book="MAT" data-chapter="18" data-lang="en" data-type="quote" data-verses="18" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p176 -->
+> **<u>Matthew 18:18</u>** (NKJV)
+>
+> "Assuredly, I say to you, whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.
+>
+
+<!-- p177 -->
+</span>
+
+<!-- p178 -->
+We address them in Jesus’ name and command them to leave.
+
+<!-- p179 -->
+There are two primary cautions in Scripture when dealing with evil powers:
+
+<!-- p180 -->
+1.  **Only those who have a relationship with Jesus have authority over evil spirits**. <span class="x-scripture" data-book="ACT" data-chapter="19" data-lang="en" data-type="ref" data-verses="11-20" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 19:11-20</span> tells about the sons of a Jewish chief priest named Sceva. They tried to intervene in the life of someone oppressed and tormented by Satan, but because they did not have a relationship with Jesus, the evil spirit refused to come out. That man leaped on them, stripped them of their clothes, and beat them. Just as you should not impersonate a police officer, likewise, **do not imitate someone who has a relationship with Jesus; rather, have a relationship with Jesus**!
+
+<!-- p181 -->
+2.  **When an evil spirit comes out, it goes away for a time and tries to return**. If it finds the place it occupied empty, it returns with even worse. <span class="x-scripture" data-book="MAT" data-chapter="12" data-lang="en" data-type="ref" data-verses="43-45" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 12:43-45</span>. When we minister to a person oppressed by Satan, that person needs to fill in the empty place that the evil spirit had occupied in their own life. This means, at the very least, establishing a personal relationship with Jesus and strengthening it through obedience to the Holy Spirit. Often a wicked or unclean spirit gains power to operate in someone’s life through the choices they have made on the basis of their beliefs. Those who have been set free from Satan must change their old belief system and be transformed by the renewing of their mind (<span class="x-scripture" data-book="ROM" data-chapter="12" data-lang="en" data-type="ref" data-verses="1-2" data-version="NKJV" dir="ltr" style="text-align: left;">Romans 12:1-2</span>).
+
+<!-- p182 -->
+We serve a wonderful and almighty God, and over the defeated enemy we are ‘more than conquerors’ (<span class="x-scripture" data-book="ROM" data-chapter="8" data-lang="en" data-type="ref" data-verses="37" data-version="NKJV" dir="ltr" style="text-align: left;">Romans 8:37</span>). We do not need to fear our defeated enemy, because Jesus has given us the authority to crush his head! Satan’s time is short, and in the end he, together with every principality and power on earth that rejects the lordship of Christ, will be judged.
+
+<!-- p183 -->
+### Acknowledgments
+
+<!-- p184 -->
+The section on Angels &amp; Demons was based, with permission, on the previous outline and manuscript from Kingsway Fellowship’s course: “*Basic Doctrine 1”*.
+
+<!-- p185 -->
+## **Personal Reflection Questions**
+
+<!-- p186 -->
+1.  What does it mean to you that Jesus has all authority in heaven and on earth? How does this truth shape your faith?
+
+<!-- p187 -->
+2.  Reflect on the concept of delegated authority. How does understanding that your authority comes from Christ affect how you exercise it?
+
+<!-- p188 -->
+3.  Have you experienced spiritual authority in your life, whether by exercising it or by witnessing it? How did it affect your faith?
+
+<!-- p189 -->
+4.  In which areas of your life have you struggled to submit to Christ’s authority? How might surrendering these areas bring freedom and peace?
+
+<!-- p190 -->
+5.  In what specific area of your life or ministry do you sense God is calling you to exercise His authority? How can you take a step of faith in that area?
+
+<!-- p191 -->
+## Group Discussion Questions (20-30 minutes)
+
+<!-- p192 -->
+1.  **Icebreaker question:** What is one example you have seen of someone walking confidently in spiritual authority? What stood out to you about their life or actions?
+
+<!-- p193 -->
+2.  **Scripture exploration:** Read <span class="x-scripture" data-book="MAT" data-chapter="28" data-lang="en" data-type="ref" data-verses="18-20" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 28:18-20</span>. How does Jesus’ authority form the basis of the Great Commission? What does this mean for us as disciples?
+
+<!-- p194 -->
+3.  **Nature of authority:** What is the difference between power and authority? Why is it important for believers to understand this distinction?
+
+<!-- p195 -->
+4.  **Angels, demons, and spiritual warfare:** How does understanding the role of angels and demons influence the way we approach spiritual warfare?
+
+<!-- p196 -->
+5.  **Practical application:** How can we use spiritual authority to pray for others, resist the enemy, or bring healing and restoration? Share examples or ideas.
+

@@ -275,3 +275,95 @@ The rewards:
 <!-- p79 -->
 ### **6. A New Heaven and a New Earth**
 
+<!-- p80 -->
+**What It Is:** After the final judgment and the defeat of the enemy, God will create a **new heaven and a new earth**-a perfect and everlasting dwelling for His people.
+
+<!-- p81 -->
+<span class="x-scripture" data-book="REV" data-chapter="21" data-lang="en" data-type="fragment" data-verses="1,3" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p82 -->
+> **<u>Revelation 21:1,3</u>** (NKJV)
+>
+> Now I saw a new heaven and a new earth, for the first heaven and the first earth had passed away. Also there was no more sea.
+>
+> And I heard a loud voice from heaven saying, "Behold, the tabernacle of God is with men, and He will dwell with them; and they shall be His people. God Himself will be with them and be their God.
+>
+
+<!-- p83 -->
+</span>
+
+<!-- p84 -->
+**Why It Matters:** It gives us the hope of restoration, where God will wipe away every tear and make all things new-free from pain, sin, and death.
+
+<!-- p85 -->
+**What Should We Do?**
+
+<!-- p86 -->
+- **Fix our eyes on eternity:** Let our focus be on the everlasting hope rather than on temporary troubles.
+
+<!-- p87 -->
+- **Strengthen your faith:** Endure trials, knowing that eternal joy awaits you.
+
+<!-- p88 -->
+## Points Often Disagreed Upon
+
+<!-- p89 -->
+For completeness, if you are interested in the most divisive areas of eschatology, here is a very brief overview of the most commonly debated points.
+
+<!-- p90 -->
+- **Timing of the Rapture:** Pre-, Mid-, or Post-Great Tribulation? Views differ on **when** the rapture occurs in relation to the **Great Tribulation**. Some denominations do not believe in the rapture.
+
+<!-- p91 -->
+- **Purpose of the Great Tribulation:** Is it a literal judgment intended for Israel, or is it a symbolic period of struggle?
+
+<!-- p92 -->
+- **The Thousand-Year Reign:** Is it literal **(Premillennial)**, symbolic **(Amillennial)**, or spiritual **(Postmillennial)**?
+
+<!-- p93 -->
+- **The Final Rebellion of Satan:** It occurs after the thousand years (a literal event or figurative?).
+
+<!-- p94 -->
+It is good to study eschatology, but let us remember, as D.L. Browning said, “Always let the main thing be the main thing!”
+
+<!-- p95 -->
+## **Concluding Thoughts**
+
+<!-- p96 -->
+The return of Christ is the culmination of God’s plan and the reason we live and work with urgency and purpose. The parable of the ten virgins (<span class="x-scripture" data-book="MAT" data-chapter="25" data-lang="en" data-type="ref" data-verses="1-13" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 25:1-13</span>) and the two men in the field (<span class="x-scripture" data-book="MAT" data-chapter="24" data-lang="en" data-type="ref" data-verses="40-42" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 24:40-42</span>) remind us to be vigilant and faithful, always ready for His coming. Whether it be the reward of crowns or the hope of the resurrection, our motivation is clear-Christ is coming back!
+
+<!-- p97 -->
+**May we be found ready, faithful, and hopeful on that glorious day!**
+
+<!-- p98 -->
+## Personal Reflection Questions
+
+<!-- p99 -->
+1.  How does the promise of Christ’s return affect the way you live your daily life? Are there areas where you need to change your focus or priorities?
+
+<!-- p100 -->
+2.  Reflect on the parable of the ten virgins (<span class="x-scripture" data-book="MAT" data-chapter="25" data-lang="en" data-type="ref" data-verses="1-13" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 25:1-13</span>). How can you ensure that “your lamp” is ready and full? What does that look like practically?
+
+<!-- p101 -->
+3.  What does it mean for you to live as a faithful servant, ready for the return of Christ? How can you grow in faithfulness?
+
+<!-- p102 -->
+4.  In what specific ways can you live today with an eternal perspective, focusing on what truly matters, considering the return of Christ?
+
+<!-- p103 -->
+## Group Discussion Questions (20-30 Minutes)
+
+<!-- p104 -->
+1.  **Icebreaker Question:** “If you knew that Jesus was coming back tomorrow, what is the first thing you would do today?”
+
+<!-- p105 -->
+2.  **Scripture Exploration:** Read <span class="x-scripture" data-book="MAT" data-chapter="24" data-lang="en" data-type="ref" data-verses="42-44" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 24:42-44</span>. What does it mean to ‘keep watch’? How can we balance readiness with the responsibilities of daily life?
+
+<!-- p106 -->
+3.  **Faithful Living:** Discuss the parable of the two men in the field (<span class="x-scripture" data-book="MAT" data-chapter="24" data-lang="en" data-type="ref" data-verses="40-41" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 24:40-41</span>). How does this show the unexpected nature of Christ’s return? How can we live in readiness for that time?
+
+<!-- p107 -->
+4.  **Crowns and Rewards:** What do the crowns mentioned in Scripture (for example, the Crown of Righteousness, the Crown of Life) teach us about God’s recognition of our faithfulness? How does this shape our lives?
+
+<!-- p108 -->
+5.  **Mutual Encouragement:** How can we, as a group or community, encourage one another to keep our focus on Christ and to live while awaiting His return?
+
