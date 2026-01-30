@@ -1,0 +1,4 @@
+# Drift explanation generated 2026-01-30T16:09:19.123587
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"4","0.8587","MEDIUM","yes","doctrinal","The original phrase 'Old Testament Roles of Mediators' suggests a focus on the specific roles within the context of the Old Testament, while 'the roles of mediators of the old covenant' emphasizes the covenant aspect, potentially altering the theological implications regarding the nature of mediation in relation to the covenant.","Old Testament Roles of Mediators:","The roles of mediators of the old covenant:"
