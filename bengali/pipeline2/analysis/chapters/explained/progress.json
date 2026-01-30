@@ -38,5 +38,15 @@
     "drift_report": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/drift_report_chapter1_chapter_1_sound_doctrine_matters_vs_chapter1_chapter_1_sound_doctrine_matters.csv",
     "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/explained/drift_report_chapter1_chapter_1_sound_doctrine_matters_vs_chapter1_chapter_1_sound_doctrine_matters_explained.csv",
     "generated_at": "2026-01-30T15:57:16.790703"
+  },
+  "drift_report_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_vs_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_explained.csv": {
+    "drift_report": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/drift_report_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_vs_chapter8_chapter_8_holy_spirit_comforter_guide_and_power.csv",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/explained/drift_report_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_vs_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_explained.csv",
+    "generated_at": "2026-01-30T15:57:55.600670"
+  },
+  "drift_report_chapter0_3_table_of_contents_vs_chapter0_3_table_of_contents_explained.csv": {
+    "drift_report": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/drift_report_chapter0_3_table_of_contents_vs_chapter0_3_table_of_contents.csv",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/explained/drift_report_chapter0_3_table_of_contents_vs_chapter0_3_table_of_contents_explained.csv",
+    "generated_at": "2026-01-30T15:57:57.536303"
   }
 }
