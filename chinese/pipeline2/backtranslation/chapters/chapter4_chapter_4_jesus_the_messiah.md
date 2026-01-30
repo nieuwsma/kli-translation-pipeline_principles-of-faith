@@ -1,0 +1,256 @@
+<!-- p0 -->
+# Chapter 4 - Jesus-The Messiah
+
+<!-- p1 -->
+Based on our study of sin, we conclude: sin exacts a severe cost——the wronged party must be restored；the one who sins must make restitution. The price of sin must be paid. In the Old Testament, God established a series of offerings presented by priests, individuals, and the community to address, resolve, and adjudicate sin。
+
+<!-- p2 -->
+Even with all these atoning sacrifices, they were still not enough——not because God failed, but because people continued to choose to sin。Animal sacrifices could provide limited atonement, but no amount of animal sacrifice could change the sinful nature of humans。
+
+<!-- p3 -->
+God had a marvelous plan, <u>Messiah</u> (Hebrew ***Mashiach,*** pronounced *Mah-shee-ahkh -* **H4899**), also called <u>Christ</u> (Greek ***Christos,*** pronounced *Khris-tos* - **G5547**), meaning “Anointed One”; someone set apart for a special role (for example, a king, priest, or deliverer)。
+
+<!-- p4 -->
+To understand who Jesus is, it helps to look at what people in His time hoped the Messiah would be like。These expectations shaped how they viewed Jesus and, in many cases, explain why they struggled to recognize Him as the fulfillment of God’s plan。
+
+<!-- p5 -->
+## Historical Background
+
+<!-- p6 -->
+The Jewish people had long been waiting for a coming Messiah。In the period before Jesus, Jewish beliefs about the Messiah were shaped by Old Testament prophecies, with interpretations that varied and were not universally agreed upon。Most Jews expected the Messiah to be a political and military leader who would deliver Israel from Gentile oppression (primarily Roman rule) and restore the kingdom of David。Below is an overview of some common Messianic expectations and how they do (or do not) align with biblical prophecy：
+
+<!-- p7 -->
+### Common Jewish Expectations of the Messiah before Jesus
+
+<!-- p8 -->
+### **1. A Political and Military Deliverer**
+
+<!-- p9 -->
+- **Belief:** The Messiah would be a king like David, lead Israel to victory over foreign powers, and restore Israel’s independence。
+
+<!-- p10 -->
+- **Scripture references:** <span class="x-scripture" data-book="ISA" data-chapter="9" data-lang="en" data-type="ref" data-verses="6-7" data-version="NKJV" dir="ltr" style="text-align: left;">Isaiah 9:6-7</span>, <span class="x-scripture" data-book="JER" data-chapter="23" data-lang="en" data-type="ref" data-verses="5-6" data-version="NKJV" dir="ltr" style="text-align: left;">Jeremiah 23:5-6</span>, <span class="x-scripture" data-book="ZEC" data-chapter="9" data-lang="en" data-type="ref" data-verses="9-10" data-version="NKJV" dir="ltr" style="text-align: left;">Zechariah 9:9-10</span>.
+
+<!-- p11 -->
+- **Historical background:** Under Roman rule, the Jews were oppressed and heavily taxed, so they hoped for a Messiah who would overthrow Rome and establish a powerful earthly kingdom。
+
+<!-- p12 -->
+- **Truth:** Jesus is King, but His kingdom is not of this world（<span class="x-scripture" data-book="JHN" data-chapter="18" data-lang="en" data-type="ref" data-verses="36" data-version="NKJV" dir="ltr" style="text-align: left;">John 18:36</span>）。He established a spiritual kingdom at His first coming, but He will return as the conquering King to judge in righteousness and reign, as Revelation describes（<span class="x-scripture" data-book="REV" data-chapter="19" data-lang="en" data-type="ref" data-verses="11-16" data-version="NKJV" dir="ltr" style="text-align: left;">Revelation 19:11-16</span>）。
+
+<!-- p13 -->
+### **2. Restorer of David’s Kingdom**
+
+<!-- p14 -->
+- **Belief:** The Messiah would rebuild the Davidic dynasty and bring a golden age of prosperity, righteousness, and peace。
+
+<!-- p15 -->
+- **Scripture references:** <span class="x-scripture" data-book="2SA" data-chapter="7" data-lang="en" data-type="ref" data-verses="12-16" data-version="NKJV" dir="ltr" style="text-align: left;">2 Samuel 7:12-16</span>, <span class="x-scripture" data-book="AMO" data-chapter="9" data-lang="en" data-type="ref" data-verses="11" data-version="NKJV" dir="ltr" style="text-align: left;">Amos 9:11</span>.
+
+<!-- p16 -->
+- **Interpretation:** People often focused on national restoration rather than spiritual renewal。
+
+<!-- p17 -->
+- **Truth:** As a descendant of David, Jesus fulfilled this promise by establishing an eternal kingdom。Although this kingdom is presently spiritual in nature, it will reach its earthly reign at His second coming（<span class="x-scripture" data-book="LUK" data-chapter="1" data-lang="en" data-type="ref" data-verses="32-33" data-version="NKJV" dir="ltr" style="text-align: left;">Luke 1:32-33</span>, <span class="x-scripture" data-book="REV" data-chapter="20" data-lang="en" data-type="ref" data-verses="4-6" data-version="NKJV" dir="ltr" style="text-align: left;">Revelation 20:4-6</span>）。
+
+<!-- p18 -->
+### **3. A Prophet Like Moses**
+
+<!-- p19 -->
+- **Belief:** Some Jews believed the Messiah would be a prophet like Moses, able to speak with God directly and speak on His behalf。
+
+<!-- p20 -->
+- **Scripture cited：** <span class="x-scripture" data-book="DEU" data-chapter="18" data-lang="en" data-type="ref" data-verses="15-19" data-version="NKJV" dir="ltr" style="text-align: left;">Deuteronomy 18:15-19</span>.
+
+<!-- p21 -->
+- **Expectation：** Although many longed for a prophetic figure, they often did not view this role as central to the Messiah but as an additional aspect.
+
+<!-- p22 -->
+- **Truth：** Jesus, as the ultimate Prophet, fulfilled this prophecy, proclaiming God’s word and directly revealing the Father（<span class="x-scripture" data-book="JHN" data-chapter="1" data-lang="en" data-type="ref" data-verses="18" data-version="NKJV" dir="ltr" style="text-align: left;">John 1:18</span>, <span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">John 14:10</span>）. His prophetic office surpasses Moses, because he became the mediator of a new and better covenant（<span class="x-scripture" data-book="HEB" data-chapter="8" data-lang="en" data-type="ref" data-verses="6-7" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 8:6-7</span>）.
+
+<!-- p23 -->
+### **4. A leader who will bring justice**
+
+<!-- p24 -->
+- **Belief：** The Messiah will judge the wicked、uphold the righteous、and bring justice to the oppressed.
+
+<!-- p25 -->
+- **Scripture cited：** <span class="x-scripture" data-book="ISA" data-chapter="11" data-lang="en" data-type="ref" data-verses="3-5" data-version="NKJV" dir="ltr" style="text-align: left;">Isaiah 11:3-5</span>, <span class="x-scripture" data-book="PSA" data-chapter="72" data-lang="en" data-type="ref" data-verses="1-4" data-version="NKJV" dir="ltr" style="text-align: left;">Psalm 72:1-4</span>.
+
+<!-- p26 -->
+- **Interpretation：** The justice people expected was primarily political and social rather than spiritual.
+
+<!-- p27 -->
+- **Truth：** Jesus brings ultimate justice. At his first coming, he granted spiritual redemption and righteousness through the cross（<span class="x-scripture" data-book="COL" data-chapter="2" data-lang="en" data-type="ref" data-verses="13-15" data-version="NKJV" dir="ltr" style="text-align: left;">Colossians 2:13-15</span>）. At his second coming, he will judge the wicked and establish perfect justice for eternity（<span class="x-scripture" data-book="REV" data-chapter="20" data-lang="en" data-type="ref" data-verses="11-15" data-version="NKJV" dir="ltr" style="text-align: left;">Revelation 20:11-15</span>）.
+
+<!-- p28 -->
+### Diverse Messianic Beliefs
+
+<!-- p29 -->
+Just as today’s Christian world is divided into different denominations, sects, or systems of belief, the Jews of Jesus’s time were likewise divided. During Jesus’s earthly life, four major Jewish sects shaped Israel’s religious and political landscape, each with distinct beliefs and expectations about the Messiah. Understanding some background on these groups helps provide meaningful context for studying New Testament passages.
+
+<!-- p30 -->
+The Pharisees were the most influential among the people, known for strict adherence to the Law (Torah) and oral tradition. They believed in the resurrection, the afterlife, and the existence of angels, emphasizing personal piety and obedience to God’s commandments. Their messianic expectation centered on one who would uphold the Law, bring justice, and restore Israel both politically and religiously.
+
+<!-- p31 -->
+By contrast, the Sadducees were a wealthy and politically powerful group who controlled the temple and the priestly system. They rejected oral tradition and acknowledged only the Torah as authoritative Scripture. The Sadducees denied the resurrection, the afterlife, and the existence of angels, and instead focused on preserving their own power and collaborating with Rome to ensure political stability. Consequently, they placed little emphasis on the Messiah, as their primary concern was maintaining the status quo.
+
+<!-- p32 -->
+The Essenes were a separatist group who withdrew from mainstream Jewish society, living in secluded communities like Qumran. They placed great emphasis on ritual purity, apocalyptic expectations, and a disciplined way of life. The Essenes believed in two messianic figures: a priestly Messiah who would restore the holiness of the temple, and a royal Messiah who would lead Israel in righteousness. This dual-Messiah concept reflected their hope for both spiritual and political renewal. The Essenes are not mentioned directly in Scripture.
+
+<!-- p33 -->
+Finally, the Zealots were radical nationalists who sought to overthrow Roman rule through armed revolt. Rejecting Roman authority, they ardently advocated the restoration of Israel’s sovereignty. Their expectation of the Messiah was a warrior-king like David who would lead them against their oppressors and establish a powerful earthly kingdom.
+
+<!-- p34 -->
+Although these groups focused on earthly expectations, Jesus’s mission revealed a far grander plan- not only addressing political oppression but striking at humanity’s spiritual bondage in sin.
+
+<!-- p35 -->
+## The Truth about the Messiah
+
+<!-- p36 -->
+### Jesus’s Anointing
+
+<!-- p37 -->
+The Pharisees’ and Zealots’ vision of the Messiah reflects a recurring pattern in human history- seeking salvation through worldly means while rejecting God’s greater plan. As we see throughout Scripture, people often turn away from God- even though he is always faithful. Even when God is faithful and receives us, people often forget and reject him, resulting in cycles of disobedience and decline that plague the nations of the earth.
+
+<!-- p38 -->
+Although many expected a political Messiah, Jesus revealed the greater purpose of his anointing- to meet spiritual and eternal needs. If Jesus had come as the Jews hoped and expected, as a triumphant military leader, then because of human disobedience, that kingdom would still eventually fall into ruin.
+
+<!-- p39 -->
+By contrast, what Jesus established is a kingdom that cannot be shaken. His mission is not rooted in military might or political dominance, but in divine purpose. As the Anointed One, Jesus clarified what he was anointed to do and how he would accomplish it：
+
+<!-- p40 -->
+<span class="x-scripture" data-book="LUK" data-chapter="4" data-lang="en" data-type="quote" data-verses="16-21" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p41 -->
+> **<u>Luke 4:16-21</u>** (NKJV)
+>
+> So he came to Nazareth, where he had been brought up。 And, as was his custom, he went into the synagogue on the Sabbath, and stood up to read。
+>
+> Someone handed him the book of the prophet Isaiah。 When he opened the book, he found the place where it was written:
+>
+> "The Spirit of the Lord is upon me, because he has anointed me to bring good news to the poor; he has sent me to heal the brokenhearted, to proclaim freedom for the captives and to make the blind see, to set free those who are oppressed;
+>
+> to proclaim the acceptable year of the Lord."
+>
+> Then he closed the book, gave it to the attendant and sat down。 And all in the synagogue fixed their eyes on him。
+>
+> He began to say to them, "Today this Scripture has been fulfilled in your hearing."
+>
+
+<!-- p42 -->
+</span>
+
+<!-- p43 -->
+Jesus was anointed - set apart by God - and sent with a sacred mission, full of purpose and power。
+
+<!-- p44 -->
+Jesus proclaimed:
+
+<!-- p45 -->
+- The good news of the kingdom of God (gospel)。
+
+<!-- p46 -->
+- Salvation - forgiveness, the forgiveness of sins, freedom。
+
+<!-- p47 -->
+- The acceptable year of the Lord (period)。
+
+<!-- p48 -->
+The people to whom he came are:
+
+<!-- p49 -->
+- The brokenhearted - broken in emotion and in spirit。
+
+<!-- p50 -->
+- The blind - in spirit, sometimes also in body。
+
+<!-- p51 -->
+- The poor - needy, in poverty (spiritual and/or physical)。
+
+<!-- p52 -->
+- The captives - meaning ‘captured by a long spear’ representing those who are bound against their own will。
+
+<!-- p53 -->
+Jesus changes these broken people in the following ways:
+
+<!-- p54 -->
+- Restores sight
+
+<!-- p55 -->
+- Puts them into a state of freedom
+
+<!-- p56 -->
+- Binds up, heals, restores
+
+<!-- p57 -->
+The purpose of Jesus’s ministry and service is both personal and global, immediate, and lasting。 His purpose is not of a single focus, but is part of God’s divine plan to reconcile humanity to God。 After sin entered the world, it created a separation between God and humanity。 God had to drive people out of the garden and make them leave his presence。 Throughout the Old Testament period, people could be with God, but only partially。 Instances of God’s Spirit being given to people were very rare, and to a great extent people lived separated from God。 He found a people among the Jews, but wanted a permanent、certain、and complete way to restore his relationship with humanity。
+
+<!-- p58 -->
+In the time of Jesus, God’s presence on earth was to a great extent restricted to the innermost part of the temple, the Most Holy Place。 Here, behind the thick veil that separated the inner sanctuary from the Holy Place, God’s presence remained at the Ark of the Covenant。 People were cut off from God, and God was separated from his creatures。
+
+<!-- p59 -->
+God sent Jesus to repair, rebuild, restore, and reconcile humanity to himself。 (2 Corinthians 5:17-21)
+
+<!-- p60 -->
+### The Necessary Work of Jesus
+
+<!-- p61 -->
+To bring humanity into complete reconciliation with God, the Messiah’s mission required not only preaching and healing, but also accomplishing the ultimate act of atonement. Jesus had to, through His death on the cross, become a perfect and flawless sacrifice.
+
+<!-- p62 -->
+《Hebrews》, in its chapter 13, explains in detail how Jesus became the perfect sacrifice, being both the offering for sin and the High Priest who offers this offering (Hebrews 3 & 4). Jesus’s priesthood does not belong to the Levitical system (from the tribe of Levi), but is according to the likeness of Melchizedek; he is said to be without beginning or end, meaning that this priesthood is not limited by human patterns and customs (<span class="x-scripture" data-book="HEB" data-chapter="7" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 7:3</span>)。 The limitation of the Levitical priestly system is that it relies on the blood of bulls and goats (<span class="x-scripture" data-book="HEB" data-chapter="9" data-lang="en" data-type="ref" data-verses="12-13" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 9:12-13</span>)； such animal sacrifices are insufficient to bring permanent and lasting forgiveness of sins. Based on our study of sin and sacrifice, we know that on the Day of Atonement the people’s sins could be postponed for a year (<span class="x-scripture" data-book="HEB" data-chapter="10" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 10:3</span>)， but such offerings had to be repeated continually.
+
+<!-- p63 -->
+Jesus died on the cross (as recorded in Matthew 27, Mark 15, John 19, and Luke 23), shedding His blood to pay the ransom for the sins of all humanity—past, present, and future. Isaiah chapter 53 reveals that Jesus is the Suffering Servant, who took upon Himself the whole burden of punishment and pain. His one death became the ultimate, supreme offering. Jesus is the Lamb of God (<span class="x-scripture" data-book="JHN" data-chapter="1" data-lang="en" data-type="ref" data-verses="29" data-version="NKJV" dir="ltr" style="text-align: left;">John 1:29</span>)， without spot or wrinkle (sin)； because He is perfect, without defect, and holy, the shedding of His innocent blood made atonement possible。 **No other sacrifice is needed or accepted. The old sacrifices were only temporary - but Jesus’s is complete and final.**
+
+<!-- p64 -->
+Through death and resurrection, we have a newer and better covenant (<span class="x-scripture" data-book="HEB" data-chapter="8" data-lang="en" data-type="ref" data-verses="6" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 8:6</span>)， a covenant established by the blood of God’s own Son. Jesus is the Mediator of this covenant; He is the go-between. Through Christ’s sacrifice, we receive salvation; He is the author of *‘eternal salvation to all who obey Him*’ (<span class="x-scripture" data-book="HEB" data-chapter="5" data-lang="en" data-type="ref" data-verses="9" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 5:9</span>)。
+
+<!-- p65 -->
+In Greek the word “salvation” is **Sōtēria** (*so-tay-REE-ah - **G4991)**.* It primarily means **deliverance, rescue, or preservation**. It encompasses the act of being saved, including both the spiritual dimension (eternal salvation through Christ) and the physical dimension (being rescued from danger or harm). The term conveys the ideas of safety, wholeness, and restoration.
+
+<!-- p66 -->
+**Salvation or deliverance：**
+
+<!-- p67 -->
+- Refers to God delivering humanity from sin and its consequences through Jesus Christ.
+
+<!-- p68 -->
+- Used in the context of eternal salvation (justification, sanctification, and glorification).
+
+<!-- p69 -->
+**Preservation：**
+
+<!-- p70 -->
+- Means being kept safe, protected, or spared from danger.
+
+<!-- p71 -->
+**Wholeness or healing：**
+
+<!-- p72 -->
+- Includes being restored to a state of completeness or soundness.
+
+<!-- p73 -->
+Jesus’s sacrifice paid the price for our forgiveness and opened the way for us to establish a relationship with God, setting a path to dwell with Him that depends only on our obedience, not on our perfection or our ability to abstain from sinning.
+
+<!-- p74 -->
+When we receive Jesus by faith (to be discussed later), we receive His salvation. This salvation connects us with God and records our names in the ***Lamb’s Book of Life*** (<span class="x-scripture" data-book="REV" data-chapter="20" data-lang="en" data-type="ref" data-verses="11-15" data-version="NKJV" dir="ltr" style="text-align: left;">Revelation 20:11-15</span>)。 《The Gospel of John》 says：
+
+<!-- p75 -->
+<span class="x-scripture" data-book="JHN" data-chapter="3" data-lang="en" data-type="quote" data-verses="16" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p76 -->
+> **<u>John 3:16</u>** (NKJV)
+>
+> God loved the world so much, that He gave His only begotten Son to them, that all who believe in Him, should not perish, but have eternal life。
+>
+
+<!-- p77 -->
+</span>
+
+<!-- p78 -->
+“Perish” means to be ruined - like fruit going bad before it can be enjoyed. It is a life that misses the purpose for which it was created. Jesus came to give us an enduring life, that is, eternal life, and to keep us from perishing. Eternal life is not a life that begins only after we die; it begins the moment we accept Jesus as our salvation and are born again.
+
+<!-- p79 -->
+### Born Again
+
