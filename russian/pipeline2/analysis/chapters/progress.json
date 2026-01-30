@@ -76,5 +76,77 @@
     "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter14_back_3_extended_reference_tables.md",
     "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter14_back_3_extended_reference_tables_vs_chapter14_back_3_extended_reference_tables.csv",
     "generated_at": "2026-01-30T14:02:52.475966"
+  },
+  "drift_report_chapter14_back_4_end_of_chapter_activities_vs_chapter14_back_4_end_of_chapter_activities.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter14_back_4_end_of_chapter_activities.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter14_back_4_end_of_chapter_activities.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter14_back_4_end_of_chapter_activities_vs_chapter14_back_4_end_of_chapter_activities.csv",
+    "generated_at": "2026-01-30T14:03:21.276084"
+  },
+  "drift_report_chapter14_back_5_hearing_the_voice_of_god_vs_chapter14_back_5_hearing_the_voice_of_god.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter14_back_5_hearing_the_voice_of_god.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter14_back_5_hearing_the_voice_of_god.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter14_back_5_hearing_the_voice_of_god_vs_chapter14_back_5_hearing_the_voice_of_god.csv",
+    "generated_at": "2026-01-30T14:03:26.042877"
+  },
+  "drift_report_chapter14_chapter_14_keep_watch_vs_chapter14_chapter_14_keep_watch.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter14_chapter_14_keep_watch.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter14_chapter_14_keep_watch.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter14_chapter_14_keep_watch_vs_chapter14_chapter_14_keep_watch.csv",
+    "generated_at": "2026-01-30T14:03:33.208719"
+  },
+  "drift_report_chapter1_chapter_1_sound_doctrine_matters_vs_chapter1_chapter_1_sound_doctrine_matters.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter1_chapter_1_sound_doctrine_matters.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter1_chapter_1_sound_doctrine_matters.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter1_chapter_1_sound_doctrine_matters_vs_chapter1_chapter_1_sound_doctrine_matters.csv",
+    "generated_at": "2026-01-30T14:03:39.645527"
+  },
+  "drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter2_chapter_2_god_eternal_creator_and_loving_father.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter2_chapter_2_god_eternal_creator_and_loving_father.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father.csv",
+    "generated_at": "2026-01-30T14:03:45.854251"
+  },
+  "drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter3_chapter_3_sin_and_redemption.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter3_chapter_3_sin_and_redemption.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption.csv",
+    "generated_at": "2026-01-30T14:03:54.844202"
+  },
+  "drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter4_chapter_4_jesus_the_messiah.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter4_chapter_4_jesus_the_messiah.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah.csv",
+    "generated_at": "2026-01-30T14:04:02.450680"
+  },
+  "drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter5_chapter_5_repentance_from_dead_works.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter5_chapter_5_repentance_from_dead_works.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works.csv",
+    "generated_at": "2026-01-30T14:04:13.881624"
+  },
+  "drift_report_chapter6_chapter_6_faith_toward_god_vs_chapter6_chapter_6_faith_toward_god.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter6_chapter_6_faith_toward_god.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter6_chapter_6_faith_toward_god.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter6_chapter_6_faith_toward_god_vs_chapter6_chapter_6_faith_toward_god.csv",
+    "generated_at": "2026-01-30T14:04:27.591376"
+  },
+  "drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith.csv",
+    "generated_at": "2026-01-30T14:04:36.504156"
+  },
+  "drift_report_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_vs_chapter8_chapter_8_holy_spirit_comforter_guide_and_power.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_vs_chapter8_chapter_8_holy_spirit_comforter_guide_and_power.csv",
+    "generated_at": "2026-01-30T14:04:50.132044"
+  },
+  "drift_report_chapter9_chapter_9_the_church_our_role_in_it_vs_chapter9_chapter_9_the_church_our_role_in_it.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter9_chapter_9_the_church_our_role_in_it.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/backtranslation/chapters/chapter9_chapter_9_the_church_our_role_in_it.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter9_chapter_9_the_church_our_role_in_it_vs_chapter9_chapter_9_the_church_our_role_in_it.csv",
+    "generated_at": "2026-01-30T14:05:05.518540"
   }
 }

@@ -1,0 +1,7 @@
+# Drift explanation generated 2026-01-30T14:05:14.883662
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/russian/pipeline2/analysis/chapters/drift_report_chapter0_6_preface_vs_chapter0_6_preface.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"1","0.7935","LOW","no","paraphrase","Both phrases convey the idea of establishing a strong and enduring base, with no significant change in meaning or intent.","## Building a Foundation that Lasts","## Laying a Strong Foundation"
+"27","0.8646","MEDIUM","no","paraphrase","Both paragraphs convey the same intent of examining each element in greater detail, with no significant change in meaning or emphasis.","Let’s explore each element in a bit more depth:","Let’s look a little deeper at each element:"
+"33","0.8211","LOW","no","paraphrase","The term 'Holy Scripture' is a synonymous phrase for 'The Scriptures,' and both refer to sacred texts without altering the doctrinal meaning, logical relationship, or intent.","### The Scriptures","### Holy Scripture"
+"63","0.8285","LOW","yes","doctrinal","The original phrase 'The Teachings of the Church' implies a broader and more formal set of doctrines, while 'Church Teaching' suggests a more simplified or singular interpretation, potentially altering the understanding of the Church's teachings as a comprehensive system.","### The Teachings of the Church","### Church Teaching"
