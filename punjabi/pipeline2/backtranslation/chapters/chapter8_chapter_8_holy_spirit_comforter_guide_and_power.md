@@ -351,3 +351,63 @@ The most common ways I have personally seen God speak to people, and I have had 
 <!-- p119 -->
 - A picture - in the Scriptures this is also called a vision or a dream (a vision is when you are awake, a dream is when you are asleep), God will give you a picture in your mind. Perhaps it is a memory, or a place you have been or know? Explore this picture; what do you see? As a result, what do you feel? What is happening?
 
+<!-- p120 -->
+- An inner voice - like an audible voice, but one that only you can hear, and that is spoken in your heart and mind.
+
+<!-- p121 -->
+#### What would God say?
+
+<!-- p122 -->
+Not sure! But that’s the fun of it. I can say that He is not a spirit of fear but of perfect love, and He will never violate the teachings of the Scriptures. For example, God will never tell you to have relations outside of marriage.
+
+<!-- p123 -->
+Now what?
+
+<!-- p124 -->
+Keep the conversation going! It really is that simple.
+
+<!-- p125 -->
+Some good books I’ve read and that I personally recommend to help you learn to talk with God:
+
+<!-- p126 -->
+- *Real Christianity* by Larry Low ([<u>www.larrylow.com</u>](http://www.larrylow.com))
+
+<!-- p127 -->
+- *Good Morning, Holy Spirit* by Benny Hinn ([<u>www.bennyhinn.org</u>](http://www.bennyhinn.org))
+
+<!-- p128 -->
+### Why build a relationship?
+
+<!-- p129 -->
+The Holy Spirit is the Helper. The Helper helps us! If we share a language with Him and have a relationship, the work becomes much smoother. Can you imagine trying to work with someone at your job without a relationship, without speaking the same language, and without communicating?!
+
+<!-- p130 -->
+We serve a God who wants to communicate with us. Jesus said that His sheep know His voice (<span class="x-scripture" data-book="JHN" data-chapter="10" data-lang="en" data-type="ref" data-verses="27" data-version="NKJV" dir="ltr" style="text-align: left;">John 10:27</span>), the natural abilities we need are already within us, but we may lack practiced expertise.
+
+<!-- p131 -->
+From personal experience, a personal and active relationship with the Holy Spirit is one of the best things about being a Christian. His presence gives us peace, comfort, and direction, but only if you know how to seek Him, listen, and obey.
+
+<!-- p132 -->
+Develop a sensitivity to the Holy Spirit. Just as many married people, over time, communicate with their spouse in a unique way, sometimes with just a glance. That look alone tells you everything about what just happened and what is about to happen. Build this kind of sensitivity and familiarity with the Holy Spirit. Involve Him in your whole life, it is a wonderful part of your relationship with Him that will provide endless depth and richness to your walk of faith.
+
+<!-- p133 -->
+The Holy Spirit came to lead and guide us, to empower us to be God’s people, and to see the people of the earth delivered from the kingdom of darkness into the kingdom of light, fundamentally transformed. Knowing Him and building trust with Him is essential for daily life and for accomplishing the work Jesus has given us to do.
+
+<!-- p134 -->
+Our discussion of the work of the Holy Spirit does not end in this chapter. His work is discussed in detail in the remaining chapters of this book, especially in the chapters on sanctification and baptism.
+
+<!-- p135 -->
+## Personal Reflection Questions
+
+<!-- p136 -->
+1.  How have you experienced the Holy Spirit as your Comforter, Guide, or source of strength? Which role resonates most with the current season of your life?
+
+<!-- p137 -->
+2.  Reflect on the difference between the Holy Spirit being “in” (internal work) and “upon” (external work). How does this distinction affect your understanding of His work in your life?
+
+<!-- p138 -->
+3.  What steps can you take to develop a deeper relationship with the Holy Spirit and to discern His voice more clearly?
+
+<!-- p139 -->
+4.  We are to trust in the power of the Holy Spirit to move forward fearlessly and fulfill the mission given by God. What specific mission and central focus has God given you?
+
