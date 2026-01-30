@@ -46,5 +46,17 @@
     "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/backtranslation/chapters/chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md",
     "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/drift_report_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_vs_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.csv",
     "generated_at": "2026-01-30T15:50:47.045269"
+  },
+  "drift_report_chapter11_chapter_11_baptisms_water_and_spirit_vs_chapter11_chapter_11_baptisms_water_and_spirit.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter11_chapter_11_baptisms_water_and_spirit.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/backtranslation/chapters/chapter11_chapter_11_baptisms_water_and_spirit.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/drift_report_chapter11_chapter_11_baptisms_water_and_spirit_vs_chapter11_chapter_11_baptisms_water_and_spirit.csv",
+    "generated_at": "2026-01-30T15:50:59.617322"
+  },
+  "drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter12_chapter_12_discipleship.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/backtranslation/chapters/chapter12_chapter_12_discipleship.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship.csv",
+    "generated_at": "2026-01-30T15:51:09.689756"
   }
 }
