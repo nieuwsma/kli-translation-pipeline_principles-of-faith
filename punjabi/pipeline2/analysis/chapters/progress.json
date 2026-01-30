@@ -100,5 +100,29 @@
     "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/backtranslation/chapters/chapter1_chapter_1_sound_doctrine_matters.md",
     "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/drift_report_chapter1_chapter_1_sound_doctrine_matters_vs_chapter1_chapter_1_sound_doctrine_matters.csv",
     "generated_at": "2026-01-30T16:23:03.076313"
+  },
+  "drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter2_chapter_2_god_eternal_creator_and_loving_father.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/backtranslation/chapters/chapter2_chapter_2_god_eternal_creator_and_loving_father.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father.csv",
+    "generated_at": "2026-01-30T16:23:09.474739"
+  },
+  "drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter3_chapter_3_sin_and_redemption.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/backtranslation/chapters/chapter3_chapter_3_sin_and_redemption.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption.csv",
+    "generated_at": "2026-01-30T16:23:16.581135"
+  },
+  "drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter4_chapter_4_jesus_the_messiah.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/backtranslation/chapters/chapter4_chapter_4_jesus_the_messiah.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah.csv",
+    "generated_at": "2026-01-30T16:23:24.533561"
+  },
+  "drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter5_chapter_5_repentance_from_dead_works.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/backtranslation/chapters/chapter5_chapter_5_repentance_from_dead_works.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works.csv",
+    "generated_at": "2026-01-30T16:23:33.351913"
   }
 }
