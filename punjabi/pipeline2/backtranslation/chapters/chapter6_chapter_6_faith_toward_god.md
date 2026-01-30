@@ -476,3 +476,80 @@ It is very important in every believer’s life that they strengthen their faith
 >
 > Great peace have those who love Your law, and nothing causes them to stumble.
 
+<!-- p130 -->
+</span>
+
+<!-- p131 -->
+6.  **Fruitfulness and Prosperity**
+
+<!-- p132 -->
+<span class="x-scripture" data-book="ISA" data-chapter="1" data-lang="en" data-type="quote" data-verses="19" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p133 -->
+> **<u>Isaiah 1:19</u>** (NKJV)
+>
+> If you are willing and obedient, you shall eat the good of the land;
+>
+
+<!-- p134 -->
+</span>
+
+<!-- p135 -->
+7.  **God's Favor**
+
+<!-- p136 -->
+<span class="x-scripture" data-book="PSA" data-chapter="37" data-lang="en" data-type="quote" data-verses="23-24" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p137 -->
+> **<u>Psalm 37:23-24</u>** (NKJV)
+>
+> The steps of a good man are ordered by the LORD, and He delights in his way.
+>
+> Though he fall, he shall not be utterly cast down; For the LORD upholds him with His hand.
+>
+
+<!-- p138 -->
+</span>
+
+<!-- p139 -->
+8.  **Strength and Endurance**
+
+<!-- p140 -->
+<span class="x-scripture" data-book="ISA" data-chapter="40" data-lang="en" data-type="fragment" data-verses="31" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p141 -->
+> **<u>Isaiah 40:31</u>** (NKJV)
+>
+> But those who wait on the LORD shall renew their strength; they shall mount up with wings like eagles, they shall run and not be weary, they shall walk and not faint.
+>
+
+<!-- p142 -->
+</span>
+
+<!-- p143 -->
+9.  **Blessings upon Future Generations**
+
+<!-- p144 -->
+<span class="x-scripture" data-book="EXO" data-chapter="20" data-lang="en" data-type="quote" data-verses="6" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p145 -->
+> **<u>Exodus 20:6</u>** (NKJV)
+>
+> but showing mercy to thousands, to those who love Me and keep My commandments.
+>
+
+<!-- p146 -->
+</span>
+
+<!-- p147 -->
+10. **Eternal Life**
+
+<!-- p148 -->
+<span class="x-scripture" data-book="ROM" data-chapter="2" data-lang="en" data-type="quote" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p149 -->
+> **<u>Romans 2:7</u>** (NKJV)
+>
+> eternal life to those who by patient continuance in doing good seek for glory, honor, and immortality;
+>
+
