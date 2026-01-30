@@ -551,3 +551,48 @@ There is much to say on this topic, and we explore themes of healing as an overa
 <!-- p179 -->
 #### Step 5 - Be patient
 
+<!-- p180 -->
+Pay attention to confirmation from God and from others. Often, God confirms your calling through fruitfulness, joy, and the affirmation of the people around you. Reflect on where your efforts have borne fruit and listen to feedback about the impact of ministry. This can help you identify where you are most effective as you serve the body of Christ.
+
+<!-- p181 -->
+Be patient and trust God’s timing. It may take time to discover your role and may involve trial and error (<span class="x-scripture" data-book="PHP" data-chapter="1" data-lang="en" data-type="ref" data-verses="6" data-version="NKJV" dir="ltr" style="text-align: left;">Philippians 1:6</span>). Trust that God will guide you as you remain faithful and open to His leading. In this season, commit to growth and training by participating in workshops, Bible studies, and other resources that equip you for service. Do this together with the church; engage with the body of Christ to discover your gifts.
+
+<!-- p182 -->
+Remember, the church is not a building or an institution; it is a living, breathing body made up of people like you. By stepping forward in your role, you contribute to its mission and glorify Christ, who is its head.
+
+<!-- p183 -->
+## Personal reflection questions
+
+<!-- p184 -->
+1.  What does being a ‘called person’ personally mean to you? How can you live out this identity in your daily life?
+
+<!-- p185 -->
+2.  Among the biblical images of the church (body, bride, temple, etc.), which resonates with you the most? Why?
+
+<!-- p186 -->
+3.  Reflect on your role in the body of Christ. What gifts, talents, or passions has God given you to serve His church?
+
+<!-- p187 -->
+4.  How does being part of a local church strengthen your faith and help accomplish God’s mission?
+
+<!-- p188 -->
+5.  What steps can you take to promote unity, accountability, and growth in your church community?
+
+<!-- p189 -->
+## Group discussion questions (20-30 minutes)
+
+<!-- p190 -->
+1.  **Introductory question:** “What is your earliest memory of participating in or being part of the church? How has your perspective toward the church changed over time?”
+
+<!-- p191 -->
+2.  **Exploring the church as the body of Christ:** <span class="x-scripture" data-book="1CO" data-chapter="12" data-lang="en" data-type="ref" data-verses="12-27" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 12:12-27</span> Read. What does this passage teach us about the unity and diversity of the church? How can we joyfully celebrate and honor one another’s differences?
+
+<!-- p192 -->
+3.  **The mission of the church:** How does the church fulfill its upward (worship), inward (spiritual formation), and outward (evangelism) purposes? In which area do you feel most called to participate?
+
+<!-- p193 -->
+4.  **Addressing conflict and growth:** <span class="x-scripture" data-book="HEB" data-chapter="12" data-lang="en" data-type="ref" data-verses="12-17" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 12:12-17</span> calls us to strengthen one another and to avoid bitterness. How can we address divisions or hurts within the church in ways that foster healing and promote unity?
+
+<!-- p194 -->
+5.  **Finding your place:** Think about a time when you felt most connected to your church. What factors contributed to that experience, and how can we create similar experiences for others?
+
