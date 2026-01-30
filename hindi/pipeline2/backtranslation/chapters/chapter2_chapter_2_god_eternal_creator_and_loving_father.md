@@ -1,0 +1,219 @@
+<!-- p0 -->
+# Chapter 2 - God-Eternal Creator and Loving Father
+
+<!-- p1 -->
+It is extremely necessary that we establish a firm foundation in the knowledge of who God is. Through study we can understand:
+
+<!-- p2 -->
+- His desires, intentions, and actions,
+
+<!-- p3 -->
+- His nature, character, and attributes,
+
+<!-- p4 -->
+- What is said about Him and what He Himself says about Himself.
+
+<!-- p5 -->
+The Holy Scriptures uniquely reveal the attributes of God, and each aspect deepens our understanding of our unchanging, eternal God.
+
+<!-- p6 -->
+It is difficult, if not impossible, to confine God to a single description, for He is too vast and multifaceted for simplification. Although we can and will make great efforts to explain, describe, and depict God, ultimately, as with art and music, He must be experienced to be understood.
+
+<!-- p7 -->
+When a person listens to music, they describe it by telling how it moves them-how it resonates within, beyond mere notes and rhythms. A melody may carry warmth or intensity, with a rhythm that pulses like a heartbeat, or with a crescendo that evokes elation or longing. Music can soothe like a gentle wave or electrify like a storm, heightening the listener’s excitement, steadying their thoughts, or transporting them entirely elsewhere. This experience is far more than a sequence of sounds; it is the very life of the music that lingers, captured in how it shapes the listener’s emotions and personal journey.
+
+<!-- p8 -->
+Similarly, a viewer of a painting looks beyond colors or brushstrokes, exploring what these elements express. A landscape may stir a peaceful escape, while an abstract composition may arouse curiosity or introspection. Certain color-shades may bring warmth, while a composition may evoke a sense of peace, chaos, or beauty. The painting becomes a living experience, producing a change in perspective or such a deep emotional response that words alone cannot capture. Then both music and art are transformed into more than their physical forms-they become experiences that touch something essential, changing the listener or viewer profoundly and personally.
+
+<!-- p9 -->
+## Discovering God through the Old Testament
+
+<!-- p10 -->
+### Genesis: The God who dwells with His creation
+
+<!-- p11 -->
+A central theme of God’s story is His desire to dwell with His creation. This is evident throughout the narratives of Genesis. Across its fifty chapters and the genealogies from Adam (the first man) to Joseph (the final principal figure of the book of Genesis, the last significant leader of God’s people before Moses), there is a span of approximately ~2,400 years. Through these narratives we see the continuity of God’s goodness despite humanity’s wickedness.
+
+<!-- p12 -->
+In Genesis, God establishes relationships with certain chosen individuals.
+
+<!-- p13 -->
+1.  **Adam and Eve** - The first humans, whom God created and placed in the Garden of Eden. God walks and talks with them, instructs them, and establishes a relationship of mutual love and obedience. However, this relationship is affected by their disobedience in eating the fruit of the tree of the knowledge of good and evil (Genesis 1-3).
+
+<!-- p14 -->
+2.  **Cain** - Although Cain ultimately rebels by murdering his brother Abel, God speaks to him directly, warning him about the danger of sin and offering guidance before the murder. Even after he is punished, God marks him so that he may be protected from harm (Genesis 4).
+
+<!-- p15 -->
+3.  **Noah** - In a time of widespread corruption, God establishes a unique relationship with Noah, a righteous man. God commands Noah to build an ark to save his family and the animals from the flood. Afterwards, God makes a covenant with Noah, promising never again to destroy the earth with a flood, and establishes the rainbow as the sign of this covenant (Genesis 6-9).
+
+<!-- p16 -->
+4.  **Abraham (Abram)** - Among the most significant relationships in Genesis, God calls Abram to leave his country and promises to make him the father of a great nation. God establishes a covenant with Abram, promising land, descendants, and blessings for all nations through him. Abram’s faith and obedience become central themes, and as part of the covenant his name is changed to Abraham (Genesis 12, 15, 17, 22).
+
+<!-- p17 -->
+5.  **Hagar** - An Egyptian maidservant of Sarah, Hagar encounters God in the wilderness after suffering mistreatment. God comforts her, promises a future for her son Ishmael, and commands her to return to Abraham and Sarah. Hagar calls God “El Roi” (“The God Who Sees Me”), acknowledging His attention toward her (Genesis 16).
+
+<!-- p18 -->
+6.  **Isaac** - The son of Abraham and Sarah, Isaac receives the covenant promises made to his father. God confirms these promises directly to Isaac, including the promise of descendants and blessings. During a famine God guides Isaac, protects him, and establishes the covenant relationship (Genesis 26).
+
+<!-- p19 -->
+7.  **Rebekah** - Although her relationship with God is indirect, God answers Rebekah’s prayer regarding her difficult pregnancy and reveals that her twin sons, Jacob and Esau, will become two nations with distinct destinies (Genesis 25).
+
+<!-- p20 -->
+8.  **Jacob** - God establishes a personal relationship with Jacob, appearing to him in a dream and confirming the covenant promises of land, descendants, and blessings. Jacob encounters God multiple times, including the famous wrestling where God changes his name to Israel, which symbolizes his transformation and the establishment of Israel as a nation (Genesis 28, 32, 35).
+
+<!-- p21 -->
+9.  **Joseph** - Although Joseph’s relationship with God is not based on direct visions or a covenant like Abraham’s or Jacob’s, God is still deeply involved in his life. Through dreams, divine favor, and divine providence, God guides Joseph’s journey—from being sold into slavery to becoming a powerful leader in Egypt. Joseph’s faith in God’s sovereignty enables him to forgive his brothers, recognizing that God used his suffering for good (Genesis 37, 39-50).
+
+<!-- p22 -->
+Throughout this entire narrative, God, who desires to dwell with his creation, is content to dwell with select individuals, and ultimately establishes a people through the covenant with Abraham (<span class="x-scripture" data-book="GEN" data-chapter="17" data-lang="en" data-type="ref" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">Genesis 17:7</span>).
+
+<!-- p23 -->
+### Exodus: The God who dwells with his people
+
+<!-- p24 -->
+God’s desire to dwell with his people is also clearly seen in the second book of the Bible, Exodus. In the book of Exodus, the people of Israel, who had lived for some time in Egypt in relative peace and harmony, are now being oppressed by a Pharaoh who did not know Joseph and feared the Hebrews (<span class="x-scripture" data-book="EXO" data-chapter="1" data-lang="en" data-type="ref" data-verses="6-8" data-version="NKJV" dir="ltr" style="text-align: left;">Exodus 1:6-8</span>). God’s people lived in Egypt for approximately ~400 years (<span class="x-scripture" data-book="EXO" data-chapter="12" data-lang="en" data-type="ref" data-verses="40-41" data-version="NKJV" dir="ltr" style="text-align: left;">Exodus 12:40-41</span>), during the latter part of which they lived as slaves (there is no universal agreement on exactly how long Israel was in Egyptian slavery).
+
+<!-- p25 -->
+In the powerful presence of the burning bush that was not consumed, God reveals himself to a Hebrew-born, Egyptian-raised, exiled murderer who was tending his father-in-law’s flock in the desert—Moses.
+
+<!-- p26 -->
+<span class="x-scripture" data-book="EXO" data-chapter="3" data-lang="en" data-type="quote" data-verses="14" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p27 -->
+> **<u>Exodus 3:14</u>** (NKJV)
+>
+> And God said to Moses, "I AM WHO I AM." And He said, "Thus you shall say to the children of Israel, 'I AM has sent me to you.' "
+>
+
+<!-- p28 -->
+</span>
+
+<!-- p29 -->
+The phrase **“I AM WHO I AM”** (Ehyeh-Asher-Ehyeh) is one of the most profound self-revelations in Scripture. When Moses asks God’s name, God answers with this phrase, which can be translated as “I AM WHO I AM,” “I WILL BE WHO I WILL BE,” or simply “I AM.” This declaration may seem a bit perplexing on the surface, but it carries deep meaning. Can you imagine introducing yourself to someone new by saying, ‘I AM’? When God reveals himself as ‘I AM WHO I AM,’ he is affirming his nature, his eternal presence, his sovereignty. ‘I AM’ is limitless in meaning and purpose.
+
+<!-- p30 -->
+God uses Moses to reveal himself before Pharaoh:
+
+<!-- p31 -->
+<span class="x-scripture" data-book="EXO" data-chapter="7" data-lang="en" data-type="quote" data-verses="16" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p32 -->
+> **<u>Exodus 7:16</u>** (NKJV)
+>
+> And you shall say to him, 'The LORD God of the Hebrews has sent me to you, saying, "Let My people go, that they may serve Me in the wilderness"; but indeed, until now you would not hear!'
+>
+
+<!-- p33 -->
+</span>
+
+<!-- p34 -->
+Moses tells Pharaoh that God is ‘I AM,’ and God demands that the Israelites be released so that they may worship him in the wilderness.
+
+<!-- p35 -->
+Then plagues and afflictions come, but eventually Pharaoh yields and lets the Israelites go.
+
+<!-- p36 -->
+<span class="x-scripture" data-book="EXO" data-chapter="12" data-lang="en" data-type="quote" data-verses="31" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p37 -->
+> **<u>Exodus 12:31</u>** (NKJV)
+>
+> Then he called for Moses and Aaron by night, and said, "Rise, go out from among my people, both you and the children of Israel. And go, serve the LORD as you have said."
+>
+
+<!-- p38 -->
+</span>
+
+<!-- p39 -->
+In the wilderness God miraculously delivers his people from the vengeful Egyptian army (Exodus 14), provides a pillar of fire to shield them from the sun and keep them warm in the desert’s cold nights (Exodus 13), gives them food from heaven (Exodus 16), and provides water to drink (Exodus 17).
+
+<!-- p40 -->
+God brings His people to Mount Sinai, where God commands Moses to consecrate the people and gives them the Law (including the Ten Commandments) and establishes His covenant with them (the Old Covenant) (Exodus 19, 20, 24). This covenant (the Mosaic Covenant) is based on the Abrahamic Covenant and endures from Moses to Jesus.
+
+<!-- p41 -->
+Despite making a covenant with His people, this relationship is that of a loving and jealous God who pursues and remains with a very stubborn and ungrateful people (<span class="x-scripture" data-book="EXO" data-chapter="32" data-lang="en" data-type="ref" data-verses="9" data-version="NKJV" dir="ltr" style="text-align: left;">Exodus 32:9</span>). Ignoring God’s miraculous interventions, they maintain a rebellious attitude for a long time. God even brings them to the Promised Land and says that they may inherit it (<span class="x-scripture" data-book="EXO" data-chapter="33" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV" dir="ltr" style="text-align: left;">Exodus 33:3</span>), but in fear and disobedience they disregard the supernatural deliverance that God had given them, and instead they have to wander in the wilderness for 40 years until almost all the people of that generation had died (<span class="x-scripture" data-book="NUM" data-chapter="14" data-lang="en" data-type="ref" data-verses="33-34" data-version="NKJV" dir="ltr" style="text-align: left;">Numbers 14:33-34</span>).
+
+<!-- p42 -->
+### The rest of the Old Testament
+
+<!-- p43 -->
+In the approximately ~1,400 years between Moses’ death and the birth of Christ, the Israelites experienced a recurring cycle of devotion, which brought God’s grace and blessings, followed by rebellion, God’s judgment, then their repentance, and finally God’s deliverance. This pattern is especially evident in the books of **Judges, Kings, and Chronicles**, which describe such cycles where the people turn away from God, often by worshiping other gods, resulting in periods of oppression or exile. In response to their cries, God repeatedly raised up judges, prophets, or leaders to deliver them.
+
+<!-- p44 -->
+During these years, despite the Israelites repeatedly failing to keep their covenant with Him, God remained faithful, showing both justice and mercy. He continually saved and forgave His people, demonstrating His enduring commitment and love.
+
+<!-- p45 -->
+As we see in Scripture, God reveals Himself through His works, relationships, and even through the names that speak about His character. Each name represents a specific aspect of His overall character. These names are part of the narrative through which God revealed Himself to His people. For your personal study, a reference table has been included in the appendix: *Table 10 - The Names of God in the Old Testament.* Read these names and study the Scripture references. Each reference is a story that precisely shows how God saved, delivered, and redeemed His people.
+
+<!-- p46 -->
+The appendix also includes another derived set of attributes to describe His nature, His works, and His intentions: *Table 11 - The Attributes of God.* These attributes, though a bit more abstract than the names of God, are by no means any less real!
+
+<!-- p47 -->
+These names help us understand God—the Father, the Son, and the Holy Spirit (**Trinity**)—working together as one. In our further study we will examine the names and attributes of Jesus and the Holy Spirit more deeply.
+
+<!-- p48 -->
+God’s character and works are fully expressed in the unity of the Father, the Son, and the Spirit. Scripture teaches that in essence God is one, yet exists as three distinct persons: the Father, the Son, and the Holy Spirit. Scripture affirms God’s oneness, saying, “There is no God besides Me” (<span class="x-scripture" data-book="ISA" data-chapter="45" data-lang="en" data-type="ref" data-verses="5" data-version="NKJV" dir="ltr" style="text-align: left;">Isaiah 45:5</span>). Nevertheless, the Godhead is understood as a composite unity—three distinct persons who, cooperating with one mind and purpose, are truly united. Each person of the Trinity has a distinct role: **the Father creates**, **the Son redeems**, and **the Holy Spirit sanctifies**. The word “Trinity” is not found in the Bible; it developed as a theological expression to describe this concept, which is revealed throughout Scripture.
+
+<!-- p49 -->
+The Trinity can be illustrated by examples from nature that help explain this concept of unity in diversity. Like water, which can be liquid, ice, or vapor, yet remains H₂O, so each person of the Trinity is fully God, yet distinct in personhood. Or consider a triangle, whose three sides and three angles together form a complete figure; if one side is removed, it is no longer a triangle. In the same way, without all three persons, the nature of God would not be complete, who work together in perfect unity.
+
+<!-- p50 -->
+- **God the Father**: He is the Creator and Sustainer of all things, and is often understood as the initiator within the Godhead. His love for humanity is central to the biblical narrative, exemplified in <span class="x-scripture" data-book="JHN" data-chapter="3" data-lang="en" data-type="ref" data-verses="16" data-version="NKJV" dir="ltr" style="text-align: left;">John 3:16</span>. In our study we will see God the Father as the loving Father and righteous Judge who made the way for our salvation.
+
+<!-- p51 -->
+- **God the Son**: Co-existent and co-eternal with the Father, Jesus took on human nature, was conceived by the Holy Spirit, and was born of the virgin Mary. He lived a sinless life, gave His life to redeem humanity, and rose again, conquering sin and death. He now sits at the right hand of the Father, interceding for us (<span class="x-scripture" data-book="JHN" data-chapter="1" data-lang="en" data-type="ref" data-verses="1-3" data-version="NKJV" dir="ltr" style="text-align: left;">John 1:1-3</span>; <span class="x-scripture" data-book="MAT" data-chapter="1" data-lang="en" data-type="ref" data-verses="23" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 1:23</span>; <span class="x-scripture" data-book="1TI" data-chapter="2" data-lang="en" data-type="ref" data-verses="5" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 2:5</span>). In our study we will see Jesus as the perfect atoning sacrifice, the risen Lord, and the head of the Church.
+
+<!-- p52 -->
+- **God the Holy Spirit**: The Holy Spirit, co-existent and equal with the Father and the Son, is sent by the Father through the Son to convict the world concerning sin and to prepare believers as the bride of Christ. He empowers, comforts, and sanctifies those who are in Christ (<span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="en" data-type="ref" data-verses="26" data-version="NKJV" dir="ltr" style="text-align: left;">John 14:26</span>; 15:26; 16:8). In our study we will see the Holy Spirit as the Comforter, whom God has given to equip us, empower us, sanctify us, and remain with us.
+
+<!-- p53 -->
+Through these distinct persons, God’s triune nature is revealed as a perfect unity in purpose, will, and love; in the divine mission of creation, redemption, and sanctification, each person plays a vital role. The Trinity invites believers to experience God fully—as a loving Father, a redeeming Savior, and a transforming Spirit.
+
+<!-- p54 -->
+## Conclusion
+
+<!-- p55 -->
+We can be uniquely identified by our names: husband, father, son, brother, friend. Each of these is a declaration of who we are in relation to someone else. We can also be known by our attributes: faithful, patient, compassionate, wise, humorous. Similarly, we can know God by His attributes and names—He is our Healer, Provider, Shepherd, and Savior. However, just as titles and words express only a small part of who we are, so for us truly to be known by others, we must be experienced. This is even more true with respect to God. To know Him truly and fully, we must experience Him.
+
+<!-- p56 -->
+The names of God reveal His character, but personal encounters deepen our understanding of the meaning of these names. For example, “My God who heals” takes on a richer and deeper meaning when we understand the depths of the sickness, despair, or helplessness from which God saves. Knowing Him as our Provider is transformed when we have felt real need and found Him faithful.
+
+<!-- p57 -->
+Scripture provides context for these experiences, showing us God’s faithfulness to His people across times and circumstances, affirming that His names and attributes are not merely titles, but realities He brings to life, experienced in the lives of individuals. It is through this convergence of personal experience and the scriptural narrative that we come to know God—not merely as a distant description, but as a present, active relationship in every season of our lives.
+
+<!-- p58 -->
+## Personal reflection questions
+
+<!-- p59 -->
+1.  Which attribute of God resonates most with you at this time? Why?
+
+<!-- p60 -->
+2.  How does knowing God as “I AM” (<span class="x-scripture" data-book="EXO" data-chapter="3" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV" dir="ltr" style="text-align: left;">Exodus 3:14</span>) change the way you approach Him in prayer?
+
+<!-- p61 -->
+3.  Which names of God most closely resonate with your current situation (e.g., Yahweh-Yireh, Yahweh-Rapha)? How has He revealed Himself to you in this way?
+
+<!-- p62 -->
+4.  How does understanding God’s faithfulness in the Old Testament help you trust Him in areas of uncertainty today?
+
+<!-- p63 -->
+5.  What does the Trinity reveal about God’s relational nature, and how does this affect your relationship with Him?
+
+<!-- p64 -->
+## Group Discussion Questions (20-30 minutes)
+
+<!-- p65 -->
+1.  **Opening Question (Icebreaker):** *During this chapter, which names or attributes of God most captured your attention? Why?*
+
+<!-- p66 -->
+2.  **Exploring Scripture:** *Considering <span class="x-scripture" data-book="EXO" data-chapter="3" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV" dir="ltr" style="text-align: left;">Exodus 3:14</span> and <span class="x-scripture" data-book="GEN" data-chapter="22" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV" dir="ltr" style="text-align: left;">Genesis 22:14</span>, how do the names of God in those narratives reflect His character and actions?*
+
+<!-- p67 -->
+3.  **Practical Application:** *How can understanding God’s attributes (e.g., faithful, compassionate, sovereign) affect the way we respond to life’s challenges?*
+
+<!-- p68 -->
+4.  **Discussion on the Trinity:** *How does the Trinity demonstrate unity and purpose? How might this model influence relationships within the church?*
+
+<!-- p69 -->
+5.  **Reflection:** *Where in your life do you need more of God’s provision, healing, or peace? How can the group pray for you in this area?*
+
