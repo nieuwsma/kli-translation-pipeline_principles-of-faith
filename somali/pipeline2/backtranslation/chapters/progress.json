@@ -1,0 +1,47 @@
+{
+  "chapter0_0_intro.md": {
+    "total": 20,
+    "completed": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "last_update": "2026-01-30 12:12:16.055559"
+  },
+  "chapter0_1_dedication.md": {
+    "total": 3,
+    "completed": [
+      0,
+      1,
+      2
+    ],
+    "last_update": "2026-01-30 12:12:41.812810"
+  },
+  "chapter0_2_acknowledgements.md": {
+    "total": 4,
+    "completed": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "last_update": "2026-01-30 12:13:33.056901"
+  }
+}
