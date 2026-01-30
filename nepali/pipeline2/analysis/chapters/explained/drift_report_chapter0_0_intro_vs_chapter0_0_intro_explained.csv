@@ -1,0 +1,4 @@
+# Drift explanation generated 2026-01-30T16:09:15.996090
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"16","0.8345","LOW","no","paraphrase","The terms 'Version ID' and 'Edition ID' are synonymous in this context, and the numerical identifier remains unchanged, indicating no alteration in meaning.","Version ID: 20251222","Edition ID: 20251222"
