@@ -1559,3 +1559,63 @@
 <!-- p519 -->
 - **誰？** 弟子として育てるように導かれていると感じる人の名前を書く。
 
+<!-- p520 -->
+- **どうやって？** 今週、彼らとつながる方法を1つ特定する（例：ランチに誘う、霊的なトピックについて話し合う）。
+
+<!-- p521 -->
+- **何を？** 一緒に過ごす時間を導くための道具やトピックを決める（例：投げかける質問、聖書の一書、祈り、人生の課題に取り組むこと）。これは過度に型どおりである必要はありません。彼らとの関係から自然に流れるようにしましょう！
+
+<!-- p522 -->
+2.  **グループでの分かち合い（10分）：**
+
+<!-- p523 -->
+- 励ましとアカウンタビリティのために、パートナーと計画を共有する。
+
+<!-- p524 -->
+3.  **実行のための祈り（5分）：**
+
+<!-- p525 -->
+- 計画を実行するための勇気と導きを求めて、グループで祈る。
+
+<!-- p526 -->
+## 第13章 - 霊的権威
+
+<!-- p527 -->
+### アクティビティ1: 聖書における霊的権威を認識する（聖書研究の演習）
+
+<!-- p528 -->
+#### 目的:
+
+<!-- p529 -->
+参加者が聖書における霊的権威の例を特定し、それが自分の生活にどのように適用できるかを振り返るのを助ける。
+
+<!-- p530 -->
+#### 手順:
+
+<!-- p531 -->
+1.  **グループ学習:**
+
+<!-- p532 -->
+- 小グループに分かれ、各グループに霊的権威を示す聖書箇所を割り当てる。より多様性を持たせるため、以下の拡張リストを用いる。
+
+<!-- p533 -->
+2.  **聖書箇所の拡張リスト（イエスまたはその弟子たちが権威を用いた例）：**
+
+<!-- p534 -->
+- **イエス:**
+
+<!-- p535 -->
+- 嵐を静める: *<span class="x-scripture" data-book="MRK" data-chapter="4" data-lang="en" data-type="ref" data-verses="35-41" data-version="NKJV" dir="ltr" style="text-align: left;">マルコ 4:35-41</span>.*
+
+<!-- p536 -->
+- 会堂で悪霊を追い出す: *<span class="x-scripture" data-book="MRK" data-chapter="1" data-lang="en" data-type="ref" data-verses="21-28" data-version="NKJV" dir="ltr" style="text-align: left;">マルコ 1:21-28</span>.*
+
+<!-- p537 -->
+- 百人隊長のしもべを癒す: *<span class="x-scripture" data-book="MAT" data-chapter="8" data-lang="en" data-type="ref" data-verses="5-13" data-version="NKJV" dir="ltr" style="text-align: left;">マタイ 8:5-13</span>.*
+
+<!-- p538 -->
+- ラザロを死からよみがえらせる: *<span class="x-scripture" data-book="JHN" data-chapter="11" data-lang="en" data-type="ref" data-verses="38-44" data-version="NKJV" dir="ltr" style="text-align: left;">ヨハネ 11:38-44</span>.*
+
+<!-- p539 -->
+- 5,000人に食べ物を与える: *<span class="x-scripture" data-book="MAT" data-chapter="14" data-lang="en" data-type="ref" data-verses="13-21" data-version="NKJV" dir="ltr" style="text-align: left;">マタイ 14:13-21</span>.*
+

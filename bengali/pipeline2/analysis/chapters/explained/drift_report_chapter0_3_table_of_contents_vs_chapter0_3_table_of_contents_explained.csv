@@ -1,0 +1,4 @@
+# Drift explanation generated 2026-01-30T15:57:57.535794
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/drift_report_chapter0_3_table_of_contents_vs_chapter0_3_table_of_contents.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"21","0.8561","MEDIUM","yes","doctrinal","The term 'Postscript' suggests an additional note or commentary after the main text, while 'Afterword' implies a concluding section that reflects on the content. This change alters the perceived purpose and significance of the section in question.","[Postscript [236](#postscript)](#postscript)","[Afterword [236](#postscript)](#postscript)"
