@@ -1,0 +1,4 @@
+# Drift explanation generated 2026-01-30T02:09:59.914210
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/french/pipeline2/analysis/chapters/drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"8","0.8577","MEDIUM","no","paraphrase","The back-translation uses different terminology ('Bible' instead of 'Scripture' and 'Bible texts' instead of 'Scripture taken'), but the overall meaning and intent remain the same, indicating a source for quotations without altering doctrinal or logical relationships.","**Scripture Quotations:**\\\\nScripture taken from:","**Bible Quotations:**\\\\nBible texts taken from:"

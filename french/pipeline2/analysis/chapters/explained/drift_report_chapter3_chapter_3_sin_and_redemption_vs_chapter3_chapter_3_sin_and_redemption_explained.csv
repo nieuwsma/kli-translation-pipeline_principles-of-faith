@@ -1,0 +1,6 @@
+# Drift explanation generated 2026-01-30T02:03:25.515833
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/french/pipeline2/analysis/chapters/drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"5","0.8248","LOW","no","paraphrase","The back-translation maintains the original concepts of a sin committed once versus a sin committed repeatedly, without altering the doctrinal meaning or intent.","- Sin of a single moment, sin habitually committed","- One-time sin, habitually committed sin"
+"13","0.903","MEDIUM","no","paraphrase","The back-translated paragraph maintains the same doctrinal meaning and intent as the original, simply rephrasing it without altering the core message.","Let's consider Cain’s murder of his brother Able in Genesis 4.","Consider Cain's murder of his brother Abel in Genesis 4."
+"63","0.9091","MEDIUM","no","paraphrase","The back-translated paragraph maintains the same doctrinal meaning as the original, simply rephrasing it without altering the intent or logical relationship.","## Sin Requires Sacrifice","## Sin requires a sacrifice"

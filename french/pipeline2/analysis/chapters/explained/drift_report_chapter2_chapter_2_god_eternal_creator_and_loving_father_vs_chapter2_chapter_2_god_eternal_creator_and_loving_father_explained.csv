@@ -1,0 +1,4 @@
+# Drift explanation generated 2026-01-30T02:03:43.190168
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/french/pipeline2/analysis/chapters/drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"35","0.8911","MEDIUM","no","paraphrase","Both paragraphs convey the same sequence of events where plagues lead to Pharaoh's eventual decision to allow the Israelites to leave, with only slight variations in word choice.","Plagues and misery ensue, but ultimately Pharaoh relents and lets the Israelites leave.","Plagues and calamities follow, but eventually Pharaoh yields and lets the Israelites go."
