@@ -613,3 +613,30 @@ Our ‘faith toward God’ is not merely a one-time event for salvation, but an 
 <!-- p169 -->
 2.  Reflect on the concepts of Logos and Rhema. Has there ever been a time in your life when a particular Scripture verse came alive to you and became a personal Rhema word? How did it impact your faith?
 
+<!-- p170 -->
+3.  How does understanding faith as persuasion rather than a mysterious force shape your relationship with God?
+
+<!-- p171 -->
+4.  Obedience is said to be the fruit of faith. Can you think of a time when your obedience to God deepened your trust in Him? What was the outcome?
+
+<!-- p172 -->
+5.  This week, what practical steps can you take to cultivate your faith through prayer, the study of Scripture, and fellowship?
+
+<!-- p173 -->
+## Group Discussion Questions *(20-30 minutes)*
+
+<!-- p174 -->
+1.  **Icebreaker Question:** “When you think of someone whose faith is strong, who comes to mind and why?”
+
+<!-- p175 -->
+2.  **Scripture Exploration:** <span class="x-scripture" data-book="ROM" data-chapter="10" data-lang="en" data-type="ref" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">Romans 10:17</span> Read. What does this verse teach us about the growth of faith? How can we apply this in our daily lives?
+
+<!-- p176 -->
+3.  **Faith in Practice:** What does it mean for obedience to be produced by faith? Share examples of how obedience has strengthened your faith or someone else’s faith journey.
+
+<!-- p177 -->
+4.  **Logos and Rhema Discussion:** Discuss the difference between logos (the written word) and rhema (the revealed word). How can we position ourselves to hear and receive a rhema word from God?
+
+<!-- p178 -->
+5.  **Cultivating Faith:** Discuss the practical practices of prayer, Bible study, and fellowship. Which of these practices has been most effective in increasing your faith, and why?
+
