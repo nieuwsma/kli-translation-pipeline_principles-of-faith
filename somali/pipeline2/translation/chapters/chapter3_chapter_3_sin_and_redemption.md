@@ -302,3 +302,123 @@ Maalinta Kaffaarada (Yom Kippur) waxa ay ahayd caado sanadle ah oo lagu sheegay 
 <!-- p79 -->
 Ugu muhiimsanaa Maalinta Kaffaarada waxa ay ahaayeen **laba riyo** oo loo adeegsaday in lagu metelo labadaba allabarka iyo ka qaadista dembiga. Wadaadka sare wuxuu saami u tuuray si loo go’aamiyo doorka mid kasta. Riyihii koowaad ee loo qoondeeyay “Rabbiga aawadiis,” ayaa loo allabariyay sidii allabari dembi, dhiiggiisana waxaa wadaadka sare u qaaday Quduuska Quduusiinta. Halkaas, dhiigga ayaa lagu rusheeyay kursiga naxariista-daboolka Sanduuqa Axdiga-iyadoo astaan u ah kaffaarada dembiyada dadka iyo ku heshiisiintooda Ilaah. Ficilkan rusheynta ahi wuxuu ahaa mid aad u macne weyn, maadaama uu matalayey daahirinta meesha quduuska ah isla markaana uu xaqiijinayey in joogitaanka Ilaah uu sii ahaan doono la joogitaanka dadkiisa.
 
+<!-- p80 -->
+Ri’tii labaad, oo loo yaqaan **ri’ga dambi-qaade (Azazel)**, si astaamo ah bay u sidday dembiyada bulshada. Wadaadka sare wuxuu gacmihiisa saari jiray ri’ga dambi-qaade, isagoo qiraya dembiyada wadajirka ah ee Israa’iil, sidaasna dembiyada ugu wareejinaya xayawaanka. Ri’gii markaas baa loo diray lamadagaanka si uu keligiis ugu dhinto, taasoo astaan u ahayd tirtirka buuxa ee dembiga ka baxa xerada. Falkan muuqda wuxuu noqday tusaale xoog leh oo labadaba kafaaro-gud iyo ka sii dayn dembi, muujinaya in Ilaah uusan keliya cafin ee sidoo kale ka qaaday dembiyada dadkiisa.
+
+<!-- p81 -->
+Maalinta Kafaaro-gudka waxay ahayd muujiin qoto dheer oo dembi-dhaafka iyo nadiifinta Ilaah, taas oo u saamaxday qaranka in la daahiyo cawaaqibta dembiga, lana dib u dhigo xukunka sannad kasta. Kafaaro-gudkani **si joogto ah uma cafin** dembiyada qaranka, balse wuxuu dib u dhigay xukunka Ilaah.
+
+<!-- p82 -->
+<span class="x-scripture" data-book="HEB" data-chapter="10" data-lang="en" data-type="quote" data-verses="1-4" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+
+
+> **<u>Cibraaniyada 10:1-4</u>** (NKJV)
+>
+> Waayo sharcigu, isagoo leh hooska waxyaalaha wanaagsan ee imanaya, oo aan ahayn sawirka dhabta ah ee waxyaalaha, weligiis kama dhigi karo kuwii u soo dhowaada kuwo kaamil ah allabaryadan isku midka ah oo ay si joogto ah sannadba sannadka ka dambeeya u bixiyaan.
+>
+> Haddii kale miyaanay joojin lahayn in la bixiyo? Waayo, kuwii caabuda, mar haddii la nadiifiyo, mar dambe ma lahaan lahaayeen xusuusta dembiyada.
+>
+> Laakiin allabaryadaas waxaa ku jira xusuusin dembi sannad kasta.
+>
+> Waayo, ma suurtowdo in dhiigga dibiyada iyo riyaha uu dembiyada ka qaado.
+>
+
+
+
+</span>
+
+<!-- p87 -->
+## Dhammaanteen Waan Dembi Galnay
+
+<!-- p88 -->
+Buugaagta Baybalka waxay si kala duwan diiradda ugu saaraan arrinta dembiga. Markii Muuse uu duubayey sharciga Towreedka (shan buug ee ugu horreeya Axdigii Hore) wuxuu qoray ciqaabo gaar ah oo loogu talagalay dembiyo gaar ah. Halkan ereyga fal-dambiyeed ayaan u adeegsadaa si isu-beddel ah, maxaa yeelay buugaagta sharcigu waxay ahaayeen nidaamkii sharci ee waqtigaas u yaallay reer binu Israa’iil.
+
+<!-- p89 -->
+Buugaagta nebiyada iyo kuwa taariikhiga ah, dembiga iyo cawaaqibkiisa waxaa badanaa lagu sharraxaa iyadoo laga hadlayo nasiibka qaranka oo dhan. Markii boqorka iyo dadka ay Ilaah caasiyeen, reer binu Israa’iil waxaa dulmi jiray deriskoodu, dagaalladana waa lagu jabin jiray, mararka qaarkoodna waxaa loo kaxayn jiray masaafuris.
+
+<!-- p90 -->
+Kitaabka Maahmaahyadii, qoraagu wuxuu u qoraa sidii aabbe jecel, wiilkiisa, isagoo uga digaya khataraha shakhsiyadeed ee dembiga iyo nolol ka hor imanaysa amarrada Ilaah. Kitaabka Sabuurradana, qoraallo badan oo Daa’uud ah waxay ka hadlayaan cawaaqibta shakhsiyadeed iyo shucuureed ee dembi la galay.
+
+<!-- p91 -->
+Injillada, Ciise wuxuu ka digaa dembiga, wuxuuna dadka ugu yeeraa toobad shakhsiyadeed, isagaana sameeyey allabarigii kama dambaysta ahaa ee dembiga. Warqadda Rooma, rasuul Bawlos wuxuu soo bandhigaa dood weyn oo ku saabsan sida Ilaah u qorsheeyey in dembiga loola tacaalo, iyo sida aynu uga xor noqon karno qabsashadiisa.
+
+<!-- p92 -->
+Dhab ahaantii, dhammaanteen dembi baan ku leenahay, waana in aynu dhammaanteen bixinnaa ciqaabta xadgudubkeenna.
+
+<!-- p93 -->
+<span class="x-scripture" data-book="ROM" data-chapter="3" data-lang="en" data-type="quote" data-verses="23" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p94 -->
+> **<u>Rooma 3:23</u>** (NKJV)
+>
+> maxaa yeelay dhammaantoodba way dembaabeen, oo ka gaabiyey ammaanta Ilaah,
+>
+
+<!-- p95 -->
+</span>
+
+<!-- p96 -->
+Mid walba oo innaga mid ah wuu dembaabay, Ilaah ayuu na kala fogeeyey, waana istaagi doonaa hor xukunka ugu dambeeya iyo cawaaqibkiisa. Way fududaan kartaa in aynu isku dayno in aynu cudurdaarno ficilladeenna oo nidhaahno ma aynaan gelin dembiyo aad u culus sida dil ama sinnaan, ayna nahay guud ahaan dad akhlaaq leh oo wanaagsan. Isku-dayga beenta ah ee aan isku cudurdaarayno wuxuu iska indhatiraa cawaaqibta ficilladeenna, dadka aynu dhaawacnay oo aynu ka dembaabnay, wuxuuna iska indhatiraa xaqiiqada Ilaah quduus ah oo kaamil ah. Qoraalladu waxay sheegaan, haddii aynu diidno in aynu dembaabno, beenaalayaal ayaannu nahay, runtuna innaga ma jirto!
+
+<!-- p97 -->
+<span class="x-scripture" data-book="1JN" data-chapter="1" data-lang="en" data-type="quote" data-verses="8-10" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p98 -->
+> **<u>1 Yooxanaa 1:8-10</u>** (NKJV)
+>
+> Haddii aynu nidhaahno dembi ma lihin, nafteenna ayaannu khiyaanaynna, runtuna nama dhex jirto.
+>
+> Haddii aynu dembiyadeenna qiranno, Isagu waa aamin iyo caddaalad, wuuna inoo dembi-dhaafayaa, wuuna inaga nadiifin doonaa wixii xaq-darro oo dhan.
+>
+> Haddii aynu nidhaahno ma aynaan dembaabin, isaga beenaalay ayaannu ka dhignay, eraygiisiina nama dhex jiro.
+>
+
+<!-- p99 -->
+</span>
+
+<!-- p100 -->
+Maaddaama aynu dhammaanteen dembaabnay, dhammaanteenba waxaanu u baahan nahay furasho; haddii kale waxaan la kulmi doonnaa xukun iyo go'doomin weligeed ah oo Ilaah naga xiga. Laakiin sheekadu halkaas kuma dhammaanayso. Mahad Ilaah ha u sugnaato—Isagu wuxuu sameeyey jid aynu ku badbaadno, ku bogsanno, oo dib loogu soo celiyo xaggiisa!
+
+<!-- p101 -->
+> <u>**Yooxanaa 3:16**</u> (NKJV) Maxaa yeelay Ilaah sidaa ayuu adduunka u jeclaaday oo Wiilkiisa Keliya ayuu bixiyey, si kii isaga rumaysta uusan halligmin laakiin uu yeesho nolol weligeed ah.*
+
+<!-- p102 -->
+Laga soo bilaabo allabariggii ugu horreeyey ee Bilowgii ilaa iskutallaabta Masiixa, qorshaha Ilaah mar walba wuxuu ahaa inuu ina furto oo uu xiriirkeenna isaga la soo celiyo. Ma jiro dembi aad u weyn, mana jiro masaafo aad u fog oo ay na gaadhi kari weydo nimcada Ilaah.
+
+<!-- p103 -->
+## Su'aalaha Milicsiga Shakhsiyeed
+
+<!-- p104 -->
+1.  Sidee macnaha dembi ahaan “bartilmaameedka ka seegid” u caqabadeeyaa fahamkaaga?
+
+<!-- p105 -->
+2.  Ka milicsi waqti aad la kulantay cawaaqibka dembiga. Sidee ay naxariista iyo nimcada Ilaah kuugu timid xaaladdaas?
+
+<!-- p106 -->
+3.  Maxay shucuur kugu soo kacaan marka aad tixgeliso xukunka Ilaah? Ma waxay kugu hoggaamisaa cabsi, rajo, mise toobadkeen? Sababtee?
+
+<!-- p107 -->
+4.  Sidee allabaryadii Axdigii Hore u tilmaamayaan shaqada Masiixa ee iskutallaabta? (<span class="x-scripture" data-book="HEB" data-chapter="9" data-lang="en" data-type="ref" data-verses="13-10" data-version="NKJV" dir="ltr" style="text-align: left;">Cibraaniyada 9:13-10</span>:18)
+
+<!-- p108 -->
+5.  Qaybaha gaar ah ee noloshaada kee ayaad u baahan tahay inaad ku waayo-aragto naxariista Ilaah iyo soo celintiisa? Sidee ayaad uga jawaabi kartaa wicitaankiisa toobadkeen iyo cusboonaysiin?
+
+<!-- p109 -->
+## Su’aalaha Doodda Kooxda (20-30 Daqiiqo)
+
+<!-- p110 -->
+1.  **Su’aasha Furitaanka:** *“Waa maxay hal tusaale oo waqti aad ‘bartilmaameedka ka seegtay’—ha ahaato iimaan, xiriirro, ama shaqo—oo maxaad ka baratay?”*
+
+<!-- p111 -->
+2.  **Dooda Qorniinka:** *Akhri <span class="x-scripture" data-book="ROM" data-chapter="6" data-lang="en" data-type="ref" data-verses="23" data-version="NKJV" dir="ltr" style="text-align: left;">Rooma 6:23</span>. Maxaa dembigu u leeyahay cawaaqib aad u culus, sideese hadiyadda Masiixa ee nolosha weligeed ah u xallisaa xiisaddan?*
+
+<!-- p112 -->
+3.  **Qodid Dheeraad ah:** *Iyadoo la eegayo sheekada Qaayin iyo Haabiil (Bilowgii 4), maxay ahaayeen digniinihii Ilaah siiyay Qaayin, sideese digniimahaas maanta innaga noo khuseeyaan?*
+
+<!-- p113 -->
+4.  **Adeegsiga Wax-ku-oolka ah:** *Kala hadla farqiga u dhexeeya dambi-dareen iyo toobadkeen. Sidee Ilaah ugu adeegsadaa ku-qancinta si uu u keeno soo celin halkii uu ka keeni lahaa canbaarayn?*
+
+<!-- p114 -->
+5.  **Milicsi:** *Maxay ka dhigan tahay in lagu noolaado adigoo tixgelinaya allabarigii Masiixa? Sidee si wax-ku-ool ah ugu socon karnaa xornimo laga xoreeyay dembiga annagoo kuwa kalena ka caawinayna inay sidaas oo kale sameeyaan?*
+
