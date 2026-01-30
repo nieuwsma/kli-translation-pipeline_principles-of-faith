@@ -58,5 +58,23 @@
     "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/backtranslation/chapters/chapter12_chapter_12_discipleship.md",
     "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship.csv",
     "generated_at": "2026-01-30T15:51:09.689756"
+  },
+  "drift_report_chapter13_chapter_13_spiritual_authority_vs_chapter13_chapter_13_spiritual_authority.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter13_chapter_13_spiritual_authority.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/backtranslation/chapters/chapter13_chapter_13_spiritual_authority.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/drift_report_chapter13_chapter_13_spiritual_authority_vs_chapter13_chapter_13_spiritual_authority.csv",
+    "generated_at": "2026-01-30T15:51:24.440538"
+  },
+  "drift_report_chapter14_back_1_postscript_vs_chapter14_back_1_postscript.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter14_back_1_postscript.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/backtranslation/chapters/chapter14_back_1_postscript.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/drift_report_chapter14_back_1_postscript_vs_chapter14_back_1_postscript.csv",
+    "generated_at": "2026-01-30T15:51:25.768905"
+  },
+  "drift_report_chapter14_back_3_extended_reference_tables_vs_chapter14_back_3_extended_reference_tables.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter14_back_3_extended_reference_tables.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/backtranslation/chapters/chapter14_back_3_extended_reference_tables.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/drift_report_chapter14_back_3_extended_reference_tables_vs_chapter14_back_3_extended_reference_tables.csv",
+    "generated_at": "2026-01-30T15:51:26.978532"
   }
 }
