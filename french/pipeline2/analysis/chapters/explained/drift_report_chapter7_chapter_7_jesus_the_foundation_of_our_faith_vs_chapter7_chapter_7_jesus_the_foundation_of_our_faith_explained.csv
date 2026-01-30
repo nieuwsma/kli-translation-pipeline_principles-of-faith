@@ -1,0 +1,4 @@
+# Drift explanation generated 2026-01-30T02:10:01.905443
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/french/pipeline2/analysis/chapters/drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"4","0.8799","MEDIUM","no","paraphrase","The back-translation maintains the same conceptual meaning as the original, simply rephrasing 'Old Testament Roles of Mediators' to 'Mediating roles in the Old Testament' without altering the doctrinal or logical implications.","Old Testament Roles of Mediators:","Mediating roles in the Old Testament:"
