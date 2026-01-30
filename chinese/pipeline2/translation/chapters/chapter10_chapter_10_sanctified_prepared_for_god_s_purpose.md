@@ -149,3 +149,137 @@
 <!-- p39 -->
 <span class="x-scripture" data-book="HEB" data-chapter="12" data-lang="en" data-type="ref" data-verses="11" data-version="NKJV" dir="ltr" style="text-align: left;">希伯来书 12:11</span> 提醒我们，修剪对那些受它训练的人“*结出平安的义果*”。
 
+<!-- p40 -->
+我们如何被公义训练？藉着心思意念的更新而变化。
+
+<!-- p41 -->
+<span class="x-scripture" data-book="ROM" data-chapter="12" data-lang="en" data-type="quote" data-verses="1-2" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p42 -->
+> **<u>罗马书 12:1-2</u>** (NKJV)
+>
+> 所以弟兄们，我以神的慈悲劝你们，将身体献上，当作活祭，是圣洁的，是神所喜悦的；你们如此事奉乃是理所当然的。
+>
+> 不要效法这个世界，只要心意更新而变化，叫你们察验何为神的善良、纯全、可喜悦的旨意。
+>
+
+<!-- p43 -->
+</span>
+
+<!-- p44 -->
+保罗提出了转变的两个简单要求：
+
+<!-- p45 -->
+<u>1. 将你的身体献给神，作为活祭</u>。一个**活**祭并不会在献祭时肉身死亡，但既然活祭不能死，你就必须不断地把它带到祭坛上！
+
+<!-- p46 -->
+<u>2. 更新你的心思意念！</u> “更新”这个词源于希腊文：**Anakainōsis** (*An-ak-ah'-ee-no-sis -* **G342**)，意思是翻新或更新，强调一种持续的内在改变与成长的过程。
+
+<!-- p47 -->
+这样的更新带来转变。“转变”这个词源于希腊文：**Metamorphoō** (*met-am-or-fo'-o -* **G3339**)，意思是变成另一种形态；改变或变貌，强调一种完全的改变。Metamorphoō 是英语词 metamorphosis 的词源，metamorphosis 指的是毛毛虫变成蝴蝶的过程。
+
+<!-- p48 -->
+神要从根本上改变我们的心思意念和思维模式。祂的心意不是让我们效法这世界的方式，而是叫我们知道何为善（有益）、何为喜悦（可接受）、以及何为完全（完全 &amp; 毫无缺欠）的神旨意。
+
+<!-- p49 -->
+转变的要求真的就这么简单，**虽然这需要操练**！
+
+<!-- p50 -->
+我们与肉体的争战并不会靠肉体得胜，而是靠神为心思之战所赐的装备。祂的话语（真理之剑）大有能力，可以纠正一切想象、狂妄的意念，并且将一切违背顺服神的思想拘捕（掳去）。
+
+<!-- p51 -->
+<span class="x-scripture" data-book="2CO" data-chapter="10" data-lang="en" data-type="quote" data-verses="3-6" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p52 -->
+> **<u>哥林多后书 10:3-6</u>** (NKJV)
+>
+> 因为我们虽然在肉身中行事，却不凭着肉体打仗。
+>
+> 我们争战的兵器本不是属血气的，乃是在神面前有能力，可以攻破坚固的营垒，
+>
+> 将各样的计谋，各样拦阻人认识神的那些自高之事一概攻破了，又将人所有的心意夺回，使它都顺服基督，
+>
+> 并且已经预备好了，等你们顺服完全的时候，要惩治一切不顺服的人。
+>
+
+<!-- p53 -->
+</span>
+
+<!-- p54 -->
+当当局逮捕某人时，会给他戴上镣铐，把他关进牢房。若那人逃脱，他们不会视而不见；他们会动用巨大的资源，直到把那人再次控制住才会罢休。我们在为心思而战时，也该有这样的热忱！
+
+<!-- p55 -->
+我们因着顺服并在真理中的经历而得更新。耶稣说，如果我们继续遵行祂的话，我们就真是祂的门徒，会经历（<u>认识</u>）真理，而真理必叫我们得以自由（<span class="x-scripture" data-book="JHN" data-chapter="8" data-lang="en" data-type="ref" data-verses="31-32" data-version="NKJV" dir="ltr" style="text-align: left;">约翰福音 8:31-32</span>）！
+
+<!-- p56 -->
+对真理的经历不同于对真理的知识。“经历”对应的希腊词是 **Ginōskō** (Ghin-oce'-ko **- G1097**)，意思是借着个人经历或亲密的理解而认识；包含逐步学习的意义。
+
+<!-- p57 -->
+改变并更新我们心思意念的，不是我们对真理的学术性知识，而是我们对真理的亲身经历。我们是借着祂的真理而成圣的！（<span class="x-scripture" data-book="JHN" data-chapter="17" data-lang="en" data-type="ref" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">约翰福音 17:17</span>）。
+
+<!-- p58 -->
+## 如何更新你的心思意念
+
+<!-- p59 -->
+更新我们的心思意念并不是一个一刀切的过程-这取决于我们谈的是心智的哪一部分！神以难以置信的复杂性设计了我们的心智，其中包括几种不同的记忆系统，每一种都有其特定的目的。有些在后台自动运作，另一些则需要专注、有意的思考。这些系统是神赐下的礼物，帮助我们生存、成长并兴旺；但当它们被误用或未被更新时，也可能使我们误入歧途。明白这些系统如何运作，使我们洞见如何与神的转变过程同工。
+
+<!-- p60 -->
+在下一部分，我将描述每一种记忆系统、它们的目的和功能、更新你心思这一方面的一些实际步骤，以及用于持续操练和学习的资源。
+
+<!-- p61 -->
+### **记忆系统及其更新方法**
+
+<!-- p62 -->
+#### **1. 外显记忆（陈述性记忆）**
+
+<!-- p63 -->
+**目的：** 储存我们能够有意识回忆的事实、事件和经历。它分为两种-**语义**和**情景**记忆。
+
+<!-- p64 -->
+**语义记忆 - 事实与知识。** 语义记忆是我们储存事实、定义和一般知识的地方-诸如历史日期、圣经经文以及实用信息。它帮助我们预测结果、做出决策并避免危险（例如识别有毒植物）。虽然它给予我们稳定与秩序，但也可能导致僵化-过度依赖规则，而不是适应意料之外的情境。
+
+<!-- p65 -->
+**如何更新它：**
+
+<!-- p66 -->
+- **研读圣经** 以塑造我们的世界观 (<span class="x-scripture" data-book="PSA" data-chapter="119" data-lang="en" data-type="ref" data-verses="105" data-version="NKJV" dir="ltr" style="text-align: left;">诗篇 119:105</span>)。
+
+<!-- p67 -->
+- **背诵真理** 和教义，以在信仰上站立得稳 (<span class="x-scripture" data-book="COL" data-chapter="3" data-lang="en" data-type="ref" data-verses="16" data-version="NKJV" dir="ltr" style="text-align: left;">歌罗西书 3:16</span>)。
+
+<!-- p68 -->
+- **阅读基督徒书籍** 如 *"更新心思" 作者 Casey Treat* 或 *"心思的战场" 作者 Joyce Meyer* 以培养敬虔的思维模式。
+
+<!-- p69 -->
+**情景记忆 - 个人经历。** 情景记忆储存我们的个人经历，并将其与特定的时间和地点联系在一起-比如婚礼那天或一次创伤性事件。这些记忆提供背景，帮助我们从过去学习并建立关系。然而，情景记忆容易受到情绪偏见和扭曲的影响。过去的创伤会产生恐惧的联想，使人难以前行。
+
+<!-- p70 -->
+**如何更新它：**
+
+<!-- p71 -->
+- **省察并认罪**，将隐藏的痛苦带到神的光中 (<span class="x-scripture" data-book="1JN" data-chapter="1" data-lang="en" data-type="ref" data-verses="9" data-version="NKJV" dir="ltr" style="text-align: left;">约翰一书 1:9</span>)。
+
+<!-- p72 -->
+- **重新诠释过往经历** 通过神恩典的视角 (<span class="x-scripture" data-book="ROM" data-chapter="8" data-lang="en" data-type="ref" data-verses="28" data-version="NKJV" dir="ltr" style="text-align: left;">罗马书 8:28</span>)。
+
+<!-- p73 -->
+- **通过祷告和辅导** 寻求内在医治 (*“你的伤痛在显露” 作者 Larry F. Low, "捆绑的破除者" 作者 Neil T. Anderson*, *"情绪健康的属灵生命" 作者 Peter Scazzero*)。
+
+<!-- p74 -->
+#### **2. 内隐记忆（非陈述性记忆）**
+
+<!-- p75 -->
+**目的：** 用于习惯、技能和情绪联结的无意识记忆。它自动运行，帮助我们对情境迅速作出反应。它分为**程序性记忆**和**情绪条件作用**。
+
+<!-- p76 -->
+**程序性记忆 - 技能与习惯。** 程序性记忆使我们无需思考就能执行任务-如驾驶、打字或演奏乐器。它很高效，能节省我们的心智能量和时间。然而，不良习惯和负面模式也会根深蒂固，难以打破。
+
+<!-- p77 -->
+**如何更新它：**
+
+<!-- p78 -->
+- **实行属灵操练** 如祷告和禁食，以建立敬虔的习惯 (<span class="x-scripture" data-book="HEB" data-chapter="5" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV" dir="ltr" style="text-align: left;">希伯来书 5:14</span>)。
+
+<!-- p79 -->
+- **操练敬虔** 通过重复与顺服 (<span class="x-scripture" data-book="1TI" data-chapter="4" data-lang="en" data-type="ref" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">提摩太前书 4:7</span>)。
+
