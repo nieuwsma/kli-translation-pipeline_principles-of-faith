@@ -204,3 +204,57 @@ Like Jesus، we will experience a bodily resurrection at the end of the age. Thi
 <!-- p59 -->
 #### *And the life everlasting. Amen.*
 
+<!-- p60 -->
+Eternal life with God is the supreme promise of the Christian faith. This life begins now through a relationship with Christ and will be fully realized in the new heavens and the new earth, where believers dwell with God forever (<span class="x-scripture" data-book="JHN" data-chapter="3" data-lang="en" data-type="ref" data-verses="16" data-version="NKJV" dir="ltr" style="text-align: left;">John 3:16</span>; <span class="x-scripture" data-book="REV" data-chapter="22" data-lang="en" data-type="ref" data-verses="1-5" data-version="NKJV" dir="ltr" style="text-align: left;">Revelation 22:1-5</span>). And this conclusion reflects the joy and confidence associated with salvation, and echoes the assurance and hope expressed in the entire Creed.
+
+<!-- p61 -->
+## Conclusion
+
+<!-- p62 -->
+In the foundational truths expressed in the Apostles' Creed, we see the life of Jesus and His work at the heart of God's plan for humanity. Every statement in the Creed captures key aspects of our faith in God, and who Jesus is-His divinity, His humanity, His mission, and His ultimate victory. These truths point to His unique role as mediator of the new covenant. As a mediator He invites us to draw near to God with confidence, relying on His perfect sacrifice and His continual intercession. And He calls us to worship Him as the rightful King and to follow His teachings as the supreme Prophet. In the end, the study of Jesus leads us into a deeper relationship with Him, transforming us into people who live in the light of His grace and truth.
+
+<!-- p63 -->
+Understanding who Jesus is and what He accomplished is the foundation of the Christian faith. The many names, titles, and roles of Jesus illuminate different aspects of His person and mission, presenting a more complete picture of His love and authority.
+
+<!-- p64 -->
+As in our study of God, the Scriptures are filled with diverse names that refer to Jesus. Each name represents a specific aspect of His person, His ministry, and His role as a whole. These names were given to us to reveal an aspect of Jesus. For your personal study I have included in the appendix a reference table: *Table 12 - The Names of Jesus.* Read these names and study the biblical references.
+
+<!-- p65 -->
+## Questions for Personal Reflection
+
+<!-- p66 -->
+1.  Which role of Jesus-prophet, priest, or king-resonates with you most at this stage of your faith journey? Why?
+
+<!-- p67 -->
+2.  How does the Apostles' Creed help you better understand the core truths of Jesus's message and work?
+
+<!-- p68 -->
+3.  Reflect on one of the names of Jesus (for example, Immanuel, Lamb of God, the Alpha, and the Omega). How does this name reveal His character and affect your relationship with Him?
+
+<!-- p69 -->
+4.  Reflect on Jesus's role as mediator of the new covenant. How does this truth shape your understanding of salvation and your approach to drawing near to God?
+
+<!-- p70 -->
+5.  In what ways do you see Jesus leading, interceding, or teaching you today? How can you respond to His work in these areas?
+
+<!-- p71 -->
+6.  If someone asked you to explain why Jesus is essential to your faith, what would you say? How could this understanding strengthen your personal testimony?
+
+<!-- p72 -->
+## Questions for Group Discussion (20-30 minutes)
+
+<!-- p73 -->
+1.  **Opening question:** What is one name or title of Jesus that has been especially meaningful to you? And why?
+
+<!-- p74 -->
+2.  **Exploring Scripture:** Read <span class="x-scripture" data-book="HEB" data-chapter="1" data-lang="en" data-type="ref" data-verses="1-3" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 1:1-3</span>. How does this passage describe Jesus's role as the supreme Prophet? How does this apply to us today?
+
+<!-- p75 -->
+3.  **Prophet, Priest, King:** What does it mean that Jesus fulfills all three roles? How do these roles meet humanity's greatest needs?
+
+<!-- p76 -->
+4.  **Our foundation:** What are practical ways we can build our lives on Jesus as the foundation of our faith? How can this affect our relationships or work or ministry?
+
+<!-- p77 -->
+5.  **What if:** Why is it important that Jesus fulfills the three roles-prophet, priest, and king? What would be lacking if one of these roles were missing?
+

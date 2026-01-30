@@ -254,3 +254,86 @@ When we receive Jesus by faith (to be discussed later), we receive His salvation
 <!-- p79 -->
 ### Born Again
 
+<!-- p80 -->
+<span class="x-scripture" data-book="2CO" data-chapter="5" data-lang="en" data-type="quote" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p81 -->
+> **<u>2 Corinthians 5:17</u>** (NKJV)
+>
+> Therefore, if anyone is in Christ, he is a new creation; old things have passed away; behold, all things have become new.
+>
+
+<!-- p82 -->
+</span>
+
+<!-- p83 -->
+When we receive Jesus, we are ‘born again’. This is the term Jesus used to describe a turning point, referring to being born of the Spirit (<span class="x-scripture" data-book="JHN" data-chapter="3" data-lang="en" data-type="ref" data-verses="1-15" data-version="NKJV" dir="ltr" style="text-align: left;">John 3:1-15</span>). This happens through faith - choosing to trust Him completely, like entering a marriage covenant, both from the heart and with our words.
+
+<!-- p84 -->
+<span class="x-scripture" data-book="ROM" data-chapter="10" data-lang="en" data-type="quote" data-verses="9-10" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p85 -->
+> **<u>Romans 10:9-10</u>** (NKJV)
+>
+> If you confess with your mouth the Lord Jesus and believe in your heart that God has raised Him from the dead, you will be saved.
+>
+> For with the heart one believes unto righteousness, and with the mouth confession is made unto salvation.
+>
+
+<!-- p86 -->
+</span>
+
+<!-- p87 -->
+When we are born on earth (born of flesh and of water), many things happen: we take our first breath and are declared alive, we are received by our parents, given a name, made heirs, provided for and protected, and continue to grow.
+
+<!-- p88 -->
+When we place our trust in Jesus and receive Him, we are born again, not of flesh but of the Spirit. We come alive in the spirit! Just as with physical birth, many things also accompany spiritual rebirth:
+
+<!-- p89 -->
+1.  When we have received Jesus, God wipes out our sins and declares us forgiven （**justification**）. He gives us a new start. The wall of separation between us and Him is removed. (<span class="x-scripture" data-book="TIT" data-chapter="3" data-lang="en" data-type="ref" data-verses="5" data-version="NKJV" dir="ltr" style="text-align: left;">Titus 3:5</span>)
+
+<!-- p90 -->
+2.  We are **born again** spiritually and receive the indwelling of the Holy Spirit. (<span class="x-scripture" data-book="1CO" data-chapter="6" data-lang="en" data-type="ref" data-verses="19" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 6:19</span>).
+
+<!-- p91 -->
+3.  We are **adopted** into God’s family and made heirs. (<span class="x-scripture" data-book="EPH" data-chapter="1" data-lang="en" data-type="ref" data-verses="5" data-version="NKJV" dir="ltr" style="text-align: left;">Ephesians 1:5</span>)
+
+<!-- p92 -->
+4.  We receive the source of spiritual nourishment and are given eternal protection. (<span class="x-scripture" data-book="1PE" data-chapter="2" data-lang="en" data-type="ref" data-verses="2" data-version="NKJV" dir="ltr" style="text-align: left;">1 Peter 2:2</span>)
+
+<!-- p93 -->
+## Personal Reflection Questions
+
+<!-- p94 -->
+1.  What does it mean to you that Jesus is anointed as Prophet, Priest, and King? How does this shape your understanding of His role in your life?
+
+<!-- p95 -->
+2.  In what ways has Jesus met your expectations of a Savior? Are there areas where He has exceeded your expectations?
+
+<!-- p96 -->
+3.  How does understanding Jesus’s mission as the Messiah challenge or deepen your faith?
+
+<!-- p97 -->
+4.  Reflect on your own “born again” experience. How has this new life in Christ given you purpose and hope?
+
+<!-- p98 -->
+5.  Jesus came to bring freedom and restoration. What areas of your life still need His touch, and how can you entrust them to Him today?
+
+<!-- p99 -->
+## Group Discussion Questions (20-30 minutes)
+
+<!-- p100 -->
+1.  **Icebreaker question：** *“Which title or role of Jesus is most meaningful to you in your life？”*
+
+<!-- p101 -->
+2.  **Explore the Scriptures：** *Read <span class="x-scripture" data-book="ISA" data-chapter="61" data-lang="en" data-type="ref" data-verses="1-3" data-version="NKJV" dir="ltr" style="text-align: left;">Isaiah 61:1-3</span> and <span class="x-scripture" data-book="LUK" data-chapter="4" data-lang="en" data-type="ref" data-verses="16-21" data-version="NKJV" dir="ltr" style="text-align: left;">Luke 4:16-21</span>。How did Jesus fulfill these prophecies？What does this mean for us today？*
+
+<!-- p102 -->
+3.  **The Messiah’s roles：** *Discuss how Jesus as Prophet, Priest, and King influences His mission. Why is it important that He fulfills these three roles？*
+
+<!-- p103 -->
+4.  **Personal application：** *In what practical ways can we embody Christ’s mission of freedom and restoration in our families, churches, and communities？*
+
+<!-- p104 -->
+5.  **New birth reflection：** *How does the concept of “rebirth” (<span class="x-scripture" data-book="JHN" data-chapter="3" data-lang="en" data-type="ref" data-verses="3-7" data-version="NKJV" dir="ltr" style="text-align: left;">John 3:3-7</span>) relate to Jesus’s mission as the Messiah？How does it shape our identity and purpose？*
+
