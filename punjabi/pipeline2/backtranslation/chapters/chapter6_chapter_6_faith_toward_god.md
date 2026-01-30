@@ -210,3 +210,169 @@ If we could only believe in what we have seen demonstrated, then Paul’s encour
 >
 > and the peace of God, which surpasses all understanding, will guard your hearts and minds through Christ Jesus.
 
+<!-- p65 -->
+</span>
+
+<!-- p66 -->
+If we cannot trust Him beyond what we have already seen, then how can the peace of God guard our hearts!?
+
+<!-- p67 -->
+<span class="x-scripture" data-book="2CO" data-chapter="5" data-lang="en" data-type="quote" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p68 -->
+> **<u>2 Corinthians 5:7</u>** (NKJV)
+>
+> For we walk by faith, not by sight.
+>
+
+<!-- p69 -->
+</span>
+
+<!-- p70 -->
+It is only by growing our relationship with God that we can go beyond those things we can naturally see or understand. Like the account of Abraham given in Romans:
+
+<!-- p71 -->
+<span class="x-scripture" data-book="ROM" data-chapter="4" data-lang="en" data-type="quote" data-verses="19-22" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p72 -->
+> **<u>Romans 4:19-22</u>** (NKJV)
+>
+> And not being weak in faith, he did not consider his own body, which, being about a hundred years old, was as good as dead, nor the deadness of Sarah's womb.
+>
+> He did not doubt the promise of God through unbelief, but was strengthened in faith, giving glory to God,
+>
+> and was fully convinced that what He had promised He was also able to perform.
+>
+> And therefore "it was accounted to him for righteousness."
+>
+
+<!-- p73 -->
+</span>
+
+<!-- p78 -->
+My relationship with my wife began when we started dating. As we got to know each other more deeply and built our relationship, we went from acquaintances to friends, then became romantic, and then reached the point where we wanted to commit to one another in marriage. Upon this rich history and commitment we are building a family and a life together. In the same way, our faith toward God should advance. We grow from knowing about God to knowing God, committing to Him (accepting His salvation), then building our lives on that relationship.
+
+<!-- p79 -->
+### Faith produces obedience and good works
+
+<!-- p80 -->
+Our trusting relationship with God is strengthened through obedience, resulting in good works! These works neither save us nor God's love-they are the natural result of a life rooted in Him.
+
+<!-- p81 -->
+Scripture shows the natural progression of faith. As we know God and experience His presence, we grow in our faith in Him. This faith moves us to act in ways that align with our faith, leading us to obey His commands. Our obedience produces good works, which bring a harvest of positive and beneficial outcomes.
+
+<!-- p82 -->
+Look again at this passage from Romans:
+
+<!-- p83 -->
+<span class="x-scripture" data-book="ROM" data-chapter="10" data-lang="en" data-type="quote" data-verses="16-17" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p84 -->
+> **<u>Romans 10:16-17</u>** (NKJV)
+>
+> But they have not all obeyed the gospel. For Isaiah says, "Lord, who has believed our report?"
+>
+> So then faith comes by hearing, and hearing by the word of God.
+>
+
+<!-- p85 -->
+</span>
+
+<!-- p86 -->
+Breaking this down in reverse order:
+
+<!-- p87 -->
+1. Hearing the word (rhema) of God produces faith (pistis)
+
+<!-- p88 -->
+2. Faith, which is a state of assurance or conviction, will produce the act of believing. Again, think of the person who believes that he can be debt-free and acts on it!
+
+<!-- p90 -->
+3.  The action of our faith is manifested in obedience.
+
+<!-- p91 -->
+The word for ‘obey’ is **hupakouō** (**hoop-ak-oo'-o**- G5219): **hupakouō** means *to listen under* (as a *subordinate*), that is, *to listen attentively*; by implication *to heed* or *to conform* to a command or authority: - to heed, to be obedient, to obey.
+
+<!-- p92 -->
+In a workplace environment, when a boss or supervisor is giving instructions, they are not “talking for the sake of talking,” but are giving directions they want their employees to follow.
+
+<!-- p93 -->
+When we truly hear God, it leads us to action—to trust in Him and obey. As Scripture says:
+
+<!-- p94 -->
+<span class="x-scripture" data-book="JAS" data-chapter="1" data-lang="en" data-type="quote" data-verses="22" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p95 -->
+> **<u>James 1:22</u>** (NKJV)
+>
+> But be doers of the word, and not hearers only, deceiving yourselves.
+>
+
+<!-- p96 -->
+</span>
+
+<!-- p97 -->
+Consider again the example of financial independence. A person in debt who longs to be free from this burden will seek financial counseling. The counselor will teach them the principles of financial freedom and help them create a budget. This counseling will produce (trust / faith) in them regarding what they must do to become debt-free. But trust is only the first step; to obtain the good fruit and blessing of being debt-free, the person must follow the principles learned through disciplined practice.
+
+<!-- p98 -->
+The book of James says that our faith must necessarily produce works! We already know what works are (for example, ‘dead’ works from <span class="x-scripture" data-book="HEB" data-chapter="6" data-lang="en" data-type="ref" data-verses="1" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 6:1</span>).
+
+<!-- p99 -->
+<span class="x-scripture" data-book="JAS" data-chapter="2" data-lang="en" data-type="quote" data-verses="14-20" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p100 -->
+> **<u>James 2:14-20</u>** (NKJV)
+>
+> What does it profit, my brethren, if someone says he has faith but does not have works? Can faith save him?
+>
+> If a brother or sister is naked and destitute of daily food,
+>
+> and one of you says to them, “Depart in peace, be warmed and filled,” but you do not give them the things which are needed for the body, what does it profit?
+>
+> Thus also faith by itself, if it does not have works, is dead.
+>
+> But someone will say, “You have faith, and I have works.” Show me your faith without your works, and I will show you my faith by my works.
+>
+> You believe that there is one God. You do well. Even the demons believe—and tremble!
+>
+> But do you want to know, O foolish man, that faith without works is dead?
+>
+
+<!-- p101 -->
+</span>
+
+<!-- p102 -->
+What stands out to you in that passage from James? For me, an important statement is that even the demons believe! Mere belief is not enough. Our faith must be elevated to the level of obedience. We are both required and willing to obey our risen Savior and Lord Jesus.
+
+<!-- p103 -->
+We do not obtain salvation through works! When we receive salvation (through faith) we do works! I will say it again: no matter how hard you work or how many sacrifices you make, you cannot earn your salvation; it is the free gift of God that we receive by faith!
+
+<!-- p104 -->
+The result of these works (obedience) is that they bring a good and beneficial harvest. The time it takes to receive the harvest or the measure of that harvest may vary, but it will produce a good harvest! (<span class="x-scripture" data-book="GEN" data-chapter="8" data-lang="en" data-type="ref" data-verses="22" data-version="NKJV" dir="ltr" style="text-align: left;">Genesis 8:22</span>).
+
+<!-- p105 -->
+Recalling our study about sin and sacrifices, we know that many of the sacrifices established in the Old Testament were for sin, so that a person could reconcile themselves to God or to their fellow man. Yet, there is a more desirable way!
+
+<!-- p106 -->
+<span class="x-scripture" data-book="1SA" data-chapter="15" data-lang="en" data-type="quote" data-verses="22" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+
+
+> **<u>1 Samuel 15:22</u>** (NKJV)
+>
+> So Samuel said: “Has the Lord as great delight in burnt offerings and sacrifices, as in obeying the voice of the Lord? Behold, to obey is better than sacrifice, and to heed than the fat of rams.
+>
+
+
+
+</span>
+
+<!-- p107 -->
+A consistent truth from the Old Testament is that obedience is better than sacrifice. It is better to properly carry out what we ought to do, rather than having to offer a sacrifice to make up for what we did not do right. Thank God that when we stray from the path, miss the mark (sin), and need to turn back to God, grace is available from God.
+
+<!-- p108 -->
+As we build our faith in God, it naturally produces obedience in us. This obedience is for our benefit and produces a good harvest. Returning to my personal example in this chapter, if I had not obeyed the word God spoke to me to *wait for Him*, I would not have experienced that blessing of peace or progress in that season!
+
+<!-- p109 -->
+### The benefits of obedience
+

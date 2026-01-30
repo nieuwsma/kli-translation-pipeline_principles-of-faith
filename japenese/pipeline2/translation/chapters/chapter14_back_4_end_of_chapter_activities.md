@@ -839,3 +839,63 @@
 <!-- p279 -->
 3.  **コミットメント (5分):**
 
+<!-- p280 -->
+- 参加者に、今週焦点を当てる**一つの霊的訓練**を選び、それを実行するための具体的な計画を書き留めてもらう。
+
+<!-- p281 -->
+- 例: *“毎朝15分、福音書の一節を読み、黙想する。”*
+
+<!-- p282 -->
+## *第7章 -* イエス-私たちの信仰の土台
+
+<!-- p283 -->
+### アクティビティ1: イエスの役割を探求する（グループ学習と適用）
+
+<!-- p284 -->
+#### 目的:
+
+<!-- p285 -->
+*イエスが**預言者、祭司、そして王**であること、そしてこれらの役割が私たちの信仰と日々の生活にどのように影響するかへの理解を深める。*
+
+<!-- p286 -->
+#### 手順:
+
+<!-- p287 -->
+1.  ***小グループに分かれる:** 各グループにイエスの一つの役割（預言者、祭司、王）を割り当てる。*
+
+<!-- p288 -->
+2.  ***聖書研究:***
+
+<!-- p289 -->
+- ***預言者:** <span class="x-scripture" data-book="DEU" data-chapter="18" data-lang="en" data-type="ref" data-verses="15-19" data-version="NKJV" dir="ltr" style="text-align: left;">申命記 18:15-19</span> と <span class="x-scripture" data-book="MAT" data-chapter="21" data-lang="en" data-type="ref" data-verses="11" data-version="NKJV" dir="ltr" style="text-align: left;">マタイの福音書 21:11</span> を読む。*
+
+<!-- p290 -->
+- ***祭司:** <span class="x-scripture" data-book="HEB" data-chapter="4" data-lang="en" data-type="ref" data-verses="14-16" data-version="NKJV" dir="ltr" style="text-align: left;">ヘブル人への手紙 4:14-16</span> と 10:11-14 を読む。*
+
+<!-- p291 -->
+- ***王:** <span class="x-scripture" data-book="PSA" data-chapter="2" data-lang="en" data-type="ref" data-verses="6-8" data-version="NKJV" dir="ltr" style="text-align: left;">詩篇 2:6-8</span> と <span class="x-scripture" data-book="REV" data-chapter="19" data-lang="en" data-type="ref" data-verses="16" data-version="NKJV" dir="ltr" style="text-align: left;">ヨハネの黙示録 19:16</span> を読む。*
+
+<!-- p292 -->
+3.  ***グループ課題:***
+
+<!-- p293 -->
+- *話し合う: この役割はイエスの使命とご性質について何を明らかにしているか?*
+
+<!-- p294 -->
+- *振り返る: この役割は今日のあなたの生活にどのように適用できるか?*
+
+<!-- p295 -->
+4.  ***まとめの共有:** 各グループが自分たちの役割と洞察を全体に発表する。*
+
+<!-- p296 -->
+### アクティビティ2: イエスの名（黙想と礼拝の演習）
+
+<!-- p297 -->
+#### 目的:
+
+<!-- p298 -->
+*参加者が、イエスのご性質と使命に、御名と称号を通して結び付くのを助ける。*
+
+<!-- p299 -->
+#### 手順:
+

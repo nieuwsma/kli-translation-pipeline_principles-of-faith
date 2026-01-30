@@ -244,3 +244,130 @@ Roles and responsibilities:
 <!-- p79 -->
 - **Promoting unity** - Addressing issues of fairness and care to prevent division (<span class="x-scripture" data-book="ACT" data-chapter="6" data-lang="en" data-type="ref" data-verses="1-7" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 6:1-7</span>).
 
+<!-- p80 -->
+- **Example of faith** - serves as an example in humility, faith, and service (<span class="x-scripture" data-book="1TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="13" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 3:13</span>).
+
+<!-- p81 -->
+Selection process (<span class="x-scripture" data-book="ACT" data-chapter="6" data-lang="en" data-type="ref" data-verses="1-6" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 6:1-6</span>):
+
+<!-- p82 -->
+- **Recognized by the congregation** - chosen based on their reputation and spiritual character.
+
+<!-- p83 -->
+- **Approved by the leaders** - the apostles review and, with prayer and the laying on of hands, appoint the selected deacons.
+
+<!-- p84 -->
+- **Confirmed in service** - before being officially appointed, deacons were first examined to prove their faithfulness (<span class="x-scripture" data-book="1TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 3:10</span>).
+
+<!-- p85 -->
+### Qualifications for leadership
+
+<!-- p86 -->
+#### Qualifications for both elders and deacons:
+
+<!-- p87 -->
+- Moral character - both must be above reproach, dignified, and self-controlled (<span class="x-scripture" data-book="1TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="2" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 3:2</span>, 8).
+
+<!-- p88 -->
+- Family life - both must be faithful in marriage (“husband of one wife”) and manage their own households well (<span class="x-scripture" data-book="1TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="4-5" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 3:4-5</span>, 12).
+
+<!-- p89 -->
+- Spiritual maturity - both must be tested and proven before appointment (<span class="x-scripture" data-book="1TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="6" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 3:6</span>, 10).
+
+<!-- p90 -->
+- Reputation - a good reputation is required both inside and outside the church (<span class="x-scripture" data-book="1TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 3:7</span>).
+
+<!-- p91 -->
+- Faith and integrity - both must hold the faith with a clear conscience and live according to their faith (<span class="x-scripture" data-book="1TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="9" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 3:9</span>).
+
+<!-- p92 -->
+### Illustrative framework
+
+<!-- p93 -->
+Using what we have learned so far about the rules and structures of leadership, let us look at two examples of church structure found in the New Testament—Jerusalem and Antioch.
+
+<!-- p94 -->
+### The church in Jerusalem
+
+<!-- p95 -->
+The church in Jerusalem was led primarily by the apostles, who focused on teaching, prayer, and spiritual oversight (<span class="x-scripture" data-book="ACT" data-chapter="2" data-lang="en" data-type="ref" data-verses="42" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 2:42</span>, <span class="x-scripture" data-book="ACT" data-chapter="6" data-lang="en" data-type="ref" data-verses="4" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 6:4</span>). As the community grew, the need for administrative structure became evident, especially to address practical matters such as caring for widows and distributing resources. This led to the appointment of deacons (<span class="x-scripture" data-book="ACT" data-chapter="6" data-lang="en" data-type="ref" data-verses="1-7" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 6:1-7</span>). Chosen for their spiritual maturity and good reputation, these individuals handled practical ministries so that the apostles could devote themselves to their spiritual responsibilities. Over time, elders also emerged as leaders in the Jerusalem church. For example, during the Jerusalem Council (Acts 15), both apostles and elders participated in decision-making, demonstrating a collaborative leadership structure.
+
+<!-- p96 -->
+### The church in Antioch
+
+<!-- p97 -->
+The leadership structure of the church in Antioch was more decentralized and diverse compared to Jerusalem. It was led by a group of prophets and teachers, including Barnabas, Saul (Paul), Simeon, Lucius, and Manaen (<span class="x-scripture" data-book="ACT" data-chapter="13" data-lang="en" data-type="ref" data-verses="1" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 13:1</span>). The church in Antioch was much more focused on reaching the Gentiles, whereas the church in Jerusalem more strongly reflected its Jewish roots. Although the New Testament does not explicitly mention deacons in Antioch, given the church’s growing size and its involvement in sending relief to Jerusalem, it seems there were practical roles (<span class="x-scripture" data-book="ACT" data-chapter="11" data-lang="en" data-type="ref" data-verses="29-30" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 11:29-30</span>). The church in Antioch became a model for appointing missionaries, where the leaders prayed, fasted, and laid hands on Saul and Barnabas before sending them out (<span class="x-scripture" data-book="ACT" data-chapter="13" data-lang="en" data-type="ref" data-verses="2-3" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 13:2-3</span>). This displays a structure that balanced spiritual oversight (prophets and teachers) with missionary effort and practical support.
+
+<!-- p98 -->
+In contrast to Paul’s corrections to the Corinthians and Galatians, Scripture does not criticize the leadership structures of Jerusalem or Antioch. This suggests that, under the guidance of the Holy Spirit, these churches were free to adapt their assemblies to their own needs and circumstances within the framework of sound doctrine and apostolic teaching (<span class="x-scripture" data-book="ACT" data-chapter="2" data-lang="en" data-type="ref" data-verses="42" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 2:42</span>, <span class="x-scripture" data-book="2TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="16-17" data-version="NKJV" dir="ltr" style="text-align: left;">2 Timothy 3:16-17</span>).
+
+<!-- p99 -->
+Throughout these sections, some terms have been used that we have not yet defined and studied: *apostle, prophet, evangelist*. These gifts are part of the fivefold ministry that Jesus has given to the church.
+
+<!-- p100 -->
+### The Fivefold Ministry Gifts
+
+<!-- p101 -->
+Jesus established five distinct ministry gifts, often called the fivefold ministry gifts, to equip believers for service and to build up the body of Christ.
+
+<!-- p102 -->
+<span class="x-scripture" data-book="EPH" data-chapter="4" data-lang="en" data-type="quote" data-verses="11-13" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p103 -->
+> **<u>Ephesians 4:11-13</u>** (NKJV)
+>
+> And He Himself gave some to be apostles, some prophets, some evangelists, and some pastors and teachers,
+>
+> for the equipping of the saints for the work of ministry, for the edifying of the body of Christ,
+>
+> till we all come to the unity of the faith and of the knowledge of the Son of God, to a perfect man, to the measure of the stature of the fullness of Christ;
+>
+
+<!-- p104 -->
+</span>
+
+<!-- p105 -->
+The five gifts given to equip the saints for the work of ministry are:
+
+<!-- p106 -->
+1.  **Apostles** - pioneering and visionary leaders who lay foundations, plant churches, and advance the kingdom of God (<span class="x-scripture" data-book="EPH" data-chapter="2" data-lang="en" data-type="ref" data-verses="20" data-version="NKJV" dir="ltr" style="text-align: left;">Ephesians 2:20</span>). Apostles model courage and faith, showing how to step into new territories and take spiritual initiative.
+
+<!-- p107 -->
+2.  **Prophets** - messengers and guides who declare God’s truth, bringing encouragement, edification, and direction (<span class="x-scripture" data-book="1CO" data-chapter="14" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 14:3</span>). Prophets inspire faith, call others into alignment with God’s word, and model dependence on hearing God’s voice.
+
+<!-- p108 -->
+3.  **Evangelists** - heralds of the gospel who focus on reaching the lost and effectively motivate others to share Christ (<span class="x-scripture" data-book="ACT" data-chapter="8" data-lang="en" data-type="ref" data-verses="5-8" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 8:5-8</span>). Evangelists train disciples to share their faith effectively, exemplify boldness in witnessing, and stir compassion for the lost.
+
+<!-- p109 -->
+4.  **Pastors (Shepherds)** - caregivers and nurturers who protect, guide, and provide spiritual oversight for the church (<span class="x-scripture" data-book="ACT" data-chapter="20" data-lang="en" data-type="ref" data-verses="28" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 20:28</span>). Pastors teach disciples the importance of community, caring for others, and the value of accountability within the body of Christ.
+
+<!-- p110 -->
+5.  **Teachers** - trainers and guides who clarify doctrine and help believers grow in understanding and applying God’s word (<span class="x-scripture" data-book="2TI" data-chapter="2" data-lang="en" data-type="ref" data-verses="15" data-version="NKJV" dir="ltr" style="text-align: left;">2 Timothy 2:15</span>). Teachers equip disciples to study Scripture deeply, apply it to daily life, and teach others effectively.
+
+<!-- p111 -->
+## Leadership vs. Gifts
+
+<!-- p112 -->
+A commonly misunderstood aspect of church leadership is the distinction between the authority and responsibility of leadership and specific gifts.
+
+<!-- p113 -->
+This confusion centers on our use of words like teacher, pastor, prophet, apostle, evangelist—these words are gifts. In the New Testament church there is no office of “apostle.” Some do the work of an apostle; some have the gift or calling of an apostle. Having the gift of an apostle does not give them authority or responsibility.
+
+<!-- p114 -->
+I am a skilled musician; I have played the saxophone for more than 20 years. I played all through school and college and semi-professionally over multiple summers while working on an evangelism team. Despite my skill, gifting, and ability as a saxophonist, I do not have the right to come to your church and stand on stage with the worship team.
+
+<!-- p115 -->
+Similarly, some are proficient in the gift of being a shepherd/pastor, but that does not make them the ‘THE PASTOR’ of the local church or make them ‘your’ pastor. The fivefold ministry gifts do not lead the church; leaders (elders and deacons) do. It is very common for leaders to have specific fivefold ministry gifts; but those gifts enhance their leadership; they do not create it. Likewise, it is common for individuals with fivefold gifts but who are still developing to desire to serve and lead, but God is interested first in character, then in gifts. We are all called to become mature, to be able to discern God’s word, to be filled with the Spirit, and to do good works.
+
+<!-- p116 -->
+Every leader and every gift must first be submitted to discipleship, being part of the body.
+
+<!-- p117 -->
+Jesus gave specific ministry gifts to equip the saints for the work of ministry. These are distinct from motivational gifts (discussed later in this chapter) or manifestation gifts (discussed in the chapter on baptisms). As disciples mature, the fivefold ministry gifts equip them for service, while elders and deacons provide oversight to ensure sound doctrine and practice.
+
+<!-- p118 -->
+## Your Role in the Congregation
+
+<!-- p119 -->
+Thus far in this chapter we have discussed church leadership and the key metaphors for the church. Let us consider, specifically based on the metaphor of *the body*—a marathon runner.
+
