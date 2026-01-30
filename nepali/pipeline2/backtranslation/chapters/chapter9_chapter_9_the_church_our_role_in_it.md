@@ -64,3 +64,63 @@ To help understand what the church is, the Scriptures give powerful images that 
 <!-- p19 -->
 ## Understanding the Church
 
+<!-- p20 -->
+There are some primary metaphorical images used to show the characteristics of the church:
+
+<!-- p21 -->
+1.  Body
+
+<!-- p22 -->
+2.  Bride
+
+<!-- p23 -->
+3.  Temple
+
+<!-- p24 -->
+4.  Family
+
+<!-- p25 -->
+5.  Flock
+
+<!-- p26 -->
+6.  Vine and branches
+
+<!-- p27 -->
+Each of these metaphors highlights a unique facet of the church; but together, they reveal the church’s identity as a unified and diverse community under the leadership of Christ.
+
+<!-- p28 -->
+### Body
+
+<!-- p29 -->
+The church is often described as the Body of Christ, which emphasizes its unity and diversity. Under Christ, the church functions as a living body where each believer plays a necessary and possibly different role. Every member is endowed with unique gifts and contributes to the health and mission of the body according to his or her own function. This image shows the mutual interdependence among believers, particularly that the body must be connected in order to function, and that our work is not competitive but cooperative. When each part works together, the body grows and flourishes in unity and love (<span class="x-scripture" data-book="1CO" data-chapter="12" data-lang="en" data-type="ref" data-verses="12-27" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 12:12-27</span>; <span class="x-scripture" data-book="EPH" data-chapter="4" data-lang="en" data-type="ref" data-verses="15-16" data-version="NKJV" dir="ltr" style="text-align: left;">Ephesians 4:15-16</span>; <span class="x-scripture" data-book="COL" data-chapter="1" data-lang="en" data-type="ref" data-verses="18" data-version="NKJV" dir="ltr" style="text-align: left;">Colossians 1:18</span>).
+
+<!-- p30 -->
+### Bride
+
+<!-- p31 -->
+The church is described as the Bride of Christ, which reflects the intimate and loving relationship with Jesus. Just as a bride is cherished and prepared for her husband, so the church is sanctified and purified by Christ’s sacrificial love. This metaphor encompasses the devotion and faithfulness expected of the church, as well as His deep affection for His people. This image also shows the final union between Christ and the church, celebrated at the marriage supper of the Lamb, where the church is presented in glory without spot or blemish (<span class="x-scripture" data-book="EPH" data-chapter="5" data-lang="en" data-type="ref" data-verses="25-27" data-version="NKJV" dir="ltr" style="text-align: left;">Ephesians 5:25-27</span>; <span class="x-scripture" data-book="REV" data-chapter="19" data-lang="en" data-type="ref" data-verses="7-9" data-version="NKJV" dir="ltr" style="text-align: left;">Revelation 19:7-9</span>; <span class="x-scripture" data-book="REV" data-chapter="21" data-lang="en" data-type="ref" data-verses="2" data-version="NKJV" dir="ltr" style="text-align: left;">Revelation 21:2</span>).
+
+<!-- p32 -->
+### Temple
+
+<!-- p33 -->
+The church is described as the **temple of God**, the dwelling place of His Spirit. Believers are portrayed as living stones being built together on the foundation of the apostles and prophets, with Christ Himself as the chief cornerstone. This sacred structure signifies God’s presence among His people and their role as a community of worship and prayer. The image of the temple underscores the vital aspect of holiness and the church’s collective purpose of glorifying God (<span class="x-scripture" data-book="1CO" data-chapter="3" data-lang="en" data-type="ref" data-verses="16-17" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 3:16-17</span>; <span class="x-scripture" data-book="EPH" data-chapter="2" data-lang="en" data-type="ref" data-verses="19-22" data-version="NKJV" dir="ltr" style="text-align: left;">Ephesians 2:19-22</span>; <span class="x-scripture" data-book="1PE" data-chapter="2" data-lang="en" data-type="ref" data-verses="4-5" data-version="NKJV" dir="ltr" style="text-align: left;">1 Peter 2:4-5</span>).
+
+<!-- p34 -->
+### Family
+
+<!-- p35 -->
+The church is described as the **family of God**, which emphasizes relational unity and care among its members. By the Spirit of adoption, believers are made children of God and members of His household. This familial image highlights the love, belonging, and shared inheritance believers have in Christ. It also reflects the call to treat one another with compassion and humility as brothers and sisters in God’s family (<span class="x-scripture" data-book="GAL" data-chapter="6" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">Galatians 6:10</span>; <span class="x-scripture" data-book="EPH" data-chapter="2" data-lang="en" data-type="ref" data-verses="19" data-version="NKJV" dir="ltr" style="text-align: left;">Ephesians 2:19</span>; <span class="x-scripture" data-book="ROM" data-chapter="8" data-lang="en" data-type="ref" data-verses="15-17" data-version="NKJV" dir="ltr" style="text-align: left;">Romans 8:15-17</span>). Likewise, through the image of family it portrays how members of the church become mature—that they are taught and nurtured by spiritual fathers and mothers (<span class="x-scripture" data-book="1TI" data-chapter="5" data-lang="en" data-type="ref" data-verses="1-2" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 5:1-2</span>), so that we might move from infants who drink the pure milk of the word to fully mature adults capable of eating the solid food of the word (Hebrews 5).
+
+<!-- p36 -->
+### Flock
+
+<!-- p37 -->
+The church is described as a **flock**—sheep under the care of Jesus, the Good Shepherd. This image expresses the church’s dependence on Christ for guidance, nurture, and protection. It also emphasizes the responsibility of church leaders to shepherd God’s flock faithfully as under-shepherds, following the example of Christ’s love and care. The image of the flock speaks of the close relationship, trust, and obedience between the great Shepherd and His sheep (<span class="x-scripture" data-book="JHN" data-chapter="10" data-lang="en" data-type="ref" data-verses="14-16" data-version="NKJV" dir="ltr" style="text-align: left;">John 10:14-16</span>; <span class="x-scripture" data-book="1PE" data-chapter="5" data-lang="en" data-type="ref" data-verses="2" data-version="NKJV" dir="ltr" style="text-align: left;">1 Peter 5:2</span>; <span class="x-scripture" data-book="ACT" data-chapter="20" data-lang="en" data-type="ref" data-verses="28" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 20:28</span>).
+
+<!-- p38 -->
+### Vine and branches
+
+<!-- p39 -->
+The church is described as the **vine and branches**, which depicts the essential relationship between believers and Christ. Jesus is the true vine, and believers are the branches who must abide in Him to bear fruit. This metaphor highlights dependence on Christ for spiritual vitality, growth, and fruitfulness. Apart from Him believers can do nothing, but by abiding in Him they glorify God and fulfill their purpose. Jesus will prune us so that more fruit may grow in our lives (<span class="x-scripture" data-book="JHN" data-chapter="15" data-lang="en" data-type="ref" data-verses="1-5" data-version="NKJV" dir="ltr" style="text-align: left;">John 15:1-5</span>).
+
