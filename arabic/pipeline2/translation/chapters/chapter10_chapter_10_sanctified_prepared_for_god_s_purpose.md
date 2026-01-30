@@ -283,3 +283,99 @@
 <!-- p79 -->
 - **تدرّب على التقوى** من خلال التكرار والطاعة (<span class="x-scripture" data-book="1TI" data-chapter="4" data-lang="en" data-type="ref" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">تيموثاوس الأولى 4:7</span>).
 
+<!-- p80 -->
+- **اقرأ كتبًا مثل** *"Atomic Habits" by James Clear* (عملي) و *"Spiritual Disciplines for the Christian Life" by Donald Whitney* (كتابي) لإرساء عادات تُكرم الله.
+
+<!-- p81 -->
+**التهيئة العاطفية - الارتباطات العاطفية.** تربط التهيئة العاطفية الإشارات الحسية (مثل الروائح أو الأصوات) بالمشاعر، مما يطلق استجابات قبل أن نعالجها بوعي. هذا النظام يحمينا لكنه قد يسبب أيضًا مخاوف غير عقلانية أو ردود فعل عاطفية عندما تكون التجارب الماضية سلبية.
+
+<!-- p82 -->
+**كيفية تجديدها:**
+
+<!-- p83 -->
+- **صلِّ من أجل الشفاء** من الجراح الماضية (<span class="x-scripture" data-book="ISA" data-chapter="41" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">إشعياء 41:10</span>).
+
+<!-- p84 -->
+- **مارس الغفران** وتحرر من المرارة (<span class="x-scripture" data-book="EPH" data-chapter="4" data-lang="en" data-type="ref" data-verses="31-32" data-version="NKJV" dir="ltr" style="text-align: left;">أفسس 4:31-32</span>).
+
+<!-- p85 -->
+- **استبدِل الخوف بوعود الله** (<span class="x-scripture" data-book="2TI" data-chapter="1" data-lang="en" data-type="ref" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">2 تيموثاوس 1:7</span>).
+
+<!-- p86 -->
+- **التماس الإرشاد من كتب مثل** *“Your Pain is Showing” by Larry F. Low, "The Bondage Breaker" by Neil T. Anderson*, “*Soul Care" by Rob Reimer* للتغلب على المُحفِّزات العاطفية.
+
+<!-- p87 -->
+#### **3. الذاكرة العاملة (الذاكرة قصيرة الأمد)**
+
+<!-- p88 -->
+**الغاية:** توفر تخزينًا مؤقتًا لحل المشكلات واتخاذ القرارات. تساعدنا على التركيز، واحتفاظ المعلومات لفترة وجيزة، ومعالجة المهام—مثل تذكّر التعليمات أو اتخاذ قرارات سريعة. وعلى الرغم من قوتها، فهي محدودة، وعُرضة للتشتت، وتتعرض لفرط الحمل بسهولة، خاصةً تحت الضغط.
+
+<!-- p89 -->
+**كيفية تجديدها:**
+
+<!-- p90 -->
+- **ركّز وتأمّل** في كلمة الله يوميًا (<span class="x-scripture" data-book="PSA" data-chapter="1" data-lang="en" data-type="ref" data-verses="2" data-version="NKJV" dir="ltr" style="text-align: left;">المزمور 1:2</span>).
+
+<!-- p91 -->
+- **جدّد أفكارك** من خلال التفكير المتعمَّد (<span class="x-scripture" data-book="ROM" data-chapter="12" data-lang="en" data-type="ref" data-verses="2" data-version="NKJV" dir="ltr" style="text-align: left;">رومية 12:2</span>).
+
+<!-- p92 -->
+- **مارس اليقظة الذهنية** وبسِّط الفوضى الذهنية (*"Habits of Grace" by David Mathis*).
+
+<!-- p93 -->
+- **اقرأ** *"The Celebration of Discipline" by Richard Foster* لصقل التركيز عبر الممارسات الروحية.
+
+<!-- p94 -->
+## الخاتمة
+
+<!-- p95 -->
+إن تجديد الذهن ليس حلاً سريعًا—إنه عملية تحول تدريجي تدوم مدى الحياة. لكل نظام من أنظمة الذاكرة دور في تشكيل طريقة تفكيرنا وشعورنا وتصرفاتنا. ومن خلال العمل المتعمَّد مع الروح القدس، وتطبيق الكتاب المقدس، وتطوير عادات تقيّة، يمكننا تدريب أذهاننا لتتوافق مع حق الله. سواءً كنا نعالج جراح الماضي، أو نتعلم عادات جديدة، أو نحافظ على التركيز في اللحظة، فقد وفّر الله كلًا من الأدوات الروحية والحكمة العملية لمساعدتنا على السير في التجديد والحرية (<span class="x-scripture" data-book="2CO" data-chapter="10" data-lang="en" data-type="ref" data-verses="5" data-version="NKJV" dir="ltr" style="text-align: left;">2 كورنثوس 10:5</span>).
+
+<!-- p96 -->
+عالمنا مليء بالمشكلات والضيقات والابتلاء. ومن خلال تجديد الذهن المنضبط، تتغيّر نفوسنا، ويمكننا أن نحيا حياة حرية لله مملوءة بثمر روحه (<span class="x-scripture" data-book="GAL" data-chapter="5" data-lang="en" data-type="ref" data-verses="22-25" data-version="NKJV" dir="ltr" style="text-align: left;">غلاطية 5:22-25</span>).
+
+<!-- p97 -->
+### شكر وتقدير
+
+<!-- p98 -->
+وصف أنظمة الذاكرة الوارد في هذا الفصل مُستعار من دراسة علم النفس: [<u>https://www.psypost.org/implicit-vs-explicit-memory-definition-examples-history/</u>](https://www.psypost.org/implicit-vs-explicit-memory-definition-examples-history/). قسم كيفية التجديد يأتي من مزيج من المصادر: الكتب المذكورة في هذا القسم، وقد قرأتُ عدةً منها، والباقي موصى به بشدة من قِبل ممارسين في المجال، بالإضافة إلى خبرتي الشخصية في تجديد ذهني، وعدة سنوات من الخبرة كراعٍ أساعد الناس على النمو شخصيًا عبر مواضع الألم في حياتهم. شكر خاص لـ Larry Low ([<u>www.larrylow.com</u>](http://www.larrylow.com)) على كل مساعدته في تعليمي كيفية تجديد ذهني ومساعدة الآخرين على تعلّم كيفية فعل ذلك!
+
+<!-- p99 -->
+## أسئلة للتأمل الشخصي
+
+<!-- p100 -->
+1.  ماذا يعني لك التقديس على الصعيد الشخصي؟ كيف ترى ذلك يتجلى في حياتك اليومية؟
+
+<!-- p101 -->
+2.  فكّر في وقت قام فيه الله بـ“تنقية” جانب من حياتك. ما كانت نتيجة هذه العملية، وكيف قرّبتك إليه؟
+
+<!-- p102 -->
+3.  تأمّل في فكرة “تجديد ذهنك”. ما أنماط الأفكار أو العادات المحددة التي قد يدعوك الله للتخلّي عنها أو تغييرها؟
+
+<!-- p103 -->
+4.  كيف يشجّعك النظر إلى التقديس على أنه شراكة مع الروح القدس خلال فترات النمو الصعبة أو البطيئة؟
+
+<!-- p104 -->
+5.  كيف يمكنك عمداً أن تفسح مجالاً لعمل الروح القدس في حياتك اليومية؟ ما الذي قد تحتاج إلى التخلّي عنه لتفعل ذلك؟
+
+<!-- p105 -->
+6.  أين تحتاج إلى تجديد اليوم؟ ابدأ بتحديد المجالات التي يشعر فيها ذهنك بأنه عالق وثق أن الله سيتمّم العمل الصالح الذي بدأه فيك (<span class="x-scripture" data-book="PHP" data-chapter="1" data-lang="en" data-type="ref" data-verses="6" data-version="NKJV" dir="ltr" style="text-align: left;">فيلبي 1:6</span>).
+
+<!-- p106 -->
+## أسئلة للنقاش الجماعي (20-30 دقيقة)
+
+<!-- p107 -->
+1.  **سؤال تمهيدي:** “ما المجال الواحد في حياتك الذي اختبرت فيه نمواً ملحوظاً منذ إيمانك بالمسيح؟”
+
+<!-- p108 -->
+2.  **استكشاف الكتاب المقدس:** اقرأ <span class="x-scripture" data-book="JHN" data-chapter="15" data-lang="en" data-type="ref" data-verses="1-5" data-version="NKJV" dir="ltr" style="text-align: left;">يوحنا 15:1-5</span>. كيف تساعدنا صورة التنقية وإتيان الثمر على فهم التقديس؟
+
+<!-- p109 -->
+3.  **تجديد الذهن:** ناقش <span class="x-scripture" data-book="ROM" data-chapter="12" data-lang="en" data-type="ref" data-verses="2" data-version="NKJV" dir="ltr" style="text-align: left;">رومية 12:2</span>. ماذا يعني “تجديد ذهنك”، وكيف يرتبط ذلك بالتقديس؟
+
+<!-- p110 -->
+4.  **دور الروح القدس:** كيف يمكّننا الروح القدس ويقودنا في عملية التقديس؟ كيف يمكننا أن نصير أكثر حساسية لقيادته؟
+
+<!-- p111 -->
+5.  **التشجيع في الرحلة:** ماذا تقول لشخص يشعر بالإحباط بسبب وتيرة التقديس؟ كيف يمكن أن نشجّع بعضنا بعضاً في هذه الرحلة؟
+
