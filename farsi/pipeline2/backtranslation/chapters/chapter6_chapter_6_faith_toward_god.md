@@ -508,3 +508,90 @@ In the life of every believer, it is very important to strengthen one's faith (t
 >
 > eternal life to those who by patient continuance in doing good seek for glory, honor, and immortality;
 
+<!-- p150 -->
+</span>
+
+<!-- p151 -->
+Each of those blessings is by the grace of God; we cannot obtain them, but we can walk in them through obedience to Him; obedience that is stirred and activated by our trusting relationship with Him.
+
+<!-- p152 -->
+### Practical steps for growing your faith
+
+<!-- p153 -->
+Walking with God is relational, but if you want good relationships, there are skills that must be learned. In earthly relationships, the skills that lead to strong and secure relationships are built on these:
+
+<!-- p154 -->
+- Open and free dialogue and communication
+
+<!-- p155 -->
+- Healthy conflict resolution
+
+<!-- p156 -->
+- Commitment
+
+<!-- p157 -->
+- Consistency
+
+<!-- p158 -->
+If you want a strong and dynamic relationship, you must show up consistently, reveal yourself (communicate) (our thoughts and feelings), accept the other (listen), and join with them! All these skills apply to our relationship with God as well.
+
+<!-- p159 -->
+Beyond the core relational skills, there are specific practices and disciplines that strengthen your relationship with God:
+
+<!-- p160 -->
+- **Build and maintain a prayer life; listen to God and communicate with Him.** Regular, heartfelt prayer is essential for a close relationship with God. Through prayer you can share your concerns, joys, and gratitude and ask for His guidance and strength. (*<span class="x-scripture" data-book="PHP" data-chapter="4" data-lang="en" data-type="ref" data-verses="6-7" data-version="NKJV" dir="ltr" style="text-align: left;">Philippians 4:6-7</span>*) Being sensitive to the voice of the Holy Spirit helps you discern God’s will, find wisdom in decisions, and grow in spiritual maturity. Set aside time for quiet reflection to hear His guidance. (*<span class="x-scripture" data-book="ROM" data-chapter="8" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV" dir="ltr" style="text-align: left;">Romans 8:14</span>*)
+
+<!-- p161 -->
+- **Set aside time for worship.** Worship is a powerful way to draw near to God and expresses love and reverence. Through praise, song, or quiet reflection, worship deepens your awareness of His presence. (*<span class="x-scripture" data-book="PSA" data-chapter="100" data-lang="en" data-type="ref" data-verses="2-4" data-version="NKJV" dir="ltr" style="text-align: left;">Psalm 100:2-4</span>*)
+
+<!-- p162 -->
+- **Read, study, and meditate on Scripture.** God’s Word reveals His character, promises, and instructions for life. Setting aside time to study Scripture helps you grow in faith, understanding, and spiritual resilience. (*<span class="x-scripture" data-book="2TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="16-17" data-version="NKJV" dir="ltr" style="text-align: left;">2 Timothy 3:16-17</span>*)
+
+<!-- p163 -->
+- **Obey His commands.** Obedience to God’s commands demonstrates your love, reverence, and trust for Him. Walking in obedience aligns your life with His purpose and brings blessing. (*<span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="en" data-type="ref" data-verses="15" data-version="NKJV" dir="ltr" style="text-align: left;">John 14:15</span>*)
+
+<!-- p164 -->
+- **Actively participate in and serve in a local church.** Engagement in the church community provides spiritual support, encouragement, and opportunities to serve others. Being involved helps create a sense of belonging and strengthens your commitment to God’s mission. (*<span class="x-scripture" data-book="HEB" data-chapter="10" data-lang="en" data-type="ref" data-verses="24-25" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 10:24-25</span>*)
+
+<!-- p165 -->
+- **Build relationships with other believers.** Fellowship with other Christians provides accountability, encouragement, and shared wisdom. These relationships enrich your faith journey and help you grow through mutual support. (*<span class="x-scripture" data-book="PRO" data-chapter="27" data-lang="en" data-type="ref" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">Proverbs 27:17</span>*)
+
+<!-- p166 -->
+‘Our faith toward God’ is not a one-time event for salvation, but a continual practice and relationship that supposed to cultivate our entire lives. The benefits of a trusting and beneficial relationship are incredibly numerous, but we must do the good work of fostering that trust and growth to see it thrive.
+
+<!-- p167 -->
+## Personal reflection questions
+
+<!-- p168 -->
+1.  What does faith personally mean to you? Over the course of this chapter, how has your understanding of faith grown?
+
+<!-- p169 -->
+2.  Reflect on the concepts of logos and rhema. Has there been a time in your life when a specific verse came alive for you and became a personal rhema word? How did this affect your faith?
+
+<!-- p170 -->
+3.  How does understanding faith as persuasion, not a mysterious force, shape your relationship with God?
+
+<!-- p171 -->
+4.  Obedience is described as the fruit of faith. Do you recall a time when your obedience to God deepened your trust in Him? What was the result?
+
+<!-- p172 -->
+5.  What practical steps can you take this week to cultivate your faith through prayer, Bible study, and fellowship?
+
+<!-- p173 -->
+## Group Discussion Questions *(20-30 minutes)*
+
+<!-- p174 -->
+1.  **Icebreaker Question:** «When you think of someone with great faith, who comes to mind and why?»
+
+<!-- p175 -->
+2.  **Exploring Scripture:** Read this <span class="x-scripture" data-book="ROM" data-chapter="10" data-lang="en" data-type="ref" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">Romans 10:17</span>. What does this verse teach us about how faith grows? How can we apply it in everyday life?
+
+<!-- p176 -->
+3.  **Faith in Action:** What does it mean that faith produces obedience? Share examples of how obedience has strengthened your faith or someone else’s faith journey.
+
+<!-- p177 -->
+4.  **Discussion about Logos and Rhema:** Examine the difference between Logos (the written word) and Rhema (the revealed word). How can we position ourselves to hear and receive Rhema words from God?
+
+<!-- p178 -->
+5.  **Nurturing Faith:** Discuss the practical disciplines of prayer, Bible study, and fellowship. Which discipline has been more effective in growing your faith, and why?
+
