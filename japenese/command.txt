@@ -1,0 +1,1 @@
+./scripts/translate_paragraphs.py --input-dir /Users/andnie01/repo/pers/principles-of-faith/english/chapters --output-dir /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/translation/chapters --source en --target ja --model gpt-5 --model-limits-path model_limits.json --expansion-factor 1.2 --max-batch-size 20
