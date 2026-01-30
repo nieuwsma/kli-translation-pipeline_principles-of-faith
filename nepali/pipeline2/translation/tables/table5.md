@@ -1,0 +1,39 @@
+<!-- p0 -->
+<table style="width:98%;">
+<colgroup>
+<col style="width: 37%" />
+<col style="width: 61%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="2"><h2 id="table-5---word-study-faith-toward-god">तालिका ५ - शब्द अध्ययन: “परमेश्वरतर्फ विश्वास”</h2></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p><strong>यूनानी</strong></p>
+<p>उच्चारण</p>
+<p><strong>Strong’s</strong></p></td>
+<td><strong>परिभाषा</strong></td>
+</tr>
+<tr>
+<td><p><strong>Pistis</strong></p>
+<p>PEES-tees</p>
+<p><strong>G4102</strong></p></td>
+<td>विश्वास; सम्झाइबेझाइ, भरोसा, मान्यता, आश्वासन, वा दृढ निश्चय</td>
+</tr>
+<tr>
+<td><p><strong>Epi</strong></p>
+<p>eh-PEE</p>
+<p><strong>G1909</strong></p></td>
+<td>तर्फ; दिशा, उद्देश्य, वा लक्ष्य जनाउने एक पूर्वसर्ग</td>
+</tr>
+<tr>
+<td><p><strong>theos</strong></p>
+<p>theh-OSS</p>
+<p><strong>G2316</strong></p></td>
+<td>परमेश्वर; सर्वोच्च सत्ता, सृष्टिकर्ता, र सबै कुराको शासक</td>
+</tr>
+</tbody>
+</table>
+
