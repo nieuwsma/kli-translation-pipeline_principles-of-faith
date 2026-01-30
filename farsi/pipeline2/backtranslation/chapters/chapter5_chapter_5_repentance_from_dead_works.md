@@ -341,3 +341,158 @@ Suffering is the endurance of pain - physical, emotional, mental, or spiritual -
 <!-- p99 -->
 Grief is a multifaceted emotional response to a significant personal loss, especially relational or existential.
 
+<!-- p100 -->
+Sorrow, pain, and grief are concepts close to one another. In our human condition we will experience all three; we can learn from all three and grow, but God does not bring death and destruction into our lives in order to teach us.
+
+<!-- p101 -->
+The Bible says every good and perfect gift is from above, from God (<span class="x-scripture" data-book="JAS" data-chapter="1" data-lang="en" data-type="ref" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">James 1:17</span>). He is a good Father who knows how to give good gifts to His children (<span class="x-scripture" data-book="MAT" data-chapter="7" data-lang="en" data-type="ref" data-verses="11" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 7:11</span>). Godly sorrow causes distress, but His discipline is just and loving. Just as a good father would not deliberately break his child's hand to 'teach a lesson,' God does not inflict disease or sickness on His children to instruct us.
+
+<!-- p102 -->
+### An example of worldly sorrow versus godly sorrow
+
+<!-- p103 -->
+A three-year-old boy was playing in the yard with his two-year-old sister. He was playing with a stick and deliberately hit her, which made her cry and left a red mark.
+
+<!-- p104 -->
+Their father, hearing the commotion, investigated, and when he learned what his son had done, he took the stick, broke it in two, and threw it away. He sent his son inside to think about what he had done and comforted his daughter.
+
+<!-- p105 -->
+When the father came inside to deal with his son, he saw that he was crying. When he asked why he was crying, the boy said, “Because you broke my stick.”
+
+<!-- p106 -->
+The father replied, “I am sad that you are more concerned about your stick than about your sister whom you hurt,” and sent him back to his room for further reflection.
+
+<!-- p107 -->
+A few minutes later his son came out and apologized. He said he was still sad, both because his father had broken his stick and because he had hit his sister.
+
+<!-- p108 -->
+**Progress!**
+
+<!-- p109 -->
+In this example, the boy experienced both worldly sorrow for his lost stick and, ultimately, godly sorrow for his sister who had been hurt.
+
+<!-- p110 -->
+Godly sorrow and the goodness of God are interconnected. God is a good Father who allows us to experience the consequences of our actions, yet still stands with us as we go through those consequences.
+
+<!-- p111 -->
+The relentless goodness of God—namely, that if we come to Him, He is willing to redeem us and restore us—is a positive factor in our path of repentance. His goodness is not that we continue in sin, but that despite our sin He opens a way for us to be redeemed and to experience His salvation.
+
+<!-- p112 -->
+<span class="x-scripture" data-book="ROM" data-chapter="2" data-lang="en" data-type="quote" data-verses="4" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+
+
+> **<u>Romans 2:4</u>** (NKJV)
+>
+> Or do you despise the riches of His goodness, forbearance, and longsuffering, not knowing that the goodness of God leads you to repentance?
+>
+
+
+
+</span>
+
+<!-- p113 -->
+Despite God's goodness, mercy, and grace, some do not repent and are not changed; they become trapped in a cycle of failure and pain. Conversely, for some, simply seeing an instance of sin and its consequence in another person's life is enough to change their thinking.
+
+<!-- p114 -->
+Human beings have a vast capacity for change; it is woven into the depths of our nature. Humans are highly adaptable; we can learn and grow and find better ways to do things. However, the capacity to change is not the same as the willingness or persuasion to change.
+
+<!-- p115 -->
+I do not know why some get stuck while others are so ready to change, but I can say that the entire process of change is, in fact, by the grace of God.
+
+<!-- p116 -->
+<span class="x-scripture" data-book="EPH" data-chapter="2" data-lang="en" data-type="quote" data-verses="8-10" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p117 -->
+> **<u>Ephesians 2:8-10</u>** (NKJV)
+>
+> For by grace you have been saved through faith, and that not of yourselves; it is the gift of God,
+>
+> not of works, lest anyone should boast.
+>
+> For we are His workmanship,
+
+<!-- p120 -->
+Repentance can be an entirely natural process, but repentance is also the work of the Spirit who calls us, opens our eyes to the truth, changes our hearts, and invites us to be transformed. <span class="x-scripture" data-book="GAL" data-chapter="6" data-lang="en" data-type="ref" data-verses="1" data-version="NKJV" dir="ltr" style="text-align: left;">Galatians 6:1</span> reminds us that some are ‘caught’ in a trespass (sin) and need help to be set free! That help comes in the form of mature men and women who, in a spirit of gentleness, restore us.
+
+<!-- p121 -->
+The Holy Spirit is the greatest agent of change a person can engage with, and this is supported by both Scripture and research. The research of “Lyons et al. (2010) found that up to 82% of clients who experienced a spiritual awakening during substance abuse treatment and recovery were completely abstinent at a one-year follow-up, compared to 55% of clients who had not experienced a spiritual awakening.” \[2\] While people can initiate and mediate change, when we walk with the Spirit of God, we can accomplish far more.
+
+<!-- p122 -->
+In our later studies on the Holy Spirit and on sanctification, we will look more deeply at how the Spirit calls people and transforms hearts. Let’s look at one of these examples: the story of King David and his pattern of repentance.
+
+<!-- p123 -->
+### David’s example of repentance
+
+<!-- p124 -->
+Perhaps no narrative in Scripture offers a richer example of repentance than the story of King David’s sin in 2 Samuel 11-12. The account begins when King David, instead of going to war, stays in Jerusalem and sees Bathsheba bathing. Although he knew that she was the wife of Uriah, one of his loyal soldiers, David sent for her and slept with her, which resulted in Bathsheba becoming pregnant.
+
+<!-- p125 -->
+To cover up his actions, David summoned Uriah from the battlefield, hoping that he would go to Bathsheba and appear to be the child’s father. But out of loyalty to his comrades, Uriah refused to go to his home to be with Bathsheba. Then David arranged for Uriah to be sent to the front lines, where he was ultimately killed in battle. After Uriah’s death, David hastily married Bathsheba to conceal the pregnancy.
+
+<!-- p126 -->
+The Lord was displeased with David’s actions and sent his prophet Nathan to confront him. When the prophet addressed him, David immediately confessed, “*I have sinned against the Lord*” (<span class="x-scripture" data-book="2SA" data-chapter="12" data-lang="en" data-type="ref" data-verses="13" data-version="NKJV" dir="ltr" style="text-align: left;">2 Samuel 12:13</span>). David did not try to justify his actions or make excuses. This confession was the first step in his repentance; a direct acknowledgment of his wrongdoing before God.
+
+<!-- p127 -->
+In Psalm 51, David’s words, “*For I acknowledge my transgressions, and my sin is always before me,*” show a full acceptance of responsibility for his actions. He grieves not only over the sin itself but also over how he had grieved God, saying, “*Against You, You only, have I sinned.*” David displayed a “*broken heart and a contrite spirit,*” which is an essential part of true repentance (<span class="x-scripture" data-book="PSA" data-chapter="51" data-lang="en" data-type="ref" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">Psalm 51:17</span>). This sorrow was not superficial; he deeply mourned the sin he had committed and the harm it had caused. This depth of remorse showed that he sought not only forgiveness but a transformed heart.
+
+<!-- p128 -->
+David asked of God: “*Create in me a clean heart, O God, and renew a steadfast spirit within me*” (<span class="x-scripture" data-book="PSA" data-chapter="51" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">Psalm 51:10</span>). He was seeking an inner transformation that would prevent the repetition of the same mistakes. Rather than merely apologizing, David asked God to purify him, saying, “*Wash me, and I shall be whiter than snow*” (<span class="x-scripture" data-book="PSA" data-chapter="51" data-lang="en" data-type="ref" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">Psalm 51:7</span>). He recognized that only God could cleanse his heart and restore his joy.
+
+<!-- p129 -->
+David’s longing for spiritual renewal shows a genuine commitment to walk in God’s ways from then on. His request for a “*willing spirit*” (<span class="x-scripture" data-book="PSA" data-chapter="51" data-lang="en" data-type="ref" data-verses="12" data-version="NKJV" dir="ltr" style="text-align: left;">Psalm 51:12</span>) reflects his hope to be aligned with God in every part of his life.
+
+<!-- p130 -->
+Although God put away David’s sin, the Lord struck the child and he became very ill. David fasted, prayed, and pleaded with God to spare the child, but when the child died, David accepted it (<span class="x-scripture" data-book="2SA" data-chapter="12" data-lang="en" data-type="ref" data-verses="15-23" data-version="NKJV" dir="ltr" style="text-align: left;">2 Samuel 12:15-23</span>).
+
+<!-- p131 -->
+In Psalm 51 we encounter a personal prayer of repentance and a public acknowledgment of his transgressions. David’s decision to write a petition for mercy, which produced one of the most enduring psalms in Scripture, shows his willingness to be transparent about his sin and God’s forgiveness. This psalm became a testimony of repentance and restoration for others to learn from and to memorialize his journey from sin to grace.
+
+<!-- p132 -->
+David’s journey of repentance was not merely about feeling sorry; it was a profound change in his heart and life. Through the confession, acceptance, and heart-level transformation recorded in Psalm 51, David left his sin as a lesson about God’s mercy, repentance, and the possibility of restoration, making his story one of the most significant examples of true repentance in Scripture.
+
+<!-- p133 -->
+## Personal Reflection Questions
+
+<!-- p134 -->
+1.  What are the “dead works” in your life? How can you identify areas that do not bring the abundant life that Christ promises?
+
+<!-- p135 -->
+2.  Reflect on the concept of repentance as a lifestyle. What steps can you take to keep repentance a daily practice?
+
+<!-- p136 -->
+3.  In what ways has God used “godly sorrow” to draw you closer to himself? How did it lead to positive change?
+
+<!-- p137 -->
+4.  Think of a time when the Holy Spirit revealed a truth to you that changed your outlook. What impact did that experience have on your actions and your faith?
+
+<!-- p138 -->
+5.  David’s repentance was marked by confession, acceptance, and transparency. Which of these aspects resonates with you, and how can you apply it to your walk with God? What stages of change did David go through?
+
+<!-- p139 -->
+## Group Discussion Questions (20-30 minutes)
+
+<!-- p140 -->
+1.  **Icebreaker question:** *“When you hear the word ‘repentance,’ what feelings or thoughts come to mind?”*
+
+<!-- p141 -->
+2.  **Exploring Scripture:** *Read <span class="x-scripture" data-book="2CO" data-chapter="7" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">2 Corinthians 7:10</span>. How does “godly sorrow” differ from worldly sorrow? Why is this distinction important?*
+
+<!-- p142 -->
+3.  **Dead works:** *Discuss the characteristics of “dead works” (e.g., ineffective, fruitless, lifeless). How can we avoid them or turn away from them in daily life?*
+
+<!-- p143 -->
+4.  **The role of the Holy Spirit:** *Read <span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="en" data-type="ref" data-verses="13" data-version="NKJV" dir="ltr" style="text-align: left;">John 16:13</span>. How does the Holy Spirit guide us in repentance and truth? Share personal experiences in which you felt the Holy Spirit was leading you to change.*
+
+<!-- p144 -->
+5.  **Practical repentance:** *What does the phrase “renew a steadfast spirit” that David prayed in <span class="x-scripture" data-book="PSA" data-chapter="51" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">Psalm 51:10</span> mean? How can we cultivate this in our own lives?*
+
+<!-- p145 -->
+## Resources
+
+<!-- p146 -->
+[1] - Behavior change with the ‘Stages of Change,’ PsychCentral.com, retrieved on 2025-01-11, [<u>https://psychcentral.com/lib/stages-of-change#how-it-works</u>](https://psychcentral.com/lib/stages-of-change#how-it-works)
+
+<!-- p147 -->
+[2] - Grim, B. J., & Grim, M. E. (2019). Belief, behavior, and belonging: How faith is essential in preventing substance abuse and recovering from it. *Journal of Religion and Health*, *58*(5), 1713-1750. <u><https: 10.1007="" doi.org="" s10943-019-00876-w=""> </https:></u>
+

@@ -326,3 +326,102 @@ Paul emphasized that spiritual gifts should be exercised decently and in order (
 <!-- p99 -->
 This order does not quench the Spirit, but ensures that the gifts operate in ways that honor God and benefit others.
 
+<!-- p100 -->
+The operation of spiritual gifts must always be grounded in love. Paul devotes an entire chapter (1 Corinthians 13) to explaining that without love, even the greatest spiritual gifts are meaningless. Love provides the motivation and the framework to use the gifts in ways that build others up rather than destroy them.
+
+<!-- p101 -->
+Furthermore, the gifts operate according to the will of the Spirit (<span class="x-scripture" data-book="1CO" data-chapter="12" data-lang="en" data-type="ref" data-verses="11" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 12:11</span>). They cannot be manufactured or controlled by human effort-they are sovereignly given and empowered by the Holy Spirit, often at moments of need or ministry. <span class="x-scripture" data-book="1CO" data-chapter="13" data-lang="en" data-type="ref" data-verses="8" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 13:8</span> says that eventually prophecy and tongues will cease. Theologically, people who believe that the gifts of the Holy Spirit have ceased are known as ‘Cessationists’. <span class="x-scripture" data-book="1CO" data-chapter="13" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 13:10</span> says “when the prefect \[Jesus\] comes, that desire which is in part will be caused to cease”. Since Jesus has not yet returned for His church, the gifts are still in operation on the earth.
+
+<!-- p102 -->
+It is crucial to recognize that the gifts of the Spirit must not be separated from the fruit of the Spirit (<span class="x-scripture" data-book="GAL" data-chapter="5" data-lang="en" data-type="ref" data-verses="22-23" data-version="NKJV" dir="ltr" style="text-align: left;">Galatians 5:22-23</span>). While the gifts demonstrate power, the fruit reveals character: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control.
+
+<!-- p103 -->
+- **Gifts without Fruit**: A believer may operate in gifts and still lack maturity or character, leading to pride, misuse, or harm.
+
+<!-- p104 -->
+- **Fruit without Gifts**: A believer may have godly character but lack the empowerment to minister effectively.
+
+<!-- p105 -->
+Both are necessary. The gifts equip believers for service. The fruit is a sign of their spiritual health (<span class="x-scripture" data-book="MAT" data-chapter="7" data-lang="en" data-type="ref" data-verses="16" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 7:16</span>) and provide a ‘pleasant flavor’ to those who consume it.
+
+<!-- p106 -->
+### Explaining the 9 manifestation gifts of the Holy Spirit
+
+<!-- p107 -->
+<span class="x-scripture" data-book="1CO" data-chapter="12" data-lang="en" data-type="ref" data-verses="8-10" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 12:8-10</span> lists the 9 manifestation gifts of the Holy Spirit:
+
+<!-- p108 -->
+1.  **Word of Wisdom** - Supernatural insight into God’s purposes or direction for a situation. Applies divine wisdom to complex problems or decisions (<span class="x-scripture" data-book="ACT" data-chapter="6" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 6:10</span>).
+
+<!-- p109 -->
+2.  **Word of Knowledge** - A supernatural revelation of information about a person, event, or circumstance that could not have been known naturally (<span class="x-scripture" data-book="JHN" data-chapter="4" data-lang="en" data-type="ref" data-verses="17-18" data-version="NKJV" dir="ltr" style="text-align: left;">John 4:17-18</span>).
+
+<!-- p110 -->
+3.  **Faith** - A supernatural ability to trust God for the miraculous, even in impossible situations. This gift inspires courage and confidence (<span class="x-scripture" data-book="ACT" data-chapter="3" data-lang="en" data-type="ref" data-verses="6-7" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 3:6-7</span>).
+
+<!-- p111 -->
+4.  **Gifts of Healing** - The supernatural power to heal physical, emotional, or spiritual ailments and restore wholeness (<span class="x-scripture" data-book="ACT" data-chapter="3" data-lang="en" data-type="ref" data-verses="6-8" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 3:6-8</span>, <span class="x-scripture" data-book="ACT" data-chapter="9" data-lang="en" data-type="ref" data-verses="17-18" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 9:17-18</span>).
+
+<!-- p112 -->
+5.  **Working of Miracles** - The ability to perform supernatural acts that defy natural laws, such as multiplying food or raising the dead (<span class="x-scripture" data-book="ACT" data-chapter="9" data-lang="en" data-type="ref" data-verses="40-41" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 9:40-41</span>, <span class="x-scripture" data-book="JHN" data-chapter="2" data-lang="en" data-type="ref" data-verses="9-11" data-version="NKJV" dir="ltr" style="text-align: left;">John 2:9-11</span>).
+
+<!-- p113 -->
+6.  **Prophecy** - Declaring God’s truth or will under the inspiration of the Holy Spirit. It should be encouraging, edifying, and comforting (<span class="x-scripture" data-book="1CO" data-chapter="14" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 14:3</span>).
+
+<!-- p114 -->
+7.  **Distinguishing (Discernment) Between Spirits** - The ability to discern whether a spiritual influence comes from God, the enemy, or human origin (<span class="x-scripture" data-book="ACT" data-chapter="16" data-lang="en" data-type="ref" data-verses="16-18" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 16:16-18</span>).
+
+<!-- p115 -->
+8.  **Various Kinds of Tongues** - Speaking in languages unknown to the speaker, often as an act of worship, prayer, or a sign to unbelievers (<span class="x-scripture" data-book="ACT" data-chapter="2" data-lang="en" data-type="ref" data-verses="4" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 2:4</span>, <span class="x-scripture" data-book="1CO" data-chapter="14" data-lang="en" data-type="ref" data-verses="22" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 14:22</span>).
+
+<!-- p116 -->
+9.  **Interpretation of Tongues** - The supernatural ability to interpret the message spoken in tongues so that the church may be edified (<span class="x-scripture" data-book="1CO" data-chapter="14" data-lang="en" data-type="ref" data-verses="27" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 14:27</span>).
+
+<!-- p117 -->
+Paul makes it clear that all the gifts are valuable and must work together for the common good of the church (<span class="x-scripture" data-book="1CO" data-chapter="12" data-lang="en" data-type="ref" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 12:7</span>). However, He also encourages believers to desire the greater gifts (<span class="x-scripture" data-book="1CO" data-chapter="12" data-lang="en" data-type="ref" data-verses="31" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 12:31</span>). The greater gifts are often interpreted as those that more directly edify the church, such as prophecy (<span class="x-scripture" data-book="1CO" data-chapter="14" data-lang="en" data-type="ref" data-verses="1-5" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 14:1-5</span>).
+
+<!-- p118 -->
+- Prophecy is especially emphasized because it strengthens, encourages, and comforts others (<span class="x-scripture" data-book="1CO" data-chapter="14" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 14:3</span>). Paul instructs believers to earnestly desire this gift, as it promotes clarity and understanding in the church.
+
+<!-- p119 -->
+- Gifts such as tongues are highly valued for personal edification and prayer (<span class="x-scripture" data-book="1CO" data-chapter="14" data-lang="en" data-type="ref" data-verses="4" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 14:4</span>), but Paul teaches that when giving a message in tongues to the Church one should pray for interpretation to ensure that they edify the church (<span class="x-scripture" data-book="1CO" data-chapter="14" data-lang="en" data-type="ref" data-verses="27-28" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 14:27-28</span>).
+
+<!-- p120 -->
+Although the Holy Spirit gives the gifts, we must yield and submit to the Holy Spirit to use them. As with muscles and talents, when we practice surrendering to the Holy Spirit to use His gifts, we become more confident and reliable in their use.
+
+<!-- p121 -->
+## Personal reflection questions
+
+<!-- p122 -->
+1.  How has your understanding of baptism changed after reading this chapter? What meaning does it have in your spiritual journey?
+
+<!-- p123 -->
+2.  The washings of the Old Covenant pointed to the need for an ultimate cleansing. How does understanding this deepen your appreciation of the work of Christ?
+
+<!-- p124 -->
+3.  Reflect on your own experience of water baptism or your expectation of receiving it. How does this act symbolize your identification with the death, burial, and resurrection of Christ?
+
+<!-- p125 -->
+4.  What does baptism in the Holy Spirit mean to you personally? How have you experienced or sought His empowerment in your life?
+
+<!-- p126 -->
+5.  How can the empowerment of the Holy Spirit help you live out your calling and serve others more effectively?
+
+<!-- p127 -->
+## Questions for group discussion (20-30 minutes)
+
+<!-- p128 -->
+1.  **Icebreaker question:** “What is the most memorable baptism service you have witnessed or experienced? Why was it significant?”
+
+<!-- p129 -->
+2.  **Exploring the washings of the Old and New Testaments:** What do the ceremonial washings of the Old Covenant teach us about holiness and our need for purification? How does Jesus fulfill these practices?
+
+<!-- p130 -->
+3.  **Water baptism:** Read <span class="x-scripture" data-book="ROM" data-chapter="6" data-lang="en" data-type="ref" data-verses="3-4" data-version="NKJV" dir="ltr" style="text-align: left;">Romans 6:3-4</span>. How does water baptism symbolize the believer’s union with Christ in His death and resurrection?
+
+<!-- p131 -->
+4.  **Baptism in the Holy Spirit:** Read <span class="x-scripture" data-book="ACT" data-chapter="1" data-lang="en" data-type="ref" data-verses="8" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 1:8</span> and 2:4. What is the purpose of baptism in the Holy Spirit, and how does it empower believers for ministry?
+
+<!-- p132 -->
+5.  **Practical application:** How can we, as a group or as individuals, encourage and support others to take steps of faith such as baptism or to seek the empowerment of the Spirit?
+
