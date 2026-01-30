@@ -124,3 +124,63 @@ The church is described as a **flock**—sheep under the care of Jesus, the Good
 <!-- p39 -->
 The church is described as the **vine and branches**, which depicts the essential relationship between believers and Christ. Jesus is the true vine, and believers are the branches who must abide in Him to bear fruit. This metaphor highlights dependence on Christ for spiritual vitality, growth, and fruitfulness. Apart from Him believers can do nothing, but by abiding in Him they glorify God and fulfill their purpose. Jesus will prune us so that more fruit may grow in our lives (<span class="x-scripture" data-book="JHN" data-chapter="15" data-lang="en" data-type="ref" data-verses="1-5" data-version="NKJV" dir="ltr" style="text-align: left;">John 15:1-5</span>).
 
+<!-- p40 -->
+## Roles of the Church
+
+<!-- p41 -->
+The mission of the Church, like the role of the Holy Spirit, can be understood from three dimensions: upward, inward, and outward, each reflecting a unique aspect of its calling in God's plan. These dimensions guide the Church to fulfill its role as a worshiping, spiritually edifying, and mission-oriented community.
+
+<!-- p42 -->
+### Upward: Worship and Glorifying God
+
+<!-- p43 -->
+The first purpose of the Church is to worship God and glorify Him. Corporate worship, where believers together exalt God, is the visible reflection of His glory and a response to His greatness. The psalmist says, “*Worship the Lord in the splendor of holiness; let all the earth tremble before Him*” (<span class="x-scripture" data-book="PSA" data-chapter="96" data-lang="en" data-type="ref" data-verses="9" data-version="NKJV" dir="ltr" style="text-align: left;">Psalm 96:9</span>). Beyond corporate worship, the Church is called to live a life of obedience and sacrifice, presenting their own bodies as “living sacrifices” as an act of spiritual worship (<span class="x-scripture" data-book="ROM" data-chapter="12" data-lang="en" data-type="ref" data-verses="1-2" data-version="NKJV" dir="ltr" style="text-align: left;">Romans 12:1-2</span>). This upward focus keeps the Church centered on the glorious majesty of God and aligns its priorities with His will.
+
+<!-- p44 -->
+### Inward: Building up the Body
+
+<!-- p45 -->
+The Great Commission commands us to “*teach them to obey*”; this command goes far beyond formal teaching methods like this book. The process of making disciples (discussed further in the chapter on discipleship) is to mold a follower into the likeness of discipline just as a parent raises their children. Good parents do not hand a five-year-old an encyclopedia and say, “Figure it out yourself!” Rather, they teach by showing, demonstrating, correcting, guiding, nurturing, loving, caring, and tending like a shepherd.
+
+<!-- p46 -->
+Parents love their children; they are members of the same body, they share the same blood, and therefore they sacrifice for them. As members of Christ’s body and family, we are parts of the same body; we partake of the same blood. The symbolism of the Lord’s Supper reminds us that through Christ’s sacrifice we are bound to one another. The act of the Lord’s Supper ought to be the focal point of unity, reminding us that we all need salvation and that deliverance comes only from God. In this unity we see that, apart from our Head Christ, no part of the body is greater than another.
+
+<!-- p47 -->
+### Outward: Reaching the World
+
+<!-- p48 -->
+The most familiar part of the Church’s mission extends outward to reach the world with the gospel. Jesus’ Great Commission calls His followers to proclaim the gospel to all nations and to make disciples (<span class="x-scripture" data-book="MAT" data-chapter="28" data-lang="en" data-type="ref" data-verses="19-20" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 28:19-20</span>). Empowered by the Holy Spirit, the Church must be His witnesses to the ends of the earth (<span class="x-scripture" data-book="ACT" data-chapter="1" data-lang="en" data-type="ref" data-verses="8" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 1:8</span>).
+
+<!-- p49 -->
+Jesus is the light of the world (<span class="x-scripture" data-book="JHN" data-chapter="8" data-lang="en" data-type="ref" data-verses="12" data-version="NKJV" dir="ltr" style="text-align: left;">John 8:12</span>). Light shines outward in all directions from its source. His light shines through His means of manifestation—the Word, His Spirit, and us, His body. We are the light of the world; our lives must project His light into our dark worlds and display good works that glorify God (<span class="x-scripture" data-book="MAT" data-chapter="5" data-lang="en" data-type="ref" data-verses="14-16" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 5:14-16</span>). Practically, this means the Church is called to advocate for justice and mercy of both spiritual and physical kinds. As James says, our pure worship is to care for the helpless, the orphan, and the widow (<span class="x-scripture" data-book="JAS" data-chapter="1" data-lang="en" data-type="ref" data-verses="27" data-version="NKJV" dir="ltr" style="text-align: left;">James 1:27</span>).
+
+<!-- p50 -->
+## Leadership of the Church
+
+<!-- p51 -->
+Across the entire Christian community there is great diversity of denominations, meetings, gatherings, and assemblies. There are very few universal rules for church leadership, but the ones that do exist are extremely important:
+
+<!-- p52 -->
+1.  Jesus is the sole head of the Church. All serve Him (<span class="x-scripture" data-book="COL" data-chapter="1" data-lang="en" data-type="ref" data-verses="18" data-version="NKJV" dir="ltr" style="text-align: left;">Colossians 1:18</span>).
+
+<!-- p53 -->
+2.  There are high standards for those who lead; they are worthy of double honor, because they will receive double judgment (<span class="x-scripture" data-book="1TI" data-chapter="5" data-lang="en" data-type="ref" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 5:17</span>).
+
+<!-- p54 -->
+2.1  They must be mature, not arrogant, responsible (<span class="x-scripture" data-book="1TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="1-13" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 3:1-13</span>, <span class="x-scripture" data-book="TIT" data-chapter="1" data-lang="en" data-type="ref" data-verses="5-9" data-version="NKJV" dir="ltr" style="text-align: left;">Titus 1:5-9</span>).
+
+<!-- p55 -->
+2.2.  They must be servants of all (<span class="x-scripture" data-book="MRK" data-chapter="10" data-lang="en" data-type="ref" data-verses="42-45" data-version="NKJV" dir="ltr" style="text-align: left;">Mark 10:42-45</span>).
+
+<!-- p56 -->
+2.3.  They must devote themselves to the word and prayer (<span class="x-scripture" data-book="ACT" data-chapter="6" data-lang="en" data-type="ref" data-verses="4" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 6:4</span>).
+
+<!-- p57 -->
+2.4.  They are the ones responsible for equipping the body for ministry.
+
+<!-- p58 -->
+3.  Among the members of the body, none is greater or lesser. The Scriptures supporting this are as follows:
+
+<!-- p59 -->
+3.1.  There must be no favoritism between rich and poor (James 2).
+
