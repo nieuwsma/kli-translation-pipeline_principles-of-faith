@@ -125,3 +125,30 @@ God will never put you down! Nor will He belittle you; rather, He builds you up.
 >
 > For I know the thoughts that I think toward you, says the LORD, thoughts of peace and not of evil, to give you a future and a hope.
 
+<!-- p40 -->
+</span>
+
+<!-- p41 -->
+Now, if God thinks good thoughts of peace, a future, and hope toward us, why would He speak otherwise? The answer is: He won’t, and He doesn’t! He leads us only upward and forward with great hope to grant us an expected future.
+
+<!-- p42 -->
+I hope this encourages you to “call on Him” and learn how to **hear His voice**. He has great things to tell you, but He needs your attentive ear before any of His good things can benefit you.
+
+<!-- p43 -->
+For more resources on hearing the voice of God, I invite you to visit [<u>www.LarryLow.com</u>](http://www.larrylow.com)
+
+<!-- p44 -->
+- This page has been left blank intentionally -
+
+<!-- p45 -->
+<img alt="The Logo of Andrew Nieuwsma" src="./media/media/image1.png" style="width:1.97222in;height:1.97222in"/>
+
+<!-- p46 -->
+Author’s Note <sub>-</sub>
+
+<!-- p47 -->
+Thank you for reading this book; I hope it will be a helpful resource in your journey. To stay in touch with me, please visit my website at [www.faithprinciples.org](http://www.faithprinciples.org)
+
+<!-- p48 -->
+-Andrew
+
