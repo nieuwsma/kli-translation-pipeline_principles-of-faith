@@ -967,3 +967,143 @@ HIGH      163
 MEDIUM     27
 LOW         4
 Name: count, dtype: int64
+🗂 Found 25 drift reports in /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters. Processing...
+
+Analyzing 6 flagged paragraphs in drift_report_chapter0_6_preface_vs_chapter0_6_preface.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:02,  2.42s/it]
+Explaining differences: 2it [00:04,  1.98s/it]
+Explaining differences: 3it [00:05,  1.85s/it]
+Explaining differences: 4it [00:07,  1.69s/it]
+Explaining differences: 5it [00:08,  1.67s/it]
+Explaining differences: 6it [00:10,  1.56s/it]
+Explaining differences: 6it [00:10,  1.70s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/explained/drift_report_chapter0_6_preface_vs_chapter0_6_preface_explained.csv
+📊 Summary: 6 analyzed | 1 changed | 0 failed to parse
+
+Analyzing 12 flagged paragraphs in drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.71s/it]
+Explaining differences: 2it [00:03,  1.69s/it]
+Explaining differences: 3it [00:05,  2.08s/it]
+Explaining differences: 4it [00:07,  1.99s/it]
+Explaining differences: 5it [00:09,  1.83s/it]
+Explaining differences: 6it [00:10,  1.69s/it]
+Explaining differences: 7it [00:12,  1.56s/it]
+Explaining differences: 8it [00:14,  1.71s/it]
+Explaining differences: 9it [00:16,  1.84s/it]
+Explaining differences: 10it [00:18,  1.90s/it]
+Explaining differences: 11it [00:20,  1.88s/it]
+Explaining differences: 12it [00:21,  1.78s/it]
+Explaining differences: 12it [00:21,  1.80s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/explained/drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works_explained.csv
+📊 Summary: 12 analyzed | 3 changed | 0 failed to parse
+
+ℹ️  No non-HIGH paragraphs in drift_report_chapter14_back_1_postscript_vs_chapter14_back_1_postscript.csv — skipping.
+Analyzing 22 flagged paragraphs in drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:02,  2.14s/it]
+Explaining differences: 2it [00:04,  2.12s/it]
+Explaining differences: 3it [00:06,  1.99s/it]
+Explaining differences: 4it [00:07,  1.83s/it]
+Explaining differences: 5it [00:09,  1.81s/it]
+Explaining differences: 6it [00:11,  1.81s/it]
+Explaining differences: 7it [00:13,  1.82s/it]
+Explaining differences: 8it [00:14,  1.78s/it]
+Explaining differences: 9it [00:16,  1.73s/it]
+Explaining differences: 10it [00:18,  1.79s/it]
+Explaining differences: 11it [00:20,  1.84s/it]
+Explaining differences: 12it [00:21,  1.77s/it]
+Explaining differences: 13it [00:24,  1.89s/it]
+Explaining differences: 14it [00:26,  1.94s/it]
+Explaining differences: 15it [00:28,  2.15s/it]
+Explaining differences: 16it [00:30,  2.16s/it]
+Explaining differences: 17it [00:33,  2.33s/it]
+Explaining differences: 18it [00:35,  2.18s/it]
+Explaining differences: 19it [00:37,  2.18s/it]
+Explaining differences: 20it [00:39,  2.20s/it]
+Explaining differences: 21it [00:41,  1.96s/it]
+Explaining differences: 22it [00:43,  2.03s/it]
+Explaining differences: 22it [00:43,  1.98s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/explained/drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption_explained.csv
+📊 Summary: 22 analyzed | 6 changed | 0 failed to parse
+
+Analyzing 21 flagged paragraphs in drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.84s/it]
+Explaining differences: 2it [00:03,  1.90s/it]
+Explaining differences: 3it [00:05,  1.89s/it]
+Explaining differences: 4it [00:07,  1.90s/it]
+Explaining differences: 5it [00:10,  2.20s/it]
+Explaining differences: 6it [00:11,  2.02s/it]
+Explaining differences: 7it [00:13,  1.99s/it]
+Explaining differences: 8it [00:16,  2.24s/it]
+Explaining differences: 9it [00:19,  2.32s/it]
+Explaining differences: 10it [00:20,  2.16s/it]
+Explaining differences: 11it [00:23,  2.28s/it]
+Explaining differences: 12it [00:25,  2.30s/it]
+Explaining differences: 13it [00:28,  2.36s/it]
+Explaining differences: 14it [00:31,  2.50s/it]
+Explaining differences: 15it [00:33,  2.37s/it]
+Explaining differences: 16it [00:35,  2.24s/it]
+Explaining differences: 17it [00:37,  2.24s/it]
+Explaining differences: 18it [00:39,  2.22s/it]
+Explaining differences: 19it [00:42,  2.51s/it]
+Explaining differences: 20it [00:45,  2.43s/it]
+Explaining differences: 21it [00:47,  2.36s/it]
+Explaining differences: 21it [00:47,  2.25s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/explained/drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah_explained.csv
+📊 Summary: 21 analyzed | 3 changed | 0 failed to parse
+
+Analyzing 4 flagged paragraphs in drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.94s/it]
+Explaining differences: 2it [00:04,  2.19s/it]
+Explaining differences: 3it [00:06,  2.13s/it]
+Explaining differences: 4it [00:08,  2.18s/it]
+Explaining differences: 4it [00:08,  2.16s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/explained/drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father_explained.csv
+📊 Summary: 4 analyzed | 1 changed | 0 failed to parse
+
+Analyzing 9 flagged paragraphs in drift_report_chapter11_chapter_11_baptisms_water_and_spirit_vs_chapter11_chapter_11_baptisms_water_and_spirit.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:02,  2.28s/it]
+Explaining differences: 2it [00:04,  2.24s/it]
+Explaining differences: 3it [00:06,  1.99s/it]
+Explaining differences: 4it [00:09,  2.52s/it]
+Explaining differences: 5it [00:14,  3.25s/it]
+Explaining differences: 6it [00:19,  3.86s/it]
+Explaining differences: 7it [00:22,  3.85s/it]
+Explaining differences: 8it [00:25,  3.34s/it]
+Explaining differences: 9it [00:30,  3.89s/it]
+Explaining differences: 9it [00:30,  3.37s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/explained/drift_report_chapter11_chapter_11_baptisms_water_and_spirit_vs_chapter11_chapter_11_baptisms_water_and_spirit_explained.csv
+📊 Summary: 9 analyzed | 4 changed | 0 failed to parse
+
+ℹ️  No non-HIGH paragraphs in drift_report_chapter0_4_list_of_tables_vs_chapter0_4_list_of_tables.csv — skipping.
+Analyzing 31 flagged paragraphs in drift_report_chapter9_chapter_9_the_church_our_role_in_it_vs_chapter9_chapter_9_the_church_our_role_in_it.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:02,  2.75s/it]
+Explaining differences: 2it [00:05,  2.88s/it]
+Explaining differences: 3it [00:08,  2.93s/it]
+Explaining differences: 4it [00:11,  2.70s/it]
+Explaining differences: 5it [00:13,  2.54s/it]
+Explaining differences: 6it [00:15,  2.37s/it]
+Explaining differences: 7it [00:17,  2.44s/it]
+Explaining differences: 8it [00:20,  2.48s/it]
+Explaining differences: 9it [00:23,  2.65s/it]
+Explaining differences: 10it [00:26,  2.72s/it]
+Explaining differences: 11it [00:30,  3.05s/it]
+Explaining differences: 12it [00:32,  2.87s/it]
+Explaining differences: 13it [00:35,  2.94s/it]
+Explaining differences: 14it [00:37,  2.73s/it]
+Explaining differences: 15it [00:39,  2.48s/it]
+Explaining differences: 16it [00:42,  2.42s/it]
+Explaining differences: 17it [00:44,  2.53s/it]
