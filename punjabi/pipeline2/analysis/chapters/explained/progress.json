@@ -73,5 +73,10 @@
     "drift_report": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/drift_report_chapter13_chapter_13_spiritual_authority_vs_chapter13_chapter_13_spiritual_authority.csv",
     "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/explained/drift_report_chapter13_chapter_13_spiritual_authority_vs_chapter13_chapter_13_spiritual_authority_explained.csv",
     "generated_at": "2026-01-30T16:32:04.222035"
+  },
+  "drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship_explained.csv": {
+    "drift_report": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship.csv",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/explained/drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship_explained.csv",
+    "generated_at": "2026-01-30T16:32:49.534651"
   }
 }
