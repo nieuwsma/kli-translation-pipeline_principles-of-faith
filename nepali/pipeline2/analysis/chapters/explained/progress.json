@@ -13,5 +13,15 @@
     "drift_report": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption.csv",
     "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/explained/drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption_explained.csv",
     "generated_at": "2026-01-30T15:59:20.175665"
+  },
+  "drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah_explained.csv": {
+    "drift_report": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah.csv",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/explained/drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah_explained.csv",
+    "generated_at": "2026-01-30T16:00:07.446891"
+  },
+  "drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father_explained.csv": {
+    "drift_report": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father.csv",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/explained/drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father_explained.csv",
+    "generated_at": "2026-01-30T16:00:16.087469"
   }
 }
