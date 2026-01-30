@@ -1266,3 +1266,150 @@ Explaining differences: 98it [02:58,  1.77s/it]
 Explaining differences: 99it [03:00,  1.70s/it]
 Explaining differences: 100it [03:02,  1.77s/it]
 Explaining differences: 101it [03:04,  1.80s/it]
+Explaining differences: 102it [03:05,  1.73s/it]
+Explaining differences: 103it [03:08,  1.89s/it]
+Explaining differences: 104it [03:09,  1.79s/it]
+Explaining differences: 105it [03:11,  1.72s/it]
+Explaining differences: 105it [03:11,  1.82s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/explained/drift_report_chapter14_back_4_end_of_chapter_activities_vs_chapter14_back_4_end_of_chapter_activities_explained.csv
+📊 Summary: 105 analyzed | 14 changed | 0 failed to parse
+
+Analyzing 3 flagged paragraphs in drift_report_chapter14_back_5_hearing_the_voice_of_god_vs_chapter14_back_5_hearing_the_voice_of_god.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.80s/it]
+Explaining differences: 2it [00:03,  1.77s/it]
+Explaining differences: 3it [00:05,  1.89s/it]
+Explaining differences: 3it [00:05,  1.86s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/explained/drift_report_chapter14_back_5_hearing_the_voice_of_god_vs_chapter14_back_5_hearing_the_voice_of_god_explained.csv
+📊 Summary: 3 analyzed | 0 changed | 0 failed to parse
+
+Analyzing 7 flagged paragraphs in drift_report_chapter14_chapter_14_keep_watch_vs_chapter14_chapter_14_keep_watch.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.61s/it]
+Explaining differences: 2it [00:03,  1.64s/it]
+Explaining differences: 3it [00:04,  1.55s/it]
+Explaining differences: 4it [00:06,  1.66s/it]
+Explaining differences: 5it [00:07,  1.58s/it]
+Explaining differences: 6it [00:09,  1.63s/it]
+Explaining differences: 7it [00:11,  1.67s/it]
+Explaining differences: 7it [00:11,  1.64s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/explained/drift_report_chapter14_chapter_14_keep_watch_vs_chapter14_chapter_14_keep_watch_explained.csv
+📊 Summary: 7 analyzed | 1 changed | 0 failed to parse
+
+ℹ️  No non-HIGH paragraphs in drift_report_chapter0_1_dedication_vs_chapter0_1_dedication.csv — skipping.
+Analyzing 3 flagged paragraphs in drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:02,  2.22s/it]
+Explaining differences: 2it [00:04,  2.05s/it]
+Explaining differences: 3it [00:05,  1.94s/it]
+Explaining differences: 3it [00:05,  1.99s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/explained/drift_report_chapter0_0_intro_vs_chapter0_0_intro_explained.csv
+📊 Summary: 3 analyzed | 1 changed | 0 failed to parse
+
+Analyzing 4 flagged paragraphs in drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.74s/it]
+Explaining differences: 2it [00:03,  1.80s/it]
+Explaining differences: 3it [00:05,  1.85s/it]
+Explaining differences: 4it [00:07,  1.97s/it]
+Explaining differences: 4it [00:07,  1.91s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/explained/drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith_explained.csv
+📊 Summary: 4 analyzed | 1 changed | 0 failed to parse
+
+Analyzing 12 flagged paragraphs in drift_report_chapter13_chapter_13_spiritual_authority_vs_chapter13_chapter_13_spiritual_authority.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.61s/it]
+Explaining differences: 2it [00:03,  2.00s/it]
+Explaining differences: 3it [00:05,  1.93s/it]
+Explaining differences: 4it [00:07,  1.83s/it]
+Explaining differences: 5it [00:09,  1.82s/it]
+Explaining differences: 6it [00:11,  1.91s/it]
+Explaining differences: 7it [00:13,  2.01s/it]
+Explaining differences: 8it [00:15,  2.12s/it]
+Explaining differences: 9it [00:18,  2.20s/it]
+Explaining differences: 10it [00:19,  2.05s/it]
+Explaining differences: 11it [00:22,  2.08s/it]
+Explaining differences: 12it [00:23,  2.01s/it]
+Explaining differences: 12it [00:23,  2.00s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/explained/drift_report_chapter13_chapter_13_spiritual_authority_vs_chapter13_chapter_13_spiritual_authority_explained.csv
+📊 Summary: 12 analyzed | 4 changed | 0 failed to parse
+
+Analyzing 21 flagged paragraphs in drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.80s/it]
+Explaining differences: 2it [00:04,  2.57s/it]
+Explaining differences: 3it [00:06,  2.27s/it]
+Explaining differences: 4it [00:11,  3.08s/it]
+Explaining differences: 5it [00:12,  2.64s/it]
+Explaining differences: 6it [00:15,  2.44s/it]
+Explaining differences: 7it [00:17,  2.34s/it]
+Explaining differences: 8it [00:19,  2.34s/it]
+Explaining differences: 9it [00:21,  2.30s/it]
+Explaining differences: 10it [00:23,  2.18s/it]
+Explaining differences: 11it [00:26,  2.33s/it]
+Explaining differences: 12it [00:28,  2.30s/it]
+Explaining differences: 13it [00:30,  2.13s/it]
+Explaining differences: 14it [00:32,  2.05s/it]
+Explaining differences: 15it [00:34,  2.13s/it]
+Explaining differences: 16it [00:36,  2.00s/it]
+Explaining differences: 17it [00:37,  1.95s/it]
+Explaining differences: 18it [00:39,  1.88s/it]
+Explaining differences: 19it [00:41,  1.87s/it]
+Explaining differences: 20it [00:43,  1.86s/it]
+Explaining differences: 21it [00:45,  1.88s/it]
+Explaining differences: 21it [00:45,  2.16s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/explained/drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship_explained.csv
+📊 Summary: 21 analyzed | 11 changed | 0 failed to parse
+
+ℹ️  No non-HIGH paragraphs in drift_report_chapter14_back_3_extended_reference_tables_vs_chapter14_back_3_extended_reference_tables.csv — skipping.
+ℹ️  No non-HIGH paragraphs in drift_report_chapter0_2_acknowledgements_vs_chapter0_2_acknowledgements.csv — skipping.
+Analyzing 17 flagged paragraphs in drift_report_chapter6_chapter_6_faith_toward_god_vs_chapter6_chapter_6_faith_toward_god.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.47s/it]
+Explaining differences: 2it [00:03,  1.66s/it]
+Explaining differences: 3it [00:05,  1.72s/it]
+Explaining differences: 4it [00:06,  1.72s/it]
+Explaining differences: 5it [00:08,  1.85s/it]
+Explaining differences: 6it [00:10,  1.92s/it]
+Explaining differences: 7it [00:13,  2.16s/it]
+Explaining differences: 8it [00:15,  2.03s/it]
+Explaining differences: 9it [00:18,  2.35s/it]
+Explaining differences: 10it [00:20,  2.17s/it]
+Explaining differences: 11it [00:21,  2.05s/it]
+Explaining differences: 12it [00:24,  2.16s/it]
+Explaining differences: 13it [00:25,  2.01s/it]
+Explaining differences: 14it [00:27,  1.85s/it]
+Explaining differences: 15it [00:29,  1.92s/it]
+Explaining differences: 16it [00:31,  1.99s/it]
+Explaining differences: 17it [00:33,  1.94s/it]
+Explaining differences: 17it [00:33,  1.97s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/explained/drift_report_chapter6_chapter_6_faith_toward_god_vs_chapter6_chapter_6_faith_toward_god_explained.csv
+📊 Summary: 17 analyzed | 4 changed | 0 failed to parse
+
+Analyzing 1 flagged paragraphs in drift_report_chapter0_5_foreword_vs_chapter0_5_foreword.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.83s/it]
+Explaining differences: 1it [00:01,  1.84s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/explained/drift_report_chapter0_5_foreword_vs_chapter0_5_foreword_explained.csv
+📊 Summary: 1 analyzed | 0 changed | 0 failed to parse
+
+Analyzing 4 flagged paragraphs in drift_report_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_vs_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.62s/it]
+Explaining differences: 2it [00:03,  1.64s/it]
+Explaining differences: 3it [00:04,  1.54s/it]
+Explaining differences: 4it [00:07,  2.02s/it]
+Explaining differences: 4it [00:07,  1.86s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/explained/drift_report_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_vs_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_explained.csv
+📊 Summary: 4 analyzed | 0 changed | 0 failed to parse
+
+🎉 All files processed.
