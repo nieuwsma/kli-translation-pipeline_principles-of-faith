@@ -1,0 +1,6 @@
+# Drift explanation generated 2026-01-30T00:17:31.246978
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/farsi/pipeline2/analysis/chapters/drift_report_chapter14_back_3_extended_reference_tables_vs_chapter14_back_3_extended_reference_tables.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"1","0.9142","MEDIUM","no","paraphrase","The phrases 'See' and 'View' are synonymous in this context, and both direct the reader to the same table without altering the original intent or meaning.","[See Table 10](../tables/table10.md)","[View Table 10](../tables/table10.md)"
+"2","0.9137","MEDIUM","no","paraphrase","The phrases 'See' and 'View' are synonymous in this context, and both direct the reader to the same table without altering the intent or meaning.","[See Table 11](../tables/table11.md)","[View Table 11](../tables/table11.md)"
+"4","0.9125","MEDIUM","no","paraphrase","The phrases 'See' and 'View' are synonymous in this context, and both direct the reader to the same table without altering the original intent or meaning.","[See Table 12](../tables/table12.md)","[View Table 12](../tables/table12.md)"

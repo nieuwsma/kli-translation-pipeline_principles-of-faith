@@ -1,0 +1,6 @@
+# Drift explanation generated 2026-01-30T00:16:11.622901
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/farsi/pipeline2/analysis/chapters/drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"5","0.886","MEDIUM","no","paraphrase","The back-translation maintains the same conceptual meaning as the original, simply updating the phrasing without altering the intent or doctrinal implications.","Foundations for Modern Believers","Foundations for Believers Today"
+"16","0.8346","LOW","no","paraphrase","The terms 'Version' and 'Edition' are synonymous in this context, and the numerical identifier remains unchanged, indicating no alteration in meaning.","Version ID: 20251222","Edition ID: 20251222"
+"19","0.8909","MEDIUM","no","paraphrase","The back-translation maintains the same meaning as the original, simply expanding the abbreviation 'AI' to its full form 'Artificial Intelligence' without altering the intent or doctrinal content.","**Use of AI**","**Use of Artificial Intelligence**"
