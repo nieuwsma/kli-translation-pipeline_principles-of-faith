@@ -304,3 +304,70 @@ Unlike Paul's rebukes to the Corinthians and Galatians, the Scriptures do not cr
 <!-- p99 -->
 Some terms have been used in these sections that we have not yet defined and studied: *apostles, prophets, evangelists*। These gifts are part of the fivefold ministry that Jesus gave to the church।
 
+<!-- p100 -->
+### The Fivefold Ministry Gifts
+
+<!-- p101 -->
+Jesus established five distinct ministry gifts to equip believers for service and to build up the body of Christ, often referred to as the **Fivefold Ministry Gifts**.
+
+<!-- p102 -->
+<span class="x-scripture" data-book="EPH" data-chapter="4" data-lang="en" data-type="quote" data-verses="11-13" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p103 -->
+> **<u>Ephesians 4:11-13</u>** (NKJV)
+>
+> And He Himself gave some to be apostles, some prophets, some evangelists, and some pastors and teachers,
+>
+> for the equipping of the saints for the work of ministry, for the edifying of the body of Christ,
+>
+> till we all come to the unity of the faith and of the knowledge of the Son of God, to a perfect man, to the measure of the stature of the fullness of Christ;
+>
+
+<!-- p104 -->
+</span>
+
+<!-- p105 -->
+The five gifts given to equip the saints for the work of ministry are:
+
+<!-- p106 -->
+1.  **Apostles** - pioneers and visionaries who lay foundations, plant churches, and advance the kingdom of God (<span class="x-scripture" data-book="EPH" data-chapter="2" data-lang="en" data-type="ref" data-verses="20" data-version="NKJV" dir="ltr" style="text-align: left;">Ephesians 2:20</span>). Apostles model courage and faith, showing how to step into new frontiers and take spiritual initiative.
+
+<!-- p107 -->
+2.  **Prophets** - messengers and guides who proclaim God’s truth, bringing encouragement, edification, and direction (<span class="x-scripture" data-book="1CO" data-chapter="14" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 14:3</span>). Prophets inspire faith, call others to align with God’s Word, and model dependence on hearing God’s voice.
+
+<!-- p108 -->
+3.  **Evangelists** - heralds of the gospel who focus on reaching the lost and mobilize others to action in sharing Christ (<span class="x-scripture" data-book="ACT" data-chapter="8" data-lang="en" data-type="ref" data-verses="5-8" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 8:5-8</span>). Evangelists train disciples to share their faith effectively, model boldness in witness, and stir compassion for the lost.
+
+<!-- p109 -->
+4.  **Pastors (shepherds)** - caregivers and nurturers who protect, guide, and provide spiritual oversight for the church (<span class="x-scripture" data-book="ACT" data-chapter="20" data-lang="en" data-type="ref" data-verses="28" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 20:28</span>). Pastors teach disciples the importance of community, caring for others, and accountability within the body of Christ.
+
+<!-- p110 -->
+5.  **Teachers** - instructors and trainers who clarify doctrine and help believers grow in understanding and applying God’s Word (<span class="x-scripture" data-book="2TI" data-chapter="2" data-lang="en" data-type="ref" data-verses="15" data-version="NKJV" dir="ltr" style="text-align: left;">2 Timothy 2:15</span>). Teachers equip disciples to study Scripture deeply, apply it in daily life, and teach others effectively.
+
+<!-- p111 -->
+## Leadership versus Gifts
+
+<!-- p112 -->
+A commonly misunderstood aspect of leadership in the church concerns the distinction between leadership authority and responsibility and specific gifts.
+
+<!-- p113 -->
+This confusion often arises because of the words we use—such as teacher, pastor, prophet, apostle, evangelist. These terms are gifts. There is no “office” of apostle in the New Testament church. There are people who do the work of an apostle, who have the gift or calling of an apostle. Having the gift of apostle does not confer authority or responsibility.
+
+<!-- p114 -->
+I am an accomplished musician; I have been playing the saxophone for more than twenty years. I played through school and college and also played semi-professionally for a few summers while working with an evangelistic team. Despite having the skill, gift, and ability to play the saxophone, I do not have the right to come into your church and stand on the platform with the worship team.
+
+<!-- p115 -->
+Likewise, some people are gifted as pastors/shepherds, but that neither makes them “the pastor” of a local church nor “your” pastor. The fivefold ministry gifts do not lead the church; leaders (elders and deacons) do. Often leaders have particular fivefold ministry gifts, but those gifts enhance their leadership; they do not constitute it. Similarly, it is common for people with fivefold gifts who are still developing to minister and to desire leadership, but God is interested first in character, then in gifts. Let us all be mature, able to discern God’s Word, filled with the Spirit, and doing good works.
+
+<!-- p116 -->
+Every leader and every gift must first be submitted to being a disciple and a part of the body.
+
+<!-- p117 -->
+Jesus gave specific ministry gifts to equip the saints for the work of ministry. These are different from the motivational gifts (discussed later in this chapter) or the manifestation gifts (discussed in the chapter on baptisms). As disciples grow, the fivefold ministry gifts equip them for ministry, while elders and deacons provide oversight to ensure sound doctrine and practice.
+
+<!-- p118 -->
+## Your Role in the Church
+
+<!-- p119 -->
+So far in this chapter we have covered church leadership and the primary metaphors for the church. Let us continue building on the specific metaphor of the “body” by considering a marathon runner.
+
