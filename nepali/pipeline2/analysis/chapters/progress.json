@@ -1,0 +1,50 @@
+{
+  "drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_0_intro.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/backtranslation/chapters/chapter0_0_intro.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv",
+    "generated_at": "2026-01-30T15:55:13.030959"
+  },
+  "drift_report_chapter0_1_dedication_vs_chapter0_1_dedication.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_1_dedication.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/backtranslation/chapters/chapter0_1_dedication.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/drift_report_chapter0_1_dedication_vs_chapter0_1_dedication.csv",
+    "generated_at": "2026-01-30T15:55:13.939411"
+  },
+  "drift_report_chapter0_2_acknowledgements_vs_chapter0_2_acknowledgements.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_2_acknowledgements.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/backtranslation/chapters/chapter0_2_acknowledgements.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/drift_report_chapter0_2_acknowledgements_vs_chapter0_2_acknowledgements.csv",
+    "generated_at": "2026-01-30T15:55:14.929196"
+  },
+  "drift_report_chapter0_3_table_of_contents_vs_chapter0_3_table_of_contents.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_3_table_of_contents.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/backtranslation/chapters/chapter0_3_table_of_contents.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/drift_report_chapter0_3_table_of_contents_vs_chapter0_3_table_of_contents.csv",
+    "generated_at": "2026-01-30T15:55:17.745091"
+  },
+  "drift_report_chapter0_4_list_of_tables_vs_chapter0_4_list_of_tables.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_4_list_of_tables.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/backtranslation/chapters/chapter0_4_list_of_tables.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/drift_report_chapter0_4_list_of_tables_vs_chapter0_4_list_of_tables.csv",
+    "generated_at": "2026-01-30T15:55:19.451477"
+  },
+  "drift_report_chapter0_5_foreword_vs_chapter0_5_foreword.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_5_foreword.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/backtranslation/chapters/chapter0_5_foreword.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/drift_report_chapter0_5_foreword_vs_chapter0_5_foreword.csv",
+    "generated_at": "2026-01-30T15:55:20.729424"
+  },
+  "drift_report_chapter0_6_preface_vs_chapter0_6_preface.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_6_preface.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/backtranslation/chapters/chapter0_6_preface.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/drift_report_chapter0_6_preface_vs_chapter0_6_preface.csv",
+    "generated_at": "2026-01-30T15:55:26.615864"
+  },
+  "drift_report_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_vs_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/backtranslation/chapters/chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/drift_report_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_vs_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.csv",
+    "generated_at": "2026-01-30T15:55:33.141513"
+  }
+}
