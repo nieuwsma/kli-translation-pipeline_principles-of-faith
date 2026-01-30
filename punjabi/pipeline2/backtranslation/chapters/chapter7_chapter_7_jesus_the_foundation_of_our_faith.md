@@ -144,3 +144,63 @@ This affirms Jesus' supernatural conception through the Holy Spirit, highlightin
 <!-- p39 -->
 Jesus was conceived by the seed of the Holy Spirit, and he did not inherit the sinful nature that we, born of the seed of man, possess. Jesus was tempted and tested in every way, yet he remained perfect and without sin. <span class="x-scripture" data-book="HEB" data-chapter="4" data-lang="en" data-type="ref" data-verses="15" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 4:15</span>, <span class="x-scripture" data-book="2CO" data-chapter="5" data-lang="en" data-type="ref" data-verses="21" data-version="NKJV" dir="ltr" style="text-align: left;">2 Corinthians 5:21</span>, <span class="x-scripture" data-book="1PE" data-chapter="2" data-lang="en" data-type="ref" data-verses="22" data-version="NKJV" dir="ltr" style="text-align: left;">1 Peter 2:22</span>.
 
+<!-- p40 -->
+#### *He suffered under Pontius Pilate, was crucified, died, and was buried.*
+
+<!-- p41 -->
+Jesus’ suffering and death were real, historical events that occurred under the governance of the Roman governor Pontius Pilate, rooting the Christian faith in verifiable history. His crucifixion was the fulfillment of Old Testament prophecies, such as <span class="x-scripture" data-book="ISA" data-chapter="53" data-lang="en" data-type="ref" data-verses="5" data-version="NKJV" dir="ltr" style="text-align: left;">Isaiah 53:5</span>, which speaks of the suffering servant who would bear the sins of many. Jesus’ death was sacrificial, taking upon himself the penalty of sin in humanity’s place (<span class="x-scripture" data-book="1PE" data-chapter="2" data-lang="en" data-type="ref" data-verses="24" data-version="NKJV" dir="ltr" style="text-align: left;">1 Peter 2:24</span>). His burial confirms the reality of his death and prepares for the significance of the resurrection.
+
+<!-- p42 -->
+#### *He descended to the dead.*
+
+<!-- p43 -->
+After his death, Jesus descended into the realm of the dead, which Scripture often calls *Hades* or *Sheol*. This act shows his full solidarity with humanity, even in death, and signals his victory over sin, death, and Satan (<span class="x-scripture" data-book="1PE" data-chapter="3" data-lang="en" data-type="ref" data-verses="18-20" data-version="NKJV" dir="ltr" style="text-align: left;">1 Peter 3:18-20</span>). In descending, he proclaimed his triumph and the completion of his redemptive work.
+
+<!-- p44 -->
+#### *On the third day he rose again.*
+
+<!-- p45 -->
+Jesus’ resurrection is the cornerstone of our Christian faith, confirming his divinity and the truth of his teachings. Rising from the dead, he triumphed over sin and death, providing believers with the sure assurance of eternal life (<span class="x-scripture" data-book="1CO" data-chapter="15" data-lang="en" data-type="ref" data-verses="17-22" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 15:17-22</span>). The resurrection is also the fulfillment of Scripture, including Jesus’ own prophecies (<span class="x-scripture" data-book="MAT" data-chapter="16" data-lang="en" data-type="ref" data-verses="21" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 16:21</span>). This astonishing event turned the disciples’ despair into bold faith, which became the foundation of the early church’s testimony.
+
+<!-- p46 -->
+#### *He ascended into heaven, and is seated at the right hand of the Father.*
+
+<!-- p47 -->
+Jesus’ ascension signifies his return to the Father’s presence in glory. Seated at the Father’s right hand (<span class="x-scripture" data-book="EPH" data-chapter="1" data-lang="en" data-type="ref" data-verses="20" data-version="NKJV" dir="ltr" style="text-align: left;">Ephesians 1:20</span>), he serves as our eternal High Priest, interceding for believers (<span class="x-scripture" data-book="HEB" data-chapter="7" data-lang="en" data-type="ref" data-verses="25" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 7:25</span>). His position of authority also indicates his exaltation as King, who reigns over all creation and directs the church’s mission (<span class="x-scripture" data-book="EPH" data-chapter="1" data-lang="en" data-type="ref" data-verses="22" data-version="NKJV" dir="ltr" style="text-align: left;">Ephesians 1:22</span>) to do greater works (<span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="en" data-type="ref" data-verses="12" data-version="NKJV" dir="ltr" style="text-align: left;">John 14:12</span>) and to fulfill the Great Commission he gave us (<span class="x-scripture" data-book="MAT" data-chapter="28" data-lang="en" data-type="ref" data-verses="18-20" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 28:18-20</span>, <span class="x-scripture" data-book="MRK" data-chapter="16" data-lang="en" data-type="ref" data-verses="15-18" data-version="NKJV" dir="ltr" style="text-align: left;">Mark 16:15-18</span>). The ascension assures believers of his ongoing presence and power through the Holy Spirit.
+
+<!-- p48 -->
+#### *He will come again to judge the living and the dead.*
+
+<!-- p49 -->
+This points to Christ’s future return when he will bring final judgment and restoration. Jesus will judge all people, rewarding the faithful and bringing justice for the unrepentant (<span class="x-scripture" data-book="2TI" data-chapter="4" data-lang="en" data-type="ref" data-verses="1" data-version="NKJV" dir="ltr" style="text-align: left;">2 Timothy 4:1</span>). His return will fulfill God’s ultimate plan for creation, establishing his eternal, righteous, and peace-filled kingdom. This hope encourages believers to live faithfully and with expectation, knowing that their labor in the Lord is not in vain (<span class="x-scripture" data-book="1CO" data-chapter="15" data-lang="en" data-type="ref" data-verses="58" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 15:58</span>).
+
+<!-- p50 -->
+#### *I believe in the Holy Spirit.*
+
+<!-- p51 -->
+The Holy Spirit, the third person of the triune God, is God’s active presence and power in the world today. He convicts concerning sin, brings new birth to hearts, and empowers believers to live holy lives (<span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="en" data-type="ref" data-verses="8-13" data-version="NKJV" dir="ltr" style="text-align: left;">John 16:8-13</span>). The Spirit unites Christians as one body—the church—and equips them with spiritual gifts for service (<span class="x-scripture" data-book="1CO" data-chapter="12" data-lang="en" data-type="ref" data-verses="4-11" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 12:4-11</span>). He is the Comforter, Advocate, and Guide, indwelling believers as the seal of their eternal inheritance (<span class="x-scripture" data-book="EPH" data-chapter="1" data-lang="en" data-type="ref" data-verses="13-14" data-version="NKJV" dir="ltr" style="text-align: left;">Ephesians 1:13-14</span>).
+
+<!-- p52 -->
+#### *The holy catholic Church, the communion of saints.*
+
+<!-- p53 -->
+"The holy catholic Church" means the worldwide body of Christ, encompassing all believers across time and place. The church is set apart for God’s purposes, called to reflect his holiness and to share the gospel. "Communion of saints" emphasizes the unity of all Christians—living and dead—as members of the body of Christ (<span class="x-scripture" data-book="EPH" data-chapter="4" data-lang="en" data-type="ref" data-verses="4-6" data-version="NKJV" dir="ltr" style="text-align: left;">Ephesians 4:4-6</span>). This fellowship rises above earthly divisions, reflecting the shared hope and mission of believers.
+
+<!-- p54 -->
+Jesus is the head of the church. The church is described both as the bride of Christ (<span class="x-scripture" data-book="EPH" data-chapter="5" data-lang="en" data-type="ref" data-verses="25-27" data-version="NKJV" dir="ltr" style="text-align: left;">Ephesians 5:25-27</span>) and the body of Christ (<span class="x-scripture" data-book="COL" data-chapter="1" data-lang="en" data-type="ref" data-verses="18" data-version="NKJV" dir="ltr" style="text-align: left;">Colossians 1:18</span>).
+
+<!-- p55 -->
+#### *The forgiveness of sins.*
+
+<!-- p56 -->
+This highlights the heart of the gospel: through Jesus’ sacrificial death, God offers full forgiveness of sins to all who repent and believe (<span class="x-scripture" data-book="EPH" data-chapter="1" data-lang="en" data-type="ref" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">Ephesians 1:7</span>). This forgiveness restores the broken relationship between humanity and God, removing guilt and shame. It also calls believers to extend forgiveness to others, reflecting the grace they have received (<span class="x-scripture" data-book="MAT" data-chapter="6" data-lang="en" data-type="ref" data-verses="14-15" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 6:14-15</span>).
+
+<!-- p57 -->
+#### *The resurrection of the body.*
+
+<!-- p58 -->
+Like Jesus, at the end of time we too will experience a bodily resurrection. This resurrection will transform perishable, mortal bodies into glorified, imperishable bodies fit for eternal life (<span class="x-scripture" data-book="1CO" data-chapter="15" data-lang="en" data-type="ref" data-verses="42-44" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 15:42-44</span>). It underscores the Christian hope of restoration not only for individuals but for all creation, as God makes all things new (<span class="x-scripture" data-book="REV" data-chapter="21" data-lang="en" data-type="ref" data-verses="4-5" data-version="NKJV" dir="ltr" style="text-align: left;">Revelation 21:4-5</span>).
+
+<!-- p59 -->
+#### *And the life everlasting. Amen.*
+
