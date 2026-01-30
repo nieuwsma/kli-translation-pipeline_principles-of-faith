@@ -118,5 +118,23 @@
     "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/backtranslation/chapters/chapter4_chapter_4_jesus_the_messiah.md",
     "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah.csv",
     "generated_at": "2026-01-30T15:57:16.716323"
+  },
+  "drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter5_chapter_5_repentance_from_dead_works.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/backtranslation/chapters/chapter5_chapter_5_repentance_from_dead_works.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works.csv",
+    "generated_at": "2026-01-30T15:57:26.429356"
+  },
+  "drift_report_chapter6_chapter_6_faith_toward_god_vs_chapter6_chapter_6_faith_toward_god.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter6_chapter_6_faith_toward_god.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/backtranslation/chapters/chapter6_chapter_6_faith_toward_god.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/drift_report_chapter6_chapter_6_faith_toward_god_vs_chapter6_chapter_6_faith_toward_god.csv",
+    "generated_at": "2026-01-30T15:57:38.270775"
+  },
+  "drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/backtranslation/chapters/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/nepali/pipeline2/analysis/chapters/drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith.csv",
+    "generated_at": "2026-01-30T15:57:45.974837"
   }
 }
