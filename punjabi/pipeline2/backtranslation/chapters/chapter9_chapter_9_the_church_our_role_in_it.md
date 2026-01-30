@@ -244,3 +244,63 @@ Roles and responsibilities:
 <!-- p79 -->
 - **Promoting unity** - Addressing issues of fairness and care to prevent division (<span class="x-scripture" data-book="ACT" data-chapter="6" data-lang="en" data-type="ref" data-verses="1-7" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 6:1-7</span>).
 
+<!-- p80 -->
+- **Examples of faith** - become examples in humility, faith, and service (<span class="x-scripture" data-book="1TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="13" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 3:13</span>).
+
+<!-- p81 -->
+Selection process (<span class="x-scripture" data-book="ACT" data-chapter="6" data-lang="en" data-type="ref" data-verses="1-6" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 6:1-6</span>):
+
+<!-- p82 -->
+- **Identified by the congregation** - chosen on the basis of their reputation and spiritual character।
+
+<!-- p83 -->
+- **Approved by the leaders** - the apostles examined the chosen deacons through prayer and the laying on of hands and appointed them।
+
+<!-- p84 -->
+- **Confirmation in service** - the deacons were first tested to prove their faithfulness before official appointment (<span class="x-scripture" data-book="1TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 3:10</span>)।
+
+<!-- p85 -->
+### Qualifications for leadership
+
+<!-- p86 -->
+#### Qualifications for both elders and deacons:
+
+<!-- p87 -->
+- Moral character - both should be above reproach, respectable, and exhibiting self-control (<span class="x-scripture" data-book="1TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="2" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 3:2</span>, 8)。
+
+<!-- p88 -->
+- Family life - both should be faithful in marriage (“husband of one wife”) and should manage their household well (<span class="x-scripture" data-book="1TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="4-5" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 3:4-5</span>, 12)。
+
+<!-- p89 -->
+- Spiritual maturity - both should be tested and proven before appointment (<span class="x-scripture" data-book="1TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="6" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 3:6</span>, 10)。
+
+<!-- p90 -->
+- Reputation - both should have a good reputation inside and outside the church (<span class="x-scripture" data-book="1TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 3:7</span>)।
+
+<!-- p91 -->
+- Faith and integrity - both should hold the faith with a clear conscience and live out their faith (<span class="x-scripture" data-book="1TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="9" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 3:9</span>)।
+
+<!-- p92 -->
+### Illustrative frameworks
+
+<!-- p93 -->
+Based on what we have learned so far about the rules and structures for leadership, let us look at two examples of church organization found in the New Testament: Jerusalem and Antioch।
+
+<!-- p94 -->
+### The church in Jerusalem
+
+<!-- p95 -->
+The church in Jerusalem was led primarily by the apostles, who focused on teaching, prayer, and spiritual care (<span class="x-scripture" data-book="ACT" data-chapter="2" data-lang="en" data-type="ref" data-verses="42" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 2:42</span>, <span class="x-scripture" data-book="ACT" data-chapter="6" data-lang="en" data-type="ref" data-verses="4" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 6:4</span>)। As the community grew, the need for administrative structure became clear, especially to address practical issues such as the care of widows and the distribution of resources। This led to the appointment of **deacons** (<span class="x-scripture" data-book="ACT" data-chapter="6" data-lang="en" data-type="ref" data-verses="1-7" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 6:1-7</span>)। Chosen on the basis of spiritual maturity and good reputation, these individuals handled practical ministries so that the apostles could concentrate on their spiritual responsibilities। Over time, **elders** also emerged as leaders in the church in Jerusalem। For example, during the Jerusalem Council (Acts 15), both the apostles and the elders participated in decision-making, indicating a shared leadership structure।
+
+<!-- p96 -->
+### The church in Antioch
+
+<!-- p97 -->
+The leadership of the church in Antioch was more decentralized and diverse than that of Jerusalem। It was led by a group of **prophets and teachers**, including Barnabas, Saul (Paul), Simeon, Lucius, and Manaen (<span class="x-scripture" data-book="ACT" data-chapter="13" data-lang="en" data-type="ref" data-verses="1" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 13:1</span>)। The church in Antioch was also much more focused on reaching Gentiles, whereas the church in Jerusalem reflected its Jewish roots more strongly। Although the New Testament does not explicitly mention deacons in Antioch, given the growing size of the church and its participation in sending relief to Jerusalem, it is likely that practical roles existed (<span class="x-scripture" data-book="ACT" data-chapter="11" data-lang="en" data-type="ref" data-verses="29-30" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 11:29-30</span>)। The church in Antioch became a model for the appointment of missionaries, where the leaders prayed, fasted, and laid hands on Paul and Barnabas to send them out (<span class="x-scripture" data-book="ACT" data-chapter="13" data-lang="en" data-type="ref" data-verses="2-3" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 13:2-3</span>)। This illustrates a structure that balances spiritual care (prophets and teachers) with missional outreach and practical support।
+
+<!-- p98 -->
+Unlike Paul's rebukes to the Corinthians and Galatians, the Scriptures do not criticize the leadership structures of Jerusalem or Antioch। This suggests that, under the guidance of the Holy Spirit, these churches were free to adapt their gatherings to their unique needs and circumstances within the framework of sound teaching and apostolic doctrine (<span class="x-scripture" data-book="ACT" data-chapter="2" data-lang="en" data-type="ref" data-verses="42" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 2:42</span>, <span class="x-scripture" data-book="2TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="16-17" data-version="NKJV" dir="ltr" style="text-align: left;">2 Timothy 3:16-17</span>)।
+
+<!-- p99 -->
+Some terms have been used in these sections that we have not yet defined and studied: *apostles, prophets, evangelists*। These gifts are part of the fivefold ministry that Jesus gave to the church।
+
