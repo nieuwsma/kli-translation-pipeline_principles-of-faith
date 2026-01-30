@@ -1,0 +1,5 @@
+# Drift explanation generated 2026-01-30T01:26:02.328062
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/spanish/pipeline2/analysis/chapters/drift_report_chapter13_chapter_13_spiritual_authority_vs_chapter13_chapter_13_spiritual_authority.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"20","0.7786","LOW","yes","doctrinal","The change from 'over' to 'on' alters the doctrinal implication regarding the relationship between creation and nature, suggesting a different level of authority or oversight in the back-translated version.","- Over creation and nature","- On creation and nature"
+"21","0.8764","MEDIUM","yes","doctrinal","The original phrase 'Over death, Hell, and the grave' suggests a position of authority or victory, while the back-translated phrase 'On death, hell, and the grave' implies a more neutral or observational stance, altering the theological implications of triumph over these concepts.","- Over death, Hell, and the grave","- On death, hell, and the grave"
