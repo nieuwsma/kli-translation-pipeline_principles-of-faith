@@ -118,3 +118,222 @@ While many expected a political Messiah, Jesus revealed a far greater purpose fo
 <!-- p39 -->
 Instead, Jesus established a kingdom that cannot be shaken. His mission was rooted not in military might or political supremacy, but in divine purpose. As the Anointed One, Jesus explained what he was anointed to do and how he would accomplish it:
 
+<!-- p40 -->
+<span class="x-scripture" data-book="LUK" data-chapter="4" data-lang="en" data-type="quote" data-verses="16-21" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p41 -->
+> **<u>Luke 4:16-21</u>** (NKJV)
+>
+> So He came to Nazareth, where He had been brought up। And according to His custom He went into the synagogue on the Sabbath day, and stood up to read।
+>
+> And He was handed the book of the prophet Isaiah। And when He had opened the book, He found the place where it was written:
+>
+> "The Spirit of the Lord is upon Me, because He has anointed Me to preach the good news to the poor; He has sent Me to heal the brokenhearted, to proclaim liberty to the captives and recovery of sight to the blind, that I might set at liberty those who are oppressed;
+>
+> to proclaim the acceptable year of the Lord."
+>
+> Then He closed the book, and gave it back to the attendant and sat down। And the eyes of all who were in the synagogue were fixed on Him।
+>
+> And He began to say to them, “Today this Scripture is fulfilled in your hearing।”
+>
+
+<!-- p42 -->
+</span>
+
+<!-- p43 -->
+Jesus was anointed-set apart by God-and was sent with a divine mission, filled with purpose and power।
+
+<!-- p44 -->
+Jesus proclaimed:
+
+<!-- p45 -->
+- The good news of the Kingdom (Gospel)।
+
+<!-- p46 -->
+- Salvation - forgiveness, the remission of sin, freedom।
+
+<!-- p47 -->
+- The acceptable year of the Lord (season)।
+
+<!-- p48 -->
+The people to whom He came were:
+
+<!-- p49 -->
+- The broken-hearted - broken emotionally and spiritually।
+
+<!-- p50 -->
+- The blind - spiritually, and sometimes physically as well।
+
+<!-- p51 -->
+- The poor - needy, in poverty (spiritual and/or physical)।
+
+<!-- p52 -->
+- The captives - meaning ‘taken with a spear,’ representing those who are bound in chains against their will।
+
+<!-- p53 -->
+Jesus transformed these broken people in this way:
+
+<!-- p54 -->
+- Restoration of sight
+
+<!-- p55 -->
+- Establishing in a state of freedom
+
+<!-- p56 -->
+- Binding up, healing, restoring
+
+<!-- p57 -->
+The purpose of Jesus’ ministry and service was both personal and global, both immediate, and long-lasting। His purpose is not focused on any single point, but is part of God’s divine plan to reconcile humanity to God। When sin entered the world, it created a separation between God and man। God had to remove man from the garden and from His presence। During the Old Testament, man could be with God, but only partially। It was very rare that the Spirit of God was given to humans, and for the most part humans lived in separation from God। He found for Himself a people among the Jews, but He desired a permanent, definite, and completely effective way to restore His relationship with humanity।
+
+<!-- p58 -->
+In the time of Jesus, the presence of God on earth was mainly limited to the innermost part of the temple, the Most Holy Place। Here, behind the thick veil that separated the inner part from the Holy Place, the presence of God remained with the Ark of the Covenant। Man was separate from God, and God was apart from His creation।
+
+<!-- p59 -->
+God sent Jesus so that He would repair, rebuild, restore humanity, and reconcile humans to Himself। (2 Corinthians 5:17-21)
+
+<!-- p60 -->
+### The Essential Work of Jesus
+
+<!-- p61 -->
+To fully reconcile humanity to God, Christ’s mission required not only proclamation and healing, but also the final act of atonement. Jesus had to become the complete and perfect sacrifice through His death on the cross.
+
+<!-- p62 -->
+The book of Hebrews, in its 13 chapters, explains in detail how Jesus became the perfect sacrifice, being both the offering for sin and the great High Priest who offered it (Hebrews 3 &amp; 4). Jesus’ priesthood is not of the Levitical line (from the tribe of Levi), but in the order of Melchizedek, of whom it is said that he has neither beginning nor end, meaning it is not bound by human ways and customs (<span class="x-scripture" data-book="HEB" data-chapter="7" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 7:3</span>). The limitation of the Levitical priesthood is that it depends on the blood of bulls and goats (<span class="x-scripture" data-book="HEB" data-chapter="9" data-lang="en" data-type="ref" data-verses="12-13" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 9:12-13</span>), whose sacrifices are not sufficient for permanent and everlasting forgiveness of sins. From our study of sin and sacrifice, we know that the consequences of the people’s sins could be deferred for a year during the Day of Atonement (<span class="x-scripture" data-book="HEB" data-chapter="10" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 10:3</span>), but these sacrifices had to be continually renewed.
+
+<!-- p63 -->
+By dying on the cross (whose details are in Matthew 27, Mark 15, John 19, and Luke 23), Jesus shed His blood and paid the price for the sins of all humanity—past, present, and future. Isaiah 53 portrays Jesus as the suffering servant who took upon Himself the full weight of punishment and affliction. His once-for-all death became the final, supreme sacrifice. Jesus is the Lamb of God (<span class="x-scripture" data-book="JHN" data-chapter="1" data-lang="en" data-type="ref" data-verses="29" data-version="NKJV" dir="ltr" style="text-align: left;">John 1:29</span>), without spot or wrinkle (sin); because He was perfect, complete, and holy, the shedding of His innocent blood made atonement possible. **No further sacrifices are needed, nor are they accepted. The former were only temporary—but Jesus’ was complete and final.**
+
+<!-- p64 -->
+Through death and resurrection, we have a new and better covenant (<span class="x-scripture" data-book="HEB" data-chapter="8" data-lang="en" data-type="ref" data-verses="6" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 8:6</span>), sealed with the blood of God’s own Son; Jesus is the mediator of that covenant, the go-between. Through Christ’s sacrifice we receive salvation, and He is the author of *‘eternal salvation for all who obey Him*’ (<span class="x-scripture" data-book="HEB" data-chapter="5" data-lang="en" data-type="ref" data-verses="9" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 5:9</span>).
+
+<!-- p65 -->
+In Greek, the word for salvation is **Sōtēria** (*so-tay-REE-ah - **G4991)**.* It primarily means **salvation, deliverance, or preservation**. It encompasses the act of being saved, both in a spiritual sense (eternal salvation through Christ) and in physical contexts (rescue from danger or harm). The word conveys the idea of safety, wholeness, and restoration.
+
+<!-- p66 -->
+**Salvation or deliverance:**
+
+<!-- p67 -->
+- Refers to humanity’s deliverance by God from sin and its consequences through Jesus Christ.
+
+<!-- p68 -->
+- Used in contexts of eternal salvation (justification, sanctification, and glorification).
+
+<!-- p69 -->
+**Preservation:**
+
+<!-- p70 -->
+- Denotes being kept safe, protected, or guarded from danger.
+
+<!-- p71 -->
+**Wholeness or healing:**
+
+<!-- p72 -->
+- Includes restoration to a state of completeness or health.
+
+<!-- p73 -->
+Jesus’ sacrifice paid the price for our forgiveness and prepared a way for us to have a relationship with God, establishing for us a way of dwelling with Him that depends only on our obedience, not on our being perfect or our ability to avoid sin.
+
+<!-- p74 -->
+When we receive Jesus by faith (to be discussed later), we receive His salvation. This salvation connects us with God and records our names in the ***Lamb’s Book of Life*** (<span class="x-scripture" data-book="REV" data-chapter="20" data-lang="en" data-type="ref" data-verses="11-15" data-version="NKJV" dir="ltr" style="text-align: left;">Revelation 20:11-15</span>). The Gospel of John says:
+
+<!-- p75 -->
+<span class="x-scripture" data-book="JHN" data-chapter="3" data-lang="en" data-type="quote" data-verses="16" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p76 -->
+> **<u>John 3:16</u>** (NKJV)
+>
+> For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.
+>
+
+<!-- p77 -->
+</span>
+
+<!-- p78 -->
+To perish means to be ruined—like fruit that spoils before it can be enjoyed. It is a life that misses the purpose for which it was made. Jesus came to give us unending, that is, eternal life, and to save us from perishing. Eternal life is not what begins after we die; it is the life that begins from the moment we accept Jesus as our salvation, when we are born again.
+
+<!-- p79 -->
+### The New Birth
+
+<!-- p80 -->
+<span class="x-scripture" data-book="2CO" data-chapter="5" data-lang="en" data-type="quote" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p81 -->
+> **<u>2 Corinthians 5:17</u>** (NKJV)
+>
+> Therefore, if anyone is in Christ, he is a new creation; old things have passed away; behold, all things have become new.
+>
+
+<!-- p82 -->
+</span>
+
+<!-- p83 -->
+When we receive Jesus, we become ‘born-again.’ This phrase was used by Jesus to describe that turning point of transformation, where we are born of the Spirit (<span class="x-scripture" data-book="JHN" data-chapter="3" data-lang="en" data-type="ref" data-verses="1-15" data-version="NKJV" dir="ltr" style="text-align: left;">John 3:1-15</span>). This happens through faith—by choosing to place full trust in Him, like entering into a marriage covenant, with both heart and mouth.
+
+<!-- p84 -->
+<span class="x-scripture" data-book="ROM" data-chapter="10" data-lang="en" data-type="quote" data-verses="9-10" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p85 -->
+> **<u>Romans 10:9-10</u>** (NKJV)
+>
+> that if you confess with your mouth the Lord Jesus and believe in your heart that God has raised Him from the dead, you will be saved.
+>
+> For with the heart one believes unto righteousness, and with the mouth confession is made unto salvation.
+>
+
+<!-- p86 -->
+</span>
+
+<!-- p87 -->
+When we were born on earth (born of flesh and water) many things happened: we took our first breaths and were declared alive, we were received by our parents, we were given a name, we became heirs, we received nurture and protection, and we continued to grow.
+
+<!-- p88 -->
+When we place our trust in Jesus and receive Him, we are born again, not of the flesh, but of the Spirit. We become spiritually alive! As with physical birth, so with spiritual birth many things take place:
+
+<!-- p89 -->
+1.  When we received Jesus, God erased our sins and declared us forgiven (**justified**). He gave us a new beginning. The dividing wall between us and Him was removed. (<span class="x-scripture" data-book="TIT" data-chapter="3" data-lang="en" data-type="ref" data-verses="5" data-version="NKJV" dir="ltr" style="text-align: left;">Titus 3:5</span>)
+
+<!-- p90 -->
+2.  We were spiritually **regenerated** and received the indwelling of the Holy Spirit. (<span class="x-scripture" data-book="1CO" data-chapter="6" data-lang="en" data-type="ref" data-verses="19" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 6:19</span>).
+
+<!-- p91 -->
+3.  We were **adopted** into God’s family and became heirs. (<span class="x-scripture" data-book="EPH" data-chapter="1" data-lang="en" data-type="ref" data-verses="5" data-version="NKJV" dir="ltr" style="text-align: left;">Ephesians 1:5</span>)
+
+<!-- p92 -->
+4.  We receive a source of spiritual nourishment, and eternal protection. (<span class="x-scripture" data-book="1PE" data-chapter="2" data-lang="en" data-type="ref" data-verses="2" data-version="NKJV" dir="ltr" style="text-align: left;">1 Peter 2:2</span>)
+
+<!-- p93 -->
+## Personal Reflection Questions
+
+<!-- p94 -->
+1.  What does Jesus being anointed as Prophet, Priest, and King mean to you? How does this shape your understanding of His role in your life?
+
+<!-- p95 -->
+2.  In what ways has Jesus met your expectations as a Savior? Are there areas where He has exceeded what you expected?
+
+<!-- p96 -->
+3.  How does understanding Jesus’ mission as the Christ challenge or deepen your faith?
+
+<!-- p97 -->
+4.  Reflect on your own “born-again” experience. How does this new birth in Christ give you purpose and hope?
+
+<!-- p98 -->
+5.  Jesus came to bring freedom and restoration. Which areas of your life still need His touch, and how can you surrender them to Him today?
+
+<!-- p99 -->
+## Questions for Group Discussion (20-30 minutes)
+
+<!-- p100 -->
+1.  **Opening Question:** *“Which one title or role of Jesus has been the most meaningful in your life?”*
+
+<!-- p101 -->
+2.  **Exploration of Scripture:** *Read <span class="x-scripture" data-book="ISA" data-chapter="61" data-lang="en" data-type="ref" data-verses="1-3" data-version="NKJV" dir="ltr" style="text-align: left;">Isaiah 61:1-3</span> and <span class="x-scripture" data-book="LUK" data-chapter="4" data-lang="en" data-type="ref" data-verses="16-21" data-version="NKJV" dir="ltr" style="text-align: left;">Luke 4:16-21</span>. How did Jesus fulfill these prophecies, and what does this mean for us today?*
+
+<!-- p102 -->
+3.  **The Role of Christ:** *Discuss how Jesus, being prophet, priest, and king, influences his mission. Why is it important that he fulfills all three roles?*
+
+<!-- p103 -->
+4.  **Personal Application:** *How can we reflect Christ’s mission of freedom and restoration in practical ways in our families, churches, and communities?*
+
+<!-- p104 -->
+5.  **Reflection on New Birth:** *How does the idea of “new birth” (<span class="x-scripture" data-book="JHN" data-chapter="3" data-lang="en" data-type="ref" data-verses="3-7" data-version="NKJV" dir="ltr" style="text-align: left;">John 3:3-7</span>) relate to Jesus’s mission as the Messiah? How does it shape our identity and purpose?*
+

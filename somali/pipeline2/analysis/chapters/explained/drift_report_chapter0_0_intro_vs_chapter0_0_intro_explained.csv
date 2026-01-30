@@ -1,0 +1,6 @@
+# Drift explanation generated 2026-01-30T15:31:31.141962
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"5","0.9084","MEDIUM","yes","doctrinal","The original phrase 'Foundations for Modern Believers' suggests a focus on providing support or resources for contemporary believers, while 'The Foundation of Modern Believers' implies a more definitive and singular basis or principle that defines modern believers, altering the emphasis from support to a core identity.","Foundations for Modern Believers","The Foundation of Modern Believers"
+"8","0.8731","MEDIUM","no","paraphrase","The back-translation maintains the same essential meaning as the original, simply using different wording without altering the doctrinal or intentional content.","**Scripture Quotations:**\\\\nScripture taken from:","**Scripture References:**\\\\nScripture is taken from:"
+"16","0.8131","LOW","no","paraphrase","The terms 'Version ID' and 'Edition Identifier' convey the same concept of identifying a specific version of a document, with no change in doctrinal meaning, logical relationship, or intent.","Version ID: 20251222","Edition Identifier: 20251222"

@@ -142,5 +142,11 @@
     "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/backtranslation/chapters/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md",
     "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/drift_report_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_vs_chapter8_chapter_8_holy_spirit_comforter_guide_and_power.csv",
     "generated_at": "2026-01-30T15:23:35.464255"
+  },
+  "drift_report_chapter9_chapter_9_the_church_our_role_in_it_vs_chapter9_chapter_9_the_church_our_role_in_it.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter9_chapter_9_the_church_our_role_in_it.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/backtranslation/chapters/chapter9_chapter_9_the_church_our_role_in_it.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/drift_report_chapter9_chapter_9_the_church_our_role_in_it_vs_chapter9_chapter_9_the_church_our_role_in_it.csv",
+    "generated_at": "2026-01-30T15:23:50.674093"
   }
 }
