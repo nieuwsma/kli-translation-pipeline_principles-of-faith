@@ -1,0 +1,5 @@
+# Drift explanation generated 2026-01-30T13:24:18.624010
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/portugese/pipeline2/analysis/chapters/drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"54","0.868","MEDIUM","no","paraphrase","The phrases 'recovering sight' and 'restoring sight' convey the same concept of regaining vision, with no significant change in meaning or intent.","- Recovering sight","- Restoring sight"
+"55","0.6635","CRITICAL","yes","doctrinal","The original phrase 'set in a state of liberty' implies a condition of being free, potentially emphasizing the inherent nature of liberty. In contrast, 'putting into a state of freedom' suggests an active process of granting freedom, which alters the understanding of how freedom is attained.","- Set in a state of liberty","- Putting into a state of freedom"

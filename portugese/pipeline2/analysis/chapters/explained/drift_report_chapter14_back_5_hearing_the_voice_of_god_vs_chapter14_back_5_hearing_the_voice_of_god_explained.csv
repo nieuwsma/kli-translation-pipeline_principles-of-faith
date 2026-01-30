@@ -1,0 +1,4 @@
+# Drift explanation generated 2026-01-30T13:26:12.666890
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/portugese/pipeline2/analysis/chapters/drift_report_chapter14_back_5_hearing_the_voice_of_god_vs_chapter14_back_5_hearing_the_voice_of_god.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"17","0.805","LOW","yes","doctrinal","The original uses 'KNOWING' which implies a deeper, experiential understanding, while the back-translation uses 'CERTAINTY,' which suggests a more superficial assurance. This change alters the doctrinal emphasis from a profound understanding to a mere state of confidence.","2.  <u>The KNOWING is NOT built by logic within your mind; however, it is a complete thought or understanding.</u>","2.  <u>CERTAINTY is NOT built by logic in your mind; however, it is a thought or complete understanding.</u>"

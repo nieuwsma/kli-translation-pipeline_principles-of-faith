@@ -1,0 +1,4 @@
+# Drift explanation generated 2026-01-30T13:24:14.534220
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/portugese/pipeline2/analysis/chapters/drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"6","0.839","LOW","no","paraphrase","The back-translation maintains the same doctrinal meaning and logical relationship as the original, simply rephrasing it without altering the intent.","- Sin requiring severe punishment like death, sin requiring financial restitution","- Sin that requires severe punishment such as death, sin that requires financial restitution"

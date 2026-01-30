@@ -1,0 +1,8 @@
+# Drift explanation generated 2026-01-30T13:24:27.925716
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/portugese/pipeline2/analysis/chapters/drift_report_chapter11_chapter_11_baptisms_water_and_spirit_vs_chapter11_chapter_11_baptisms_water_and_spirit.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"13","0.8638","MEDIUM","no","paraphrase","Both phrases refer to the same event involving John, with no change in doctrinal meaning or intent. The back-translation simply rephrases the original title without altering its significance.","## John’s Baptism","## The Baptism of John"
+"17","0.8091","LOW","no","paraphrase","Both phrases refer to the same event in Christian theology, with no change in doctrinal meaning or intent. The difference is purely in wording.","## Christ’s Baptism","## The Baptism of Christ"
+"27","0.8775","MEDIUM","no","paraphrase","Both phrases convey the same concept of baptism associated with the Holy Spirit. The change in word order does not alter the doctrinal meaning or intent.","## Holy Spirit Baptism","## Baptism in the Holy Spirit"
+"38","0.8734","MEDIUM","no","paraphrase","The terms 'Scriptural Basis' and 'Biblical basis' are synonymous and convey the same concept without altering the doctrinal meaning, logical relationship, or intent of the original phrase.","Scriptural Basis:","Biblical basis:"
+"44","0.8735","MEDIUM","no","paraphrase","The terms 'Scriptural Basis' and 'Biblical basis' convey the same concept, referring to the foundational texts of Christianity, without altering the doctrinal meaning, logical relationship, or intent.","Scriptural Basis:","Biblical basis:"
