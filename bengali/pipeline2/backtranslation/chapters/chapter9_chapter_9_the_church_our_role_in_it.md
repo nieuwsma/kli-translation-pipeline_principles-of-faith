@@ -491,3 +491,63 @@ The motivational gifts are:
 <!-- p159 -->
 <!-- -->
 
+<!-- p160 -->
+- *Gifts and Ministries of the Holy Spirit* by Lester Sumrall
+
+<!-- p161 -->
+As you identify your gifts, consider your **passions and skills**. In the areas where we are enthusiastic or skilled, God often calls us to serve in those areas (<span class="x-scripture" data-book="EXO" data-chapter="31" data-lang="en" data-type="ref" data-verses="2-6" data-version="NKJV" dir="ltr" style="text-align: left;">Exodus 31:2-6</span>). Reflect on what energizes you as you serve God and others, and consider how your professional skills, hobbies, and life experiences can contribute to ministry.
+
+<!-- p162 -->
+Seek guidance from **leaders and mentors** who can offer wisdom and insight (<span class="x-scripture" data-book="PRO" data-chapter="15" data-lang="en" data-type="ref" data-verses="22" data-version="NKJV" dir="ltr" style="text-align: left;">Proverbs 15:22</span>). Meet with a pastor or ministry leader to discuss your interests and ask for honest feedback about where you might fit best. Pray over the feedback you receive. Consider joining a discipleship group to receive training and ongoing support.
+
+<!-- p163 -->
+#### Step 3 - Be Faithful Now
+
+<!-- p164 -->
+The Parable of the Talents (<span class="x-scripture" data-book="MAT" data-chapter="25" data-lang="en" data-type="ref" data-verses="14-30" data-version="NKJV" dir="ltr" style="text-align: left;">Matthew 25:14-30</span>) reminds us that to be considered faithful in great things, we must be faithful in small things (<span class="x-scripture" data-book="LUK" data-chapter="16" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">Luke 16:10</span>).
+
+<!-- p165 -->
+**Get involved and serve** in various ministries, so that you can discern where God is calling you. Start small by volunteering in areas of need within your church and the ministries they support. For example:
+
+<!-- p166 -->
+- Join the hospitality team, children’s ministry, or outreach programs. Consider leading a discipleship-focused group using this book, *Principles of Faith,* for new believers; use the group discussion questions and end-of-chapter activities to facilitate dialogue.
+
+<!-- p167 -->
+- Be open to stepping outside your comfort zone to discover new opportunities.
+
+<!-- p168 -->
+- Notice where God works through you and where you feel most effective.
+
+<!-- p169 -->
+Cultivate the habit of giving. We can give to the church in many important ways, and we are instructed to do so to accomplish the mission.
+
+<!-- p170 -->
+- Time - We can give our time and volunteer. When we give time, we use our labor and talents. This can also be a great way to learn new skills and expand existing ones.
+
+<!-- p171 -->
+- Resources - We can also give our resources. Today this usually means giving financially to the church and ministries (not just the “institution,” but also people in the church who are in need). Giving money is helpful, because the church can buy needed resources with it; however, people have also given their material possessions, for example extra houses, clothing, cars, food, building materials, tools, etc. In <span class="x-scripture" data-book="ACT" data-chapter="4" data-lang="en" data-type="ref" data-verses="32-35" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 4:32-35</span> we see an example of the early believers giving generously, sharing the proceeds from selling extra land and houses, and giving in such a way that ‘no one was in need’.
+
+<!-- p172 -->
+Working alongside others in ministry can reveal your strengths and deepen your understanding of your role. Participate in small groups or church activities to build connections. Listen to the burdens and needs of those around you and consider how you can assist them. Building relationships within the church helps you connect with others and understand the needs of the community.
+
+<!-- p173 -->
+#### Step 4 - Get Help!
+
+<!-- p174 -->
+Jesus said that in life we will face troubles! (<span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="en" data-type="ref" data-verses="33" data-version="NKJV" dir="ltr" style="text-align: left;">John 16:33</span>) We are encouraged not to carry our burdens alone, but to cast them on the One who cares for us—God! (<span class="x-scripture" data-book="1PE" data-chapter="5" data-lang="en" data-type="ref" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">1 Peter 5:7</span>)
+
+<!-- p175 -->
+Sometimes along our journey we can get hurt. Marathon runners, even when they “do everything right,” can still push their bodies in ways that cause injury, or they may stumble and fall.
+
+<!-- p176 -->
+Not every ‘fall’ is sin-related, though some are; not every weakness is ‘our fault’—sometimes others will sin against us. Whatever the cause of our weakness or injury, we should pursue recovery and healing.
+
+<!-- p177 -->
+There is great freedom in seeking inner healing and restoration. We are called to cover the weaker parts of the body (<span class="x-scripture" data-book="1CO" data-chapter="12" data-lang="en" data-type="ref" data-verses="23" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 12:23</span>) and to restore those caught in transgression (<span class="x-scripture" data-book="GAL" data-chapter="6" data-lang="en" data-type="ref" data-verses="1" data-version="NKJV" dir="ltr" style="text-align: left;">Galatians 6:1</span>).
+
+<!-- p178 -->
+There is much to say on this subject, and we briefly explore matters of healing in the Sanctification chapter.
+
+<!-- p179 -->
+#### Step 5 - Be Patient
+
