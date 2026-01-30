@@ -223,3 +223,71 @@ The Holy Spirit also empowers the mission. The Holy Spirit gives believers the p
 >
 > But you shall receive power when the Holy Spirit has come upon you; and you shall be My witnesses in Jerusalem, and in all Judea and Samaria, and to the end of the earth."
 
+<!-- p80 -->
+</span>
+
+<!-- p81 -->
+The entire book of Acts is filled with stories and narratives that follow this common cycle:
+
+<!-- p82 -->
+1.  **Prayer**: Believers ask for boldness and for God’s intervention.
+
+<!-- p83 -->
+2.  **Empowerment**: The Holy Spirit fills them with courage, power, and guidance.
+
+<!-- p84 -->
+3.  **Preaching**: They fearlessly proclaim the Gospel, often with signs and wonders and miracles.
+
+<!-- p85 -->
+4.  **Opposition**: Opposition arises, resulting in persecution or challenges. Sometimes believers were martyred; other times they were imprisoned or beaten.
+
+<!-- p86 -->
+5.  **Renewal**: The church returns to prayer, seeks fresh empowerment, and the cycle continues.
+
+<!-- p87 -->
+The New Testament church grew mostly in the face of staunch opposition. Around the world the church suffers violence at the hands of tyrants and wicked rulers who intend to suppress the knowledge of the truth about Jesus.
+
+<!-- p88 -->
+God knew that this opposition would come, and Jesus prophesied about it:
+
+<!-- p89 -->
+<span class="x-scripture" data-book="LUK" data-chapter="12" data-lang="en" data-type="quote" data-verses="11-12" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p90 -->
+> **<u>Luke 12:11-12</u>** (NKJV)
+>
+> "Now when they bring you to the synagogues and magistrates and authorities, do not worry about how or what you should answer, or what you should say.
+>
+> For the Holy Spirit will teach you in that very hour what you ought to say."
+>
+
+<!-- p91 -->
+</span>
+
+<!-- p92 -->
+Do not be afraid! Jesus has promised us that:
+
+<!-- p93 -->
+<span class="x-scripture" data-book="MAT" data-chapter="16" data-lang="en" data-type="fragment" data-verses="18" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p94 -->
+> **<u>Matthew 16:18</u>** (NKJV)
+>
+> And I also say to you that you are Peter, and on this rock I will build My church, and the gates of Hades shall not prevail against it.
+>
+
+<!-- p95 -->
+</span>
+
+<!-- p96 -->
+This is an astonishing and comforting promise. Gates are stationary defensive fortifications. When Jesus says that *the gates of Hades shall not prevail*, He presents the picture of a victorious army that tears down the gates and captures the city!
+
+<!-- p97 -->
+The Holy Spirit grants supernatural boldness to proclaim the testimony of the Gospel in the face of persecution. The result of this empowerment can be described, but it is best to experience it. It is a supernatural (beyond human) boldness that compels believers to share. This boldness in preaching is often accompanied by works that are demonstrations of the Spirit and of power (<span class="x-scripture" data-book="1CO" data-chapter="2" data-lang="en" data-type="ref" data-verses="1-5" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 2:1-5</span>). People are healed physically and emotionally, the dead are raised, those tormented by evil spirits are set free, hard-hearted people turn and repent.
+
+<!-- p98 -->
+Jesus said that we would do these works and even greater ones! (<span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="en" data-type="ref" data-verses="12" data-version="NKJV" dir="ltr" style="text-align: left;">John 14:12</span>). All these works are supernatural, divine, and desperately needed in a world that is tearing itself apart, grieving, filled with pain, and waiting for the clear revealing of the mature sons of God! (<span class="x-scripture" data-book="ROM" data-chapter="8" data-lang="en" data-type="ref" data-verses="22-23" data-version="NKJV" dir="ltr" style="text-align: left;">Romans 8:22-23</span>)
+
+<!-- p99 -->
+Jesus’ chosen instrument for change on the earth is His church, empowered, emboldened, and guided by the Holy Spirit.
+
