@@ -553,3 +553,63 @@ It is very important in every believer’s life that they strengthen their faith
 > eternal life to those who by patient continuance in doing good seek for glory, honor, and immortality;
 >
 
+<!-- p150 -->
+</span>
+
+<!-- p151 -->
+Each one of those blessings is by God’s grace; we cannot earn them, but we can walk in them through obedience to Him, which is encouraged and activated by our trusting relationship with Him.
+
+<!-- p152 -->
+### Practical steps to grow your faith
+
+<!-- p153 -->
+Walking with God is relational, but if you want good relationships you have to learn some skills. In earthly relationships, the skills that build strong and secure relationships are based on:
+
+<!-- p154 -->
+- Open and free dialogue and communication
+
+<!-- p155 -->
+- Healthy conflict resolution
+
+<!-- p156 -->
+- Commitment
+
+<!-- p157 -->
+- Consistency
+
+<!-- p158 -->
+If you want a strong, vibrant relationship, you must show up consistently, open yourself up (communicate—our thoughts and feelings), accept the other person (listen), and walk with them! All these skills apply to our relationship with God as well.
+
+<!-- p159 -->
+In addition to basic relational skills, there are certain practices and disciplines that will strengthen your relationship with God:
+
+<!-- p160 -->
+- **Build and maintain a life of prayer; listen to and communicate with God.** Regular, heartfelt prayer is essential for a close relationship with God. Through prayer, you can share your concerns, joys, and gratitude, while asking for His guidance and strength. (*<span class="x-scripture" data-book="PHP" data-chapter="4" data-lang="en" data-type="ref" data-verses="6-7" data-version="NKJV" dir="ltr" style="text-align: left;">Philippians 4:6-7</span>*) Remaining sensitive to the voice of the Holy Spirit helps you discern God’s will, gain wisdom in decisions, and grow in spiritual maturity. Set aside time for quiet reflection to listen for His direction. (*<span class="x-scripture" data-book="ROM" data-chapter="8" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV" dir="ltr" style="text-align: left;">Romans 8:14</span>*)
+
+<!-- p161 -->
+- **Spend time in worship.** Worship is a powerful way to draw near to God, expressing love and reverence. Through praise, song, or quiet reflection, worship deepens your awareness of His presence. (*<span class="x-scripture" data-book="PSA" data-chapter="100" data-lang="en" data-type="ref" data-verses="2-4" data-version="NKJV" dir="ltr" style="text-align: left;">Psalm 100:2-4</span>*)
+
+<!-- p162 -->
+- **Read, study, and meditate on Scripture.** God’s Word reveals His character, promises, and instructions for life. Dedicating time to the study of Scripture helps you grow in faith, understanding, and spiritual strength. (*<span class="x-scripture" data-book="2TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="16-17" data-version="NKJV" dir="ltr" style="text-align: left;">2 Timothy 3:16-17</span>*)
+
+<!-- p163 -->
+- **Obey His commandments.** Obedience to God’s instructions demonstrates your love, respect, and trust for Him. Walking in obedience aligns your life with His purpose and brings blessing. (*<span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="en" data-type="ref" data-verses="15" data-version="NKJV" dir="ltr" style="text-align: left;">John 14:15</span>*)
+
+<!-- p164 -->
+- **Actively participate and serve in a local church.** Engaging with the church community provides spiritual support, encouragement, and opportunities to serve others. Staying involved fosters a sense of belonging and strengthens your commitment to God’s mission. (*<span class="x-scripture" data-book="HEB" data-chapter="10" data-lang="en" data-type="ref" data-verses="24-25" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 10:24-25</span>*)
+
+<!-- p165 -->
+- **Build relationships with other believers.** Fellowship with other Christians provides accountability, encouragement, and shared wisdom. These relationships enrich your faith journey and help you grow through mutual support. (*<span class="x-scripture" data-book="PRO" data-chapter="27" data-lang="en" data-type="ref" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">Proverbs 27:17</span>*)
+
+<!-- p166 -->
+Our ‘faith toward God’ is not merely a one-time event for salvation, but an ongoing practice and relationship that we must cultivate throughout our entire lives. The benefits of a trusting and fruitful relationship are immense, but we must do the good work of nurturing that trust and growth so that it can flourish.
+
+<!-- p167 -->
+## Personal reflection questions
+
+<!-- p168 -->
+1.  What does faith mean to you personally? How has your understanding of faith grown through this chapter?
+
+<!-- p169 -->
+2.  Reflect on the concepts of Logos and Rhema. Has there ever been a time in your life when a particular Scripture verse came alive to you and became a personal Rhema word? How did it impact your faith?
+
