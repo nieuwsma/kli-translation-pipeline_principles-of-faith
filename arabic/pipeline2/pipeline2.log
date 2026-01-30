@@ -269,3 +269,1129 @@
 ✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/translation/chapters/chapter9_chapter_9_the_church_our_role_in_it.md (195/195 translated)
 
 🎯 All files processed.
+⚠️  Unknown model for tokenizer; using cl100k_base.
+
+📘 Processing chapter0_0_intro.md...
+📑 Paragraph markers found: 20
+🧮 Token-aware batching: 1 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/1 (20 paras, ~1475 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter0_0_intro.md (20/20 translated)
+
+📘 Processing chapter0_1_dedication.md...
+📑 Paragraph markers found: 3
+🧮 Token-aware batching: 1 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/1 (3 paras, ~144 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter0_1_dedication.md (3/3 translated)
+
+📘 Processing chapter0_2_acknowledgements.md...
+📑 Paragraph markers found: 4
+🧮 Token-aware batching: 1 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/1 (4 paras, ~436 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter0_2_acknowledgements.md (4/4 translated)
+
+📘 Processing chapter0_3_table_of_contents.md...
+📑 Paragraph markers found: 26
+🧮 Token-aware batching: 2 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/2 (20 paras, ~871 tokens input)...
+🟦 Translating batch 2/2 (6 paras, ~186 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter0_3_table_of_contents.md (26/26 translated)
+
+📘 Processing chapter0_4_list_of_tables.md...
+📑 Paragraph markers found: 13
+🧮 Token-aware batching: 1 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/1 (13 paras, ~720 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter0_4_list_of_tables.md (13/13 translated)
+
+📘 Processing chapter0_5_foreword.md...
+📑 Paragraph markers found: 6
+🧮 Token-aware batching: 1 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/1 (6 paras, ~749 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter0_5_foreword.md (6/6 translated)
+
+📘 Processing chapter0_6_preface.md...
+📑 Paragraph markers found: 69
+🧮 Token-aware batching: 4 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/4 (20 paras, ~3096 tokens input)...
+🟦 Translating batch 2/4 (20 paras, ~2067 tokens input)...
+🟦 Translating batch 3/4 (20 paras, ~1615 tokens input)...
+🟦 Translating batch 4/4 (9 paras, ~1389 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter0_6_preface.md (69/69 translated)
+
+📘 Processing chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md...
+📑 Paragraph markers found: 112
+🧮 Token-aware batching: 6 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/6 (20 paras, ~2593 tokens input)...
+🟦 Translating batch 2/6 (20 paras, ~3052 tokens input)...
+🟦 Translating batch 3/6 (20 paras, ~2416 tokens input)...
+🟦 Translating batch 4/6 (20 paras, ~2083 tokens input)...
+🟦 Translating batch 5/6 (20 paras, ~2133 tokens input)...
+🟦 Translating batch 6/6 (12 paras, ~1074 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md (112/112 translated)
+
+📘 Processing chapter11_chapter_11_baptisms_water_and_spirit.md...
+📑 Paragraph markers found: 133
+🧮 Token-aware batching: 7 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/7 (20 paras, ~5300 tokens input)...
+🟦 Translating batch 2/7 (20 paras, ~5048 tokens input)...
+🟦 Translating batch 3/7 (20 paras, ~2433 tokens input)...
+🟦 Translating batch 4/7 (20 paras, ~1613 tokens input)...
+🟦 Translating batch 5/7 (20 paras, ~1817 tokens input)...
+🟦 Translating batch 6/7 (20 paras, ~3719 tokens input)...
+🟦 Translating batch 7/7 (13 paras, ~1149 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter11_chapter_11_baptisms_water_and_spirit.md (133/133 translated)
+
+📘 Processing chapter12_chapter_12_discipleship.md...
+📑 Paragraph markers found: 116
+🧮 Token-aware batching: 6 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/6 (20 paras, ~3062 tokens input)...
+🟦 Translating batch 2/6 (20 paras, ~2307 tokens input)...
+🟦 Translating batch 3/6 (20 paras, ~2262 tokens input)...
+🟦 Translating batch 4/6 (20 paras, ~3365 tokens input)...
+🟦 Translating batch 5/6 (20 paras, ~4159 tokens input)...
+🟦 Translating batch 6/6 (16 paras, ~2036 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter12_chapter_12_discipleship.md (116/116 translated)
+
+📘 Processing chapter13_chapter_13_spiritual_authority.md...
+📑 Paragraph markers found: 197
+🧮 Token-aware batching: 10 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/10 (20 paras, ~1235 tokens input)...
+🟦 Translating batch 2/10 (20 paras, ~1275 tokens input)...
+🟦 Translating batch 3/10 (20 paras, ~1793 tokens input)...
+🟦 Translating batch 4/10 (20 paras, ~1957 tokens input)...
+🟦 Translating batch 5/10 (20 paras, ~1755 tokens input)...
+🟦 Translating batch 6/10 (20 paras, ~3894 tokens input)...
+🟦 Translating batch 7/10 (20 paras, ~2965 tokens input)...
+🟦 Translating batch 8/10 (20 paras, ~3301 tokens input)...
+🟦 Translating batch 9/10 (20 paras, ~2475 tokens input)...
+🟦 Translating batch 10/10 (17 paras, ~2102 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter13_chapter_13_spiritual_authority.md (197/197 translated)
+
+📘 Processing chapter14_back_1_postscript.md...
+📑 Paragraph markers found: 12
+🧮 Token-aware batching: 1 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/1 (12 paras, ~1246 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter14_back_1_postscript.md (12/12 translated)
+
+📘 Processing chapter14_back_3_extended_reference_tables.md...
+📑 Paragraph markers found: 5
+🧮 Token-aware batching: 1 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/1 (5 paras, ~206 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter14_back_3_extended_reference_tables.md (5/5 translated)
+
+📘 Processing chapter14_back_4_end_of_chapter_activities.md...
+📑 Paragraph markers found: 615
+🧮 Token-aware batching: 31 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/31 (20 paras, ~1246 tokens input)...
+🟦 Translating batch 2/31 (20 paras, ~1053 tokens input)...
+🟦 Translating batch 3/31 (20 paras, ~1204 tokens input)...
+🟦 Translating batch 4/31 (20 paras, ~895 tokens input)...
+🟦 Translating batch 5/31 (20 paras, ~1072 tokens input)...
+🟦 Translating batch 6/31 (20 paras, ~1039 tokens input)...
+🟦 Translating batch 7/31 (20 paras, ~768 tokens input)...
+🟦 Translating batch 8/31 (20 paras, ~1116 tokens input)...
+🟦 Translating batch 9/31 (20 paras, ~1171 tokens input)...
+🟦 Translating batch 10/31 (20 paras, ~729 tokens input)...
+🟦 Translating batch 11/31 (20 paras, ~748 tokens input)...
+🟦 Translating batch 12/31 (20 paras, ~800 tokens input)...
+🟦 Translating batch 13/31 (20 paras, ~1043 tokens input)...
+🟦 Translating batch 14/31 (20 paras, ~774 tokens input)...
+🟦 Translating batch 15/31 (20 paras, ~1068 tokens input)...
+🟦 Translating batch 16/31 (20 paras, ~952 tokens input)...
+🟦 Translating batch 17/31 (20 paras, ~764 tokens input)...
+🟦 Translating batch 18/31 (20 paras, ~970 tokens input)...
+🟦 Translating batch 19/31 (20 paras, ~840 tokens input)...
+🟦 Translating batch 20/31 (20 paras, ~960 tokens input)...
+🟦 Translating batch 21/31 (20 paras, ~1065 tokens input)...
+🟦 Translating batch 22/31 (20 paras, ~966 tokens input)...
+🟦 Translating batch 23/31 (20 paras, ~935 tokens input)...
+🟦 Translating batch 24/31 (20 paras, ~984 tokens input)...
+🟦 Translating batch 25/31 (20 paras, ~945 tokens input)...
+🟦 Translating batch 26/31 (20 paras, ~846 tokens input)...
+🟦 Translating batch 27/31 (20 paras, ~1176 tokens input)...
+🟦 Translating batch 28/31 (20 paras, ~956 tokens input)...
+🟦 Translating batch 29/31 (20 paras, ~1074 tokens input)...
+🟦 Translating batch 30/31 (20 paras, ~764 tokens input)...
+🟦 Translating batch 31/31 (15 paras, ~633 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter14_back_4_end_of_chapter_activities.md (615/615 translated)
+
+📘 Processing chapter14_back_5_hearing_the_voice_of_god.md...
+📑 Paragraph markers found: 49
+🧮 Token-aware batching: 3 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/3 (20 paras, ~1886 tokens input)...
+🟦 Translating batch 2/3 (20 paras, ~4811 tokens input)...
+🟦 Translating batch 3/3 (9 paras, ~541 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter14_back_5_hearing_the_voice_of_god.md (49/49 translated)
+
+📘 Processing chapter14_chapter_14_keep_watch.md...
+📑 Paragraph markers found: 109
+🧮 Token-aware batching: 6 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/6 (20 paras, ~1203 tokens input)...
+🟦 Translating batch 2/6 (20 paras, ~1217 tokens input)...
+🟦 Translating batch 3/6 (20 paras, ~2109 tokens input)...
+🟦 Translating batch 4/6 (20 paras, ~1034 tokens input)...
+🟦 Translating batch 5/6 (20 paras, ~1566 tokens input)...
+🟦 Translating batch 6/6 (9 paras, ~910 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter14_chapter_14_keep_watch.md (109/109 translated)
+
+📘 Processing chapter1_chapter_1_sound_doctrine_matters.md...
+📑 Paragraph markers found: 116
+🧮 Token-aware batching: 6 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/6 (20 paras, ~3412 tokens input)...
+🟦 Translating batch 2/6 (20 paras, ~2031 tokens input)...
+🟦 Translating batch 3/6 (20 paras, ~1278 tokens input)...
+🟦 Translating batch 4/6 (20 paras, ~2235 tokens input)...
+🟦 Translating batch 5/6 (20 paras, ~993 tokens input)...
+🟦 Translating batch 6/6 (16 paras, ~895 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter1_chapter_1_sound_doctrine_matters.md (116/116 translated)
+
+📘 Processing chapter2_chapter_2_god_eternal_creator_and_loving_father.md...
+📑 Paragraph markers found: 70
+🧮 Token-aware batching: 4 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/4 (20 paras, ~2730 tokens input)...
+🟦 Translating batch 2/4 (20 paras, ~2369 tokens input)...
+🟦 Translating batch 3/4 (20 paras, ~4450 tokens input)...
+🟦 Translating batch 4/4 (10 paras, ~934 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter2_chapter_2_god_eternal_creator_and_loving_father.md (70/70 translated)
+
+📘 Processing chapter3_chapter_3_sin_and_redemption.md...
+📑 Paragraph markers found: 111
+🧮 Token-aware batching: 6 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/6 (20 paras, ~2262 tokens input)...
+🟦 Translating batch 2/6 (20 paras, ~947 tokens input)...
+🟦 Translating batch 3/6 (20 paras, ~1856 tokens input)...
+🟦 Translating batch 4/6 (20 paras, ~3793 tokens input)...
+🟦 Translating batch 5/6 (20 paras, ~2606 tokens input)...
+🟦 Translating batch 6/6 (11 paras, ~993 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter3_chapter_3_sin_and_redemption.md (111/111 translated)
+
+📘 Processing chapter4_chapter_4_jesus_the_messiah.md...
+📑 Paragraph markers found: 105
+🧮 Token-aware batching: 6 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/6 (20 paras, ~2475 tokens input)...
+🟦 Translating batch 2/6 (20 paras, ~3031 tokens input)...
+🟦 Translating batch 3/6 (20 paras, ~1616 tokens input)...
+🟦 Translating batch 4/6 (20 paras, ~2593 tokens input)...
+🟦 Translating batch 5/6 (20 paras, ~1715 tokens input)...
+🟦 Translating batch 6/6 (5 paras, ~629 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter4_chapter_4_jesus_the_messiah.md (105/105 translated)
+
+📘 Processing chapter5_chapter_5_repentance_from_dead_works.md...
+📑 Paragraph markers found: 148
+🧮 Token-aware batching: 8 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/8 (20 paras, ~1826 tokens input)...
+🟦 Translating batch 2/8 (20 paras, ~1641 tokens input)...
+🟦 Translating batch 3/8 (20 paras, ~1364 tokens input)...
+🟦 Translating batch 4/8 (20 paras, ~1908 tokens input)...
+🟦 Translating batch 5/8 (20 paras, ~2335 tokens input)...
+🟦 Translating batch 6/8 (20 paras, ~2231 tokens input)...
+🟦 Translating batch 7/8 (20 paras, ~3450 tokens input)...
+🟦 Translating batch 8/8 (8 paras, ~876 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter5_chapter_5_repentance_from_dead_works.md (148/148 translated)
+
+📘 Processing chapter6_chapter_6_faith_toward_god.md...
+📑 Paragraph markers found: 169
+🧮 Token-aware batching: 9 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/9 (20 paras, ~2199 tokens input)...
+🟦 Translating batch 2/9 (20 paras, ~2855 tokens input)...
+🟦 Translating batch 3/9 (20 paras, ~3945 tokens input)...
+🟦 Translating batch 4/9 (20 paras, ~1588 tokens input)...
+🟦 Translating batch 5/9 (20 paras, ~2685 tokens input)...
+🟦 Translating batch 6/9 (20 paras, ~1766 tokens input)...
+🟦 Translating batch 7/9 (20 paras, ~888 tokens input)...
+🟦 Translating batch 8/9 (20 paras, ~2229 tokens input)...
+🟦 Translating batch 9/9 (9 paras, ~800 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter6_chapter_6_faith_toward_god.md (169/169 translated)
+
+📘 Processing chapter7_chapter_7_jesus_the_foundation_of_our_faith.md...
+📑 Paragraph markers found: 78
+🧮 Token-aware batching: 4 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/4 (20 paras, ~4775 tokens input)...
+🟦 Translating batch 2/4 (20 paras, ~5357 tokens input)...
+🟦 Translating batch 3/4 (20 paras, ~3766 tokens input)...
+🟦 Translating batch 4/4 (18 paras, ~2105 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md (78/78 translated)
+
+📘 Processing chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md...
+📑 Paragraph markers found: 147
+🧮 Token-aware batching: 8 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/8 (20 paras, ~3458 tokens input)...
+🟦 Translating batch 2/8 (20 paras, ~2742 tokens input)...
+🟦 Translating batch 3/8 (20 paras, ~3026 tokens input)...
+🟦 Translating batch 4/8 (20 paras, ~2033 tokens input)...
+🟦 Translating batch 5/8 (20 paras, ~1770 tokens input)...
+🟦 Translating batch 6/8 (20 paras, ~1962 tokens input)...
+🟦 Translating batch 7/8 (20 paras, ~1913 tokens input)...
+🟦 Translating batch 8/8 (7 paras, ~618 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md (147/147 translated)
+
+📘 Processing chapter9_chapter_9_the_church_our_role_in_it.md...
+📑 Paragraph markers found: 195
+🧮 Token-aware batching: 10 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/10 (20 paras, ~1725 tokens input)...
+🟦 Translating batch 2/10 (20 paras, ~3182 tokens input)...
+🟦 Translating batch 3/10 (20 paras, ~2997 tokens input)...
+🟦 Translating batch 4/10 (20 paras, ~2656 tokens input)...
+🟦 Translating batch 5/10 (20 paras, ~3065 tokens input)...
+🟦 Translating batch 6/10 (20 paras, ~2810 tokens input)...
+🟦 Translating batch 7/10 (20 paras, ~4136 tokens input)...
+🟦 Translating batch 8/10 (20 paras, ~1639 tokens input)...
+🟦 Translating batch 9/10 (20 paras, ~2783 tokens input)...
+🟦 Translating batch 10/10 (15 paras, ~1660 tokens input)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter9_chapter_9_the_church_our_role_in_it.md (195/195 translated)
+
+🎯 All files processed.
+🔍 Found 25 matching file pairs:
+  - chapter0_0_intro.md
+  - chapter0_1_dedication.md
+  - chapter0_2_acknowledgements.md
+  - chapter0_3_table_of_contents.md
+  - chapter0_4_list_of_tables.md
+  - chapter0_5_foreword.md
+  - chapter0_6_preface.md
+  - chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md
+  - chapter11_chapter_11_baptisms_water_and_spirit.md
+  - chapter12_chapter_12_discipleship.md
+  - chapter13_chapter_13_spiritual_authority.md
+  - chapter14_back_1_postscript.md
+  - chapter14_back_3_extended_reference_tables.md
+  - chapter14_back_4_end_of_chapter_activities.md
+  - chapter14_back_5_hearing_the_voice_of_god.md
+  - chapter14_chapter_14_keep_watch.md
+  - chapter1_chapter_1_sound_doctrine_matters.md
+  - chapter2_chapter_2_god_eternal_creator_and_loving_father.md
+  - chapter3_chapter_3_sin_and_redemption.md
+  - chapter4_chapter_4_jesus_the_messiah.md
+  - chapter5_chapter_5_repentance_from_dead_works.md
+  - chapter6_chapter_6_faith_toward_god.md
+  - chapter7_chapter_7_jesus_the_foundation_of_our_faith.md
+  - chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md
+  - chapter9_chapter_9_the_church_our_role_in_it.md
+
+=== Processing: chapter0_0_intro.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/1 [00:00<?, ?it/s]
+Embedding batches: 100%|██████████| 1/1 [00:02<00:00,  2.78s/it]
+Embedding batches: 100%|██████████| 1/1 [00:02<00:00,  2.78s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv
+translation_quality
+HIGH        16
+MEDIUM       2
+CRITICAL     1
+LOW          1
+Name: count, dtype: int64
+
+=== Processing: chapter0_1_dedication.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/1 [00:00<?, ?it/s]
+Embedding batches: 100%|██████████| 1/1 [00:00<00:00,  1.31it/s]
+Embedding batches: 100%|██████████| 1/1 [00:00<00:00,  1.30it/s]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter0_1_dedication_vs_chapter0_1_dedication.csv
+translation_quality
+HIGH      1
+MEDIUM    1
+Name: count, dtype: int64
+
+=== Processing: chapter0_2_acknowledgements.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/1 [00:00<?, ?it/s]
+Embedding batches: 100%|██████████| 1/1 [00:01<00:00,  1.34s/it]
+Embedding batches: 100%|██████████| 1/1 [00:01<00:00,  1.34s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter0_2_acknowledgements_vs_chapter0_2_acknowledgements.csv
+translation_quality
+HIGH    3
+Name: count, dtype: int64
+
+=== Processing: chapter0_3_table_of_contents.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/1 [00:00<?, ?it/s]
+Embedding batches: 100%|██████████| 1/1 [00:02<00:00,  2.81s/it]
+Embedding batches: 100%|██████████| 1/1 [00:02<00:00,  2.81s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter0_3_table_of_contents_vs_chapter0_3_table_of_contents.csv
+translation_quality
+HIGH    25
+Name: count, dtype: int64
+
+=== Processing: chapter0_4_list_of_tables.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/1 [00:00<?, ?it/s]
+Embedding batches: 100%|██████████| 1/1 [00:01<00:00,  1.33s/it]
+Embedding batches: 100%|██████████| 1/1 [00:01<00:00,  1.33s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter0_4_list_of_tables_vs_chapter0_4_list_of_tables.csv
+translation_quality
+HIGH    12
+Name: count, dtype: int64
+
+=== Processing: chapter0_5_foreword.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/1 [00:00<?, ?it/s]
+Embedding batches: 100%|██████████| 1/1 [00:01<00:00,  1.15s/it]
+Embedding batches: 100%|██████████| 1/1 [00:01<00:00,  1.15s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter0_5_foreword_vs_chapter0_5_foreword.csv
+translation_quality
+HIGH    5
+Name: count, dtype: int64
+
+=== Processing: chapter0_6_preface.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/2 [00:00<?, ?it/s]
+Embedding batches:  50%|█████     | 1/2 [00:03<00:03,  3.86s/it]
+Embedding batches: 100%|██████████| 2/2 [00:04<00:00,  1.97s/it]
+Embedding batches: 100%|██████████| 2/2 [00:04<00:00,  2.25s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter0_6_preface_vs_chapter0_6_preface.csv
+translation_quality
+HIGH      65
+MEDIUM     3
+Name: count, dtype: int64
+
+=== Processing: chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/2 [00:00<?, ?it/s]
+Embedding batches:  50%|█████     | 1/2 [00:03<00:03,  3.48s/it]
+Embedding batches: 100%|██████████| 2/2 [00:06<00:00,  2.95s/it]
+Embedding batches: 100%|██████████| 2/2 [00:06<00:00,  3.03s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_vs_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.csv
+translation_quality
+HIGH      90
+MEDIUM     4
+Name: count, dtype: int64
+
+=== Processing: chapter11_chapter_11_baptisms_water_and_spirit.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/4 [00:00<?, ?it/s]
+Embedding batches:  25%|██▌       | 1/4 [00:02<00:08,  2.79s/it]
+Embedding batches:  50%|█████     | 2/4 [00:05<00:05,  2.96s/it]
+Embedding batches:  75%|███████▌  | 3/4 [00:08<00:02,  2.96s/it]
+Embedding batches: 100%|██████████| 4/4 [00:10<00:00,  2.51s/it]
+Embedding batches: 100%|██████████| 4/4 [00:10<00:00,  2.66s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter11_chapter_11_baptisms_water_and_spirit_vs_chapter11_chapter_11_baptisms_water_and_spirit.csv
+translation_quality
+HIGH      121
+MEDIUM      8
+LOW         3
+Name: count, dtype: int64
+
+=== Processing: chapter12_chapter_12_discipleship.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/3 [00:00<?, ?it/s]
+Embedding batches:  33%|███▎      | 1/3 [00:03<00:06,  3.43s/it]
+Embedding batches:  67%|██████▋   | 2/3 [00:06<00:03,  3.41s/it]
+Embedding batches: 100%|██████████| 3/3 [00:08<00:00,  2.49s/it]
+Embedding batches: 100%|██████████| 3/3 [00:08<00:00,  2.74s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship.csv
+translation_quality
+HIGH      100
+MEDIUM     11
+LOW         4
+Name: count, dtype: int64
+
+=== Processing: chapter13_chapter_13_spiritual_authority.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/4 [00:00<?, ?it/s]
+Embedding batches:  25%|██▌       | 1/4 [00:03<00:10,  3.58s/it]
+Embedding batches:  50%|█████     | 2/4 [00:06<00:06,  3.30s/it]
+Embedding batches:  75%|███████▌  | 3/4 [00:09<00:03,  3.27s/it]
+Embedding batches: 100%|██████████| 4/4 [00:12<00:00,  2.81s/it]
+Embedding batches: 100%|██████████| 4/4 [00:12<00:00,  3.01s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter13_chapter_13_spiritual_authority_vs_chapter13_chapter_13_spiritual_authority.csv
+translation_quality
+HIGH      186
+MEDIUM      9
+LOW         1
+Name: count, dtype: int64
+
+=== Processing: chapter14_back_1_postscript.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/1 [00:00<?, ?it/s]
+Embedding batches: 100%|██████████| 1/1 [00:01<00:00,  1.20s/it]
+Embedding batches: 100%|██████████| 1/1 [00:01<00:00,  1.20s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter14_back_1_postscript_vs_chapter14_back_1_postscript.csv
+translation_quality
+HIGH      5
+MEDIUM    1
+Name: count, dtype: int64
+
+=== Processing: chapter14_back_3_extended_reference_tables.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/1 [00:00<?, ?it/s]
+Embedding batches: 100%|██████████| 1/1 [00:00<00:00,  1.10it/s]
+Embedding batches: 100%|██████████| 1/1 [00:00<00:00,  1.10it/s]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter14_back_3_extended_reference_tables_vs_chapter14_back_3_extended_reference_tables.csv
+translation_quality
+HIGH      3
+MEDIUM    1
+Name: count, dtype: int64
+
+=== Processing: chapter14_back_4_end_of_chapter_activities.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/4 [00:00<?, ?it/s]
+Embedding batches:  25%|██▌       | 1/4 [00:06<00:20,  6.93s/it]
+Embedding batches:  50%|█████     | 2/4 [00:13<00:13,  6.96s/it]
+Embedding batches:  75%|███████▌  | 3/4 [00:19<00:06,  6.45s/it]
+Embedding batches: 100%|██████████| 4/4 [00:25<00:00,  6.01s/it]
+Embedding batches: 100%|██████████| 4/4 [00:25<00:00,  6.27s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter14_back_4_end_of_chapter_activities_vs_chapter14_back_4_end_of_chapter_activities.csv
+translation_quality
+HIGH        526
+MEDIUM       46
+CRITICAL     32
+LOW          10
+Name: count, dtype: int64
+
+=== Processing: chapter14_back_5_hearing_the_voice_of_god.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/2 [00:00<?, ?it/s]
+Embedding batches:  50%|█████     | 1/2 [00:02<00:02,  2.70s/it]
+Embedding batches: 100%|██████████| 2/2 [00:03<00:00,  1.74s/it]
+Embedding batches: 100%|██████████| 2/2 [00:03<00:00,  1.89s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter14_back_5_hearing_the_voice_of_god_vs_chapter14_back_5_hearing_the_voice_of_god.csv
+translation_quality
+HIGH      44
+MEDIUM     4
+Name: count, dtype: int64
+
+=== Processing: chapter14_chapter_14_keep_watch.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/2 [00:00<?, ?it/s]
+Embedding batches:  50%|█████     | 1/2 [00:05<00:05,  5.67s/it]
+Embedding batches: 100%|██████████| 2/2 [00:07<00:00,  3.27s/it]
+Embedding batches: 100%|██████████| 2/2 [00:07<00:00,  3.63s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter14_chapter_14_keep_watch_vs_chapter14_chapter_14_keep_watch.csv
+translation_quality
+HIGH      100
+MEDIUM      7
+LOW         1
+Name: count, dtype: int64
+
+=== Processing: chapter1_chapter_1_sound_doctrine_matters.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/2 [00:00<?, ?it/s]
+Embedding batches:  50%|█████     | 1/2 [00:03<00:03,  3.55s/it]
+Embedding batches: 100%|██████████| 2/2 [00:05<00:00,  2.86s/it]
+Embedding batches: 100%|██████████| 2/2 [00:05<00:00,  2.96s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter1_chapter_1_sound_doctrine_matters_vs_chapter1_chapter_1_sound_doctrine_matters.csv
+translation_quality
+HIGH      73
+MEDIUM    19
+LOW        3
+Name: count, dtype: int64
+
+=== Processing: chapter2_chapter_2_god_eternal_creator_and_loving_father.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/2 [00:00<?, ?it/s]
+Embedding batches:  50%|█████     | 1/2 [00:04<00:04,  4.90s/it]
+Embedding batches: 100%|██████████| 2/2 [00:06<00:00,  3.19s/it]
+Embedding batches: 100%|██████████| 2/2 [00:06<00:00,  3.45s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father.csv
+translation_quality
+HIGH      63
+MEDIUM     6
+Name: count, dtype: int64
+
+=== Processing: chapter3_chapter_3_sin_and_redemption.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/2 [00:00<?, ?it/s]
+Embedding batches:  50%|█████     | 1/2 [00:04<00:04,  4.59s/it]
+Embedding batches: 100%|██████████| 2/2 [00:08<00:00,  3.96s/it]
+Embedding batches: 100%|██████████| 2/2 [00:08<00:00,  4.06s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption.csv
+translation_quality
+HIGH        93
+MEDIUM      12
+LOW          4
+CRITICAL     1
+Name: count, dtype: int64
+
+=== Processing: chapter4_chapter_4_jesus_the_messiah.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/2 [00:00<?, ?it/s]
+Embedding batches:  50%|█████     | 1/2 [00:04<00:04,  4.03s/it]
+Embedding batches: 100%|██████████| 2/2 [00:07<00:00,  3.55s/it]
+Embedding batches: 100%|██████████| 2/2 [00:07<00:00,  3.62s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah.csv
+translation_quality
+HIGH        91
+MEDIUM      10
+CRITICAL     2
+LOW          1
+Name: count, dtype: int64
+
+=== Processing: chapter5_chapter_5_repentance_from_dead_works.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/2 [00:00<?, ?it/s]
+Embedding batches:  50%|█████     | 1/2 [00:04<00:04,  4.61s/it]
+Embedding batches: 100%|██████████| 2/2 [00:08<00:00,  4.38s/it]
+Embedding batches: 100%|██████████| 2/2 [00:08<00:00,  4.41s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works.csv
+translation_quality
+HIGH        136
+MEDIUM        8
+CRITICAL      1
+Name: count, dtype: int64
+
+=== Processing: chapter6_chapter_6_faith_toward_god.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/3 [00:00<?, ?it/s]
+Embedding batches:  33%|███▎      | 1/3 [00:03<00:06,  3.36s/it]
+Embedding batches:  67%|██████▋   | 2/3 [00:06<00:03,  3.24s/it]
+Embedding batches: 100%|██████████| 3/3 [00:08<00:00,  2.79s/it]
+Embedding batches: 100%|██████████| 3/3 [00:08<00:00,  2.93s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter6_chapter_6_faith_toward_god_vs_chapter6_chapter_6_faith_toward_god.csv
+translation_quality
+HIGH        141
+MEDIUM       11
+CRITICAL      2
+LOW           2
+Name: count, dtype: int64
+
+=== Processing: chapter7_chapter_7_jesus_the_foundation_of_our_faith.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/3 [00:00<?, ?it/s]
+Embedding batches:  33%|███▎      | 1/3 [00:01<00:03,  1.88s/it]
+Embedding batches:  67%|██████▋   | 2/3 [00:04<00:02,  2.33s/it]
+Embedding batches: 100%|██████████| 3/3 [00:06<00:00,  2.17s/it]
+Embedding batches: 100%|██████████| 3/3 [00:06<00:00,  2.17s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith.csv
+translation_quality
+HIGH      71
+MEDIUM     6
+Name: count, dtype: int64
+
+=== Processing: chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/3 [00:00<?, ?it/s]
+Embedding batches:  33%|███▎      | 1/3 [00:04<00:08,  4.15s/it]
+Embedding batches:  67%|██████▋   | 2/3 [00:07<00:03,  3.92s/it]
+Embedding batches: 100%|██████████| 3/3 [00:11<00:00,  3.88s/it]
+Embedding batches: 100%|██████████| 3/3 [00:11<00:00,  3.91s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_vs_chapter8_chapter_8_holy_spirit_comforter_guide_and_power.csv
+translation_quality
+HIGH      129
+MEDIUM     16
+LOW         1
+Name: count, dtype: int64
+
+=== Processing: chapter9_chapter_9_the_church_our_role_in_it.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/4 [00:00<?, ?it/s]
+Embedding batches:  25%|██▌       | 1/4 [00:03<00:10,  3.46s/it]
+Embedding batches:  50%|█████     | 2/4 [00:07<00:07,  3.74s/it]
+Embedding batches:  75%|███████▌  | 3/4 [00:10<00:03,  3.34s/it]
+Embedding batches: 100%|██████████| 4/4 [00:13<00:00,  3.12s/it]
+Embedding batches: 100%|██████████| 4/4 [00:13<00:00,  3.26s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter9_chapter_9_the_church_our_role_in_it_vs_chapter9_chapter_9_the_church_our_role_in_it.csv
+translation_quality
+HIGH        180
+MEDIUM       13
+CRITICAL      1
+Name: count, dtype: int64
+🗂 Found 25 drift reports in /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters. Processing...
+
+Analyzing 3 flagged paragraphs in drift_report_chapter0_6_preface_vs_chapter0_6_preface.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:02,  2.46s/it]
+Explaining differences: 2it [00:04,  2.16s/it]
+Explaining differences: 3it [00:06,  2.06s/it]
+Explaining differences: 3it [00:06,  2.12s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter0_6_preface_vs_chapter0_6_preface_explained.csv
+📊 Summary: 3 analyzed | 0 changed | 0 failed to parse
+
+Analyzing 9 flagged paragraphs in drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.73s/it]
+Explaining differences: 2it [00:03,  1.86s/it]
+Explaining differences: 3it [00:05,  1.71s/it]
+Explaining differences: 4it [00:07,  1.81s/it]
+Explaining differences: 5it [00:09,  1.84s/it]
+Explaining differences: 6it [00:10,  1.78s/it]
+Explaining differences: 7it [00:12,  1.80s/it]
+Explaining differences: 8it [00:14,  1.95s/it]
+Explaining differences: 9it [00:16,  1.95s/it]
+Explaining differences: 9it [00:16,  1.87s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works_explained.csv
+📊 Summary: 9 analyzed | 0 changed | 0 failed to parse
+
+Analyzing 1 flagged paragraphs in drift_report_chapter14_back_1_postscript_vs_chapter14_back_1_postscript.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.73s/it]
+Explaining differences: 1it [00:01,  1.73s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter14_back_1_postscript_vs_chapter14_back_1_postscript_explained.csv
+📊 Summary: 1 analyzed | 0 changed | 0 failed to parse
+
+Analyzing 17 flagged paragraphs in drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.72s/it]
+Explaining differences: 2it [00:03,  1.67s/it]
+Explaining differences: 3it [00:04,  1.64s/it]
+Explaining differences: 4it [00:06,  1.78s/it]
+Explaining differences: 5it [00:08,  1.77s/it]
+Explaining differences: 6it [00:10,  1.86s/it]
+Explaining differences: 7it [00:12,  1.77s/it]
+Explaining differences: 8it [00:14,  1.76s/it]
+Explaining differences: 9it [00:15,  1.80s/it]
+Explaining differences: 10it [00:18,  1.91s/it]
+Explaining differences: 11it [00:19,  1.86s/it]
+Explaining differences: 12it [00:22,  2.15s/it]
+Explaining differences: 13it [00:24,  1.98s/it]
+Explaining differences: 14it [00:25,  1.90s/it]
+Explaining differences: 15it [00:28,  2.04s/it]
+Explaining differences: 16it [00:30,  2.02s/it]
+Explaining differences: 17it [00:31,  1.91s/it]
+Explaining differences: 17it [00:31,  1.88s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption_explained.csv
+📊 Summary: 17 analyzed | 5 changed | 0 failed to parse
+
+Analyzing 13 flagged paragraphs in drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.88s/it]
+Explaining differences: 2it [00:03,  1.80s/it]
+Explaining differences: 3it [00:05,  1.91s/it]
+Explaining differences: 4it [00:07,  1.78s/it]
+Explaining differences: 5it [00:09,  1.90s/it]
+Explaining differences: 6it [00:10,  1.81s/it]
+Explaining differences: 7it [00:12,  1.80s/it]
+Explaining differences: 8it [00:14,  1.74s/it]
+Explaining differences: 9it [00:15,  1.67s/it]
+Explaining differences: 10it [00:18,  1.82s/it]
+Explaining differences: 11it [00:20,  1.97s/it]
+Explaining differences: 12it [00:22,  1.91s/it]
+Explaining differences: 13it [00:23,  1.83s/it]
+Explaining differences: 13it [00:23,  1.83s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah_explained.csv
+📊 Summary: 13 analyzed | 2 changed | 0 failed to parse
+
+Analyzing 6 flagged paragraphs in drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:02,  2.04s/it]
+Explaining differences: 2it [00:03,  1.89s/it]
+Explaining differences: 3it [00:05,  1.76s/it]
+Explaining differences: 4it [00:07,  1.78s/it]
+Explaining differences: 5it [00:08,  1.71s/it]
+Explaining differences: 6it [00:10,  1.60s/it]
+Explaining differences: 6it [00:10,  1.70s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father_explained.csv
+📊 Summary: 6 analyzed | 0 changed | 0 failed to parse
+
+Analyzing 11 flagged paragraphs in drift_report_chapter11_chapter_11_baptisms_water_and_spirit_vs_chapter11_chapter_11_baptisms_water_and_spirit.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.86s/it]
+Explaining differences: 2it [00:03,  1.79s/it]
+Explaining differences: 3it [00:05,  1.72s/it]
+Explaining differences: 4it [00:06,  1.73s/it]
+Explaining differences: 5it [00:08,  1.70s/it]
+Explaining differences: 6it [00:11,  1.99s/it]
+Explaining differences: 7it [00:13,  1.96s/it]
+Explaining differences: 8it [00:14,  1.90s/it]
+Explaining differences: 9it [00:16,  1.85s/it]
+Explaining differences: 10it [00:18,  1.83s/it]
+Explaining differences: 11it [00:19,  1.76s/it]
+Explaining differences: 11it [00:19,  1.82s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter11_chapter_11_baptisms_water_and_spirit_vs_chapter11_chapter_11_baptisms_water_and_spirit_explained.csv
+📊 Summary: 11 analyzed | 1 changed | 0 failed to parse
+
+ℹ️  No non-HIGH paragraphs in drift_report_chapter0_4_list_of_tables_vs_chapter0_4_list_of_tables.csv — skipping.
+Analyzing 14 flagged paragraphs in drift_report_chapter9_chapter_9_the_church_our_role_in_it_vs_chapter9_chapter_9_the_church_our_role_in_it.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:02,  2.02s/it]
+Explaining differences: 2it [00:04,  2.28s/it]
+Explaining differences: 3it [00:06,  2.08s/it]
+Explaining differences: 4it [00:07,  1.91s/it]
+Explaining differences: 5it [00:09,  1.92s/it]
+Explaining differences: 6it [00:11,  1.86s/it]
+Explaining differences: 7it [00:13,  1.71s/it]
+Explaining differences: 8it [00:14,  1.70s/it]
+Explaining differences: 9it [00:16,  1.69s/it]
+Explaining differences: 10it [00:17,  1.66s/it]
+Explaining differences: 11it [00:19,  1.65s/it]
+Explaining differences: 12it [00:21,  1.70s/it]
+Explaining differences: 13it [00:23,  1.70s/it]
+Explaining differences: 14it [00:26,  2.11s/it]
+Explaining differences: 14it [00:26,  1.87s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter9_chapter_9_the_church_our_role_in_it_vs_chapter9_chapter_9_the_church_our_role_in_it_explained.csv
+📊 Summary: 14 analyzed | 1 changed | 0 failed to parse
+
+Analyzing 22 flagged paragraphs in drift_report_chapter1_chapter_1_sound_doctrine_matters_vs_chapter1_chapter_1_sound_doctrine_matters.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:02,  2.43s/it]
+Explaining differences: 2it [00:05,  3.00s/it]
+Explaining differences: 3it [00:07,  2.38s/it]
+Explaining differences: 4it [00:09,  2.15s/it]
+Explaining differences: 5it [00:11,  2.13s/it]
+Explaining differences: 6it [00:13,  2.00s/it]
+Explaining differences: 7it [00:15,  2.04s/it]
+Explaining differences: 8it [00:19,  2.77s/it]
+Explaining differences: 9it [00:21,  2.41s/it]
+Explaining differences: 10it [00:22,  2.21s/it]
+Explaining differences: 11it [00:24,  2.05s/it]
+Explaining differences: 12it [00:26,  2.06s/it]
+Explaining differences: 13it [00:28,  1.90s/it]
+Explaining differences: 14it [00:29,  1.79s/it]
+Explaining differences: 15it [00:31,  1.75s/it]
+Explaining differences: 16it [00:33,  1.70s/it]
+Explaining differences: 17it [00:35,  1.85s/it]
+Explaining differences: 18it [00:36,  1.82s/it]
+Explaining differences: 19it [00:38,  1.85s/it]
+Explaining differences: 20it [00:40,  1.90s/it]
+Explaining differences: 21it [00:43,  1.99s/it]
+Explaining differences: 22it [00:44,  1.91s/it]
+Explaining differences: 22it [00:44,  2.04s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter1_chapter_1_sound_doctrine_matters_vs_chapter1_chapter_1_sound_doctrine_matters_explained.csv
+📊 Summary: 22 analyzed | 4 changed | 0 failed to parse
+
+Analyzing 17 flagged paragraphs in drift_report_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_vs_chapter8_chapter_8_holy_spirit_comforter_guide_and_power.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.53s/it]
+Explaining differences: 2it [00:03,  1.72s/it]
+Explaining differences: 3it [00:05,  1.82s/it]
+Explaining differences: 4it [00:06,  1.76s/it]
+Explaining differences: 5it [00:08,  1.83s/it]
+Explaining differences: 6it [00:10,  1.86s/it]
+Explaining differences: 7it [00:13,  2.05s/it]
+Explaining differences: 8it [00:15,  2.12s/it]
+Explaining differences: 9it [00:17,  2.04s/it]
+Explaining differences: 10it [00:19,  2.19s/it]
+Explaining differences: 11it [00:22,  2.21s/it]
+Explaining differences: 12it [00:24,  2.10s/it]
+Explaining differences: 13it [00:25,  2.02s/it]
+Explaining differences: 14it [00:27,  1.94s/it]
+Explaining differences: 15it [00:30,  2.08s/it]
+Explaining differences: 16it [00:32,  2.07s/it]
+Explaining differences: 17it [00:34,  2.17s/it]
+Explaining differences: 17it [00:34,  2.03s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_vs_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_explained.csv
+📊 Summary: 17 analyzed | 4 changed | 0 failed to parse
+
+ℹ️  No non-HIGH paragraphs in drift_report_chapter0_3_table_of_contents_vs_chapter0_3_table_of_contents.csv — skipping.
+Analyzing 88 flagged paragraphs in drift_report_chapter14_back_4_end_of_chapter_activities_vs_chapter14_back_4_end_of_chapter_activities.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.72s/it]
+Explaining differences: 2it [00:03,  1.56s/it]
+Explaining differences: 3it [00:05,  1.92s/it]
+Explaining differences: 4it [00:07,  1.89s/it]
+Explaining differences: 5it [00:09,  1.95s/it]
+Explaining differences: 6it [00:11,  2.00s/it]
+Explaining differences: 7it [00:13,  2.00s/it]
+Explaining differences: 8it [00:15,  1.98s/it]
+Explaining differences: 9it [00:17,  1.93s/it]
+Explaining differences: 10it [00:19,  1.94s/it]
+Explaining differences: 11it [00:20,  1.87s/it]
+Explaining differences: 12it [00:22,  1.78s/it]
+Explaining differences: 13it [00:25,  2.00s/it]
+Explaining differences: 14it [00:26,  1.91s/it]
+Explaining differences: 15it [00:28,  1.82s/it]
+Explaining differences: 16it [00:30,  1.99s/it]
+Explaining differences: 17it [00:33,  2.14s/it]
+Explaining differences: 18it [00:34,  2.00s/it]
+Explaining differences: 19it [00:37,  2.21s/it]
+Explaining differences: 20it [00:39,  2.06s/it]
+Explaining differences: 21it [00:41,  2.13s/it]
+Explaining differences: 22it [00:43,  2.14s/it]
+Explaining differences: 23it [00:45,  2.13s/it]
+Explaining differences: 24it [00:47,  2.04s/it]
+Explaining differences: 25it [00:49,  1.95s/it]
+Explaining differences: 26it [00:51,  1.89s/it]
+Explaining differences: 27it [00:53,  2.06s/it]
+Explaining differences: 28it [00:55,  2.09s/it]
+Explaining differences: 29it [00:58,  2.14s/it]
+Explaining differences: 30it [00:59,  2.07s/it]
+Explaining differences: 31it [01:02,  2.08s/it]
+Explaining differences: 32it [01:03,  1.92s/it]
+Explaining differences: 33it [01:05,  1.86s/it]
+Explaining differences: 34it [01:07,  1.92s/it]
+Explaining differences: 35it [01:09,  1.89s/it]
+Explaining differences: 36it [01:11,  2.00s/it]
+Explaining differences: 37it [01:13,  1.90s/it]
+Explaining differences: 38it [01:15,  1.91s/it]
+Explaining differences: 39it [01:17,  1.95s/it]
+Explaining differences: 40it [01:19,  1.97s/it]
+Explaining differences: 41it [01:20,  1.93s/it]
+Explaining differences: 42it [01:22,  1.78s/it]
+Explaining differences: 43it [01:24,  1.82s/it]
+Explaining differences: 44it [01:25,  1.76s/it]
+Explaining differences: 45it [01:27,  1.81s/it]
+Explaining differences: 46it [01:30,  1.94s/it]
+Explaining differences: 47it [01:31,  1.78s/it]
+Explaining differences: 48it [01:33,  1.94s/it]
+Explaining differences: 49it [01:35,  1.84s/it]
+Explaining differences: 50it [01:36,  1.75s/it]
+Explaining differences: 51it [01:38,  1.79s/it]
+Explaining differences: 52it [01:41,  1.94s/it]
+Explaining differences: 53it [01:43,  1.97s/it]
+Explaining differences: 54it [01:45,  1.95s/it]
+Explaining differences: 55it [01:47,  2.01s/it]
+Explaining differences: 56it [01:49,  2.02s/it]
+Explaining differences: 57it [01:50,  1.91s/it]
+Explaining differences: 58it [01:52,  1.93s/it]
+Explaining differences: 59it [01:56,  2.34s/it]
+Explaining differences: 60it [01:57,  2.19s/it]
+Explaining differences: 61it [01:59,  2.02s/it]
+Explaining differences: 62it [02:01,  1.96s/it]
+Explaining differences: 63it [02:03,  1.89s/it]
+Explaining differences: 64it [02:05,  2.05s/it]
+Explaining differences: 65it [02:07,  1.94s/it]
+Explaining differences: 66it [02:09,  1.95s/it]
+Explaining differences: 67it [02:10,  1.83s/it]
+Explaining differences: 68it [02:13,  1.94s/it]
+Explaining differences: 69it [02:14,  1.90s/it]
+Explaining differences: 70it [02:16,  1.85s/it]
+Explaining differences: 71it [02:18,  1.79s/it]
+Explaining differences: 72it [02:20,  1.86s/it]
+Explaining differences: 73it [02:22,  1.86s/it]
+Explaining differences: 74it [02:23,  1.86s/it]
+Explaining differences: 75it [02:26,  1.98s/it]
+Explaining differences: 76it [02:28,  2.06s/it]
+Explaining differences: 77it [02:30,  2.19s/it]
+Explaining differences: 78it [02:32,  2.14s/it]
+Explaining differences: 79it [02:35,  2.19s/it]
+Explaining differences: 80it [02:37,  2.23s/it]
+Explaining differences: 81it [02:39,  2.14s/it]
+Explaining differences: 82it [02:41,  2.12s/it]
+Explaining differences: 83it [02:44,  2.24s/it]
+Explaining differences: 84it [02:45,  2.09s/it]
+Explaining differences: 85it [02:47,  1.96s/it]
+Explaining differences: 86it [02:49,  1.98s/it]
+Explaining differences: 87it [02:51,  2.06s/it]
+Explaining differences: 88it [02:53,  1.97s/it]
+Explaining differences: 88it [02:53,  1.97s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter14_back_4_end_of_chapter_activities_vs_chapter14_back_4_end_of_chapter_activities_explained.csv
+📊 Summary: 88 analyzed | 19 changed | 0 failed to parse
+
+Analyzing 4 flagged paragraphs in drift_report_chapter14_back_5_hearing_the_voice_of_god_vs_chapter14_back_5_hearing_the_voice_of_god.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:02,  2.04s/it]
+Explaining differences: 2it [00:03,  1.92s/it]
+Explaining differences: 3it [00:06,  2.07s/it]
+Explaining differences: 4it [00:08,  2.06s/it]
+Explaining differences: 4it [00:08,  2.05s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter14_back_5_hearing_the_voice_of_god_vs_chapter14_back_5_hearing_the_voice_of_god_explained.csv
+📊 Summary: 4 analyzed | 1 changed | 0 failed to parse
+
+Analyzing 8 flagged paragraphs in drift_report_chapter14_chapter_14_keep_watch_vs_chapter14_chapter_14_keep_watch.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.73s/it]
+Explaining differences: 2it [00:03,  1.56s/it]
+Explaining differences: 3it [00:04,  1.59s/it]
+Explaining differences: 4it [00:06,  1.77s/it]
+Explaining differences: 5it [00:08,  1.83s/it]
+Explaining differences: 6it [00:10,  1.87s/it]
+Explaining differences: 7it [00:13,  2.03s/it]
+Explaining differences: 8it [00:15,  2.04s/it]
+Explaining differences: 8it [00:15,  1.89s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter14_chapter_14_keep_watch_vs_chapter14_chapter_14_keep_watch_explained.csv
+📊 Summary: 8 analyzed | 0 changed | 0 failed to parse
+
+Analyzing 1 flagged paragraphs in drift_report_chapter0_1_dedication_vs_chapter0_1_dedication.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.99s/it]
+Explaining differences: 1it [00:01,  1.99s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter0_1_dedication_vs_chapter0_1_dedication_explained.csv
+📊 Summary: 1 analyzed | 0 changed | 0 failed to parse
+
+Analyzing 4 flagged paragraphs in drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.88s/it]
+Explaining differences: 2it [00:04,  2.10s/it]
+Explaining differences: 3it [00:06,  2.03s/it]
+Explaining differences: 4it [00:07,  1.96s/it]
+Explaining differences: 4it [00:07,  1.98s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter0_0_intro_vs_chapter0_0_intro_explained.csv
+📊 Summary: 4 analyzed | 1 changed | 0 failed to parse
+
+Analyzing 6 flagged paragraphs in drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.94s/it]
+Explaining differences: 2it [00:03,  1.99s/it]
+Explaining differences: 3it [00:06,  2.02s/it]
+Explaining differences: 4it [00:07,  1.96s/it]
+Explaining differences: 5it [00:09,  1.84s/it]
+Explaining differences: 6it [00:11,  2.01s/it]
+Explaining differences: 6it [00:11,  1.98s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith_explained.csv
+📊 Summary: 6 analyzed | 2 changed | 0 failed to parse
+
+Analyzing 10 flagged paragraphs in drift_report_chapter13_chapter_13_spiritual_authority_vs_chapter13_chapter_13_spiritual_authority.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.88s/it]
+Explaining differences: 2it [00:03,  1.95s/it]
+Explaining differences: 3it [00:05,  1.96s/it]
+Explaining differences: 4it [00:07,  2.03s/it]
+Explaining differences: 5it [00:09,  1.96s/it]
+Explaining differences: 6it [00:11,  1.96s/it]
+Explaining differences: 7it [00:13,  1.95s/it]
+Explaining differences: 8it [00:15,  1.95s/it]
+Explaining differences: 9it [00:17,  2.01s/it]
+Explaining differences: 10it [00:19,  2.06s/it]
+Explaining differences: 10it [00:19,  2.00s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter13_chapter_13_spiritual_authority_vs_chapter13_chapter_13_spiritual_authority_explained.csv
+📊 Summary: 10 analyzed | 2 changed | 0 failed to parse
+
+Analyzing 15 flagged paragraphs in drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.83s/it]
+Explaining differences: 2it [00:03,  1.96s/it]
+Explaining differences: 3it [00:06,  2.04s/it]
+Explaining differences: 4it [00:08,  2.09s/it]
+Explaining differences: 5it [00:10,  2.10s/it]
+Explaining differences: 6it [00:12,  2.06s/it]
+Explaining differences: 7it [00:14,  2.16s/it]
+Explaining differences: 8it [00:16,  1.99s/it]
+Explaining differences: 9it [00:18,  2.14s/it]
+Explaining differences: 10it [00:20,  2.06s/it]
+Explaining differences: 11it [00:22,  1.98s/it]
+Explaining differences: 12it [00:25,  2.22s/it]
+Explaining differences: 13it [00:26,  2.06s/it]
+Explaining differences: 14it [00:28,  2.08s/it]
+Explaining differences: 15it [00:31,  2.07s/it]
+Explaining differences: 15it [00:31,  2.07s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship_explained.csv
+📊 Summary: 15 analyzed | 4 changed | 0 failed to parse
+
+Analyzing 1 flagged paragraphs in drift_report_chapter14_back_3_extended_reference_tables_vs_chapter14_back_3_extended_reference_tables.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:02,  2.40s/it]
+Explaining differences: 1it [00:02,  2.40s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter14_back_3_extended_reference_tables_vs_chapter14_back_3_extended_reference_tables_explained.csv
+📊 Summary: 1 analyzed | 1 changed | 0 failed to parse
+
+ℹ️  No non-HIGH paragraphs in drift_report_chapter0_2_acknowledgements_vs_chapter0_2_acknowledgements.csv — skipping.
+Analyzing 15 flagged paragraphs in drift_report_chapter6_chapter_6_faith_toward_god_vs_chapter6_chapter_6_faith_toward_god.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:02,  2.22s/it]
+Explaining differences: 2it [00:04,  2.29s/it]
+Explaining differences: 3it [00:06,  2.25s/it]
+Explaining differences: 4it [00:09,  2.50s/it]
+Explaining differences: 5it [00:12,  2.53s/it]
+Explaining differences: 6it [00:14,  2.46s/it]
+Explaining differences: 7it [00:16,  2.42s/it]
+Explaining differences: 8it [00:19,  2.40s/it]
+Explaining differences: 9it [00:20,  2.20s/it]
+Explaining differences: 10it [00:22,  2.07s/it]
+Explaining differences: 11it [00:24,  1.97s/it]
+Explaining differences: 12it [00:26,  2.07s/it]
+Explaining differences: 13it [00:28,  2.00s/it]
+Explaining differences: 14it [00:30,  2.02s/it]
+Explaining differences: 15it [00:32,  1.98s/it]
+Explaining differences: 15it [00:32,  2.17s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter6_chapter_6_faith_toward_god_vs_chapter6_chapter_6_faith_toward_god_explained.csv
+📊 Summary: 15 analyzed | 6 changed | 0 failed to parse
+
+ℹ️  No non-HIGH paragraphs in drift_report_chapter0_5_foreword_vs_chapter0_5_foreword.csv — skipping.
+Analyzing 4 flagged paragraphs in drift_report_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_vs_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.89s/it]
+Explaining differences: 2it [00:03,  1.98s/it]
+Explaining differences: 3it [00:06,  2.20s/it]
+Explaining differences: 4it [00:08,  1.98s/it]
+Explaining differences: 4it [00:08,  2.01s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/explained/drift_report_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_vs_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_explained.csv
+📊 Summary: 4 analyzed | 1 changed | 0 failed to parse
+
+🎉 All files processed.
+⚠️  Unknown model for tokenizer; using cl100k_base.
+
+📘 Processing table1.md...
+🧮 Auto batch size determined: 20 paragraphs per request (input budget ≈ 246400.0 tokens)
+🟦 Translating batch of 1 paragraphs (1/1)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/translation/tables/table1.md (1/1 translated)
+
+📘 Processing table10.md...
+🧮 Auto batch size determined: 20 paragraphs per request (input budget ≈ 246400.0 tokens)
+🟦 Translating batch of 1 paragraphs (1/1)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/translation/tables/table10.md (1/1 translated)
+
+📘 Processing table11.md...
+🧮 Auto batch size determined: 20 paragraphs per request (input budget ≈ 246400.0 tokens)
+🟦 Translating batch of 1 paragraphs (1/1)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/translation/tables/table11.md (1/1 translated)
+
+📘 Processing table12.md...
+🧮 Auto batch size determined: 20 paragraphs per request (input budget ≈ 246400.0 tokens)
+🟦 Translating batch of 1 paragraphs (1/1)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/translation/tables/table12.md (1/1 translated)
+
+📘 Processing table2.md...
+🧮 Auto batch size determined: 20 paragraphs per request (input budget ≈ 246400.0 tokens)
+🟦 Translating batch of 1 paragraphs (1/1)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/translation/tables/table2.md (1/1 translated)
+
+📘 Processing table3.md...
+🧮 Auto batch size determined: 20 paragraphs per request (input budget ≈ 246400.0 tokens)
+🟦 Translating batch of 1 paragraphs (1/1)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/translation/tables/table3.md (1/1 translated)
+
+📘 Processing table4.md...
+🧮 Auto batch size determined: 20 paragraphs per request (input budget ≈ 246400.0 tokens)
+🟦 Translating batch of 1 paragraphs (1/1)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/translation/tables/table4.md (1/1 translated)
+
+📘 Processing table5.md...
+🧮 Auto batch size determined: 20 paragraphs per request (input budget ≈ 246400.0 tokens)
+🟦 Translating batch of 1 paragraphs (1/1)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/translation/tables/table5.md (1/1 translated)
+
+📘 Processing table6.md...
+🧮 Auto batch size determined: 20 paragraphs per request (input budget ≈ 246400.0 tokens)
+🟦 Translating batch of 1 paragraphs (1/1)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/translation/tables/table6.md (1/1 translated)
+
+📘 Processing table7.md...
+🧮 Auto batch size determined: 20 paragraphs per request (input budget ≈ 246400.0 tokens)
+🟦 Translating batch of 1 paragraphs (1/1)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/translation/tables/table7.md (1/1 translated)
+
+📘 Processing table8.md...
+🧮 Auto batch size determined: 20 paragraphs per request (input budget ≈ 246400.0 tokens)
+🟦 Translating batch of 1 paragraphs (1/1)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/translation/tables/table8.md (1/1 translated)
+
+📘 Processing table9.md...
+🧮 Auto batch size determined: 20 paragraphs per request (input budget ≈ 246400.0 tokens)
+🟦 Translating batch of 1 paragraphs (1/1)...
+✅ Done: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/translation/tables/table9.md (1/1 translated)
+
+🎯 All files processed.

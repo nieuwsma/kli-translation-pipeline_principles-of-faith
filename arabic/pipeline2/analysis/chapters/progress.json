@@ -1,0 +1,152 @@
+{
+  "drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_0_intro.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter0_0_intro.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv",
+    "generated_at": "2026-01-30T14:15:58.721569"
+  },
+  "drift_report_chapter0_1_dedication_vs_chapter0_1_dedication.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_1_dedication.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter0_1_dedication.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter0_1_dedication_vs_chapter0_1_dedication.csv",
+    "generated_at": "2026-01-30T14:15:59.493938"
+  },
+  "drift_report_chapter0_2_acknowledgements_vs_chapter0_2_acknowledgements.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_2_acknowledgements.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter0_2_acknowledgements.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter0_2_acknowledgements_vs_chapter0_2_acknowledgements.csv",
+    "generated_at": "2026-01-30T14:16:00.838761"
+  },
+  "drift_report_chapter0_3_table_of_contents_vs_chapter0_3_table_of_contents.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_3_table_of_contents.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter0_3_table_of_contents.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter0_3_table_of_contents_vs_chapter0_3_table_of_contents.csv",
+    "generated_at": "2026-01-30T14:16:03.658271"
+  },
+  "drift_report_chapter0_4_list_of_tables_vs_chapter0_4_list_of_tables.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_4_list_of_tables.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter0_4_list_of_tables.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter0_4_list_of_tables_vs_chapter0_4_list_of_tables.csv",
+    "generated_at": "2026-01-30T14:16:04.998191"
+  },
+  "drift_report_chapter0_5_foreword_vs_chapter0_5_foreword.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_5_foreword.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter0_5_foreword.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter0_5_foreword_vs_chapter0_5_foreword.csv",
+    "generated_at": "2026-01-30T14:16:06.157176"
+  },
+  "drift_report_chapter0_6_preface_vs_chapter0_6_preface.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter0_6_preface.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter0_6_preface.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter0_6_preface_vs_chapter0_6_preface.csv",
+    "generated_at": "2026-01-30T14:16:10.685842"
+  },
+  "drift_report_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_vs_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_vs_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.csv",
+    "generated_at": "2026-01-30T14:16:16.783163"
+  },
+  "drift_report_chapter11_chapter_11_baptisms_water_and_spirit_vs_chapter11_chapter_11_baptisms_water_and_spirit.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter11_chapter_11_baptisms_water_and_spirit.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter11_chapter_11_baptisms_water_and_spirit.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter11_chapter_11_baptisms_water_and_spirit_vs_chapter11_chapter_11_baptisms_water_and_spirit.csv",
+    "generated_at": "2026-01-30T14:16:27.477193"
+  },
+  "drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter12_chapter_12_discipleship.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter12_chapter_12_discipleship.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship.csv",
+    "generated_at": "2026-01-30T14:16:35.744457"
+  },
+  "drift_report_chapter13_chapter_13_spiritual_authority_vs_chapter13_chapter_13_spiritual_authority.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter13_chapter_13_spiritual_authority.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter13_chapter_13_spiritual_authority.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter13_chapter_13_spiritual_authority_vs_chapter13_chapter_13_spiritual_authority.csv",
+    "generated_at": "2026-01-30T14:16:47.823033"
+  },
+  "drift_report_chapter14_back_1_postscript_vs_chapter14_back_1_postscript.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter14_back_1_postscript.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter14_back_1_postscript.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter14_back_1_postscript_vs_chapter14_back_1_postscript.csv",
+    "generated_at": "2026-01-30T14:16:49.041772"
+  },
+  "drift_report_chapter14_back_3_extended_reference_tables_vs_chapter14_back_3_extended_reference_tables.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter14_back_3_extended_reference_tables.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter14_back_3_extended_reference_tables.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter14_back_3_extended_reference_tables_vs_chapter14_back_3_extended_reference_tables.csv",
+    "generated_at": "2026-01-30T14:16:49.963549"
+  },
+  "drift_report_chapter14_back_4_end_of_chapter_activities_vs_chapter14_back_4_end_of_chapter_activities.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter14_back_4_end_of_chapter_activities.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter14_back_4_end_of_chapter_activities.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter14_back_4_end_of_chapter_activities_vs_chapter14_back_4_end_of_chapter_activities.csv",
+    "generated_at": "2026-01-30T14:17:15.150436"
+  },
+  "drift_report_chapter14_back_5_hearing_the_voice_of_god_vs_chapter14_back_5_hearing_the_voice_of_god.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter14_back_5_hearing_the_voice_of_god.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter14_back_5_hearing_the_voice_of_god.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter14_back_5_hearing_the_voice_of_god_vs_chapter14_back_5_hearing_the_voice_of_god.csv",
+    "generated_at": "2026-01-30T14:17:18.955938"
+  },
+  "drift_report_chapter14_chapter_14_keep_watch_vs_chapter14_chapter_14_keep_watch.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter14_chapter_14_keep_watch.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter14_chapter_14_keep_watch.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter14_chapter_14_keep_watch_vs_chapter14_chapter_14_keep_watch.csv",
+    "generated_at": "2026-01-30T14:17:26.246054"
+  },
+  "drift_report_chapter1_chapter_1_sound_doctrine_matters_vs_chapter1_chapter_1_sound_doctrine_matters.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter1_chapter_1_sound_doctrine_matters.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter1_chapter_1_sound_doctrine_matters.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter1_chapter_1_sound_doctrine_matters_vs_chapter1_chapter_1_sound_doctrine_matters.csv",
+    "generated_at": "2026-01-30T14:17:32.200731"
+  },
+  "drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter2_chapter_2_god_eternal_creator_and_loving_father.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter2_chapter_2_god_eternal_creator_and_loving_father.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father.csv",
+    "generated_at": "2026-01-30T14:17:39.118174"
+  },
+  "drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter3_chapter_3_sin_and_redemption.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter3_chapter_3_sin_and_redemption.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption.csv",
+    "generated_at": "2026-01-30T14:17:47.267345"
+  },
+  "drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter4_chapter_4_jesus_the_messiah.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter4_chapter_4_jesus_the_messiah.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah.csv",
+    "generated_at": "2026-01-30T14:17:54.540267"
+  },
+  "drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter5_chapter_5_repentance_from_dead_works.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter5_chapter_5_repentance_from_dead_works.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works.csv",
+    "generated_at": "2026-01-30T14:18:03.400096"
+  },
+  "drift_report_chapter6_chapter_6_faith_toward_god_vs_chapter6_chapter_6_faith_toward_god.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter6_chapter_6_faith_toward_god.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter6_chapter_6_faith_toward_god.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter6_chapter_6_faith_toward_god_vs_chapter6_chapter_6_faith_toward_god.csv",
+    "generated_at": "2026-01-30T14:18:12.221395"
+  },
+  "drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith.csv",
+    "generated_at": "2026-01-30T14:18:18.751393"
+  },
+  "drift_report_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_vs_chapter8_chapter_8_holy_spirit_comforter_guide_and_power.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_vs_chapter8_chapter_8_holy_spirit_comforter_guide_and_power.csv",
+    "generated_at": "2026-01-30T14:18:30.537136"
+  },
+  "drift_report_chapter9_chapter_9_the_church_our_role_in_it_vs_chapter9_chapter_9_the_church_our_role_in_it.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter9_chapter_9_the_church_our_role_in_it.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/backtranslation/chapters/chapter9_chapter_9_the_church_our_role_in_it.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter9_chapter_9_the_church_our_role_in_it_vs_chapter9_chapter_9_the_church_our_role_in_it.csv",
+    "generated_at": "2026-01-30T14:18:43.640322"
+  }
+}

@@ -1,0 +1,4 @@
+# Drift explanation generated 2026-01-30T14:25:39.853313
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/arabic/pipeline2/analysis/chapters/drift_report_chapter0_1_dedication_vs_chapter0_1_dedication.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"2","0.8955","MEDIUM","no","paraphrase","The back-translated paragraph retains the original meaning and intent, conveying the same message about God's faithfulness and grace associated with the name of the son, Zachariah/Zechariah.","To my son, Zachariah,  \\\\nwhose name is a reminder that ""The Lord has remembered us,"" a living testament to God's faithfulness and grace.","To my son، Zechariah،  \\\\nwhose name reminds us that ""the Lord has remembered us""، a living testimony to God's faithfulness and His grace."
