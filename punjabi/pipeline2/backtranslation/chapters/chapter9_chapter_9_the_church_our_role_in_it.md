@@ -184,3 +184,63 @@ Across the Christian world there are countless denominations, meetings, gatherin
 <!-- p59 -->
 3.1.  There must be no partiality between rich and poor (James 2).
 
+<!-- p60 -->
+3.2.  There is no distinction between Jew and Gentile, slave or free, male or female (<span class="x-scripture" data-book="GAL" data-chapter="3" data-lang="en" data-type="ref" data-verses="27-28" data-version="NKJV" dir="ltr" style="text-align: left;">Galatians 3:27-28</span>).
+
+<!-- p61 -->
+Beyond leadership rules, church structure is important, but much of it is situational and a matter of tradition rather than a universal command. “<u>We’ve always done it this way!</u>” is a popular saying; if you go far enough back, there was usually a good reason why they did it that way. It is generally neither good nor bad, but rather a matter of preference, needs, and availability.
+
+<!-- p62 -->
+A helpful example of tradition being the foundation for structure is family dinner time. The most important thing about family dinner time is that everyone eats and the food is nutritious. There is no limit to the variations: what they eat, how they eat, how they season their food, etc. Different combinations are generally acceptable and are largely a matter of taste and preference.
+
+<!-- p63 -->
+The needs and capacities of a church with 10,000 members are different from those of a church with 50 members. The pattern established in the Book of Acts and in the canon of the New Testament was the model of **elders** and **deacons**. Although leadership structures may look different across churches and denominations, ultimately this model represents the minimal functional structure of leadership for the church. Let’s look at these leadership offices and how they are chosen.
+
+<!-- p64 -->
+### Elders (overseers)
+
+<!-- p65 -->
+Roles and responsibilities:
+
+<!-- p66 -->
+- **Spiritual leadership** - Providing oversight, guidance, and pastoral care for the church (<span class="x-scripture" data-book="ACT" data-chapter="20" data-lang="en" data-type="ref" data-verses="28" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 20:28</span>; <span class="x-scripture" data-book="1PE" data-chapter="5" data-lang="en" data-type="ref" data-verses="2" data-version="NKJV" dir="ltr" style="text-align: left;">1 Peter 5:2</span>).
+
+<!-- p67 -->
+- **Teaching and preaching** - Responsible for teaching sound doctrine and guarding against false teaching (<span class="x-scripture" data-book="1TI" data-chapter="5" data-lang="en" data-type="ref" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 5:17</span>; <span class="x-scripture" data-book="TIT" data-chapter="1" data-lang="en" data-type="ref" data-verses="9" data-version="NKJV" dir="ltr" style="text-align: left;">Titus 1:9</span>).
+
+<!-- p68 -->
+- **Shepherding the flock** - Caring for the spiritual needs of the congregation, setting an example of humility and service (<span class="x-scripture" data-book="1PE" data-chapter="5" data-lang="en" data-type="ref" data-verses="2-3" data-version="NKJV" dir="ltr" style="text-align: left;">1 Peter 5:2-3</span>).
+
+<!-- p69 -->
+- **Protecting the church** - Serving as watchmen, protecting the church from false teaching and division (<span class="x-scripture" data-book="ACT" data-chapter="20" data-lang="en" data-type="ref" data-verses="29-31" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 20:29-31</span>).
+
+<!-- p70 -->
+- **Equipping the saints** - Training and equipping believers for works of ministry and discipleship (<span class="x-scripture" data-book="EPH" data-chapter="4" data-lang="en" data-type="ref" data-verses="11-12" data-version="NKJV" dir="ltr" style="text-align: left;">Ephesians 4:11-12</span>).
+
+<!-- p71 -->
+Selection process:
+
+<!-- p72 -->
+- **Appointed in every church** - Elders were appointed by the apostles or their representatives, often through prayer and fasting (<span class="x-scripture" data-book="ACT" data-chapter="14" data-lang="en" data-type="ref" data-verses="23" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 14:23</span>; <span class="x-scripture" data-book="TIT" data-chapter="1" data-lang="en" data-type="ref" data-verses="5" data-version="NKJV" dir="ltr" style="text-align: left;">Titus 1:5</span>).
+
+<!-- p73 -->
+- **Affirmed by the Holy Spirit** - Their appointment was considered Spirit-led, recognizing God’s call and gifts (<span class="x-scripture" data-book="ACT" data-chapter="20" data-lang="en" data-type="ref" data-verses="28" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 20:28</span>).
+
+<!-- p74 -->
+- **Tested and approved** - Candidates had to demonstrate maturity and faithfulness before being entrusted with leadership (<span class="x-scripture" data-book="1TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 3:10</span>)। They must not be recent converts! ((<span class="x-scripture" data-book="1TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="6" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 3:6</span>)
+
+<!-- p75 -->
+### Deacons (servants)
+
+<!-- p76 -->
+Roles and responsibilities:
+
+<!-- p77 -->
+- **Practical service** - Focused on meeting physical needs in the church, so that the elders can focus on prayer and teaching (<span class="x-scripture" data-book="ACT" data-chapter="6" data-lang="en" data-type="ref" data-verses="1-4" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 6:1-4</span>).
+
+<!-- p78 -->
+- **Supportive ministry** - Helping with hospitality, care for the poor, and administrative tasks (<span class="x-scripture" data-book="ACT" data-chapter="6" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 6:3</span>).
+
+<!-- p79 -->
+- **Promoting unity** - Addressing issues of fairness and care to prevent division (<span class="x-scripture" data-book="ACT" data-chapter="6" data-lang="en" data-type="ref" data-verses="1-7" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 6:1-7</span>).
+
