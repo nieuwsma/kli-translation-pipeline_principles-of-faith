@@ -431,3 +431,63 @@ Begin by **seeking God’s guidance through prayer**. God is the ultimate source
 <!-- p139 -->
 **Study God’s Word** so that your understanding of the church’s mission and your role in it deepens. Key passages like 1 Corinthians 12 and <span class="x-scripture" data-book="EPH" data-chapter="4" data-lang="en" data-type="ref" data-verses="11-12" data-version="NKJV" dir="ltr" style="text-align: left;">Ephesians 4:11-12</span> highlight the diversity of spiritual gifts and roles in the body of Christ. Reflect on examples of people in Scripture who discovered and fulfilled their roles, such as Paul, Timothy, and Lydia.
 
+<!-- p140 -->
+#### Step 2 - Identify your gifts, desires, and skills
+
+<!-- p141 -->
+Identifying your **spiritual gifts** is an essential step. You may find it helpful to take a spiritual gifts assessment. These gifts have been given by God to build up the Church. The New Testament provides a list of gifts in various categories:
+
+<!-- p142 -->
+- **Motivational gifts** given by God: <span class="x-scripture" data-book="ROM" data-chapter="12" data-lang="en" data-type="ref" data-verses="6-8" data-version="NKJV" dir="ltr" style="text-align: left;">Romans 12:6-8</span>
+
+<!-- p143 -->
+- This list is discussed below.
+
+<!-- p144 -->
+- The fivefold ministry gifts given by Jesus: <span class="x-scripture" data-book="EPH" data-chapter="4" data-lang="en" data-type="ref" data-verses="11-13" data-version="NKJV" dir="ltr" style="text-align: left;">Ephesians 4:11-13</span>
+
+<!-- p145 -->
+- Already discussed in this chapter.
+
+<!-- p146 -->
+- The revelatory gifts given by the Holy Spirit: <span class="x-scripture" data-book="1CO" data-chapter="12" data-lang="en" data-type="ref" data-verses="8-10" data-version="NKJV" dir="ltr" style="text-align: left;">1 Corinthians 12:8-10</span>
+
+<!-- p147 -->
+- Discussed in the chapter on baptism.
+
+<!-- p148 -->
+**Motivational gifts** reflect how a believer tends to think, feel, and act. They encourage believers to serve in specific ways that build up the Church. Each gift complements the others, so that the Church operates as a unified body with diverse roles (<span class="x-scripture" data-book="ROM" data-chapter="12" data-lang="en" data-type="ref" data-verses="4-5" data-version="NKJV" dir="ltr" style="text-align: left;">Romans 12:4-5</span>). They function as grace-given abilities (Greek: ***charis** - khar'-ece - **G5463 -** an unearned gift*), meaning they are given by God, not earned or learned. Although the gifts are from God, the one who has a gift can become more proficient in its use.
+
+<!-- p149 -->
+The motivational gifts are:
+
+<!-- p150 -->
+1.  **Prophecy** - A God-given tendency to boldly declare truth, often with a focus on conviction and righteousness, guiding others to align with God’s Word.\*
+
+<!-- p151 -->
+2.  **Service (Helps)** - Meets practical needs to support others through acts of service and assistance.
+
+<!-- p152 -->
+3.  **Teaching** - Interprets and clarifies truth, helping others understand and apply God’s Word.
+
+<!-- p153 -->
+4.  **Exhortation (Encouragement)** - Inspires growth and perseverance, encourages, and comforts.
+
+<!-- p154 -->
+5.  **Giving** - Provides resources generously, without seeking recognition, to meet needs and advance God’s work.
+
+<!-- p155 -->
+6.  **Leadership (Administration)** - Organizes and directs others to achieve goals with vision and efficiency.
+
+<!-- p156 -->
+7.  **Mercy** - Shows compassion and care to comfort and support those who are suffering or in need.
+
+<!-- p157 -->
+\* Prophecy as used in the context of Romans is understood differently from prophecy as a revelatory gift of the Holy Spirit (1 Corinthians). Although the same Greek word is used in both passages, the context differs. For deeper study of this distinction, I recommend reading:
+
+<!-- p158 -->
+- *The Gift of Prophecy* by Kenneth E. Hagin ([www.rhema.org](http://www.rhema.org))
+
+<!-- p159 -->
+<!-- -->
+
