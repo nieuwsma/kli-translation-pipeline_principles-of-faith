@@ -304,3 +304,295 @@ Ao contrário das correções de Paulo aos Coríntios e Gálatas, as Escrituras 
 <!-- p99 -->
 Ao longo dessas passagens, certos termos são usados que ainda não definimos e estudamos: *apóstolo, profeta, evangelista*. Esses dons fazem parte do ministério quíntuplo que Jesus deu à igreja.
 
+<!-- p100 -->
+### Os cinco dons ministeriais
+
+<!-- p101 -->
+Jesus estabeleceu cinco dons ministeriais distintos, frequentemente chamados de **os cinco dons ministeriais**, para capacitar os crentes para o serviço e edificar o Corpo de Cristo.
+
+<!-- p102 -->
+<span class="x-scripture" data-book="EPH" data-chapter="4" data-lang="en" data-type="quote" data-verses="11-13" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p103 -->
+> **<u>Efésios 4:11-13</u>** (NKJV)
+>
+> E Ele mesmo concedeu uns para apóstolos, outros para profetas, outros para evangelistas e outros para pastores e mestres,
+>
+> com vista ao aperfeiçoamento dos santos para a obra do ministério, para a edificação do corpo de Cristo,
+>
+> até que todos cheguemos à unidade da fé e do conhecimento do Filho de Deus, a homem perfeito, à medida da estatura da plenitude de Cristo;
+>
+
+<!-- p104 -->
+</span>
+
+<!-- p105 -->
+Os cinco dons dados para capacitar os santos para a obra do ministério são:
+
+<!-- p106 -->
+1.  **Apóstolos** - Pioneiros e visionários que estabelecem fundamentos, plantam igrejas e avançam o Reino de Deus (<span class="x-scripture" data-book="EPH" data-chapter="2" data-lang="en" data-type="ref" data-verses="20" data-version="NKJV" dir="ltr" style="text-align: left;">Efésios 2:20</span>). Os apóstolos modelam ousadia e fé, demonstrando como avançar em novos territórios e tomar iniciativa espiritual.
+
+<!-- p107 -->
+2.  **Profetas** - Mensageiros e guias que proclamam a verdade de Deus, trazendo encorajamento, edificação e direção (<span class="x-scripture" data-book="1CO" data-chapter="14" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV" dir="ltr" style="text-align: left;">1 Coríntios 14:3</span>). Os profetas inspiram fé, conclamam outros a alinharem-se à Palavra de Deus e demonstram dependência de ouvir a voz de Deus.
+
+<!-- p108 -->
+3.  **Evangelistas** - Proclamadores do Evangelho que se concentram em alcançar os perdidos e instigar outros à ação no compartilhar de Cristo (<span class="x-scripture" data-book="ACT" data-chapter="8" data-lang="en" data-type="ref" data-verses="5-8" data-version="NKJV" dir="ltr" style="text-align: left;">Atos 8:5-8</span>). Os evangelistas ensinam os discípulos a compartilhar sua fé de forma eficaz, modelam ousadia no testemunho e inspiram compaixão pelos perdidos.
+
+<!-- p109 -->
+4.  **Pastores (apacentadores)** - Zeladores e nutridores que protegem, guiam e provêm supervisão espiritual para a igreja (<span class="x-scripture" data-book="ACT" data-chapter="20" data-lang="en" data-type="ref" data-verses="28" data-version="NKJV" dir="ltr" style="text-align: left;">Atos 20:28</span>). Os pastores ensinam aos discípulos a importância da comunidade, do cuidado pelos outros e da prestação de contas dentro do corpo de Cristo.
+
+<!-- p110 -->
+5.  **Mestres** - Instrutores e treinadores que esclarecem a doutrina e ajudam os crentes a crescer no entendimento e na aplicação da Palavra de Deus (<span class="x-scripture" data-book="2TI" data-chapter="2" data-lang="en" data-type="ref" data-verses="15" data-version="NKJV" dir="ltr" style="text-align: left;">2 Timóteo 2:15</span>). Os mestres capacitam os discípulos a estudar as Escrituras profundamente, aplicá-las em sua vida diária e ensinar outros de forma eficaz.
+
+<!-- p111 -->
+## Liderança versus dons
+
+<!-- p112 -->
+Um aspecto comumente mal compreendido da liderança na igreja é a separação entre a autoridade e a responsabilidade da liderança e os dons específicos.
+
+<!-- p113 -->
+Essa confusão gira em torno do nosso uso de palavras como mestre, pastor, profeta, apóstolo, evangelista. Essas palavras são dons. Não há um **ofício** de ‘apóstolo’ na igreja do Novo Testamento. Há pessoas que fazem a obra de um apóstolo, que têm o dom ou o chamado de apóstolo. Ter o dom de apóstolo não lhes confere autoridade ou responsabilidade.
+
+<!-- p114 -->
+Sou um músico habilidoso; toco saxofone há mais de 20 anos. Toquei durante a escola e a faculdade e toquei semiprofissionalmente por vários verões enquanto trabalhava com uma equipe evangelística. Apesar de eu ter a habilidade, o dom e a capacidade de ser saxofonista, não tenho o direito de entrar na sua igreja e subir ao palco com a equipe de louvor.
+
+<!-- p115 -->
+Da mesma forma, há pessoas dotadas para ser pastor/apacentador, mas isso não as torna ‘O PASTOR’ da igreja local nem as torna ‘seu’ pastor. Os cinco dons ministeriais não dirigem a igreja, os líderes (presbíteros e diáconos) dirigem. É muito comum que líderes tenham dons ministeriais específicos entre os cinco, mas esse dom aprimora sua liderança, não a cria. Da mesma forma, é comum que pessoas ainda em desenvolvimento com dons entre os cinco ministeriais sirvam e aspirem à liderança, mas Deus se interessa primeiro pelo caráter, depois pelos dons. Todos nós devemos nos tornar maduros, capazes de discernir a Palavra de Deus, cheios do Espírito e praticando boas obras.
+
+<!-- p116 -->
+Todo líder e todo dom devem primeiro submeter-se a ser discípulo, sendo parte do corpo.
+
+<!-- p117 -->
+Jesus deu dons ministeriais específicos para o aperfeiçoamento dos santos para a obra do ministério. Estes são diferentes dos dons motivacionais (discutidos mais adiante neste capítulo) ou dons de manifestação (discutidos no capítulo sobre os batismos). À medida que os discípulos crescem, os cinco dons ministeriais os capacitam para o ministério, enquanto presbíteros e diáconos fornecem supervisão para assegurar sã doutrina e prática.
+
+<!-- p118 -->
+## Seu papel na igreja
+
+<!-- p119 -->
+Até aqui neste capítulo nós cobrimos a liderança da igreja e as analogias centrais para a igreja. Vamos desenvolver a analogia específica de *o corpo* e considerar um maratonista.
+
+<!-- p120 -->
+### Você é parte do todo
+
+<!-- p121 -->
+A igreja, como o Corpo de Cristo, depende de que cada membro trabalhe junto para cumprir sua missão. Assim como o corpo não pode funcionar adequadamente se uma parte estiver faltando, a igreja precisa que cada crente participe ativamente, cresça e sirva. Cada membro do corpo tem um papel muito importante. Fazer parte do corpo significa permanecer conectado. Um corpo pode sobreviver com capacidade reduzida sem um membro, mas o membro em si não pode viver quando separado do corpo. Devemos ser uma parte ativa da igreja e não nos tornar desmembrados. <span class="x-scripture" data-book="HEB" data-chapter="10" data-lang="en" data-type="ref" data-verses="24" data-version="NKJV" dir="ltr" style="text-align: left;">Hebreus 10:24</span> diz que devemos nos reunir e não abandonar a assembleia.
+
+<!-- p122 -->
+Para realmente trabalhar e funcionar juntos, vocês precisam de comunhão! Você precisa conhecer os outros, amar os outros e, idealmente, gostar dos outros! Construa relacionamentos e amizades fortes e repare-os quando ficarem sob estresse ou lesionados. Quando uma articulação se machuca ou inflama, você precisa trabalhar para repousá-la e ou recolocá-la; para que a articulação que está deslocada não acabe quebrando! Um membro quebrado e que não cicatriza acabará sendo separado, e você não pode ser parte do corpo, sozinho.
+
+<!-- p123 -->
+Nós nem todos temos a mesma função. Alguns de nós podem compartilhar o Evangelho de um palco, outros ao redor de uma mesa de jantar. Mas TODOS somos chamados a ser ministros da reconciliação (<span class="x-scripture" data-book="2CO" data-chapter="5" data-lang="en" data-type="ref" data-verses="18-19" data-version="NKJV" dir="ltr" style="text-align: left;">2 Coríntios 5:18-19</span>). Todos fomos recebidos no sacerdócio de todos os crentes (<span class="x-scripture" data-book="1PE" data-chapter="2" data-lang="en" data-type="ref" data-verses="9" data-version="NKJV" dir="ltr" style="text-align: left;">1 Pedro 2:9</span>, <span class="x-scripture" data-book="REV" data-chapter="1" data-lang="en" data-type="ref" data-verses="6" data-version="NKJV" dir="ltr" style="text-align: left;">Apocalipse 1:6</span>). Isso significa que todos devemos ser capazes de fazer a obra do ministério pelo poder do Espírito Santo.
+
+<!-- p124 -->
+Os dedos dos pés trabalham com os pés, os pés com os tornozelos, e assim por diante-cada parte contribuindo para a missão como um todo. Maratonistas precisam treinar se querem conseguir completar a corrida. Você precisa estar pronto-não apenas aprendendo, mas praticando de fato o que aprendeu. A igreja, como um maratonista, floresce quando cada membro desempenha seu papel em uníssono.
+
+<!-- p125 -->
+Há um grande número de pessoas na sua vida que só você possivelmente pode alcançar. O Pastor não pode ser o único tentando pastoreá-los, e o Evangelista não pode ser o único tentando alcançá-los. Deus quer usar você para alcançar os incrédulos pelo poder do Seu Espírito Santo. Todos fazemos a obra do ministério; o Espírito Santo nos ajuda.
+
+<!-- p126 -->
+### Você precisa de treinamento
+
+<!-- p127 -->
+Os crentes devem treinar e se capacitar para seus papéis únicos na igreja, assim como um corredor fortalece músculos específicos para a corrida. Você não terá sucesso se entrar em uma maratona sem ter treinado, e nem todo treinamento é igual, você precisa estar adequadamente preparado para a corrida. Jesus deu dons ministeriais específicos para capacitar os crentes, não para fazerem todo o trabalho sozinhos, mas para habilitar cada membro a servir com eficácia em seus papéis únicos.
+
+<!-- p128 -->
+Treinar para uma maratona trará transformação. Você precisa de força e precisa se transformar. É nossa responsabilidade nos submeter a Deus e deixá-lo nos transformar em renovação (<span class="x-scripture" data-book="ROM" data-chapter="12" data-lang="en" data-type="ref" data-verses="1-2" data-version="NKJV" dir="ltr" style="text-align: left;">Romanos 12:1-2</span>). A transformação deve conduzi-lo à maturidade, capacitando-o a carregar seus próprios fardos e a apoiar outros. Você deve ser capaz de dar MUITO fruto. Isso será discutido extensamente no capítulo sobre santificação.
+
+<!-- p129 -->
+Treinar é difícil, às vezes é desconfortável. Às vezes, a transformação pela qual você precisa passar você preferiria muito pular. Mas, se você quer alcançar o objetivo, precisa permanecer no caminho estreito. Em certos momentos, você pode precisar de advertência, consolo ou apoio-tudo oferecido com paciência (<span class="x-scripture" data-book="1TH" data-chapter="5" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV" dir="ltr" style="text-align: left;">1 Tessalonicenses 5:14</span>).
+
+<!-- p130 -->
+Todo grande maratonista tem um treinador para treiná-lo, você precisará de um treinador para ajudá-lo. Claro, você tem o Espírito Santo, mas Ele frequentemente conta com Seus treinadores, os homens e mulheres de Deus maduros, no Corpo de Cristo com os quais você é chamado a trabalhar lado a lado.
+
+<!-- p131 -->
+Como indivíduos, precisamos nos submeter, em primeiro lugar, a Deus e, em segundo lugar, neste contexto, a um corpo de crentes. Submissão na igreja significa honrar a liderança piedosa (<span class="x-scripture" data-book="HEB" data-chapter="13" data-lang="en" data-type="ref" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">Hebreus 13:17</span>) e submeter-nos uns aos outros em humildade (<span class="x-scripture" data-book="EPH" data-chapter="5" data-lang="en" data-type="ref" data-verses="21" data-version="NKJV" dir="ltr" style="text-align: left;">Efésios 5:21</span>).
+
+<!-- p132 -->
+A submissão pode ser difícil, especialmente quando você já experimentou confiança quebrada ou liderança falha anteriormente. Isso não implica obediência cega ou controle, mas reflete um espírito de reverência e cooperação. A submissão mundana é exigida pelos que estão em autoridade e pode ser degradante e levar ao ressentimento. A submissão bíblica, enraizada em humildade e discernimento, fortalece a igreja e promove prestação de contas. Esteja disposto a ouvir orientação e feedback construtivo.
+
+<!-- p133 -->
+Agora que estabelecemos uma base sólida - você é uma parte significativa do corpo, mas precisa de treinamento - vamos nos dedicar a descobrir onde você se encaixa.
+
+<!-- p134 -->
+### Encontrando onde você se encaixa
+
+<!-- p135 -->
+Encontrar seu papel na igreja envolve buscar a direção de Deus, compreender seus dons espirituais e envolver-se ativamente com sua comunidade da igreja. É uma jornada de oração, exploração e crescimento, na qual você descobre como Deus o capacitou de forma única para contribuir para o Seu reino. É muito importante observar que seu papel na igreja provavelmente mudará ao longo do tempo e não será o mesmo durante toda a sua vida.
+
+<!-- p136 -->
+Aqui está uma abordagem prática para ajudá-lo a encontrar o seu lugar, elas são apresentadas como uma série de passos para maior clareza, mas você provavelmente repetirá o mesmo passo várias vezes ao longo da sua caminhada com Deus.
+
+<!-- p137 -->
+#### Passo 1 - Busque a direção de Deus por meio da oração e da Palavra
+
+<!-- p138 -->
+Comece **buscando a direção de Deus por meio da oração**. Deus é a fonte suprema do seu propósito e chamado (<span class="x-scripture" data-book="JER" data-chapter="29" data-lang="en" data-type="ref" data-verses="11" data-version="NKJV" dir="ltr" style="text-align: left;">Jeremias 29:11</span>). Ore regularmente por clareza sobre como você pode servir na igreja, pedindo a Ele que revele seus dons e paixões espirituais. Confie que Ele dirigirá os seus passos à medida que você render seus planos à vontade dEle (<span class="x-scripture" data-book="PRO" data-chapter="3" data-lang="en" data-type="ref" data-verses="5-6" data-version="NKJV" dir="ltr" style="text-align: left;">Provérbios 3:5-6</span>).
+
+<!-- p139 -->
+**Estude a Palavra de Deus** para aprofundar seu entendimento da missão da igreja e do seu papel dentro dela. Passagens-chave como 1 Coríntios 12 e <span class="x-scripture" data-book="EPH" data-chapter="4" data-lang="en" data-type="ref" data-verses="11-12" data-version="NKJV" dir="ltr" style="text-align: left;">Efésios 4:11-12</span> destacam os dons espirituais e a diversidade de papéis no Corpo de Cristo. Reflita sobre exemplos de pessoas nas Escrituras que descobriram e cumpriram seus papéis, como Paulo, Timóteo e Lídia.
+
+<!-- p140 -->
+#### Etapa 2 - Identifique seus dons, paixões e habilidades
+
+<!-- p141 -->
+Identificar seus **dons espirituais** é uma etapa essencial. Talvez você ache útil fazer uma avaliação de dons espirituais. Esses dons são dados por Deus para edificar a igreja. Há várias classes de dons listadas no Novo Testamento:
+
+<!-- p142 -->
+- **Dons Motivacionais** dados por Deus: <span class="x-scripture" data-book="ROM" data-chapter="12" data-lang="en" data-type="ref" data-verses="6-8" data-version="NKJV" dir="ltr" style="text-align: left;">Romanos 12:6-8</span>
+
+<!-- p143 -->
+- Discutidos após esta lista.
+
+<!-- p144 -->
+- Dons do Ministério Quíntuplo dados por Jesus: <span class="x-scripture" data-book="EPH" data-chapter="4" data-lang="en" data-type="ref" data-verses="11-13" data-version="NKJV" dir="ltr" style="text-align: left;">Efésios 4:11-13</span>
+
+<!-- p145 -->
+- Discutidos anteriormente neste capítulo.
+
+<!-- p146 -->
+- Dons de Manifestação dados pelo Espírito Santo: <span class="x-scripture" data-book="1CO" data-chapter="12" data-lang="en" data-type="ref" data-verses="8-10" data-version="NKJV" dir="ltr" style="text-align: left;">1 Coríntios 12:8-10</span>
+
+<!-- p147 -->
+- Discutidos no capítulo sobre o batismo.
+
+<!-- p148 -->
+Os **dons motivacionais** refletem como um crente é estruturado para pensar, sentir e agir. Eles motivam os crentes a servir de maneiras específicas que edificam a igreja. Cada dom complementa os outros, garantindo que a igreja opere como um corpo unificado com funções diversas (<span class="x-scripture" data-book="ROM" data-chapter="12" data-lang="en" data-type="ref" data-verses="4-5" data-version="NKJV" dir="ltr" style="text-align: left;">Romanos 12:4-5</span>). Eles operam como habilidades concedidas pela graça (Grego: ***charis** - khar'-ece - **G5463 -** um dom não merecido*), o que significa que são dados por Deus, não conquistados nem aprendidos. Embora os dons venham de Deus, a pessoa que tem um dom pode tornar-se mais proficiente em usá-lo.
+
+<!-- p149 -->
+Os dons motivacionais são:
+
+<!-- p150 -->
+1.  **Profecia** - Uma inclinação dada por Deus para declarar a verdade com ousadia, frequentemente com foco em convicção e justiça, guiando os outros a se alinhar com a Palavra de Deus.\*
+
+<!-- p151 -->
+2.  **Serviço (Socorros)** - Atende a necessidades práticas por meio de atos de serviço e assistência para apoiar os outros.
+
+<!-- p152 -->
+3.  **Ensino** - Explica e esclarece a verdade, ajudando os outros a entender e aplicar a Palavra de Deus.
+
+<!-- p153 -->
+4.  **Exortação (Encorajamento)** - Motiva, encoraja e conforta os outros para inspirar crescimento e perseverança.
+
+<!-- p154 -->
+5.  **Contribuição** - Fornece recursos generosamente para suprir necessidades e avançar a obra de Deus sem buscar reconhecimento.
+
+<!-- p155 -->
+6.  **Liderança (Administração)** - Organiza e dirige os outros para alcançar objetivos com visão e eficiência.
+
+<!-- p156 -->
+7.  **Misericórdia** - Demonstra compaixão e cuidado para confortar e apoiar os que estão feridos ou necessitados.
+
+<!-- p157 -->
+\* A profecia usada no contexto de Romanos é entendida como diferente da profecia como dom de manifestação do Espírito Santo (1 Coríntios). A palavra grega usada é a mesma em ambas as passagens, mas o contexto é diferente. Para um estudo mais aprofundado da diferença, recomendo a leitura de:
+
+<!-- p158 -->
+- *O Dom de Profecia* de Kenneth E. Hagin ([www.rhema.org](http://www.rhema.org))
+
+<!-- p159 -->
+<!-- -->
+
+<!-- p160 -->
+- *Os Dons e Ministérios do Espírito Santo* por Lester Sumrall
+
+<!-- p161 -->
+À medida que você identifica seus dons, considere suas **paixões e habilidades**. Deus frequentemente nos chama a servir em áreas pelas quais somos apaixonados ou nas quais temos habilidade (<span class="x-scripture" data-book="EXO" data-chapter="31" data-lang="en" data-type="ref" data-verses="2-6" data-version="NKJV" dir="ltr" style="text-align: left;">Êxodo 31:2-6</span>). Reflita sobre o que o entusiasma em servir a Deus e ao próximo e pense em como suas habilidades profissionais, hobbies e experiências de vida podem contribuir para o ministério.
+
+<!-- p162 -->
+Busque orientação de **líderes e mentores** que possam oferecer sabedoria e discernimento (<span class="x-scripture" data-book="PRO" data-chapter="15" data-lang="en" data-type="ref" data-verses="22" data-version="NKJV" dir="ltr" style="text-align: left;">Provérbios 15:22</span>). Reúna-se com um pastor ou líder de ministério para discutir seus interesses e peça um feedback honesto sobre onde você pode se encaixar melhor. Ore sobre o feedback que você receber. Considere participar de um grupo de discipulado para receber treinamento e apoio contínuos.
+
+<!-- p163 -->
+#### Passo 3 - Seja fiel agora
+
+<!-- p164 -->
+A parábola dos talentos (<span class="x-scripture" data-book="MAT" data-chapter="25" data-lang="en" data-type="ref" data-verses="14-30" data-version="NKJV" dir="ltr" style="text-align: left;">Mateus 25:14-30</span>) nos lembra que precisamos ser fiéis no pouco para sermos confiados no muito (<span class="x-scripture" data-book="LUK" data-chapter="16" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">Lucas 16:10</span>).
+
+<!-- p165 -->
+**Envolva-se e sirva** em vários ministérios para explorar onde Deus está chamando você. Comece de forma modesta, voluntariando-se em áreas de necessidade em sua igreja e nos ministérios que ela apoia. Por exemplo:
+
+<!-- p166 -->
+- Junte-se à equipe de acolhimento, ao ministério infantil ou a programas de alcance. Considere liderar um grupo voltado para o discipulado para novos crentes sobre este livro *Princípios da Fé,* usando as perguntas de discussão em grupo e as atividades ao final de cada capítulo para facilitar o diálogo.
+
+<!-- p167 -->
+- Esteja aberto a sair da sua zona de conforto para descobrir novas oportunidades.
+
+<!-- p168 -->
+- Observe onde Deus atua através de você e onde você se sente mais eficaz.
+
+<!-- p169 -->
+Pratique a doação. Podemos dar à igreja de muitas maneiras importantes, e somos instruídos a fazê-lo para cumprir a missão.
+
+<!-- p170 -->
+- Tempo - podemos doar nosso tempo e nos voluntariar. Ao doar nosso tempo, empregamos nossos esforços e talentos. Isso também pode ser uma ótima maneira de aprender novas habilidades e aprimorar as que já temos.
+
+<!-- p171 -->
+- Recursos - podemos doar dos nossos recursos. Mais comumente hoje, isso provavelmente é contribuir financeiramente para a igreja e para ministérios (não apenas a “instituição”, mas os necessitados na igreja). Contribuir com dinheiro é útil, porque a igreja pode comprar recursos necessários com ele, mas as pessoas têm doado seus recursos materiais além do dinheiro, por exemplo casas extras, roupas, carros, alimentos, materiais de construção, ferramentas, etc. Em <span class="x-scripture" data-book="ACT" data-chapter="4" data-lang="en" data-type="ref" data-verses="32-35" data-version="NKJV" dir="ltr" style="text-align: left;">Atos 4:32-35</span> vemos um exemplo dos primeiros crentes dando livremente, compartilhando o produto da venda de terras e casas extras e contribuindo para que ‘ninguém tivesse necessidade’.
+
+<!-- p172 -->
+Trabalhar ao lado de outros no ministério pode revelar seus pontos fortes e aprofundar seu entendimento do seu papel. Participe de pequenos grupos ou atividades da igreja para fomentar conexões. Ouça os fardos e as necessidades dos que estão ao seu redor e considere como você pode apoiá-los. Construir relacionamentos dentro da igreja ajuda você a se conectar com os outros e a entender as necessidades da comunidade.
+
+<!-- p173 -->
+#### Passo 4 - Busque ajuda!
+
+<!-- p174 -->
+Jesus disse que na vida teríamos aflições! (<span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="en" data-type="ref" data-verses="33" data-version="NKJV" dir="ltr" style="text-align: left;">João 16:33</span>) Somos encorajados a não carregar o peso de nossos fardos sozinhos, mas a lançá-los sobre Deus, que cuida de nós! (<span class="x-scripture" data-book="1PE" data-chapter="5" data-lang="en" data-type="ref" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">1 Pedro 5:7</span>)
+
+<!-- p175 -->
+Às vezes, em nossa jornada, podemos ficar feridos. Corredores de maratona, mesmo fazendo “tudo certo”, podem forçar seus corpos a ponto de se machucarem, ou podem tropeçar e cair.
+
+<!-- p176 -->
+Nem toda ‘queda’ está relacionada ao pecado, mas parte dela está; nem toda fraqueza é ‘nossa culpa’, às vezes outros pecarão contra nós. Independentemente da causa de nossa fraqueza ou ferimento, devemos ser restaurados e curados.
+
+<!-- p177 -->
+Há grande liberdade em buscar cura interior e restauração. Somos chamados a cobrir as partes vulneráveis do corpo (<span class="x-scripture" data-book="1CO" data-chapter="12" data-lang="en" data-type="ref" data-verses="23" data-version="NKJV" dir="ltr" style="text-align: left;">1 Coríntios 12:23</span>) e a restaurar os que são apanhados em transgressões (<span class="x-scripture" data-book="GAL" data-chapter="6" data-lang="en" data-type="ref" data-verses="1" data-version="NKJV" dir="ltr" style="text-align: left;">Gálatas 6:1</span>).
+
+<!-- p178 -->
+Há muito a dizer sobre esse tema, e exploramos os temas da cura como uma visão geral no capítulo sobre santificação.
+
+<!-- p179 -->
+#### Passo 5 - Seja paciente
+
+<!-- p180 -->
+Preste atenção à confirmação de Deus e dos outros. Muitas vezes, Deus confirma seu chamado por meio de frutificação, alegria e afirmação das pessoas ao seu redor. Reflita sobre onde seus esforços têm dado fruto e ouça o feedback sobre o impacto do ministério. Isso pode ajudar você a reconhecer onde é mais eficaz ao servir o Corpo de Cristo.
+
+<!-- p181 -->
+Seja paciente e confie no tempo de Deus. Descobrir seu papel pode levar tempo e envolver tentativa e erro (<span class="x-scripture" data-book="PHP" data-chapter="1" data-lang="en" data-type="ref" data-verses="6" data-version="NKJV" dir="ltr" style="text-align: left;">Filipenses 1:6</span>). Confie que Deus guiará você enquanto você permanece fiel e aberto à Sua direção. Durante esse período, comprometa-se com o crescimento e o preparo, participando de oficinas, estudos bíblicos e outros recursos que capacitam você para o serviço. Faça isso com a igreja; envolva-se com o Corpo de Cristo para descobrir seus dons.
+
+<!-- p182 -->
+Lembre-se: a igreja não é um prédio nem uma instituição; é um corpo vivo e pulsante, formado por pessoas como você. Ao assumir seu papel, você contribui para sua missão e glorifica Cristo como seu cabeça.
+
+<!-- p183 -->
+## Perguntas para Reflexão Pessoal
+
+<!-- p184 -->
+1.  O que significa para você, pessoalmente, ser alguém “chamado para fora”? Como você pode viver essa identidade em sua vida diária?
+
+<!-- p185 -->
+2.  Qual das imagens bíblicas da igreja (Corpo, Noiva, Templo etc.) mais ressoa com você? Por quê?
+
+<!-- p186 -->
+3.  Reflita sobre o seu papel no Corpo de Cristo. Quais dons, talentos ou paixões Deus deu a você para servir à Sua igreja?
+
+<!-- p187 -->
+4.  Como fazer parte de uma igreja local fortalece sua fé e ajuda você a cumprir a missão de Deus?
+
+<!-- p188 -->
+5.  Que passos você pode dar para promover unidade, responsabilidade mútua e crescimento em sua comunidade de igreja?
+
+<!-- p189 -->
+## Perguntas para Discussão em Grupo (20-30 minutos)
+
+<!-- p190 -->
+1.  **Pergunta de Quebra-gelo:** “Qual é a sua lembrança mais antiga de frequentar ou fazer parte de uma igreja? Como sua visão sobre a igreja mudou ao longo do tempo?”
+
+<!-- p191 -->
+2.  **Explorando a Igreja como o Corpo de Cristo:** Leia <span class="x-scripture" data-book="1CO" data-chapter="12" data-lang="en" data-type="ref" data-verses="12-27" data-version="NKJV" dir="ltr" style="text-align: left;">1 Coríntios 12:12-27</span>. O que essa passagem nos ensina sobre a unidade e a diversidade da igreja? Como podemos celebrar e honrar as diferenças uns dos outros?
+
+<!-- p192 -->
+3.  **A Missão da Igreja:** Como a igreja cumpre seus propósitos para cima (adoração), para dentro (edificação) e para fora (evangelismo)? Em qual área você sente maior chamado para participar?
+
+<!-- p193 -->
+4.  **Lidando com Conflito e Crescimento:** <span class="x-scripture" data-book="HEB" data-chapter="12" data-lang="en" data-type="ref" data-verses="12-17" data-version="NKJV" dir="ltr" style="text-align: left;">Hebreus 12:12-17</span> nos chama a fortalecer uns aos outros e evitar amargura. Como podemos lidar com divisão ou feridas dentro da igreja de maneiras que promovam cura e unidade?
+
+<!-- p194 -->
+5.  **Encontrando o Seu Lugar:** Pense em uma ocasião em que você se sentiu mais conectado à sua igreja. Quais fatores contribuíram para essa experiência e como podemos criar experiências semelhantes para outras pessoas?
+
