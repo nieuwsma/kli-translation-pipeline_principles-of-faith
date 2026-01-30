@@ -212,3 +212,33 @@ Guud ahaan, waxaan adeegsan doonaa tarjumaadda NKJV, balse sidoo kale waxaan ade
 <!-- p60 -->
 Aad baan kugula talinayaa in la isticmaalo tarjumaadyo badan mar kasta oo suurtagal ah, si loo hubiyo in fikradda si cad maskaxdaada uga muuqato. Aniga ahaan waxaan u arkaa tarjumaado sida Amplified Bible inay faa'iido leeyihiin, ma aha saxnaanta qoraalka oo keliya darteed, balse si ay ii caawiyaan inaan ku fahmo Ingiriisi fudud waxa Qorniinku gudbinayo.
 
+<!-- p61 -->
+Waxaan waqti u qaadan doonnaa inaan sahamino erayo muhiim ah oo ka mid ah Kitaabka Quduuska ah (**daraasado erayo**) si aan si ka wanaagsan u fahanno waxa Ilaah leeyahay iyo sida ay nolosheenna ugu khusayaan. Waxaan kugula talinayaa inaad barato isticmaalka kheyraadka elektaroonigga ah ee Kitaabka Quduuska ah sida: E-Sword (<https: www.e-sword.net=""></https:>), ama Blue Letter Bible ([<u>https://www.blueletterbible.org/</u>](https://www.blueletterbible.org/)). Ilo noocaas ahi waxay sidoo kale ku siinayaan marin Strong’s Concordance.
+
+<!-- p62 -->
+Strong’s Concordance waxay naga caawisaa inaan fahanno waxa Kitaabka Quduuska ah uga jeeday luqaddiisii asalka ahayd, si aan si ka cad ugu maqalno waxa Ilaah leeyahay. Axdigii Hore (mararka qaarkood buuggan waxaa loogu soo gaabiyaa OT) waxaa lagu qoray Cibraaniga. Axdiga Cusub (mararka qaarkood buuggan waxaa loogu soo gaabiyaa NT) waxaa lagu qoray Giriigga. Lambarka Strong’s waxaa lagu muujin doonaa: **Hxxx** (Cibraaniga) ama **Gyyy** (Giriigga).
+
+<!-- p63 -->
+### Waxbarista Kaniisadda
+
+<!-- p64 -->
+<span class="x-scripture" data-book="MAT" data-chapter="28" data-lang="en" data-type="quote" data-verses="20" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p65 -->
+> **<u>Matayos 28:20</u>** (NKJV)
+>
+> idinku wax bara inay dhawraan wax walba oo aan idin faray; oo bal eega, anigu mar walba idinla joogi doonaa, xataa ilaa dhammaadka dunida." Aamiin.
+>
+
+<!-- p66 -->
+</span>
+
+<!-- p67 -->
+Waxbarista aan ku soo bandhigayo buuggan ma aha wax cusub ama hal-abuurnimo. Waa in aan ka shakisnaa waxbarisyo ‘cusub’ oo aan weligood hore loo arag ama loo maqlin oo ku saabsan iimaankeena Masiixiga. Halkii, buuggan waa ururin iyo sharaxaad waxbarisyo jiray tan iyo bilowgii.
+
+<!-- p68 -->
+Buuggan ma aha daraasad ku saabsan taariikhda kaniisadda, mana aha isbarbardhig ku saabsan qaybaha kala duwan ee kaniisadaha Masiixiga. Haddii aad qaadato laba buug oo cilmiga diinta ah oo ay qoreen qorayaal kala duwan oo leh asal mad-habyo kaniisadeed oo kala geddisan, inkastoo aad arki doonto isku waafaqid weyn qayb badan oo shaqadooda ah, haddana waxaad arki doontaa kala qaybsanaan muuqata. Anigu ma sheeganayo khalad-la’aan, laakiin waxaan sheeganayaa in shaqadan si fiican loo bartay, ay dib u eegaan asaag daacad ah rag iyo dumar (eeg qaybta Mahadnaq), isla markaana si wanaagsan ugu taageersan Qorniinka Quduuska ah iyo dhaqanka Bentekostali ee si wanaagsan loo aqbalo.
+
+<!-- p69 -->
+Waxaan kugu boorinayaa inaad adigu akhrido Qorniinka oo aad go’aansato inaad si fiican u barato. Ereyga Ilaah wuxuu ballanqaadayaa in marka aan isaga raadinno, aynu isaga helayno (<span class="x-scripture" data-book="JER" data-chapter="29" data-lang="en" data-type="ref" data-verses="13" data-version="NKJV" dir="ltr" style="text-align: left;">Yeremyaah 29:13</span>). Waxaan kugu martiqaadayaa inaad buuggan u soo dhowaato adigoo leh iimaan iyo filasho. Markaad dhex marayso waxbarisyadan, waxaan ku baryayaa inaadan oo keliya kor ugu kicin fahamka, balse aad sidoo kale la kulanto awoodda Ruuxa Quduuska ah oo ku dhex shaqaynaysa oo adiga kugu adeegsanaysa. Rajadaydu waa in laguu soo celiyo, lagugu xoojiyo, laguna awoodsiiyo inaad fuliso ujeeddada Ilaah ee noloshaada.
+

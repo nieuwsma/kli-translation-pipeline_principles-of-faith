@@ -283,3 +283,99 @@
 <!-- p79 -->
 - **操练敬虔** 通过重复与顺服 (<span class="x-scripture" data-book="1TI" data-chapter="4" data-lang="en" data-type="ref" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">提摩太前书 4:7</span>)。
 
+<!-- p80 -->
+- **阅读诸如** *"原子习惯" 作者 詹姆斯·克利尔*（实用）和 *"基督徒生命的属灵操练" 作者 唐纳德·惠特尼*（合乎圣经），以建立尊荣神的习惯。
+
+<!-- p81 -->
+**情绪条件反射 - 情绪联结。** 情绪条件反射将感官线索（如气味或声音）与情绪关联起来，在我们有意识处理之前就触发反应。这个系统会保护我们，但当过去的经历是负面的时，也可能导致非理性的恐惧或情绪反应。
+
+<!-- p82 -->
+**如何更新：**
+
+<!-- p83 -->
+- **为过去的伤口祈求医治**（<span class="x-scripture" data-book="ISA" data-chapter="41" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">以赛亚书 41:10</span>）。
+
+<!-- p84 -->
+- **操练饶恕**，释放苦毒（<span class="x-scripture" data-book="EPH" data-chapter="4" data-lang="en" data-type="ref" data-verses="31-32" data-version="NKJV" dir="ltr" style="text-align: left;">以弗所书 4:31-32</span>）。
+
+<!-- p85 -->
+- **用神的应许取代恐惧**（<span class="x-scripture" data-book="2TI" data-chapter="1" data-lang="en" data-type="ref" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">提摩太后书 1:7</span>）。
+
+<!-- p86 -->
+- **从以下书籍中寻求指引** *“你的痛苦表露无遗” 作者 拉里·F·洛, "捆绑的破除者" 作者 尼尔·T·安德森*, “*灵魂关护" 作者 罗布·里默*，以克服情绪触发点。
+
+<!-- p87 -->
+#### **3. 工作记忆（短期记忆）**
+
+<!-- p88 -->
+**目的：** 为问题解决和决策提供临时存储。它帮助我们专注、短时保持信息并处理任务——比如记住指令或快速做决定。虽然功能强大，但也有限，易受干扰，尤其在压力下容易超载。
+
+<!-- p89 -->
+**如何更新：**
+
+<!-- p90 -->
+- **每天专注并默想**神的话语（<span class="x-scripture" data-book="PSA" data-chapter="1" data-lang="en" data-type="ref" data-verses="2" data-version="NKJV" dir="ltr" style="text-align: left;">诗篇 1:2</span>）。
+
+<!-- p91 -->
+- **通过有意的思考**更新你的思想（<span class="x-scripture" data-book="ROM" data-chapter="12" data-lang="en" data-type="ref" data-verses="2" data-version="NKJV" dir="ltr" style="text-align: left;">罗马书 12:2</span>）。
+
+<!-- p92 -->
+- **练习正念**并简化心智杂乱（*"恩典的习惯" 作者 大卫·马西斯*）。
+
+<!-- p93 -->
+- **阅读** *"操练真自由" 作者 理查德·福斯特*，通过属灵操练来提升专注力。
+
+<!-- p94 -->
+## 结论
+
+<!-- p95 -->
+更新心思意念并不是一个快速的权宜之计——这是一个终身的渐进转变过程。每一种记忆系统都在塑造我们的思想、情感和行为中扮演角色。通过有意识地与圣灵同工、应用圣经，并培养敬虔的习惯，我们可以训练自己的心思与神的真理对齐。无论是处理过去的伤口、学习新习惯，还是在当下保持专注，神都赐下了**属灵的工具**和**实际的智慧**，帮助我们行在更新与自由中（<span class="x-scripture" data-book="2CO" data-chapter="10" data-lang="en" data-type="ref" data-verses="5" data-version="NKJV" dir="ltr" style="text-align: left;">哥林多后书 10:5</span>）。
+
+<!-- p96 -->
+我们的世界充满了困苦、患难和试炼。借着有纪律地更新心思意念，我们的心灵得以转化，并且可以过一个归向神、满有祂圣灵果子的自由生命（<span class="x-scripture" data-book="GAL" data-chapter="5" data-lang="en" data-type="ref" data-verses="22-25" data-version="NKJV" dir="ltr" style="text-align: left;">加拉太书 5:22-25</span>）。
+
+<!-- p97 -->
+### 致谢
+
+<!-- p98 -->
+本章所包含的记忆系统描述借鉴了心理学研究：[<u>https://www.psypost.org/implicit-vs-explicit-memory-definition-examples-history/</u>](https://www.psypost.org/implicit-vs-explicit-memory-definition-examples-history/)。关于如何更新的部分综合了多个来源：本节中提及的书籍（其中有几本我已读过，其余则得到业内实践者的高度推荐）、我个人更新心思意念的生命经历，以及我多年作为牧者帮助人们在生命痛点中成长的经验。特别感谢 Larry Low（[<u>www.larrylow.com</u>](http://www.larrylow.com)）在教导我更新心思并帮助我教导他人方面所给予的一切帮助！
+
+<!-- p99 -->
+## 个人反思问题
+
+<!-- p100 -->
+1.  成圣对你个人意味着什么？你如何看见它在你的日常生活中体现？
+
+<!-- p101 -->
+2.  想一想有一次神“修剪”你生命中的某个领域。这一过程带来了什么结果？它如何使你更亲近祂？
+
+<!-- p102 -->
+3.  反思“更新你的心思意念”这一观念。神可能在呼召你放下或改变哪些具体的思维模式或习惯？
+
+<!-- p103 -->
+4.  把成圣看作与圣灵的同工，这如何在艰难或成长缓慢的季节里鼓励你？
+
+<!-- p104 -->
+5.  你如何有意地为圣灵在你日常生活中的工作留出空间？为此你可能需要放下什么？
+
+<!-- p105 -->
+6.  你今天在哪些方面需要更新？先辨识你心思感觉受阻的领域，并相信神必成全祂在你里面所开始的善工（<span class="x-scripture" data-book="PHP" data-chapter="1" data-lang="en" data-type="ref" data-verses="6" data-version="NKJV" dir="ltr" style="text-align: left;">腓立比书 1:6</span>）。
+
+<!-- p106 -->
+## 小组讨论问题 (20-30 分钟)
+
+<!-- p107 -->
+1.  **破冰问题：**“自从信靠基督以来，你生命中在哪一个领域经历了显著的成长？”
+
+<!-- p108 -->
+2.  **经文探索：**请读 <span class="x-scripture" data-book="JHN" data-chapter="15" data-lang="en" data-type="ref" data-verses="1-5" data-version="NKJV" dir="ltr" style="text-align: left;">约翰福音 15:1-5</span>。修剪与结果子的意象如何帮助我们理解成圣？
+
+<!-- p109 -->
+3.  **心意更新：**讨论 <span class="x-scripture" data-book="ROM" data-chapter="12" data-lang="en" data-type="ref" data-verses="2" data-version="NKJV" dir="ltr" style="text-align: left;">罗马书 12:2</span>。“更新你的心思意念”是什么意思？这与成圣有何关联？
+
+<!-- p110 -->
+4.  **圣灵的角色：**在成圣的过程中，圣灵如何赐能力并引导我们？我们如何更敏锐地留意祂的带领？
+
+<!-- p111 -->
+5.  **旅程中的鼓励：**对于因成圣进度而感到沮丧的人，你会对他说什么？我们如何在这段旅程中彼此鼓励？
+
