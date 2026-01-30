@@ -1,0 +1,29 @@
+⚠️  Unknown model for tokenizer; using cl100k_base.
+
+📘 Processing chapter0_0_intro.md...
+📑 Paragraph markers found: 20
+🧮 Token-aware batching: 1 batch(es), budget ~106666 tokens, max batch size 20
+🟦 Translating batch 1/1 (20 paras, ~630 tokens input)...
+⚠️ API error details: <Response [401 Unauthorized]>
+⚠️ API error Error code: 401 - {'error-category': 18, 'error': 'supplied BricksLLM key does not exist'}. Retrying in 2s...
+⚠️ API error details: <Response [401 Unauthorized]>
+⚠️ API error Error code: 401 - {'error-category': 18, 'error': 'supplied BricksLLM key does not exist'}. Retrying in 3s...
+⚠️ API error details: <Response [401 Unauthorized]>
+⚠️ API error Error code: 401 - {'error-category': 18, 'error': 'supplied BricksLLM key does not exist'}. Retrying in 5s...
+⚠️ API error details: <Response [401 Unauthorized]>
+⚠️ API error Error code: 401 - {'error-category': 18, 'error': 'supplied BricksLLM key does not exist'}. Retrying in 9s...
+⚠️ API error details: <Response [401 Unauthorized]>
+⚠️ API error Error code: 401 - {'error-category': 18, 'error': 'supplied BricksLLM key does not exist'}. Retrying in 17s...
+⚠️ API error details: Request timed out.
+⚠️ API error Request timed out.. Retrying in 33s...
+Traceback (most recent call last):
+  File "/Users/andnie01/repo/pers/kli-text-translation-workflows/./scripts/translate_paragraphs.py", line 408, in <module>
+    main()
+  File "/Users/andnie01/repo/pers/kli-text-translation-workflows/./scripts/translate_paragraphs.py", line 384, in main
+    process_file(
+  File "/Users/andnie01/repo/pers/kli-text-translation-workflows/./scripts/translate_paragraphs.py", line 300, in process_file
+    translated_block = translate_batch(
+                       ^^^^^^^^^^^^^^^^
+  File "/Users/andnie01/repo/pers/kli-text-translation-workflows/./scripts/translate_paragraphs.py", line 226, in translate_batch
+    raise RuntimeError("Max retries exceeded for translation batch")
+RuntimeError: Max retries exceeded for translation batch
