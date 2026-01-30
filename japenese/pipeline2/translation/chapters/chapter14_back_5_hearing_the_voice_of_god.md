@@ -63,3 +63,65 @@
 <!-- p19 -->
 3.  <u>主が語られるとき、完結した思いで語られます。</u>
 
+<!-- p20 -->
+彼は、私たちに空白を自分で埋めさせるようなことは決してしません。瞬きする間に、神はあなたの心を、生涯にわたって説教し続けられるほどの情報で満たすことがおできになります。神に一度触れられるだけで、あなたは永遠に燃え続ける火で満たされます。彼は完全なコミュニケーターです。
+
+<!-- p21 -->
+4.  <u>神が私たちに語られるとき、決して追い立てません。導きます。</u>
+
+<!-- p22 -->
+神は作業監督ではなく、牧者です。牧童は群れを追い立てますが、牧者は導きます。イエスは羊たちの大牧者であり、私たちはその牧場の羊です。
+
+<!-- p23 -->
+5.  <u>神がご自分の子どもたちに語られるとき、決して断罪しません；確信を与えます。</u>
+
+<!-- p24 -->
+神の子どもたちとは、**イエス**の流された血とカルバリでの御業を信仰によって告白することで、新しく生まれた者です（<span class="x-scripture" data-book="JHN" data-chapter="3" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV" dir="ltr" style="text-align: left;">ヨハネ 3:3</span>, 5）。いつも私たちの過ちを責め立てる者の話を、誰が聞きたいでしょうか。私は、**神**の子どもたちの多くが、**神**がこれやあれについて自分たちを責め立てると教えられてきたために、**神**が自分に語られるのを恐れているのだと思います。<span class="x-scripture" data-book="1JN" data-chapter="3" data-lang="en" data-type="ref" data-verses="19-20" data-version="NKJV" dir="ltr" style="text-align: left;">第一ヨハネ 3:19-20</span>を見てください。誰が私たちを責め、罪に定めると言っていますか。**神**の子どもを責めるのは私たち自身の霊、つまり心ですが、すべてをご存じで私たちの心よりも偉大なのは、**聖霊なる神**です。聖霊は、私たちの慰め主であってくださいます。次の聖書箇所を読んでください。聖霊が罪に定めるのは、罪人だけであることがわかるでしょう。<span class="x-scripture" data-book="ROM" data-chapter="8" data-lang="en" data-type="ref" data-verses="33-34" data-version="NKJV" dir="ltr" style="text-align: left;">ローマ 8:33-34</span>は、何ものも**神**の愛と私たちの間に介在できないことを教えています。<span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="en" data-type="ref" data-verses="16" data-version="NKJV" dir="ltr" style="text-align: left;">ヨハネ 14:16</span>, 26は、聖霊が私たちの慰め主であって、断罪者ではなく、私たちの助言者であって、懲らしめる者ではなく、私たちのとりなし手であり助け手であって、妨げる者ではないことを教えています。<span class="x-scripture" data-book="ACT" data-chapter="9" data-lang="en" data-type="ref" data-verses="31" data-version="NKJV" dir="ltr" style="text-align: left;">使徒の働き 9:31</span>と 15:28 も、聖霊（**神**の声）がどのように私たちを助け、慰め、強めてくださるかの例として読んでください。
+
+<!-- p25 -->
+6.  <u>神の声は吟味できます。それが自分の思いでも口寄せの霊の声でもなく、神からのものだと知ることができます。</u>
+
+<!-- p26 -->
+<span class="x-scripture" data-book="1JN" data-chapter="4" data-lang="en" data-type="ref" data-verses="1-3" data-version="NKJV" dir="ltr" style="text-align: left;">第一ヨハネ 4:1-3</span>は、「すべての霊を試しなさい」と私たちに教え、そうすることでそれが神からのものか確かめられるようにしています。神から語られていると思うとき、あなたはその声に質問する権利と責任があります（それが霊を試す、あるいは証明するということです）。問うべき質問はこうです：“イエス・キリストは肉体をもって来られましたか？” 口寄せの霊が決して認めないただ一つのことは、イエスが肉体をもって地上に来られたという事実です。イエスは完全に人であり、完全に神でした。偽りの霊も宗教も、イエスが肉体をもってこの地に来られ、すべての罪から人類を永遠に贖われたことを認めません。あなたが聞く声を試しなさい。また、神は決してご自分の書かれた御言葉である聖書の外へあなたを導かないことも知っておきなさい。もし聖書で裏づけられないことを聞いているのなら、それは神からではありません。捨て去りなさい！その声が神からのものかどうか、聞く声を試しなさい。
+
+<!-- p27 -->
+7.  <u>神の声はいつもイエス・キリストに栄光をもたらします。</u>
+
+<!-- p28 -->
+聖霊は天の声です。地上で私たちとともに働いておられるのは聖霊であり、イエスは、聖霊が聞くことだけを語り、そしていつもイエスに栄光をもたらすと語られました（<span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="en" data-type="ref" data-verses="13-14" data-version="NKJV" dir="ltr" style="text-align: left;">ヨハネ 16:13-14</span>）。聖霊は、あなたのミニストリーやあなたの業績、教会のプログラムに栄光をもたらすためにおられるのではありません。それらは良いことであり、私たちがすべきことのために多くの場合必要ですが、聖霊は語り、イエスというお方に栄光をもたらします。もしあなたが聞いている声によって自分自身が栄光を受けているのなら、それは神の声ではありません。栄光を受けることと、励まされ強められることは違います。聖霊は、御言葉で（導く形で）正しておられるときでさえ、語るたびに必ずあなたを励まし、強めてくださいます。しかし「栄光を受ける」とは、あなたが自分こそが何者かだと信じることです。イエスなしではあなたは何者でもありません-「そのお方」はイエスであって、私たちではありません。
+
+<!-- p29 -->
+8.  <u>**神**の声はいつも私たちに何かを明らかにします。</u>
+
+<!-- p30 -->
+<span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV" dir="ltr" style="text-align: left;">ヨハネ 16:14</span>を見てください。聖霊はいつも**イエス**のものを取り、それを私たちに示してくださいます。拡大訳（Amplified）は、「明らかにする」という語を考えるとき、宣言する、開示する、伝達する、という語を付け加えています。“**神**”は、私たちに宣言された後にいつも何かを開示し、そしてあなたの信仰によってそれを私たちに伝達してくださいます。<span class="x-scripture" data-book="1CO" data-chapter="2" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">第一コリント 2:10</span>と 12 も学びなさい。
+
+<!-- p31 -->
+9.  <u>**神**の声はいつも平安をもたらします。</u>
+
+<!-- p32 -->
+<span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="en" data-type="ref" data-verses="26" data-version="NKJV" dir="ltr" style="text-align: left;">ヨハネ 14:26</span> and 27, and <span class="x-scripture" data-book="COL" data-chapter="3" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV" dir="ltr" style="text-align: left;">コロサイ 3:14</span> and 15 を読みなさい。神の声は決して私たちをかき乱しません。それは完全な平安をもたらす声です。内なる平安は、神の前に確信をもたらす「知っていること」があるからで、それが完全な平安へとつながります。もしあなたが聞いている声があなたをかき乱すなら、それは神からではありません-切ってしまいなさい。イエスは、世が与えるのとは異なる平安を、聖霊の慰めのことばと絶え間ない臨在を通して与えると約束されました（<span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="en" data-type="ref" data-verses="27" data-version="NKJV" dir="ltr" style="text-align: left;">ヨハネ 14:27</span>）。
+
+<!-- p33 -->
+10. <u>**神**の声は常に真理をもたらします。</u>
+
+<!-- p34 -->
+<span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="en" data-type="ref" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">ヨハネ 14:17</span>, 26; 16:13 を読みなさい。実のところ、<span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="en" data-type="ref" data-verses="13" data-version="NKJV" dir="ltr" style="text-align: left;">ヨハネ 16:13</span>は聖霊を「真理の御霊」と呼んでいます。神は偽ることができません！神は真理であり、ゆえに真理だけを語られます。私は人々がこう言うのを聞いたことがあります。“自分が聞いているものが神からだなんて信じられない。良すぎて本当とは思えない。” そして、確かに良すぎて本当とは思えないのかもしれません；だからこそ、それが真理であるか確かめるために、神の御言葉と照らし合わせて霊を必ず試さなければならないのです。いつも前向きなことを聞いているので信じられない、という人もいます。神は私たちの誤りを責めるのだと教えられてきたからです。神は真理だけを語られ、それはいつも良い知らせです。悲しい現実は、多くの人が聞いている声からは悪い知らせしか受け取らず、良い知らせを聞くことを想定していないため、良い知らせが来ると、それを真実ではないかもしれないと疑ってしまうことです。**真理はいつも良い知らせです！** 私たちを自由にするのは**真理**ですから、**真理**が良い知らせ以外の何になり得るでしょうか？
+
+<!-- p35 -->
+11. <u>**神**の声はいつも私たちを前へ、そして上へと導きます。</u>
+
+<!-- p36 -->
+Read Deut. 28:1-2, <span class="x-scripture" data-book="ISA" data-chapter="30" data-lang="en" data-type="ref" data-verses="21" data-version="NKJV" dir="ltr" style="text-align: left;">イザヤ 30:21</span>, and <span class="x-scripture" data-book="JHN" data-chapter="16" data-lang="en" data-type="ref" data-verses="13" data-version="NKJV" dir="ltr" style="text-align: left;">ヨハネ 16:13</span>
+
+<!-- p37 -->
+神は決してあなたを落ち込ませません！あなたをけなして貶めることは決してなく、あなたを建て上げるだけです。神があなたに語られるとき、御言葉があなたについて語っているすべてがすでに成し遂げられ、あなたによって受け入れられているという前提から語られます。<span class="x-scripture" data-book="JER" data-chapter="33" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV" dir="ltr" style="text-align: left;">エレミヤ書 33:3</span>にはこうあります。“わたしを呼べ。そうすれば、わたしはあなたに答え、あなたの知らない、<b>大いなる力ある</b>事柄を示す。” それは、あなたを貶めたり、絶望と陰鬱を語ったりするように聞こえるでしょうか。神には絶望と陰鬱は一切ありません。ゆえに神が、陰鬱で暗いようなことをあなたに告げることはできません。絶望と陰鬱を聞きたければ、世のニュース機関にチャンネルを合わせるしかないでしょう。
+
+<!-- p38 -->
+<span class="x-scripture" data-book="JER" data-chapter="29" data-lang="en" data-type="quote" data-verses="11" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p39 -->
+> **<u>エレミヤ書 29:11</u>** (NKJV)
+>
+> わたしは、あなたがたに対して抱いている思いを知っている、と主は言う。それは災いではなく平安の思いであり、将来と希望を与えるためのものだ。
+
