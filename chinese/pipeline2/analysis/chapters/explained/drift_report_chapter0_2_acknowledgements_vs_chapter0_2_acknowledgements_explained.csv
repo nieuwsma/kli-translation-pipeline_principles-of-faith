@@ -1,0 +1,4 @@
+# Drift explanation generated 2026-01-30T15:14:09.916304
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/chinese/pipeline2/analysis/chapters/drift_report_chapter0_2_acknowledgements_vs_chapter0_2_acknowledgements.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"3","0.8763","MEDIUM","no","paraphrase","Both paragraphs express gratitude for contributions to the completion of a book, emphasizing excellence and lasting impact. The slight variations in wording do not alter the overall meaning or intent.","Thank you all for your dedication to excellence and for helping me bring this book to completion. Your contributions have made a lasting impact, and I am truly grateful.","Thank you for your relentless pursuit of excellence and for helping me bring this book to completion. Your contributions have made a lasting impact, and I am deeply grateful."
