@@ -210,3 +210,432 @@
 >
 > 神所赐、超越一切理解的平安，必在基督耶稣里保守你们的心怀意念。
 
+<!-- p65 -->
+</span>
+
+<!-- p66 -->
+如果我们不能在已经看见的以外对祂有信心，神的平安又怎能保守我们的心呢!?
+
+<!-- p67 -->
+<span class="x-scripture" data-book="2CO" data-chapter="5" data-lang="en" data-type="quote" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p68 -->
+> **<u>2 Corinthians 5:7</u>** (新钦定本)
+>
+> 因我们行事为人是凭着信心，不是凭着眼见.
+>
+
+<!-- p69 -->
+</span>
+
+<!-- p70 -->
+正是通过与神关系的成长，我们才能超越仅凭天然所能看见或理解的范围. 正如罗马书中关于亚伯拉罕的记载:
+
+<!-- p71 -->
+<span class="x-scripture" data-book="ROM" data-chapter="4" data-lang="en" data-type="quote" data-verses="19-22" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p72 -->
+> **<u>Romans 4:19-22</u>** (新钦定本)
+>
+> 他在信心上并不软弱，他没有顾念自己的身体已经如同死了（因为他将近一百岁），也没有顾念撒拉的生育已经断绝.
+>
+> 他没有因不信而对神的应许起疑，反倒因信心得以刚强，将荣耀归给神,
+>
+> 并且深信祂所应许的，祂也能成就.
+>
+> 因此，“这就算为他的义.”
+>
+
+<!-- p73 -->
+</span>
+
+<!-- p78 -->
+我和妻子的关系始于我们开始约会. 随着我们彼此更深入地了解并建立关系，我们从相识，发展到成为朋友，再到彼此相爱，直到我们愿意在婚姻中彼此委身. 基于这段丰富的经历与承诺，我们正在一起建立一个家庭和共同的人生. 同样地，我们向着神的信心也应当进步. 我们从认识有关神的事，到认识神本人，向祂委身（接受祂的拯救），然后把我们的生命建立在这段关系之上.
+
+<!-- p79 -->
+### 信心产生顺服与善行
+
+<!-- p80 -->
+我们与神之间的信靠关系因着顺服而得以加强，结果带来善行! 这些善行并不能拯救我们，也不能为我们赚得神的爱-它们是生命扎根于祂之中的自然结果.
+
+<!-- p81 -->
+圣经呈现出信心的自然进程. 当我们认识神并经历祂的同在时，我们对祂的信心就成长. 这种信念促使我们以与信心一致的方式行事，使我们遵行祂的命令. 我们的顺服产生善行，结出积极而有益的果子.
+
+<!-- p82 -->
+再来思想罗马书中的这段经文:
+
+<!-- p83 -->
+<span class="x-scripture" data-book="ROM" data-chapter="10" data-lang="en" data-type="quote" data-verses="16-17" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p84 -->
+> **<u>Romans 10:16-17</u>** (新钦定本)
+>
+> 但他们并没有都顺从福音. 因为以赛亚说，“主啊，我们所传的，有谁信呢?”
+>
+> 所以，信是从听道来的，听道是从神的道来的.
+>
+
+<!-- p85 -->
+</span>
+
+<!-- p86 -->
+倒着来剖析如下:
+
+<!-- p87 -->
+1.  听见神的话 (**rhema**) 会产生信心 (**pistis**)
+
+<!-- p88 -->
+2.  信心，作为一种信念或被说服的状态，会产生相信这一行动或动词.  再次想想：那位相信自己可以无债一身轻的人会据此采取行动!
+
+<!-- p90 -->
+3.  我们相信的行为在顺服中得以体现。
+
+<!-- p91 -->
+“obeyed”的词是 **hupakouō** (**hoop-ak-oo'-o**- G5219): **hupakouō** 的意思是*在之下聆听*（作为*下属*），也就是*专心倾听*；引申为*留心*或*遵从*命令或权柄： - 留心听，顺从，服从。
+
+<!-- p92 -->
+在工作环境中，当老板或主管在发布指示时，他们并不是“为了说而说”，而是给出他们希望员工遵循的指导。
+
+<!-- p93 -->
+当我们真正聆听神时，这应当引导我们采取行动-去信靠祂并顺服。正如经上所说：
+
+<!-- p94 -->
+<span class="x-scripture" data-book="JAS" data-chapter="1" data-lang="en" data-type="quote" data-verses="22" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p95 -->
+> **<u>雅各书 1:22</u>** (NKJV)
+>
+> 只是你们要行道，不要单单听道，自己欺哄自己。
+>
+
+<!-- p96 -->
+</span>
+
+<!-- p97 -->
+再来思考财务独立的例子。一个背负债务、渴望摆脱重担的人会寻求财务咨询。顾问会教导他们有关财务自由的原则，并帮助他们制定预算。这种咨询会在他们需要做什么才能摆脱债务方面建立（信任/信心）。但信心只是第一步，这个人必须通过有纪律的操练遵守他们学到的原则，才能得着无债一身轻所带来的善工和祝福。
+
+<!-- p98 -->
+雅各书说，我们的相信（信心）必须产生行为！我们已经知道什么是行为（例如，来自 <span class="x-scripture" data-book="HEB" data-chapter="6" data-lang="en" data-type="ref" data-verses="1" data-version="NKJV" dir="ltr" style="text-align: left;">希伯来书 6:1</span> 的‘死’的行为）。
+
+<!-- p99 -->
+<span class="x-scripture" data-book="JAS" data-chapter="2" data-lang="en" data-type="quote" data-verses="14-20" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p100 -->
+> **<u>雅各书 2:14-20</u>** (NKJV)
+>
+> 我的弟兄们，若有人说自己有信心，却没有行为，有什么益处呢？这信心能救他吗？
+>
+> 若是弟兄或是姐妹赤身露体、缺了日用的饮食，
+>
+> 你们中间有人对他们说，“平平安安地去吧，愿你们穿得暖、吃得饱”，却不给他们身体所需用的，这有什么益处呢？
+>
+> 这样，信心若没有行为就是死的。
+>
+> 但必有人说，“你有信心，我有行为。”你把没有行为的信心指给我看，我便借着我的行为把我的信心指给你看。
+>
+> 你信神只有一位，你信的不错。鬼魔也信—却战惊！
+>
+> 愚昧的人哪，你愿意知道没有行为的信心是死的吗？
+>
+
+<!-- p101 -->
+</span>
+
+<!-- p102 -->
+在雅各书那段经文中，什么让你印象深刻？对我而言，一句重要的话是：连鬼魔也信！单有信心并不够。我们的相信必须上升到顺服的程度。我们需要也愿意顺服我们复活的救主和主耶稣。
+
+<!-- p103 -->
+我们不是借着行为得救！当我们得救（借着信心）时，我们就去行事为人！让我再重申一遍：你无法靠努力工作，或作出再多牺牲来赚取救恩；它是神白白赐给的礼物，我们凭着信心领受！
+
+<!-- p104 -->
+这些行为（顺服）的结果是带来良善且有益的收成。收获所需的时间，或收成的程度，各有不同，但它必会结出好收成！(<span class="x-scripture" data-book="GEN" data-chapter="8" data-lang="en" data-type="ref" data-verses="22" data-version="NKJV" dir="ltr" style="text-align: left;">创世记 8:22</span>)。
+
+<!-- p105 -->
+回想我们对罪与献祭的学习，我们知道旧约所设立的若干祭是为着罪，好使人可以与神或与同胞和好。然而，还有一条更可喜悦的道路！
+
+<!-- p106 -->
+<span class="x-scripture" data-book="1SA" data-chapter="15" data-lang="en" data-type="quote" data-verses="22" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+
+
+> **<u>撒母耳记上 15:22</u>** (NKJV)
+>
+> 所以撒母耳说：“耶和华喜悦燔祭和平安祭，岂如喜悦人听从耶和华的话呢？看哪，听命胜于献祭，顺从胜于公羊的脂油。”
+>
+
+
+
+</span>
+
+<!-- p107 -->
+自旧约以来始终不变的真理是：顺服胜于献祭。把该做的事正确地遵行，比因为没有做对而需要用献祭来补救更好。感谢神，当我们偏离正道、失了准头（罪），需要转回向神的时候，有祂的恩典。
+
+<!-- p108 -->
+当我们在神里建立信心时，它会自然在我们里面产生顺服。这顺服对我们有益，并带来美好的收成。回到本章我的个人例子，如果我没有顺服神给我的话，要*等候祂*，我就不会在那段时期经历平安，也不会经历升迁的祝福！
+
+<!-- p109 -->
+### 顺服的益处
+
+<!-- p110 -->
+在每一位信徒的生命中，坚固他们对神的信心（信靠）是非常重要的。神为一切顺服祂的人预备了奇妙的应许和祝福，多得难以尽述，但以下是其中的一些：
+
+<!-- p111 -->
+1.  **祝福与供应**
+
+<!-- p112 -->
+<span class="x-scripture" data-book="DEU" data-chapter="28" data-lang="en" data-type="fragment" data-verses="1-14" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p113 -->
+> **<u>申命记 28:1-14</u>** (NKJV)
+>
+> "你若殷勤听从耶和华你神的声音，谨慎遵行我今日所吩咐的一切诫命，耶和华你神就必使你高过地上一切列国。
+>
+> 并且这一切祝福必临到你、追随你，因为你听从耶和华你神的声音：
+>
+> "你在城里必蒙福，在田间也必蒙福。
+>
+> "你身所生的、地所产的和你的群畜所增多的，你牛群所生的、你羊群所下的，都必蒙福。
+>
+> "你的篮子和你的揉面盆都必蒙福。
+>
+> "你进来时必蒙福，出去时也必蒙福。
+>
+> "耶和华必使起来攻击你的仇敌在你面前被击败；他们从一条路来攻击你，却要从七条路在你面前逃跑。
+>
+> "耶和华必在你的仓房，并在你手所办的一切事上吩咐赐福于你；他也必在耶和华你神所赐给你的地上赐福与你。
+>
+> "你若谨守耶和华你神的诫命，行他的道，耶和华必照他向你所起的誓，立你作归他为圣的子民。
+>
+> 那时，地上万民必看见你是以耶和华的名所称的，就必惧怕你。
+>
+> 耶和华必使你在身所生的、牲畜所增多的、地所产的，都极其丰盛，就是在耶和华向你列祖起誓要赐给你的那地上。
+>
+> 耶和华必为你开他美好的库藏，就是天，按时降雨在你的地上，并赐福你手所办的一切事。你必借给许多国民，却不至向人借贷。
+>
+> 耶和华必使你作首不作尾，只居上不居下；你若听从我今日所吩咐耶和华你神的诫命，谨慎遵行。
+>
+> 所以你不可偏离我今日所吩咐你的一切话，无论向右或向左，去随从别神事奉它们。
+>
+
+<!-- p114 -->
+</span>
+
+<!-- p115 -->
+2.  **引导与智慧**
+
+<!-- p116 -->
+<span class="x-scripture" data-book="PSA" data-chapter="32" data-lang="en" data-type="quote" data-verses="8" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p117 -->
+> **<u>诗篇 32:8</u>** (NKJV)
+>
+> 我要教导你，指示你当行的路；我要以我的眼目引导你。
+>
+
+<!-- p118 -->
+</span>
+
+<!-- p119 -->
+3.  **祷告蒙应允**
+
+<!-- p120 -->
+<span class="x-scripture" data-book="1JN" data-chapter="3" data-lang="en" data-type="quote" data-verses="22" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p121 -->
+> **<u>约翰一书 3:22</u>** (NKJV)
+>
+> 我们一切所求的，就从他得着，因为我们遵守他的诫命，行他所喜悦的事。
+>
+
+<!-- p122 -->
+</span>
+
+<!-- p123 -->
+4.  **保护与平安**
+
+<!-- p124 -->
+<span class="x-scripture" data-book="PSA" data-chapter="34" data-lang="en" data-type="quote" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p125 -->
+> **<u>诗篇 34:7</u>** (NKJV)
+>
+> 耶和华的使者在敬畏他的人四围安营，并且搭救他们。
+>
+
+<!-- p126 -->
+</span>
+
+<!-- p127 -->
+5.  **喜乐与平安**
+
+<!-- p128 -->
+<span class="x-scripture" data-book="PSA" data-chapter="119" data-lang="en" data-type="quote" data-verses="165" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p129 -->
+> **<u>诗篇 119:165</u>** (NKJV)
+>
+> 爱你律法的人有大平安，什么都不能使他们跌倒。
+
+<!-- p130 -->
+</span>
+
+<!-- p131 -->
+6.  **多结果子与昌盛**
+
+<!-- p132 -->
+<span class="x-scripture" data-book="ISA" data-chapter="1" data-lang="en" data-type="quote" data-verses="19" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p133 -->
+> **<u>以赛亚书 1:19</u>** (NKJV)
+>
+> 你们若甘心顺服, 就必吃地上的美物;
+>
+
+<!-- p134 -->
+</span>
+
+<!-- p135 -->
+7.  **神的恩惠**
+
+<!-- p136 -->
+<span class="x-scripture" data-book="PSA" data-chapter="37" data-lang="en" data-type="quote" data-verses="23-24" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p137 -->
+> **<u>诗篇 37:23-24</u>** (NKJV)
+>
+> 义人的脚步由耶和华所立定, 祂喜悦他的道路.
+>
+> 他虽跌倒, 也不至全然仆倒; 因为耶和华用祂的手扶持他.
+>
+
+<!-- p138 -->
+</span>
+
+<!-- p139 -->
+8.  **力量与忍耐**
+
+<!-- p140 -->
+<span class="x-scripture" data-book="ISA" data-chapter="40" data-lang="en" data-type="fragment" data-verses="31" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p141 -->
+> **<u>以赛亚书 40:31</u>** (NKJV)
+>
+> 但那等候耶和华的, 必重新得力; 他们必如鹰展翅上腾, 他们必奔跑而不困倦, 他们必行走而不疲乏.
+>
+
+<!-- p142 -->
+</span>
+
+<!-- p143 -->
+9.  **对后代的祝福**
+
+<!-- p144 -->
+<span class="x-scripture" data-book="EXO" data-chapter="20" data-lang="en" data-type="quote" data-verses="6" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p145 -->
+> **<u>出埃及记 20:6</u>** (NKJV)
+>
+> 却向爱我并遵守我诫命的人施慈爱, 直到千代.
+>
+
+<!-- p146 -->
+</span>
+
+<!-- p147 -->
+10. **永生**
+
+<!-- p148 -->
+<span class="x-scripture" data-book="ROM" data-chapter="2" data-lang="en" data-type="quote" data-verses="7" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p149 -->
+> **<u>罗马书 2:7</u>** (NKJV)
+>
+> 将永生赐给那些凭恒久忍耐行善, 寻求荣耀, 尊贵和不朽的人;
+
+<!-- p150 -->
+</span>
+
+<!-- p151 -->
+这些祝福的每一项都是出于神的恩典; 我们无法赚得它们, 但我们可以借着对祂的顺服而行在其中, 而这种顺服是由我们在祂里的信靠关系所激励并启动的.
+
+<!-- p152 -->
+### 培养你信心的实际步骤
+
+<!-- p153 -->
+与神同行是关乎关系的, 但如果你想要良好的关系, 就需要学习一些技巧. 在地上的人际关系中, 能够带来强大而安全之关系的技巧是建立在以下基础之上:
+
+<!-- p154 -->
+- 开放而自由的对话与沟通
+
+<!-- p155 -->
+- 健康的冲突解决
+
+<!-- p156 -->
+- 承诺
+
+<!-- p157 -->
+- 一致性
+
+<!-- p158 -->
+如果你想要一个强而有力、充满活力的关系, 你必须持续地出现, 显露（沟通）你自己（我们的思想和情感）, 接纳对方（倾听）, 并与他们同行! 所有这些技巧都适用于我们与神的关系.
+
+<!-- p159 -->
+在核心关系技巧之外, 还有一些具体的操练与纪律可以加强你与神的关系:
+
+<!-- p160 -->
+- **建立并维持祷告生活, 聆听并与神沟通.** 经常而真挚的祷告对与神的亲密关系至关重要. 借着祷告, 你可以分享你的忧虑、喜乐和感恩, 寻求祂的引导与力量. (*<span class="x-scripture" data-book="PHP" data-chapter="4" data-lang="en" data-type="ref" data-verses="6-7" data-version="NKJV" dir="ltr" style="text-align: left;">腓立比书 4:6-7</span>*) 对圣灵声音的敏锐使你能够辨明神的旨意, 在决策中找到智慧, 并在属灵成熟上成长. 预留安静反思的时间来聆听祂的引导. (*<span class="x-scripture" data-book="ROM" data-chapter="8" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV" dir="ltr" style="text-align: left;">罗马书 8:14</span>*)
+
+<!-- p161 -->
+- **花时间敬拜.** 敬拜是亲近神的一种有力方式, 表达爱与敬畏. 借着赞美、歌唱或安静的默想, 敬拜会加深你对祂同在的觉察. (*<span class="x-scripture" data-book="PSA" data-chapter="100" data-lang="en" data-type="ref" data-verses="2-4" data-version="NKJV" dir="ltr" style="text-align: left;">诗篇 100:2-4</span>*)
+
+<!-- p162 -->
+- **阅读、研读并默想圣经.** 神的话语启示祂的性情、应许, 以及对生命的指引. 投入时间研读圣经有助于你在信心、理解与属灵韧性上成长. (*<span class="x-scripture" data-book="2TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="16-17" data-version="NKJV" dir="ltr" style="text-align: left;">提摩太后书 3:16-17</span>*)
+
+<!-- p163 -->
+- **遵行祂的诫命.** 对神指示的顺服彰显你对祂的爱、尊重与信靠. 行在顺服中会使你的生命与祂的旨意对齐, 并带来祝福. (*<span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="en" data-type="ref" data-verses="15" data-version="NKJV" dir="ltr" style="text-align: left;">约翰福音 14:15</span>*)
+
+<!-- p164 -->
+- **积极参与本地教会并服事.** 参与教会群体能带来属灵支持、鼓励, 以及服事他人的机会. 投入其中有助于建立归属感, 并强化你对神使命的委身. (*<span class="x-scripture" data-book="HEB" data-chapter="10" data-lang="en" data-type="ref" data-verses="24-25" data-version="NKJV" dir="ltr" style="text-align: left;">希伯来书 10:24-25</span>*)
+
+<!-- p165 -->
+- **与其他信徒建立关系.** 与其他基督徒的团契提供了彼此督责、鼓励与共同智慧. 这些关系丰富你的信仰旅程, 并通过彼此支持帮助你成长. (*<span class="x-scripture" data-book="PRO" data-chapter="27" data-lang="en" data-type="ref" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">箴言 27:17</span>*)
+
+<!-- p166 -->
+我们的‘向着神的信心’并非一次性的得救事件, 而是一个我们应当一生培养的持续实践与关系. 信任而有益的关系所带来的益处极其众多, 但我们必须做出培育那信任与成长的善工, 才能看见它蓬勃发展.
+
+<!-- p167 -->
+## 个人反思问题
+
+<!-- p168 -->
+1.  对你个人而言, 信心意味着什么? 通过本章, 你对信心的理解有哪些成长?
+
+<!-- p169 -->
+2.  反思 logos 和 rhema 的概念. 你的生命中是否有某个时候, 某段经文向你活了过来, 成为一条个人的 rhema 话语? 它如何影响了你的信心?
+
+<!-- p170 -->
+3. 将信心理解为信服而非一种神秘的力量，这会如何塑造你与神的关系？
+
+<!-- p171 -->
+4. 顺服被描述为信心的果子。你能想到一次你对神的顺服加深了你对祂的信靠吗？结果如何？
+
+<!-- p172 -->
+5. 本周你可以采取哪些实际步骤，通过祷告、研读圣经和团契来培养你的信心？
+
+<!-- p173 -->
+## 小组讨论问题 *(20-30 分钟)*
+
+<!-- p174 -->
+1. **破冰问题：** “当你想到一个有大信心的人时，你会想到谁？为什么？”
+
+<!-- p175 -->
+2. **经文探讨：** 阅读 <span class="x-scripture" data-book="ROM" data-chapter="10" data-lang="en" data-type="ref" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">罗马书 10:17</span>。这节经文教导我们信心如何增长？我们如何在日常生活中应用它？
+
+<!-- p176 -->
+3. **信心在行动：** 信心产生顺服意味着什么？分享一些例子，说明顺服如何加强了你的信心或他人的信心旅程。
+
+<!-- p177 -->
+4. **Logos 与 Rhema 讨论：** 讨论 logos（书写的话语）和 rhema（启示的话语）的差异。我们如何预备自己去聆听并领受来自神的 rhema 话语？
+
+<!-- p178 -->
+5. **培育信心：** 讨论祷告、研读圣经和团契等实际的属灵操练。哪一种操练在增长你的信心方面最有效？为什么？
+
