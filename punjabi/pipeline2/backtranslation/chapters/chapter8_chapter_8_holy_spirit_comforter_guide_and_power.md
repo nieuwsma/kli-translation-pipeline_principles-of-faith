@@ -411,3 +411,24 @@ Our discussion of the work of the Holy Spirit does not end in this chapter. His 
 <!-- p139 -->
 4.  We are to trust in the power of the Holy Spirit to move forward fearlessly and fulfill the mission given by God. What specific mission and central focus has God given you?
 
+<!-- p140 -->
+5.  The Holy Spirit guides us in truth and discernment. Are there areas in your life where you need clarity or wisdom? How can you invite Him to guide you?
+
+<!-- p141 -->
+## Group Discussion Questions (20-30 minutes)
+
+<!-- p142 -->
+1.  **Icebreaker Question:** “When you think about the Holy Spirit, what is the first word or image that comes to your mind? Why?”
+
+<!-- p143 -->
+2.  **Exploration of Scripture:** <span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="en" data-type="ref" data-verses="26" data-version="NKJV" dir="ltr" style="text-align: left;">John 14:26</span> Read. As Teacher and Helper, how does the Holy Spirit’s role encourage you in your journey of faith?
+
+<!-- p144 -->
+3.  **Holy Spirit within vs. upon:** What is the difference between the Holy Spirit being “within” for transformation and “upon” for empowerment? Why are both aspects necessary for a believer?
+
+<!-- p145 -->
+4.  **Practical Guidance:** What practical ways can we adopt so that we hear the voice of the Holy Spirit and follow His leading in daily decisions?
+
+<!-- p146 -->
+5.  **Reflection**: Think about a time when you felt empowered by the Holy Spirit to take action. How did that experience affect your faith and the people around you?
+
