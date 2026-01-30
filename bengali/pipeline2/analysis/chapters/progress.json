@@ -106,5 +106,23 @@
     "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/backtranslation/chapters/chapter2_chapter_2_god_eternal_creator_and_loving_father.md",
     "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father.csv",
     "generated_at": "2026-01-30T15:52:24.099541"
+  },
+  "drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter3_chapter_3_sin_and_redemption.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/backtranslation/chapters/chapter3_chapter_3_sin_and_redemption.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption.csv",
+    "generated_at": "2026-01-30T15:52:31.316867"
+  },
+  "drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter4_chapter_4_jesus_the_messiah.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/backtranslation/chapters/chapter4_chapter_4_jesus_the_messiah.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah.csv",
+    "generated_at": "2026-01-30T15:52:39.657947"
+  },
+  "drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works.csv": {
+    "source": "/Users/andnie01/repo/pers/principles-of-faith/english/chapters/chapter5_chapter_5_repentance_from_dead_works.md",
+    "back": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/backtranslation/chapters/chapter5_chapter_5_repentance_from_dead_works.md",
+    "output": "/Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works.csv",
+    "generated_at": "2026-01-30T15:52:49.705818"
   }
 }

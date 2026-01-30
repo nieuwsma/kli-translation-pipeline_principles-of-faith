@@ -61,3 +61,86 @@ Through his atoning death and resurrection, Christ inaugurates this New Covenant
 <!-- p19 -->
 Jesus fulfills and completes these roles
 
+<!-- p20 -->
+1.  **Prophet:** Jesus is the final Prophet; he is not merely a messenger of God's word, but the Word made flesh (<span class="x-scripture" data-book="JHN" data-chapter="1" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV" dir="ltr" style="text-align: left;">John 1:14</span>). He fully and perfectly reveals God's nature, will, and plan of salvation (<span class="x-scripture" data-book="HEB" data-chapter="1" data-lang="en" data-type="ref" data-verses="1-2" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 1:1-2</span>). His teachings, miracles, and prophetic declarations fulfill the prophecies of the Old Covenant and provide the foundation for the New Covenant.
+
+<!-- p21 -->
+2.  **Priest:** Jesus is the perfect High Priest, who offered himself once for all as a sacrifice for sin (<span class="x-scripture" data-book="HEB" data-chapter="7" data-lang="en" data-type="ref" data-verses="27" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 7:27</span>). Unlike the priests of the Old Covenant, who had to offer sacrifices repeatedly for their own sins and for the sins of the people, Jesus, who is without sin, offered his own blood to secure eternal redemption (<span class="x-scripture" data-book="HEB" data-chapter="9" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 9:14</span>).
+
+<!-- p22 -->
+3.  **King &amp; Judge:** Jesus is the eternal King, who reigns righteously and justly. As the son of David, he fulfills the promise of an everlasting kingdom (<span class="x-scripture" data-book="2SA" data-chapter="7" data-lang="en" data-type="ref" data-verses="16" data-version="NKJV" dir="ltr" style="text-align: left;">2 Samuel 7:16</span>). His kingship is not merely earthly but cosmic, ruling over all creation and establishing peace through his victory over sin and death (<span class="x-scripture" data-book="PHP" data-chapter="2" data-lang="en" data-type="ref" data-verses="9-11" data-version="NKJV" dir="ltr" style="text-align: left;">Philippians 2:9-11</span>). Jesus will come again as King and Judge, and will judge 'both the living and the dead' (<span class="x-scripture" data-book="ACT" data-chapter="10" data-lang="en" data-type="ref" data-verses="42" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 10:42</span>).
+
+<!-- p23 -->
+In Christ, the roles of Prophet, Priest, and King are united and perfectly fulfilled. As the Mediator of the New Covenant, he becomes the bridge between the holy God and sinful humanity, enabling believers to come to God with confidence (<span class="x-scripture" data-book="HEB" data-chapter="4" data-lang="en" data-type="ref" data-verses="16" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 4:16</span>) and securing the promised eternal inheritance in him.
+
+<!-- p24 -->
+## The Apostles' Creed
+
+<!-- p25 -->
+*Apostles Creed* is not found in Scripture; it was formed and revised on the basis of the church's earliest teachings. A creed is a formal declaration of faith—think of it as a blend of a statement of belief with an oath or vow. Creeds are important because they unify those who believe in a particular way and distinguish them from those who do not. At civic ceremonies such as city council meetings or legislative gatherings in the United States, attendees often recite the Pledge of Allegiance. This pledge is widely used in the United States, but not in other countries, because the citizens of those countries do not pledge allegiance to the United States. This pledge does not make someone ‘American,’ but it represents an important foundational belief for citizens.
+
+<!-- p26 -->
+The earliest recognizable forms of the creed were written in the fourth century A.D. The creed has changed slightly over the centuries, and there are some differences depending on denomination. Not every Christian denomination uses the creed, but broadly speaking it is widely accepted throughout Christianity in some form.
+
+<!-- p27 -->
+The Apostles' Creed has been used for centuries as a tool for learning and catechism and conveys the most fundamental truths of the Christian faith—the basic beliefs that must be affirmed and held to be a Christian. Some denominational churches have a formal catechism process through which a new believer joins that particular denomination and is trained in its beliefs.
+
+<!-- p28 -->
+A person does not need to fully understand these beliefs to come to God and receive salvation—salvation is by faith, not by a doctrinal exam! However, as we grow in that faith we should all understand these foundational truths.
+
+<!-- p29 -->
+> *I believe in God, the Father Almighty,  
+> Creator of heaven and earth.*  
+>
+> *I believe in Jesus Christ, his only Son, our Lord.  
+> He was conceived by the power of the Holy Spirit  
+> and born of the Virgin Mary.  
+> He suffered under Pontius Pilate,  
+> was crucified, died, and was buried.  
+> He descended to the dead.  
+> On the third day he rose again.  
+> He ascended into heaven,  
+> and is seated at the right hand of the Father.  
+> He will come again to judge the living and the dead.*  
+>
+> *I believe in the Holy Spirit,  
+> the holy catholic Church\*,  
+> the communion of saints,  
+> the forgiveness of sins,  
+> the resurrection of the body,  
+> and the life everlasting. Amen.*  
+>
+> *Modern version of the Apostles' Creed, [<u>https://www.rca.org/about/theology/creeds-and-confessions/the-apostles-creed/</u>](https://www.rca.org/about/theology/creeds-and-confessions/the-apostles-creed/)*  
+>
+> \*Meaning the universal Christian Church - all believers in Jesus Christ
+
+<!-- p30 -->
+## A brief explanation of the Apostles' Creed
+
+<!-- p31 -->
+The fundamental truths contained in the Apostles' Creed are many and quite profound; a full explanation would certainly take multi-volume books. Although this chapter is about Jesus, many topics also relate to the other members of the Godhead. This will be a brief explanation of the creed, focusing only on the most central topics. Many of these topics are explored in greater depth in the chapters of this book.
+
+<!-- p32 -->
+#### *I believe in God, the Father Almighty, Creator of heaven and earth.*
+
+<!-- p33 -->
+This affirms belief in God as the all-powerful, sovereign Creator and Father. The title "Father" highlights God's loving relationship with his creation, especially with those children who are his through faith (<span class="x-scripture" data-book="JHN" data-chapter="1" data-lang="en" data-type="ref" data-verses="12" data-version="NKJV" dir="ltr" style="text-align: left;">John 1:12</span>). As Creator, he spoke the universe into existence, bringing order out of chaos (<span class="x-scripture" data-book="GEN" data-chapter="1" data-lang="en" data-type="ref" data-verses="1-3" data-version="NKJV" dir="ltr" style="text-align: left;">Genesis 1:1-3</span>). His omnipotence is seen in the vastness of creation, while his fatherly care is evident in his ongoing provision and governance. This foundational statement establishes God as the source of all life and the reigning Lord, worthy of worship and trust.
+
+<!-- p34 -->
+#### *I believe in Jesus Christ, his only Son, our Lord.*
+
+<!-- p35 -->
+Jesus Christ is the unique Son of God, eternally begotten, not made, and sharing in the divine nature (<span class="x-scripture" data-book="JHN" data-chapter="1" data-lang="en" data-type="ref" data-verses="1-2" data-version="NKJV" dir="ltr" style="text-align: left;">John 1:1-2</span>, 14). Jesus, the 'Word,' was from the beginning, and he took on flesh and dwelt among us. As "Christ," he is the Anointed Messiah, fulfilling the Old Covenant promises of a Savior. The title "Lord" acknowledges his supremacy over all creation and his rightful rule and kingship (<span class="x-scripture" data-book="PHP" data-chapter="2" data-lang="en" data-type="ref" data-verses="10-11" data-version="NKJV" dir="ltr" style="text-align: left;">Philippians 2:10-11</span>). He is not only Lord, but the Lord who saves (<span class="x-scripture" data-book="ACT" data-chapter="16" data-lang="en" data-type="ref" data-verses="31" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 16:31</span>).
+
+<!-- p36 -->
+Jesus was not **only** sent by God; he is **part of God**. Jesus dwells in the Father and the Father dwells in Jesus. The Gospel of John repeatedly establishes that Jesus and the Father are one (<span class="x-scripture" data-book="JHN" data-chapter="10" data-lang="en" data-type="ref" data-verses="30" data-version="NKJV" dir="ltr" style="text-align: left;">John 10:30</span>), that Jesus did not act of his own will (<span class="x-scripture" data-book="JHN" data-chapter="5" data-lang="en" data-type="ref" data-verses="19" data-version="NKJV" dir="ltr" style="text-align: left;">John 5:19</span>; <span class="x-scripture" data-book="JHN" data-chapter="12" data-lang="en" data-type="ref" data-verses="49-50" data-version="NKJV" dir="ltr" style="text-align: left;">John 12:49-50</span>), and that whatever he did he did to glorify his Father (<span class="x-scripture" data-book="JHN" data-chapter="17" data-lang="en" data-type="ref" data-verses="4" data-version="NKJV" dir="ltr" style="text-align: left;">John 17:4</span>; <span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="en" data-type="ref" data-verses="13" data-version="NKJV" dir="ltr" style="text-align: left;">John 14:13</span>), and that all of it was done with his Father's authority and power (<span class="x-scripture" data-book="JHN" data-chapter="14" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">John 14:10</span>; <span class="x-scripture" data-book="JHN" data-chapter="8" data-lang="en" data-type="ref" data-verses="28-29" data-version="NKJV" dir="ltr" style="text-align: left;">John 8:28-29</span>).
+
+<!-- p37 -->
+#### *He was conceived by the power of the Holy Spirit and born of the Virgin Mary.*
+
+<!-- p38 -->
+This affirms Jesus' supernatural conception through the Holy Spirit, highlighting his divine origin. Born of the Virgin Mary, Jesus fulfills the prophecy of (<span class="x-scripture" data-book="ISA" data-chapter="7" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV" dir="ltr" style="text-align: left;">Isaiah 7:14</span>), which foretold the virgin birth of the Messiah. This event signifies the Incarnation, where God's eternal Word took on human flesh (<span class="x-scripture" data-book="JHN" data-chapter="1" data-lang="en" data-type="ref" data-verses="14" data-version="NKJV" dir="ltr" style="text-align: left;">John 1:14</span>). Being fully God and fully man, Jesus bridges the gap between God and humanity, making him the perfect Mediator and Redeemer.
+
+<!-- p39 -->
+Jesus was conceived by the seed of the Holy Spirit, and he did not inherit the sinful nature that we, born of the seed of man, possess. Jesus was tempted and tested in every way, yet he remained perfect and without sin. <span class="x-scripture" data-book="HEB" data-chapter="4" data-lang="en" data-type="ref" data-verses="15" data-version="NKJV" dir="ltr" style="text-align: left;">Hebrews 4:15</span>, <span class="x-scripture" data-book="2CO" data-chapter="5" data-lang="en" data-type="ref" data-verses="21" data-version="NKJV" dir="ltr" style="text-align: left;">2 Corinthians 5:21</span>, <span class="x-scripture" data-book="1PE" data-chapter="2" data-lang="en" data-type="ref" data-verses="22" data-version="NKJV" dir="ltr" style="text-align: left;">1 Peter 2:22</span>.
+
