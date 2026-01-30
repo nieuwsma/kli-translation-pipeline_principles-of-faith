@@ -1,0 +1,6 @@
+# Drift explanation generated 2026-01-30T16:31:32.605138
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/punjabi/pipeline2/analysis/chapters/drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"1","0.8416","LOW","yes","doctrinal","The original phrase 'Principles of Faith' suggests a focus on foundational beliefs within a faith system, while 'Faith Principles' may imply a broader set of guidelines or values derived from faith, potentially altering the emphasis on doctrinal foundations.","Principles of Faith","Faith Principles"
+"2","0.8416","LOW","no","paraphrase","The phrases 'Principles of Faith' and 'Faith Principles' convey the same core concept regarding foundational beliefs, with no significant change in doctrinal meaning, logical relationship, or intent.","Principles of Faith","Faith Principles"
+"4","0.8558","MEDIUM","no","paraphrase","The terms 'Principles of Faith' and 'Faith Principles' convey the same conceptual meaning, focusing on the foundational beliefs associated with faith without altering the doctrinal, logical, or intentional aspects.","Principles of Faith -","Faith Principles -"
