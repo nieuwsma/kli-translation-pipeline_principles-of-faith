@@ -1679,3 +1679,64 @@
 <!-- p559 -->
 - *“これらの領域に神の御国をもたらすために、私はどのように霊的権威を用いることができますか？”*
 
+<!-- p560 -->
+2.  **グループディスカッション:**
+
+<!-- p561 -->
+- ペアまたは小グループで洞察を共有する。
+
+<!-- p562 -->
+3.  **祈り:**
+
+<!-- p563 -->
+- 参加者が自分の権威の領域を自信をもって歩むよう任命する内容の、グループでの祈りで締めくくる。
+
+<!-- p564 -->
+### アクティビティ3: 霊的権威における天使の役割を理解する（主題別聖書学習）
+
+<!-- p565 -->
+**目的:  **
+神の御国の一部としての天使と、霊的権威における彼らの役割に関する参加者の理解を深める。
+
+<!-- p566 -->
+**手順:**
+
+<!-- p567 -->
+1.  **聖書研究:**
+
+<!-- p568 -->
+- 天使に関する聖書箇所を割り当てる。より深く探求するために、以下の拡張リストを用いる。
+
+<!-- p569 -->
+2.  **天使に関する聖句の拡張リスト:**
+
+<!-- p570 -->
+- **天使の守りと導き:**
+
+<!-- p571 -->
+- 信者を守る: *<span class="x-scripture" data-book="PSA" data-chapter="91" data-lang="en" data-type="ref" data-verses="11-12" data-version="NKJV" dir="ltr" style="text-align: left;">詩篇 91:11-12</span>.*
+
+<!-- p572 -->
+- エリシャとそのしもべを守る: *<span class="x-scripture" data-book="2KI" data-chapter="6" data-lang="en" data-type="ref" data-verses="15-17" data-version="NKJV" dir="ltr" style="text-align: left;">列王記下 6:15-17</span>.*
+
+<!-- p573 -->
+- ピリポをエチオピアの宦官のもとへ導く: *<span class="x-scripture" data-book="ACT" data-chapter="8" data-lang="en" data-type="ref" data-verses="26" data-version="NKJV" dir="ltr" style="text-align: left;">使徒の働き 8:26</span>.*
+
+<!-- p574 -->
+- **霊的戦いにおける天使:**
+
+<!-- p575 -->
+- ダニエルを獅子から救い出す: *<span class="x-scripture" data-book="DAN" data-chapter="6" data-lang="en" data-type="ref" data-verses="22" data-version="NKJV" dir="ltr" style="text-align: left;">ダニエル書 6:22</span>.*
+
+<!-- p576 -->
+- 祈りに応答する天使の戦い: *<span class="x-scripture" data-book="DAN" data-chapter="10" data-lang="en" data-type="ref" data-verses="12-14" data-version="NKJV" dir="ltr" style="text-align: left;">ダニエル書 10:12-14</span>.*
+
+<!-- p577 -->
+- イスラエルのために戦う: *<span class="x-scripture" data-book="EXO" data-chapter="23" data-lang="en" data-type="ref" data-verses="20-22" data-version="NKJV" dir="ltr" style="text-align: left;">出エジプト記 23:20-22</span>.*
+
+<!-- p578 -->
+- **使者としての天使:**
+
+<!-- p579 -->
+- イエスの誕生を告知する: *<span class="x-scripture" data-book="LUK" data-chapter="1" data-lang="en" data-type="ref" data-verses="26-38" data-version="NKJV" dir="ltr" style="text-align: left;">ルカの福音書 1:26-38</span>.*
+
