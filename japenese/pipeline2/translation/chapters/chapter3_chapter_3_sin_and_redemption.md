@@ -157,3 +157,89 @@
 <!-- p39 -->
 <span class="x-scripture" data-book="GAL" data-chapter="6" data-lang="en" data-type="quote" data-verses="7-8" data-version="NKJV" dir="ltr" style="text-align: left;">
 
+<!-- p40 -->
+> **<u>ガラテヤ 6:7-8</u>** (NKJV)
+>
+> 惑わされてはいけません、神はあざけられる方ではありません；人が蒔くものは何であれ、その人はまたそれを刈り取るのです。
+>
+> 自分の肉に蒔く者は、肉から滅びを刈り取り、しかし御霊に蒔く者は、御霊から永遠のいのちを刈り取るのです。
+>
+
+<!-- p41 -->
+</span>
+
+<!-- p42 -->
+神は不義と交わることができません。罪の痛みと影響は、それが自然と私たちを神との関係から引き離すことです。
+
+<!-- p43 -->
+### 裁き - 今と永遠
+
+<!-- p44 -->
+聖書は、すべての人がその行いに応じて最終的な裁きを受けると宣言しています。この裁き、***大いなる白い御座の裁き、** が行われます* と呼ばれるものは、**罪に定められるための死人のよみがえり** (<span class="x-scripture" data-book="JHN" data-chapter="5" data-lang="en" data-type="ref" data-verses="28-29" data-version="NKJV" dir="ltr" style="text-align: left;">ヨハネ 5:28-29</span>) の後に起こり、***小羊のいのちの書**.* に名がないすべての者のためのものです。<u>この裁きは信者のためではなく、不信者のためのものです</u>、信者は***キリストの裁きの座*** に直面します (詳細は最終章をお読みください)。聖書は、神がご自分の律法を破った者たちに御怒りを注がれると言っています；その裁きは永遠の分離と苦しみとなるでしょう。イエスは、<span class="x-scripture" data-book="JHN" data-chapter="5" data-lang="en" data-type="ref" data-verses="26-27" data-version="NKJV" dir="ltr" style="text-align: left;">ヨハネ 5:26-27</span> において、この裁きを行う権威を父がご自分に与えられたと言われます。
+
+<!-- p45 -->
+<span class="x-scripture" data-book="REV" data-chapter="20" data-lang="en" data-type="fragment" data-verses="12-13" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p46 -->
+> **<u>黙示録 20:12-13</u>** (NKJV)
+>
+> そして私は、死んだ者たちが、小さな者も大きな者も、神の前に立っているのを見ました、そして書物が開かれました。また別の書物が開かれましたが、それはいのちの書です。そして死んだ者たちは、その書物に書かれている事がらによって、その行いに応じてさばかれました。
+>
+> 海はその中にいた死者たちを引き渡し、死とハデスもその中にいた死者たちを引き渡しました。そして彼らは、それぞれその行いに応じてさばかれました。
+>
+
+<!-- p47 -->
+</span>
+
+<!-- p48 -->
+<span class="x-scripture" data-book="MAT" data-chapter="12" data-lang="en" data-type="quote" data-verses="36-37" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p49 -->
+> **<u>マタイ 12:36-37</u>** (NKJV)
+>
+> しかしわたしはあなたがたに言います、人が語るあらゆるむだなことばについて、彼らはさばきの日にそれについて申し開きをすることになります。
+>
+> あなたがたは自分のことばによって義とされ、また自分のことばによって罪に定められるのです。"
+>
+
+<!-- p50 -->
+</span>
+
+<!-- p51 -->
+私たちはおそらく、この地上の生において罪の結果に直面することになります。罰の一部からはどうにか逃れたと感じることがあるかもしれません、しかし私たちの肉体の死の後、神の裁きに対して人が自分の力で逃れる道はありません。
+
+<!-- p52 -->
+<span class="x-scripture" data-book="HEB" data-chapter="9" data-lang="en" data-type="quote" data-verses="27" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p53 -->
+> **<u>ヘブル 9:27</u>** (NKJV)
+>
+> そして、人には一度死ぬことが定まっており、その後にさばきがあります、
+>
+
+<!-- p54 -->
+</span>
+
+<!-- p55 -->
+<span class="x-scripture" data-book="ECC" data-chapter="12" data-lang="en" data-type="quote" data-verses="14" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p56 -->
+> **<u>伝道者の書 12:14</u>** (NKJV)
+>
+> 神はすべてのわざをさばきに持ち込まれるからです、すべての隠れたこと、善であれ悪であれ。
+>
+
+<!-- p57 -->
+</span>
+
+<!-- p58 -->
+<span class="x-scripture" data-book="ROM" data-chapter="2" data-lang="en" data-type="quote" data-verses="5-6" data-version="NKJV" dir="ltr" style="text-align: left;">
+
+<!-- p59 -->
+> **<u>ローマ 2:5-6</u>** (NKJV)
+>
+> しかし、あなたのかたくなさと悔い改めのない心に従って、あなたは自分のために、怒りの日、すなわち神の義なるさばきの現れる日に、怒りを積み上げています、
+>
+> すなわち、"それぞれの行いに応じて各人に報いられる"：
+>
+
