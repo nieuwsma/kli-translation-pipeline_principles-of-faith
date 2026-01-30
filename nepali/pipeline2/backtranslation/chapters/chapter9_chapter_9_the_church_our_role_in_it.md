@@ -184,3 +184,63 @@ Across the entire Christian community there is great diversity of denominations,
 <!-- p59 -->
 3.1.  There must be no favoritism between rich and poor (James 2).
 
+<!-- p60 -->
+3.2.  There is no division between Jew and Gentile, slave or free, male or female (<span class="x-scripture" data-book="GAL" data-chapter="3" data-lang="en" data-type="ref" data-verses="27-28" data-version="NKJV" dir="ltr" style="text-align: left;">Galatians 3:27-28</span>).
+
+<!-- p61 -->
+Beyond rules of leadership, the structure of the church is important, but much of it is situational and is a matter of tradition rather than being universally mandated. “<u>We have always done it this way!</u>” is a common saying; if you look far enough back, they generally had a good reason for doing it that way. This is usually neither good nor bad, but rather a matter of preference, needs, and availability.
+
+<!-- p62 -->
+A useful example of structure being based on tradition is family mealtime. The most important part of family mealtime is that everyone is fed and that the meal is nutritious. The variations are countless: what they eat, how they eat, how they season their food, etc. These different combinations are generally acceptable and are often a matter of taste and preference.
+
+<!-- p63 -->
+The needs and capacities of a church with 10,000 members are different from those of a church with 50 members. The pattern seen in the book of Acts and throughout the New Testament canon was the model of elders and deacons. Leadership structures may look different between churches and denominations, but ultimately this model represents a minimally functional structure of leadership for the church. Let’s look at these leadership offices and how they are selected.
+
+<!-- p64 -->
+### Elders (Overseers)
+
+<!-- p65 -->
+Roles and responsibilities:
+
+<!-- p66 -->
+- **Spiritual leadership** - Provide oversight, guidance, and shepherding care for the church (<span class="x-scripture" data-book="ACT" data-chapter="20" data-lang="en" data-type="ref" data-verses="28" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 20:28</span>; <span class="x-scripture" data-book="1PE" data-chapter="5" data-lang="en" data-type="ref" data-verses="2" data-version="NKJV" dir="ltr" style="text-align: left;">1 Peter 5:2</span>).
+
+<!-- p67 -->
+- **Teaching and preaching** - Responsible to teach sound doctrine and guard against false teaching (<span class="x-scripture" data-book="1TI" data-chapter="5" data-lang="en" data-type="ref" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 5:17</span>; <span class="x-scripture" data-book="TIT" data-chapter="1" data-lang="en" data-type="ref" data-verses="9" data-version="NKJV" dir="ltr" style="text-align: left;">Titus 1:9</span>).
+
+<!-- p68 -->
+- **Shepherding the flock** - Care for the congregation’s spiritual needs, modeling humility and service (<span class="x-scripture" data-book="1PE" data-chapter="5" data-lang="en" data-type="ref" data-verses="2-3" data-version="NKJV" dir="ltr" style="text-align: left;">1 Peter 5:2-3</span>).
+
+<!-- p69 -->
+- **Protecting the church** - Serve like watchmen, guarding the church from false doctrine and division (<span class="x-scripture" data-book="ACT" data-chapter="20" data-lang="en" data-type="ref" data-verses="29-31" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 20:29-31</span>).
+
+<!-- p70 -->
+- **Equipping the saints** - Train and equip believers for works of ministry and discipleship (<span class="x-scripture" data-book="EPH" data-chapter="4" data-lang="en" data-type="ref" data-verses="11-12" data-version="NKJV" dir="ltr" style="text-align: left;">Ephesians 4:11-12</span>).
+
+<!-- p71 -->
+Selection process:
+
+<!-- p72 -->
+- **Appointed in each church** - Elders were appointed by the apostles or their delegates, often through prayer and fasting (<span class="x-scripture" data-book="ACT" data-chapter="14" data-lang="en" data-type="ref" data-verses="23" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 14:23</span>; <span class="x-scripture" data-book="TIT" data-chapter="1" data-lang="en" data-type="ref" data-verses="5" data-version="NKJV" dir="ltr" style="text-align: left;">Titus 1:5</span>).
+
+<!-- p73 -->
+- **Confirmed by the Holy Spirit** - Their appointment was seen as led by the Spirit, recognizing God’s call and gifting (<span class="x-scripture" data-book="ACT" data-chapter="20" data-lang="en" data-type="ref" data-verses="28" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 20:28</span>).
+
+<!-- p74 -->
+- **Tested and approved** - Candidates had to demonstrate maturity and faithfulness before being entrusted with leadership (<span class="x-scripture" data-book="1TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="10" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 3:10</span>). They must not be recent converts! ((<span class="x-scripture" data-book="1TI" data-chapter="3" data-lang="en" data-type="ref" data-verses="6" data-version="NKJV" dir="ltr" style="text-align: left;">1 Timothy 3:6</span>)
+
+<!-- p75 -->
+### Deacons (Servants)
+
+<!-- p76 -->
+Roles and responsibilities:
+
+<!-- p77 -->
+- **Practical service** - Focused on meeting physical needs in the church, which frees the elders to focus on prayer and teaching (<span class="x-scripture" data-book="ACT" data-chapter="6" data-lang="en" data-type="ref" data-verses="1-4" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 6:1-4</span>).
+
+<!-- p78 -->
+- **Supporting ministries** - Assist with hospitality, care for the poor, and administrative tasks (<span class="x-scripture" data-book="ACT" data-chapter="6" data-lang="en" data-type="ref" data-verses="3" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 6:3</span>).
+
+<!-- p79 -->
+- **Promoting unity** - Address issues of fairness and care to prevent division (<span class="x-scripture" data-book="ACT" data-chapter="6" data-lang="en" data-type="ref" data-verses="1-7" data-version="NKJV" dir="ltr" style="text-align: left;">Acts 6:1-7</span>).
+
