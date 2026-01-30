@@ -1019,3 +1019,829 @@ Encourager les participants à mettre en œuvre des disciplines pratiques qui cu
 <!-- p339 -->
 ### Activité 1: Explorer les images bibliques de l’Église (Réflexion et partage)
 
+<!-- p340 -->
+#### Objectif:
+
+<!-- p341 -->
+Aider les participants à comprendre et à se relier aux diverses images bibliques de l'Église.
+
+<!-- p342 -->
+#### Instructions:
+
+<!-- p343 -->
+1.  **Divisez en petits groupes:** Attribuez à chaque groupe une image biblique de l'Église (p. ex., Corps, Épouse, Temple, Troupeau, Famille).
+
+<!-- p344 -->
+2.  **Étude de groupe:**
+
+<!-- p345 -->
+- Lisez le passage biblique associé à l'image.
+
+<!-- p346 -->
+- Discutez: *“Que révèle cette image sur le but et le caractère de l'Église? Comment pouvons-nous vivre cet aspect de l'Église dans notre communauté?”*
+
+<!-- p347 -->
+3.  **Partage des réflexions:** Chaque groupe présente ses conclusions à l'ensemble du groupe.
+
+<!-- p348 -->
+### Activité 2: Aider les autres à trouver leur rôle dans l'Église (Exploration pratique)
+
+<!-- p349 -->
+#### Objectif:
+
+<!-- p350 -->
+Encourager les participants à identifier leur rôle unique dans le Corps du Christ.
+
+<!-- p351 -->
+#### Instructions:
+
+<!-- p352 -->
+1.  **Réflexion personnelle (5 minutes):**
+
+<!-- p353 -->
+- En utilisant la liste des dons du chapitre: Prophétie, Service, Enseignement, Exhortation, Générosité, Direction, Miséricorde
+
+<!-- p354 -->
+- Demandez aux participants de réfléchir: *“Quels dons ou talents Dieu m'a-t-il donnés? Où me sens-je le plus efficace ou joyeux dans le service?” “Quels dons et talents est-ce que je vois chez les personnes ici avec moi?”*
+
+<!-- p355 -->
+2.  **Discussion de groupe (10 minutes):**
+
+<!-- p356 -->
+- Divisez-vous en petits groupes.
+
+<!-- p357 -->
+- À tour de rôle: *“Partagez entre vous les dons et talents que vous les voyez développer et exercer. Pour la personne qui reçoit, en quoi cela résonne-t-il avec vous?”*
+
+<!-- p358 -->
+3.  **Plan d'action (5 minutes):**
+
+<!-- p359 -->
+- Encouragez les participants à noter les dons dont ils ont parlé et une manière dont ils utiliseront leur don pour servir au cours de la semaine à venir.
+
+<!-- p360 -->
+### Activité 3 : La mission de l’Église en action (remue-méninges et application)
+
+<!-- p361 -->
+#### Objectif :
+
+<!-- p362 -->
+Inspirer les participants à s’engager dans la mission ascendante, intérieure et extérieure de l’Église.
+
+<!-- p363 -->
+#### Instructions :
+
+<!-- p364 -->
+1.  **Divisez-vous en trois équipes :** Attribuez à chaque équipe une dimension de la mission de l’Église :
+
+<!-- p365 -->
+- **Ascendante :** Adorer et glorifier Dieu.
+
+<!-- p366 -->
+- **Intérieure :** Édifier le corps de Christ.
+
+<!-- p367 -->
+- **Extérieure :** Atteindre le monde avec l’Évangile.
+
+<!-- p368 -->
+2.  **Remue-méninges en équipe (10 minutes) :**
+
+<!-- p369 -->
+- Chaque équipe discute de moyens pratiques de vivre la mission qui lui a été attribuée au sein de l’Église et de la communauté.
+
+<!-- p370 -->
+- Exemples : organiser une soirée de louange (ascendante), organiser un petit groupe (intérieure), faire du bénévolat lors d’un événement de service communautaire (extérieure).
+
+<!-- p371 -->
+3.  **Partage en groupe (10 minutes) :**
+
+<!-- p372 -->
+- Chaque équipe partage ses idées, en se concentrant sur la façon dont elle peut inspirer l’ensemble du groupe à agir.
+
+<!-- p373 -->
+## Chapitre 10 - Sanctifié - Mis à part pour le dessein de Dieu
+
+<!-- p374 -->
+### Activité 1 : Faire confiance au processus de sanctification (encouragement et prière)
+
+<!-- p375 -->
+#### Objectif :
+
+<!-- p376 -->
+Rassurer les participants que la sanctification est un parcours de toute une vie et les encourager à faire confiance au temps et à l’œuvre de Dieu.
+
+<!-- p377 -->
+#### Instructions :
+
+<!-- p378 -->
+1.  **Lecture biblique (5 minutes) :**
+
+<!-- p379 -->
+- Lire <span class="x-scripture" data-book="PHP" data-chapter="1" data-lang="en" data-type="ref" data-verses="6" data-version="NKJV" dir="ltr" style="text-align: left;">Philippiens 1:6</span> (*« Celui qui a commencé en vous une bonne œuvre la mènera à son achèvement jusqu’au jour de Jésus-Christ. »*).
+
+<!-- p380 -->
+2.  **Discussion de groupe (10 minutes):**
+
+<!-- p381 -->
+- Demandez: *“Comment ce verset nous encourage-t-il lorsque la sanctification semble lente?”*
+
+<!-- p382 -->
+- Discutez: *“De quelles manières pratiques pouvons-nous nous rappeler de faire confiance à Dieu dans ce processus?”*
+
+<!-- p383 -->
+3.  **Cercle de prière (5 minutes):**
+
+<!-- p384 -->
+- Terminez en priant les uns pour les autres, en demandant spécifiquement la patience, la confiance et la joie dans le chemin de sanctification.
+
+<!-- p385 -->
+### Activité 2: Élimination des habitudes négatives (réflexion et prise de conscience des déclencheurs)
+
+<!-- p386 -->
+#### Objectif:
+
+<!-- p387 -->
+Aider les participants à identifier les habitudes négatives qui freinent la sanctification et à apprendre à reconnaître les déclencheurs et signaux qui conduisent à ces comportements.
+
+<!-- p388 -->
+#### Instructions:
+
+<!-- p389 -->
+1.  **Réflexion (5 minutes):**
+
+<!-- p390 -->
+- Fournissez une fiche avec ces consignes:
+
+<!-- p391 -->
+- *“Quelle habitude ou quel comportement freine votre croissance spirituelle?”*
+
+<!-- p392 -->
+- *“Quelles situations, émotions ou pensées mènent généralement à cette habitude?”* (identification des déclencheurs/signaux).
+
+<!-- p393 -->
+- Exemples de déclencheurs à considérer: stress, ennui, pression des pairs, moment de la journée ou lieux spécifiques.
+
+<!-- p394 -->
+2.  **Liste d’exemples d’habitudes négatives:**
+
+<!-- p395 -->
+- **Se plaindre ou colporter des ragots** - Parler négativement des autres au lieu de faire preuve de grâce.
+
+<!-- p396 -->
+- **Réagir avec colère ou impatience** - Emportements ou réponses peu bienveillantes dans des situations stressantes.
+
+<!-- p397 -->
+- **Surutilisation des réseaux sociaux ou des divertissements** - Consacrer un temps excessif à des distractions qui empêchent une croissance spirituelle significative.
+
+<!-- p398 -->
+- **Éviter les conversations difficiles** - Ne pas traiter les conflits dans les relations, ce qui conduit à des tensions non résolues.
+
+<!-- p399 -->
+- **Procrastination ou paresse** - Retarder ses responsabilités ou négliger des tâches intentionnelles.
+
+<!-- p400 -->
+- **S'accrocher aux rancœurs ou à l'amertume** - Laisser le manque de pardon prendre racine dans votre cœur.
+
+<!-- p401 -->
+- **S’adonner excessivement à la nourriture, aux achats ou à d’autres sources de réconfort** - Se tourner vers celles-ci pour faire face au lieu de rechercher la paix de Dieu.
+
+<!-- p402 -->
+- **S’attarder sur des pensées négatives** - Laisser l’inquiétude, la peur ou l’envie dominer votre état d’esprit.
+
+<!-- p403 -->
+3.  **Discussion de groupe (10 minutes):**
+
+<!-- p404 -->
+- Divisez-vous en petits groupes. Chaque participant partage une habitude qu’il souhaite abandonner et ses déclencheurs (s’il est à l’aise).
+
+<!-- p405 -->
+- Discutez: *“Que pouvez-vous faire pour interrompre ou éviter ces déclencheurs?”* (p. ex., faire une pause et prier, changer votre environnement, chercher un partenaire de redevabilité).
+
+<!-- p406 -->
+4.  **Conclusion (5 minutes):**
+
+<!-- p407 -->
+- Encouragez les participants à s’engager à remplacer l’habitude négative par une positive (voir Activité 2).
+
+<!-- p408 -->
+- Priez pour la direction et la force de Dieu afin d’identifier et de briser ces habitudes.
+
+<!-- p409 -->
+### Activité 3: Établir des habitudes positives (mettre en place de nouvelles routines et récompenses)
+
+<!-- p410 -->
+#### Objectif:
+
+<!-- p411 -->
+Guider les participants dans la création d’habitudes positives qui s’alignent avec leur parcours de sanctification en mettant l’accent sur des actions constantes et leurs récompenses spirituelles.
+
+<!-- p412 -->
+#### Instructions:
+
+<!-- p413 -->
+1.  **Réflexion (5 minutes):**
+
+<!-- p414 -->
+- Demandez aux participants de réfléchir aux domaines dans lesquels ils peuvent grandir spirituellement et d’envisager des habitudes qu’ils pourraient mettre en place.
+
+<!-- p415 -->
+- Consigne: *“Quelle habitude puis-je ajouter pour fortifier ma marche avec Dieu ou refléter son caractère dans ma vie quotidienne?”*
+
+<!-- p416 -->
+2.  **Liste d’exemples d’habitudes positives:**
+
+<!-- p417 -->
+- **Prière quotidienne** - Réserver du temps pour se rapprocher de Dieu au début ou à la fin de votre journée.
+
+<!-- p418 -->
+- **Lecture ou étude de la Bible** - Établir un moment régulier pour lire, méditer et mettre en pratique l’Écriture.
+
+<!-- p419 -->
+- **Journal de gratitude** - Noter chaque jour trois choses pour lesquelles vous êtes reconnaissant afin de recentrer votre attention.
+
+<!-- p420 -->
+- **Servir les autres** - Trouver de petites façons régulières d’aider ou d’encourager une personne dans le besoin.
+
+<!-- p421 -->
+- **Dire des paroles d’affirmation** - Encourager intentionnellement un membre de la famille, un ami ou un collègue.
+
+<!-- p422 -->
+- **Mémorisation des Écritures** - Apprendre un verset par semaine pour méditer sur la vérité de Dieu.
+
+<!-- p423 -->
+- **Pratiquer le silence ou la solitude** - Prendre quelques minutes chaque jour pour s’asseoir en silence et écouter la voix de Dieu.
+
+<!-- p424 -->
+- **Participer à la communion fraternelle** - Assister régulièrement à un petit groupe ou à l’église pour tisser des liens et favoriser la redevabilité.
+
+<!-- p425 -->
+3.  **Construire l’habitude (10 minutes):**
+
+<!-- p426 -->
+- Guidez les participants à décomposer l’habitude en trois composantes:
+
+<!-- p427 -->
+- **Action:** Définir clairement l’habitude (p. ex., *“Passer 5 minutes en prière chaque matin avant le petit-déjeuner.”*).
+
+<!-- p428 -->
+- **Repères:** Identifier ce qui leur rappellera de pratiquer l’habitude (p. ex., le moment de la journée, poser une Bible sur leur table de chevet).
+
+<!-- p429 -->
+- **Récompenses:** Réfléchir aux récompenses spirituelles de la constance (p. ex., *“Cela me donnera la paix et m’aidera à faire davantage confiance à Dieu.”*).
+
+<!-- p430 -->
+4.  **Partage en groupe (5 minutes):**
+
+<!-- p431 -->
+- En binômes ou en petits groupes, les participants partagent l’habitude qu’ils souhaitent instaurer et leur plan de mise en œuvre.
+
+<!-- p432 -->
+5.  **Conclusion:**
+
+<!-- p433 -->
+- Encouragez les participants à écrire leur nouvelle habitude et à la partager avec un partenaire de redevabilité pour encourager la mise en pratique.
+
+<!-- p434 -->
+## Chapitre 11 - Baptêmes-Eau et Esprit
+
+<!-- p435 -->
+### Activité 1: Explorer la signification du baptême (Réflexion et partage)
+
+<!-- p436 -->
+#### Objectif:
+
+<!-- p437 -->
+Aider les participants à réfléchir à la signification théologique et personnelle du baptême dans leur parcours spirituel.
+
+<!-- p438 -->
+#### Instructions:
+
+<!-- p439 -->
+1.  **Étude des Écritures (5 minutes):**
+
+<!-- p440 -->
+- Lisez <span class="x-scripture" data-book="ROM" data-chapter="6" data-lang="en" data-type="ref" data-verses="3-4" data-version="NKJV" dir="ltr" style="text-align: left;">Romains 6:3-4</span> et <span class="x-scripture" data-book="ACT" data-chapter="19" data-lang="en" data-type="ref" data-verses="1-6" data-version="NKJV" dir="ltr" style="text-align: left;">Actes 19:1-6</span>.
+
+<!-- p441 -->
+- Posez la question: *“Comment ces passages approfondissent-ils votre compréhension du baptême d'eau et du baptême du Saint-Esprit?”*
+
+<!-- p442 -->
+2.  **Réflexion en groupe (10 minutes):**
+
+<!-- p443 -->
+- En binômes ou en petits groupes, discutez:
+
+<!-- p444 -->
+- *“Que signifie le baptême pour vous personnellement?”*
+
+<!-- p445 -->
+- *“En quoi votre expérience du baptême a-t-elle façonné votre relation avec le Christ?”*
+
+<!-- p446 -->
+3.  **Prière et encouragement (5 minutes):**
+
+<!-- p447 -->
+- Priez ensemble pour une compréhension renouvelée du baptême et pour le courage de faire des pas d'obéissance dans la foi.
+
+<!-- p448 -->
+### Activité 2: Rechercher la puissance du Saint-Esprit (Prière et application)
+
+<!-- p449 -->
+#### Objectif:
+
+<!-- p450 -->
+Encourager les participants à rechercher le baptême du Saint-Esprit et à comprendre son rôle dans leur vie.
+
+<!-- p451 -->
+#### Instructions:
+
+<!-- p452 -->
+1.  **Réflexion (5 minutes):**
+
+<!-- p453 -->
+- Proposez des amorces de réflexion:
+
+<!-- p454 -->
+- *“Quels domaines de votre vie ou de votre ministère bénéficieraient de la puissance du Saint-Esprit?”*
+
+<!-- p455 -->
+- *“Qu'est-ce qui vous empêche de rechercher pleinement sa puissance?”*
+
+<!-- p456 -->
+2.  **Prière en groupe (10 minutes):**
+
+<!-- p457 -->
+- Dirigez un temps de prière pour ceux qui désirent le baptême dans le Saint-Esprit.
+
+<!-- p458 -->
+- Encouragez les participants à prier dans l'attente, en prenant <span class="x-scripture" data-book="ACT" data-chapter="1" data-lang="en" data-type="ref" data-verses="8" data-version="NKJV" dir="ltr" style="text-align: left;">Actes 1:8</span> et <span class="x-scripture" data-book="LUK" data-chapter="11" data-lang="en" data-type="ref" data-verses="13" data-version="NKJV" dir="ltr" style="text-align: left;">Luc 11:13</span> comme fondement.
+
+<!-- p459 -->
+3.  **Encouragement final (5 minutes):**
+
+<!-- p460 -->
+- Partagez des témoignages sur la manière dont la puissance de l’Esprit a fait une différence dans la vie des croyants.
+
+<!-- p461 -->
+### Activité 3: Symbolisme du baptême (Exercice interactif et créatif)
+
+<!-- p462 -->
+#### Objectif:
+
+<!-- p463 -->
+Aidez les participants à explorer la richesse du symbolisme du baptême et à le relier à leur parcours de foi personnel.
+
+<!-- p464 -->
+#### Instructions:
+
+<!-- p465 -->
+1.  **Exploration des Écritures (5 minutes):**
+
+<!-- p466 -->
+- Lisez <span class="x-scripture" data-book="ROM" data-chapter="6" data-lang="en" data-type="ref" data-verses="3-4" data-version="NKJV" dir="ltr" style="text-align: left;">Romains 6:3-4</span> (*« Nous avons donc été ensevelis avec lui par le baptême en sa mort, afin que, tout comme Christ a été ressuscité d’entre les morts par la gloire du Père, nous aussi, nous vivions une vie nouvelle. »*).
+
+<!-- p467 -->
+- Discutez: *« Que symbolisent les éléments du baptême-eau, immersion, remontée-symbolisent pour les croyants ? »*
+
+<!-- p468 -->
+2.  **Exercice sur le symbolisme (10 minutes):**
+
+<!-- p469 -->
+- Fournissez aux participants une liste des symboles baptismaux et de leurs significations:
+
+<!-- p470 -->
+1.  **Eau** - Nettoyage et purification; lavage des péchés et renouveau de vie.
+
+<!-- p471 -->
+2.  **Immersion** - Mort et ensevelissement; mourir à l’ancien moi et à la nature pécheresse.
+
+<!-- p472 -->
+3.  **Sortie de l’eau** - Résurrection et vie nouvelle; union avec la résurrection du Christ.
+
+<!-- p473 -->
+4.  **Vêtement** - Être revêtu du Christ, de la justice et d’une nouvelle identité.
+
+<!-- p474 -->
+5.  **Lumière** - Illumination et guidance; marcher dans la lumière du Christ.
+
+<!-- p475 -->
+6.  **Sceau** - Propriété et appartenance; marqué par le Saint-Esprit dans la famille d’alliance de Dieu.
+
+<!-- p476 -->
+7.  **Huile** - Onction et revêtement de puissance; être mis à part pour les desseins de Dieu.
+
+<!-- p477 -->
+8.  **Colombe** - Présence du Saint-Esprit; paix, pureté et revêtement de puissance pour le ministère.
+
+<!-- p478 -->
+9.  **Croix** - Union avec le sacrifice du Christ; abandon à la volonté de Dieu et engagement quotidien.
+
+<!-- p479 -->
+10. **Communauté** - Inclusion dans le Corps de Christ; communion, responsabilité mutuelle et mission partagée.
+
+<!-- p480 -->
+- Demandez aux participants de réfléchir à celui des symboles qui résonne le plus avec leur cheminement spirituel et pourquoi.
+
+<!-- p481 -->
+- Facultatif: Fournissez des fiches cartonnées ou des feuilles pour qu’ils rédigent un bref témoignage sur la manière dont le baptême a influencé leur foi.
+
+<!-- p482 -->
+3.  **Partage en groupe (5 minutes):**
+
+<!-- p483 -->
+- Demandez aux participants de partager leurs réflexions en petits groupes ou par deux. Encouragez-les à discuter de la façon dont ils peuvent intégrer la symbolique du baptême dans leur vie quotidienne.
+
+<!-- p484 -->
+4.  **Option créative:**
+
+<!-- p485 -->
+- Si le temps le permet, invitez les participants à créer une représentation visuelle (dessin, nuage de mots ou simple croquis) de ce que le baptême signifie pour eux en se basant sur les symboles discutés.
+
+<!-- p486 -->
+## Chapitre 12 - Discipulat
+
+<!-- p487 -->
+### Activité 1: Identifier votre cercle d’influence (réflexion et partage)
+
+<!-- p488 -->
+#### Objectif:
+
+<!-- p489 -->
+Aidez les participants à reconnaître les personnes que Dieu a placées dans leur vie pour en faire des disciples et les inspirer à agir.
+
+<!-- p490 -->
+#### Instructions:
+
+<!-- p491 -->
+1.  **Réflexion (5 minutes):**
+
+<!-- p492 -->
+- Individuellement: Sur une feuille de papier, dessinez trois cercles concentriques intitulés:
+
+<!-- p493 -->
+- **Cercle intérieur:** Famille proche et amis.
+
+<!-- p494 -->
+- **Cercle intermédiaire:** Membres de l’église ou de la communauté.
+
+<!-- p495 -->
+- **Cercle extérieur:** Connaissances, collègues de travail ou voisins.
+
+<!-- p496 -->
+- Demandez aux participants d’écrire les noms des personnes avec lesquelles ils interagissent régulièrement.
+
+<!-- p497 -->
+2.  **Partage en groupe (10 minutes):**
+
+<!-- p498 -->
+- En binômes, partagez un nom tiré de chaque cercle et réfléchissez à des moyens d’engager ces personnes dans des conversations spirituelles significatives.
+
+<!-- p499 -->
+3.  **Engagement et prière (5 minutes):**
+
+<!-- p500 -->
+- Demandez aux participants de s’engager à une action concrète envers une personne cette semaine (p. ex., l’inviter à prendre un café, commencer une étude biblique, ou proposer de prier pour cette personne).
+
+<!-- p501 -->
+- Concluez par une prière pour l’audace et la sagesse.
+
+<!-- p502 -->
+### Activité 2 : Caractéristiques d’un faiseur de disciples (remue-méninges interactif)
+
+<!-- p503 -->
+#### Objectif :
+
+<!-- p504 -->
+Encouragez les participants à réfléchir aux qualités d’un faiseur de disciples efficace et à identifier des domaines de croissance personnelle.
+
+<!-- p505 -->
+#### Instructions :
+
+<!-- p506 -->
+1.  **Remue-méninges (5 minutes) :**
+
+<!-- p507 -->
+- Écrivez les qualités suivantes sur un tableau blanc ou un document remis :
+
+<!-- p508 -->
+- Patience, humilité, orientation relationnelle, intentionnalité, fidélité et audace.
+
+<!-- p509 -->
+- Demandez aux participants d’ajouter d’autres traits qu’ils jugent importants.
+
+<!-- p510 -->
+2.  **Réflexion personnelle (5 minutes) :**
+
+<!-- p511 -->
+- Demandez aux participants de sélectionner un ou deux traits qu’ils manifestent actuellement et un dans lequel ils aimeraient progresser.
+
+<!-- p512 -->
+3.  **Partage en groupe et encouragement (10 minutes) :**
+
+<!-- p513 -->
+- En petits groupes, partagez vos choix et discutez de la manière dont ces traits peuvent être développés par la prière, la pratique et la redevabilité.
+
+<!-- p514 -->
+### Activité 3 : Élaboration d’un plan de discipulat (application pratique)
+
+<!-- p515 -->
+#### Objectif :
+
+<!-- p516 -->
+Outiller les participants pour élaborer un plan simple et réalisable afin d’accompagner quelqu’un dans leur entourage.
+
+<!-- p517 -->
+#### Instructions :
+
+<!-- p518 -->
+1.  **Modèle de plan :** Fournissez une feuille de travail avec les rubriques suivantes :
+
+<!-- p519 -->
+- **Qui ?** Indiquez le nom de la personne que vous vous sentez appelé(e) à accompagner dans le discipulat.
+
+<!-- p520 -->
+- **Comment ?** Identifiez une manière d’entrer en contact avec eux cette semaine (p. ex., inviter à déjeuner, discuter d’un sujet spirituel).
+
+<!-- p521 -->
+- **Quoi ?** Décidez d’un outil ou d’un sujet pour guider votre temps ensemble (p. ex., une question à poser, un livre de la Bible, la prière, ou aborder des défis de la vie). Cela n’a pas besoin d’être trop rigide, laissez-le découler naturellement de votre relation avec eux !
+
+<!-- p522 -->
+2.  **Partage en groupe (10 minutes):**
+
+<!-- p523 -->
+- Partagez vos plans avec un partenaire pour l’encouragement et la redevabilité.
+
+<!-- p524 -->
+3.  **Prière pour l’action (5 minutes):**
+
+<!-- p525 -->
+- Priez en groupe pour le courage et la direction afin de mettre en œuvre leurs plans.
+
+<!-- p526 -->
+## Chapitre 13 - Autorité spirituelle
+
+<!-- p527 -->
+### Activité 1: Reconnaître l’autorité spirituelle dans l’Écriture (exercice d’étude biblique)
+
+<!-- p528 -->
+#### Objectif:
+
+<!-- p529 -->
+Aider les participants à identifier des exemples d’autorité spirituelle dans la Bible et à réfléchir à la façon dont ils s’appliquent à leur vie.
+
+<!-- p530 -->
+#### Instructions:
+
+<!-- p531 -->
+1.  **Étude en groupe:**
+
+<!-- p532 -->
+- Divisez-vous en petits groupes et attribuez à chaque groupe un passage qui illustre l’autorité spirituelle. Utilisez la liste élargie ci-dessous pour plus de variété.
+
+<!-- p533 -->
+2.  **Liste élargie de passages bibliques (exemples de Jésus ou de ses disciples exerçant l’autorité):**
+
+<!-- p534 -->
+- **Jésus:**
+
+<!-- p535 -->
+- Apaiser la tempête: *<span class="x-scripture" data-book="MRK" data-chapter="4" data-lang="en" data-type="ref" data-verses="35-41" data-version="NKJV" dir="ltr" style="text-align: left;">Marc 4:35-41</span>.*
+
+<!-- p536 -->
+- Chasser un démon dans la synagogue: *<span class="x-scripture" data-book="MRK" data-chapter="1" data-lang="en" data-type="ref" data-verses="21-28" data-version="NKJV" dir="ltr" style="text-align: left;">Marc 1:21-28</span>.*
+
+<!-- p537 -->
+- Guérir le serviteur du centurion: *<span class="x-scripture" data-book="MAT" data-chapter="8" data-lang="en" data-type="ref" data-verses="5-13" data-version="NKJV" dir="ltr" style="text-align: left;">Matthieu 8:5-13</span>.*
+
+<!-- p538 -->
+- Ressusciter Lazare d’entre les morts: *<span class="x-scripture" data-book="JHN" data-chapter="11" data-lang="en" data-type="ref" data-verses="38-44" data-version="NKJV" dir="ltr" style="text-align: left;">Jean 11:38-44</span>.*
+
+<!-- p539 -->
+- Nourrir les 5,000: *<span class="x-scripture" data-book="MAT" data-chapter="14" data-lang="en" data-type="ref" data-verses="13-21" data-version="NKJV" dir="ltr" style="text-align: left;">Matthieu 14:13-21</span>.*
+
+<!-- p540 -->
+- **Les disciples:**
+
+<!-- p541 -->
+- Guérison d’un homme boiteux: *<span class="x-scripture" data-book="ACT" data-chapter="3" data-lang="en" data-type="ref" data-verses="1-10" data-version="NKJV" dir="ltr" style="text-align: left;">Actes 3:1-10</span>.*
+
+<!-- p542 -->
+- Expulsion d’un esprit à Philippes: *<span class="x-scripture" data-book="ACT" data-chapter="16" data-lang="en" data-type="ref" data-verses="16-18" data-version="NKJV" dir="ltr" style="text-align: left;">Actes 16:16-18</span>.*
+
+<!-- p543 -->
+- Déclaration de Paul contre Élymas le magicien: *<span class="x-scripture" data-book="ACT" data-chapter="13" data-lang="en" data-type="ref" data-verses="8-12" data-version="NKJV" dir="ltr" style="text-align: left;">Actes 13:8-12</span>.*
+
+<!-- p544 -->
+- Pierre ressuscitant Tabitha (Dorcas) d’entre les morts: *<span class="x-scripture" data-book="ACT" data-chapter="9" data-lang="en" data-type="ref" data-verses="36-42" data-version="NKJV" dir="ltr" style="text-align: left;">Actes 9:36-42</span>.*
+
+<!-- p545 -->
+- Survie de Paul à une morsure de serpent: *<span class="x-scripture" data-book="ACT" data-chapter="28" data-lang="en" data-type="ref" data-verses="3-6" data-version="NKJV" dir="ltr" style="text-align: left;">Actes 28:3-6</span>.*
+
+<!-- p546 -->
+3.  **Discussion:**
+
+<!-- p547 -->
+- Demandez à chaque groupe de discuter:
+
+<!-- p548 -->
+- *“Que nous apprend cette histoire sur l’autorité spirituelle?”*
+
+<!-- p549 -->
+- *“Comment pouvons-nous appliquer cet exemple dans nos vies aujourd’hui?”*
+
+<!-- p550 -->
+4.  **Partage:**
+
+<!-- p551 -->
+- Chaque groupe présente ses conclusions au groupe plus large.
+
+<!-- p552 -->
+### Activité 2: Comprendre votre sphère d’autorité (Réflexion et partage)
+
+<!-- p553 -->
+#### Objectif:
+
+<!-- p554 -->
+Encourager les participants à reconnaître leurs domaines d’influence et d’autorité donnés par Dieu.
+
+<!-- p555 -->
+#### Instructions:
+
+<!-- p556 -->
+1.  **Réflexion:**
+
+<!-- p557 -->
+- Individuellement, sur une feuille de papier, répondez à ces questions:
+
+<!-- p558 -->
+- *“Quels domaines d’influence Dieu m’a-t-il confiés (p. ex., famille, travail, Église, communauté)?”*
+
+<!-- p559 -->
+- *“Comment puis-je utiliser l’autorité spirituelle pour amener le royaume de Dieu dans ces domaines?”*
+
+<!-- p560 -->
+2.  **Discussion de groupe:**
+
+<!-- p561 -->
+- Partagez des réflexions en binômes ou en petits groupes.
+
+<!-- p562 -->
+3.  **Prière:**
+
+<!-- p563 -->
+- Concluez par une prière de groupe mandatant les participants à marcher avec assurance dans leurs domaines d’autorité.
+
+<!-- p564 -->
+### Activité 3: Comprendre le rôle des anges dans l’autorité spirituelle (étude biblique thématique)
+
+<!-- p565 -->
+**Objectif:  **
+Approfondir la compréhension des participants des anges comme faisant partie du royaume de Dieu et de leur rôle dans l’autorité spirituelle.
+
+<!-- p566 -->
+**Instructions:**
+
+<!-- p567 -->
+1.  **Étude des Écritures:**
+
+<!-- p568 -->
+- Assignez des passages sur les anges. Utilisez la liste élargie ci-dessous pour une exploration plus approfondie.
+
+<!-- p569 -->
+2.  **Liste élargie de passages bibliques sur les anges:**
+
+<!-- p570 -->
+- **Anges protégeant et guidant:**
+
+<!-- p571 -->
+- Veillant sur les croyants: *<span class="x-scripture" data-book="PSA" data-chapter="91" data-lang="en" data-type="ref" data-verses="11-12" data-version="NKJV" dir="ltr" style="text-align: left;">Psaumes 91:11-12</span>.*
+
+<!-- p572 -->
+- Protégeant Élisée et son serviteur: *<span class="x-scripture" data-book="2KI" data-chapter="6" data-lang="en" data-type="ref" data-verses="15-17" data-version="NKJV" dir="ltr" style="text-align: left;">2KI 6:15-17</span>.*
+
+<!-- p573 -->
+- Guidant Philippe vers l’eunuque éthiopien: *<span class="x-scripture" data-book="ACT" data-chapter="8" data-lang="en" data-type="ref" data-verses="26" data-version="NKJV" dir="ltr" style="text-align: left;">Actes 8:26</span>.*
+
+<!-- p574 -->
+- **Anges dans la guerre spirituelle:**
+
+<!-- p575 -->
+- Délivrant Daniel des lions: *<span class="x-scripture" data-book="DAN" data-chapter="6" data-lang="en" data-type="ref" data-verses="22" data-version="NKJV" dir="ltr" style="text-align: left;">DAN 6:22</span>.*
+
+<!-- p576 -->
+- Combat angélique en réponse à la prière: *<span class="x-scripture" data-book="DAN" data-chapter="10" data-lang="en" data-type="ref" data-verses="12-14" data-version="NKJV" dir="ltr" style="text-align: left;">DAN 10:12-14</span>.*
+
+<!-- p577 -->
+- Combattant pour Israël: *<span class="x-scripture" data-book="EXO" data-chapter="23" data-lang="en" data-type="ref" data-verses="20-22" data-version="NKJV" dir="ltr" style="text-align: left;">Exode 23:20-22</span>.*
+
+<!-- p578 -->
+- **Anges en tant que messagers:**
+
+<!-- p579 -->
+- Annonçant la naissance de Jésus: *<span class="x-scripture" data-book="LUK" data-chapter="1" data-lang="en" data-type="ref" data-verses="26-38" data-version="NKJV" dir="ltr" style="text-align: left;">Luc 1:26-38</span>.*
+
+<!-- p580 -->
+- Guider Joseph : *<span class="x-scripture" data-book="MAT" data-chapter="1" data-lang="en" data-type="ref" data-verses="20-24" data-version="NKJV" dir="ltr" style="text-align: left;">Matthieu 1:20-24</span>.*
+
+<!-- p581 -->
+- Libérer les apôtres de prison : *<span class="x-scripture" data-book="ACT" data-chapter="5" data-lang="en" data-type="ref" data-verses="19-20" data-version="NKJV" dir="ltr" style="text-align: left;">Actes 5:19-20</span>.*
+
+<!-- p582 -->
+3.  **Questions de discussion:**
+
+<!-- p583 -->
+- *“Quels rôles les anges jouent-ils dans l’accomplissement des desseins de Dieu?”*
+
+<!-- p584 -->
+- *“En quoi cette connaissance nous encourage-t-elle à faire confiance à Dieu dans le combat spirituel?”*
+
+<!-- p585 -->
+4.  **Réflexion:**
+
+<!-- p586 -->
+- Discutez de la manière dont les actions des anges s’accordent avec l’exercice de l’autorité spirituelle par les croyants.
+
+<!-- p587 -->
+## Chapitre 14 - Veillez
+
+<!-- p588 -->
+### Activité 1: Perspective éternelle (Remue-méninges interactif)
+
+<!-- p589 -->
+#### Objectif:
+
+<!-- p590 -->
+Aider les participants à se concentrer sur l’éternité et à aligner leur vie sur des priorités éternelles.
+
+<!-- p591 -->
+#### Instructions:
+
+<!-- p592 -->
+1.  **Remue-méninges (5 minutes):**
+
+<!-- p593 -->
+- Écrivez “Temporaire” et “Éternel” sur un tableau blanc ou une grande feuille de papier.
+
+<!-- p594 -->
+- Demandez aux participants d’énumérer les choses de la vie qui relèvent de chaque catégorie.
+
+<!-- p595 -->
+2.  **Discussion de groupe (10 minutes):**
+
+<!-- p596 -->
+- Discutez:
+
+<!-- p597 -->
+- *“Comment pouvons-nous investir davantage de notre temps, de notre énergie et de nos ressources dans des choses éternelles?”*
+
+<!-- p598 -->
+- *“Quelles sont quelques façons pratiques de vivre avec une perspective éternelle?”*
+
+<!-- p599 -->
+3.  **Prière et engagement (5 minutes):**
+
+<!-- p600 -->
+- Concluez par une prière en groupe, en demandant à Dieu d’aider chacun à se concentrer sur ce qui compte le plus et à vivre dans l’attente de Son retour.
+
+<!-- p601 -->
+### Activité 2 : La parabole des dix vierges (étude biblique et réflexion)
+
+<!-- p602 -->
+#### Objectif :
+
+<!-- p603 -->
+Approfondir la parabole des dix vierges pour explorer la préparation spirituelle.
+
+<!-- p604 -->
+#### Instructions :
+
+<!-- p605 -->
+1.  **Lecture biblique (5 minutes) :**
+
+<!-- p606 -->
+- Lire <span class="x-scripture" data-book="MAT" data-chapter="25" data-lang="en" data-type="ref" data-verses="1-13" data-version="NKJV" dir="ltr" style="text-align: left;">Matthieu 25:1-13</span> à voix haute en groupe.
+
+<!-- p607 -->
+2.  **Discussion (10 minutes) :**
+
+<!-- p608 -->
+- Posez ces questions :
+
+<!-- p609 -->
+- *“Que symbolise l’huile dans cette parabole ?”*
+
+<!-- p610 -->
+- *“Que signifie être sage plutôt qu’insensé lorsqu’on se prépare au retour du Christ ?”*
+
+<!-- p611 -->
+- *“Comment pouvons-nous nous assurer que nos lampes sont remplies ?”*
+
+<!-- p612 -->
+3.  **Application (5 minutes) :**
+
+<!-- p613 -->
+- Encouragez les participants à noter un domaine de leur vie spirituelle (p. ex., prière, étude des Écritures, service envers les autres) dans lequel ils souhaitent “remplir leur lampe”.
+
+<!-- p614 -->
+- Priez en groupe pour la direction et la puissance du Saint-Esprit.
+
