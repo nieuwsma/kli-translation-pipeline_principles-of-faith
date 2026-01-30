@@ -1,0 +1,4 @@
+# Drift explanation generated 2026-01-30T16:03:10.222424
+# Source drift file: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/bengali/pipeline2/analysis/chapters/drift_report_chapter0_1_dedication_vs_chapter0_1_dedication.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"2","0.8637","MEDIUM","yes","doctrinal","The original paragraph specifies that the name Zachariah means 'The Lord has remembered us,' while the back-translation simplifies it to 'the Lord has remembered,' which alters the emphasis on collective remembrance and may affect the theological interpretation of God's relationship with His people.","To my son, Zachariah,  \\\\nwhose name is a reminder that ""The Lord has remembered us,"" a living testament to God's faithfulness and grace.","My son, Zechariah,  \\\\nwhose name reminds us that ""the Lord has remembered,"" a living testimony to God's faithfulness and grace."
