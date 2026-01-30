@@ -867,3 +867,544 @@ Embedding batches:  67%|██████▋   | 2/3 [00:09<00:04,  4.78s/it]
 Embedding batches: 100%|██████████| 3/3 [00:13<00:00,  4.24s/it]
 Embedding batches: 100%|██████████| 3/3 [00:13<00:00,  4.43s/it]
 ✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/drift_report_chapter6_chapter_6_faith_toward_god_vs_chapter6_chapter_6_faith_toward_god.csv
+translation_quality
+HIGH        136
+MEDIUM       15
+LOW           4
+CRITICAL      1
+Name: count, dtype: int64
+
+=== Processing: chapter7_chapter_7_jesus_the_foundation_of_our_faith.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/3 [00:00<?, ?it/s]
+Embedding batches:  33%|███▎      | 1/3 [00:03<00:06,  3.10s/it]
+Embedding batches:  67%|██████▋   | 2/3 [00:06<00:03,  3.03s/it]
+Embedding batches: 100%|██████████| 3/3 [00:08<00:00,  2.77s/it]
+Embedding batches: 100%|██████████| 3/3 [00:08<00:00,  2.85s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith.csv
+translation_quality
+HIGH      73
+MEDIUM     4
+Name: count, dtype: int64
+
+=== Processing: chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/3 [00:00<?, ?it/s]
+Embedding batches:  33%|███▎      | 1/3 [00:04<00:08,  4.45s/it]
+Embedding batches:  67%|██████▋   | 2/3 [00:09<00:04,  4.52s/it]
+Embedding batches: 100%|██████████| 3/3 [00:11<00:00,  3.56s/it]
+Embedding batches: 100%|██████████| 3/3 [00:11<00:00,  3.81s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/drift_report_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_vs_chapter8_chapter_8_holy_spirit_comforter_guide_and_power.csv
+translation_quality
+HIGH        113
+MEDIUM       13
+LOW           3
+CRITICAL      2
+Name: count, dtype: int64
+
+=== Processing: chapter9_chapter_9_the_church_our_role_in_it.md ===
+Detected languages → Source: en, Back: en
+
+Embedding batches:   0%|          | 0/4 [00:00<?, ?it/s]
+Embedding batches:  25%|██▌       | 1/4 [00:03<00:09,  3.19s/it]
+Embedding batches:  50%|█████     | 2/4 [00:07<00:07,  3.56s/it]
+Embedding batches:  75%|███████▌  | 3/4 [00:10<00:03,  3.68s/it]
+Embedding batches: 100%|██████████| 4/4 [00:15<00:00,  3.94s/it]
+Embedding batches: 100%|██████████| 4/4 [00:15<00:00,  3.79s/it]
+✅ Saved: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/drift_report_chapter9_chapter_9_the_church_our_role_in_it_vs_chapter9_chapter_9_the_church_our_role_in_it.csv
+translation_quality
+HIGH      167
+MEDIUM     21
+LOW         6
+Name: count, dtype: int64
+🗂 Found 25 drift reports in /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters. Processing...
+
+Analyzing 7 flagged paragraphs in drift_report_chapter0_6_preface_vs_chapter0_6_preface.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.96s/it]
+Explaining differences: 2it [00:03,  1.65s/it]
+Explaining differences: 3it [00:04,  1.60s/it]
+Explaining differences: 4it [00:06,  1.61s/it]
+Explaining differences: 5it [00:07,  1.53s/it]
+Explaining differences: 6it [00:09,  1.55s/it]
+Explaining differences: 7it [00:11,  1.61s/it]
+Explaining differences: 7it [00:11,  1.61s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter0_6_preface_vs_chapter0_6_preface_explained.csv
+📊 Summary: 7 analyzed | 3 changed | 0 failed to parse
+
+Analyzing 22 flagged paragraphs in drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.96s/it]
+Explaining differences: 2it [00:03,  1.87s/it]
+Explaining differences: 3it [00:06,  2.18s/it]
+Explaining differences: 4it [00:07,  1.92s/it]
+Explaining differences: 5it [00:09,  1.89s/it]
+Explaining differences: 6it [00:12,  2.06s/it]
+Explaining differences: 7it [00:14,  2.34s/it]
+Explaining differences: 8it [00:16,  2.11s/it]
+Explaining differences: 9it [00:17,  1.83s/it]
+Explaining differences: 10it [00:19,  1.78s/it]
+Explaining differences: 11it [00:20,  1.68s/it]
+Explaining differences: 12it [00:22,  1.67s/it]
+Explaining differences: 13it [00:24,  1.71s/it]
+Explaining differences: 14it [00:26,  1.70s/it]
+Explaining differences: 15it [00:27,  1.62s/it]
+Explaining differences: 16it [00:30,  2.01s/it]
+Explaining differences: 17it [00:32,  1.96s/it]
+Explaining differences: 18it [00:33,  1.84s/it]
+Explaining differences: 19it [00:35,  1.79s/it]
+Explaining differences: 20it [00:36,  1.70s/it]
+Explaining differences: 21it [00:38,  1.62s/it]
+Explaining differences: 22it [00:39,  1.60s/it]
+Explaining differences: 22it [00:39,  1.82s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works_explained.csv
+📊 Summary: 22 analyzed | 7 changed | 0 failed to parse
+
+ℹ️  No non-HIGH paragraphs in drift_report_chapter14_back_1_postscript_vs_chapter14_back_1_postscript.csv — skipping.
+Analyzing 11 flagged paragraphs in drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.81s/it]
+Explaining differences: 2it [00:03,  1.59s/it]
+Explaining differences: 3it [00:04,  1.47s/it]
+Explaining differences: 4it [00:06,  1.54s/it]
+Explaining differences: 5it [00:07,  1.58s/it]
+Explaining differences: 6it [00:09,  1.62s/it]
+Explaining differences: 7it [00:11,  1.74s/it]
+Explaining differences: 8it [00:13,  1.67s/it]
+Explaining differences: 9it [00:15,  1.85s/it]
+Explaining differences: 10it [00:17,  1.88s/it]
+Explaining differences: 11it [00:19,  1.86s/it]
+Explaining differences: 11it [00:19,  1.73s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption_explained.csv
+📊 Summary: 11 analyzed | 4 changed | 0 failed to parse
+
+Analyzing 12 flagged paragraphs in drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:02,  2.74s/it]
+Explaining differences: 2it [00:05,  2.85s/it]
+Explaining differences: 3it [00:07,  2.30s/it]
+Explaining differences: 4it [00:09,  2.08s/it]
+Explaining differences: 5it [00:12,  2.51s/it]
+Explaining differences: 6it [00:14,  2.35s/it]
+Explaining differences: 7it [00:16,  2.35s/it]
+Explaining differences: 8it [00:18,  2.07s/it]
+Explaining differences: 9it [00:19,  1.99s/it]
+Explaining differences: 10it [00:21,  1.86s/it]
+Explaining differences: 11it [00:23,  1.93s/it]
+Explaining differences: 12it [00:25,  1.94s/it]
+Explaining differences: 12it [00:25,  2.13s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah_explained.csv
+📊 Summary: 12 analyzed | 5 changed | 0 failed to parse
+
+Analyzing 9 flagged paragraphs in drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.47s/it]
+Explaining differences: 2it [00:03,  1.62s/it]
+Explaining differences: 3it [00:04,  1.64s/it]
+Explaining differences: 4it [00:06,  1.55s/it]
+Explaining differences: 5it [00:08,  1.67s/it]
+Explaining differences: 6it [00:10,  1.92s/it]
+Explaining differences: 7it [00:12,  1.87s/it]
+Explaining differences: 8it [00:13,  1.71s/it]
+Explaining differences: 9it [00:15,  1.83s/it]
+Explaining differences: 9it [00:15,  1.75s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father_explained.csv
+📊 Summary: 9 analyzed | 2 changed | 0 failed to parse
+
+Analyzing 8 flagged paragraphs in drift_report_chapter11_chapter_11_baptisms_water_and_spirit_vs_chapter11_chapter_11_baptisms_water_and_spirit.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:03,  3.25s/it]
+Explaining differences: 2it [00:05,  2.37s/it]
+Explaining differences: 3it [00:06,  1.99s/it]
+Explaining differences: 4it [00:07,  1.67s/it]
+Explaining differences: 5it [00:09,  1.69s/it]
+Explaining differences: 6it [00:11,  1.70s/it]
+Explaining differences: 7it [00:14,  2.08s/it]
+Explaining differences: 8it [00:15,  2.03s/it]
+Explaining differences: 8it [00:15,  2.00s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter11_chapter_11_baptisms_water_and_spirit_vs_chapter11_chapter_11_baptisms_water_and_spirit_explained.csv
+📊 Summary: 8 analyzed | 1 changed | 0 failed to parse
+
+ℹ️  No non-HIGH paragraphs in drift_report_chapter0_4_list_of_tables_vs_chapter0_4_list_of_tables.csv — skipping.
+Analyzing 27 flagged paragraphs in drift_report_chapter9_chapter_9_the_church_our_role_in_it_vs_chapter9_chapter_9_the_church_our_role_in_it.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.79s/it]
+Explaining differences: 2it [00:03,  1.93s/it]
+Explaining differences: 3it [00:06,  2.14s/it]
+Explaining differences: 4it [00:07,  1.84s/it]
+Explaining differences: 5it [00:10,  2.05s/it]
+Explaining differences: 6it [00:12,  2.06s/it]
+Explaining differences: 7it [00:13,  2.01s/it]
+Explaining differences: 8it [00:15,  1.89s/it]
+Explaining differences: 9it [00:18,  2.08s/it]
+Explaining differences: 10it [00:19,  1.98s/it]
+Explaining differences: 11it [00:21,  1.99s/it]
+Explaining differences: 12it [00:23,  1.89s/it]
+Explaining differences: 13it [00:25,  1.78s/it]
+Explaining differences: 14it [00:26,  1.76s/it]
+Explaining differences: 15it [00:28,  1.64s/it]
+Explaining differences: 16it [00:30,  1.73s/it]
+Explaining differences: 17it [00:32,  1.83s/it]
+Explaining differences: 18it [00:33,  1.80s/it]
+Explaining differences: 19it [00:36,  2.00s/it]
+Explaining differences: 20it [00:37,  1.86s/it]
+Explaining differences: 21it [00:40,  2.06s/it]
+Explaining differences: 22it [00:41,  1.91s/it]
+Explaining differences: 23it [00:44,  1.95s/it]
+Explaining differences: 24it [00:45,  1.92s/it]
+Explaining differences: 25it [00:47,  1.80s/it]
+Explaining differences: 26it [00:49,  1.83s/it]
+Explaining differences: 27it [00:50,  1.77s/it]
+Explaining differences: 27it [00:50,  1.89s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter9_chapter_9_the_church_our_role_in_it_vs_chapter9_chapter_9_the_church_our_role_in_it_explained.csv
+📊 Summary: 27 analyzed | 7 changed | 0 failed to parse
+
+Analyzing 22 flagged paragraphs in drift_report_chapter1_chapter_1_sound_doctrine_matters_vs_chapter1_chapter_1_sound_doctrine_matters.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.68s/it]
+Explaining differences: 2it [00:03,  1.60s/it]
+Explaining differences: 3it [00:04,  1.62s/it]
+Explaining differences: 4it [00:06,  1.54s/it]
+Explaining differences: 5it [00:08,  1.65s/it]
+Explaining differences: 6it [00:09,  1.61s/it]
+Explaining differences: 7it [00:11,  1.72s/it]
+Explaining differences: 8it [00:13,  1.76s/it]
+Explaining differences: 9it [00:14,  1.66s/it]
+Explaining differences: 10it [00:17,  1.90s/it]
+Explaining differences: 11it [00:19,  1.89s/it]
+Explaining differences: 12it [00:20,  1.72s/it]
+Explaining differences: 13it [00:22,  1.73s/it]
+Explaining differences: 14it [00:24,  1.88s/it]
+Explaining differences: 15it [00:26,  2.03s/it]
+Explaining differences: 16it [00:29,  2.07s/it]
+Explaining differences: 17it [00:31,  2.15s/it]
+Explaining differences: 18it [00:33,  2.15s/it]
+Explaining differences: 19it [00:35,  2.00s/it]
+Explaining differences: 20it [00:36,  1.89s/it]
+Explaining differences: 21it [00:38,  1.89s/it]
+Explaining differences: 22it [00:40,  1.86s/it]
+Explaining differences: 22it [00:40,  1.84s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter1_chapter_1_sound_doctrine_matters_vs_chapter1_chapter_1_sound_doctrine_matters_explained.csv
+📊 Summary: 22 analyzed | 7 changed | 0 failed to parse
+
+Analyzing 18 flagged paragraphs in drift_report_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_vs_chapter8_chapter_8_holy_spirit_comforter_guide_and_power.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:02,  2.15s/it]
+Explaining differences: 2it [00:03,  1.92s/it]
+Explaining differences: 3it [00:05,  1.83s/it]
+Explaining differences: 4it [00:07,  1.75s/it]
+Explaining differences: 5it [00:08,  1.72s/it]
+Explaining differences: 6it [00:10,  1.61s/it]
+Explaining differences: 7it [00:12,  1.66s/it]
+Explaining differences: 8it [00:14,  1.85s/it]
+Explaining differences: 9it [00:15,  1.72s/it]
+Explaining differences: 10it [00:17,  1.84s/it]
+Explaining differences: 11it [00:19,  1.88s/it]
+Explaining differences: 12it [00:21,  1.91s/it]
+Explaining differences: 13it [00:23,  1.97s/it]
+Explaining differences: 14it [00:25,  1.81s/it]
+Explaining differences: 15it [00:26,  1.73s/it]
+Explaining differences: 16it [00:28,  1.67s/it]
+Explaining differences: 17it [00:29,  1.60s/it]
+Explaining differences: 18it [00:31,  1.58s/it]
+Explaining differences: 18it [00:31,  1.75s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_vs_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_explained.csv
+📊 Summary: 18 analyzed | 4 changed | 0 failed to parse
+
+ℹ️  No non-HIGH paragraphs in drift_report_chapter0_3_table_of_contents_vs_chapter0_3_table_of_contents.csv — skipping.
+Analyzing 103 flagged paragraphs in drift_report_chapter14_back_4_end_of_chapter_activities_vs_chapter14_back_4_end_of_chapter_activities.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.43s/it]
+Explaining differences: 2it [00:03,  1.68s/it]
+Explaining differences: 3it [00:04,  1.68s/it]
+Explaining differences: 4it [00:06,  1.60s/it]
+Explaining differences: 5it [00:08,  1.66s/it]
+Explaining differences: 6it [00:09,  1.64s/it]
+Explaining differences: 7it [00:11,  1.64s/it]
+Explaining differences: 8it [00:12,  1.58s/it]
+Explaining differences: 9it [00:15,  2.04s/it]
+Explaining differences: 10it [00:17,  1.89s/it]
+Explaining differences: 11it [00:18,  1.76s/it]
+Explaining differences: 12it [00:20,  1.71s/it]
+Explaining differences: 13it [00:22,  1.67s/it]
+Explaining differences: 14it [00:24,  1.89s/it]
+Explaining differences: 15it [00:26,  1.80s/it]
+Explaining differences: 16it [00:27,  1.67s/it]
+Explaining differences: 17it [00:28,  1.60s/it]
+Explaining differences: 18it [00:30,  1.59s/it]
+Explaining differences: 19it [00:32,  1.63s/it]
+Explaining differences: 20it [00:33,  1.67s/it]
+Explaining differences: 21it [00:35,  1.59s/it]
+Explaining differences: 22it [00:36,  1.54s/it]
+Explaining differences: 23it [00:38,  1.51s/it]
+Explaining differences: 24it [00:39,  1.49s/it]
+Explaining differences: 25it [00:41,  1.47s/it]
+Explaining differences: 26it [00:42,  1.55s/it]
+Explaining differences: 27it [00:44,  1.67s/it]
+Explaining differences: 28it [00:46,  1.69s/it]
+Explaining differences: 29it [00:48,  1.69s/it]
+Explaining differences: 30it [00:50,  1.78s/it]
+Explaining differences: 31it [00:52,  1.77s/it]
+Explaining differences: 32it [00:53,  1.79s/it]
+Explaining differences: 33it [00:55,  1.72s/it]
+Explaining differences: 34it [00:57,  1.72s/it]
+Explaining differences: 35it [00:58,  1.55s/it]
+Explaining differences: 36it [01:01,  2.03s/it]
+Explaining differences: 37it [01:03,  1.91s/it]
+Explaining differences: 38it [01:04,  1.80s/it]
+Explaining differences: 39it [01:06,  1.69s/it]
+Explaining differences: 40it [01:08,  1.83s/it]
+Explaining differences: 41it [01:09,  1.75s/it]
+Explaining differences: 42it [01:11,  1.80s/it]
+Explaining differences: 43it [01:13,  1.83s/it]
+Explaining differences: 44it [01:15,  1.85s/it]
+Explaining differences: 45it [01:16,  1.75s/it]
+Explaining differences: 46it [01:18,  1.69s/it]
+Explaining differences: 47it [01:20,  1.70s/it]
+Explaining differences: 48it [01:21,  1.65s/it]
+Explaining differences: 49it [01:23,  1.69s/it]
+Explaining differences: 50it [01:25,  1.63s/it]
+Explaining differences: 51it [01:26,  1.59s/it]
+Explaining differences: 52it [01:28,  1.71s/it]
+Explaining differences: 53it [01:30,  1.71s/it]
+Explaining differences: 54it [01:31,  1.63s/it]
+Explaining differences: 55it [01:33,  1.72s/it]
+Explaining differences: 56it [01:35,  1.71s/it]
+Explaining differences: 57it [01:36,  1.60s/it]
+Explaining differences: 58it [01:38,  1.54s/it]
+Explaining differences: 59it [01:39,  1.61s/it]
+Explaining differences: 60it [01:41,  1.56s/it]
+Explaining differences: 61it [01:42,  1.55s/it]
+Explaining differences: 62it [01:45,  1.93s/it]
+Explaining differences: 63it [01:47,  1.85s/it]
+Explaining differences: 64it [01:49,  1.83s/it]
+Explaining differences: 65it [01:50,  1.71s/it]
+Explaining differences: 66it [01:51,  1.65s/it]
+Explaining differences: 67it [01:53,  1.62s/it]
+Explaining differences: 68it [01:55,  1.72s/it]
+Explaining differences: 69it [01:58,  2.00s/it]
+Explaining differences: 70it [02:00,  2.05s/it]
+Explaining differences: 71it [02:02,  2.00s/it]
+Explaining differences: 72it [02:03,  1.84s/it]
+Explaining differences: 73it [02:05,  1.69s/it]
+Explaining differences: 74it [02:07,  1.81s/it]
+Explaining differences: 75it [02:08,  1.69s/it]
+Explaining differences: 76it [02:10,  1.67s/it]
+Explaining differences: 77it [02:11,  1.62s/it]
+Explaining differences: 78it [02:13,  1.73s/it]
+Explaining differences: 79it [02:15,  1.73s/it]
+Explaining differences: 80it [02:16,  1.61s/it]
+Explaining differences: 81it [02:18,  1.78s/it]
+Explaining differences: 82it [02:20,  1.78s/it]
+Explaining differences: 83it [02:22,  1.85s/it]
+Explaining differences: 84it [02:24,  1.81s/it]
+Explaining differences: 85it [02:25,  1.70s/it]
+Explaining differences: 86it [02:27,  1.68s/it]
+Explaining differences: 87it [02:29,  1.67s/it]
+Explaining differences: 88it [02:31,  1.77s/it]
+Explaining differences: 89it [02:33,  1.96s/it]
+Explaining differences: 90it [02:35,  1.92s/it]
+Explaining differences: 91it [02:38,  2.20s/it]
+Explaining differences: 92it [02:40,  2.13s/it]
+Explaining differences: 93it [02:42,  2.14s/it]
+Explaining differences: 94it [02:44,  2.14s/it]
+Explaining differences: 95it [02:46,  1.99s/it]
+Explaining differences: 96it [02:48,  1.99s/it]
+Explaining differences: 97it [02:49,  1.93s/it]
+Explaining differences: 98it [02:51,  1.88s/it]
+Explaining differences: 99it [02:53,  1.91s/it]
+Explaining differences: 100it [02:55,  1.90s/it]
+Explaining differences: 101it [02:56,  1.73s/it]
+Explaining differences: 102it [02:58,  1.61s/it]
+Explaining differences: 103it [03:00,  1.68s/it]
+Explaining differences: 103it [03:00,  1.75s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter14_back_4_end_of_chapter_activities_vs_chapter14_back_4_end_of_chapter_activities_explained.csv
+📊 Summary: 103 analyzed | 18 changed | 0 failed to parse
+
+Analyzing 3 flagged paragraphs in drift_report_chapter14_back_5_hearing_the_voice_of_god_vs_chapter14_back_5_hearing_the_voice_of_god.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.72s/it]
+Explaining differences: 2it [00:03,  1.65s/it]
+Explaining differences: 3it [00:05,  1.78s/it]
+Explaining differences: 3it [00:05,  1.75s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter14_back_5_hearing_the_voice_of_god_vs_chapter14_back_5_hearing_the_voice_of_god_explained.csv
+📊 Summary: 3 analyzed | 1 changed | 0 failed to parse
+
+Analyzing 9 flagged paragraphs in drift_report_chapter14_chapter_14_keep_watch_vs_chapter14_chapter_14_keep_watch.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.76s/it]
+Explaining differences: 2it [00:04,  2.13s/it]
+Explaining differences: 3it [00:05,  1.90s/it]
+Explaining differences: 4it [00:07,  1.91s/it]
+Explaining differences: 5it [00:09,  1.82s/it]
+Explaining differences: 6it [00:11,  1.76s/it]
+Explaining differences: 7it [00:12,  1.79s/it]
+Explaining differences: 8it [00:14,  1.74s/it]
+Explaining differences: 9it [00:16,  1.74s/it]
+Explaining differences: 9it [00:16,  1.80s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter14_chapter_14_keep_watch_vs_chapter14_chapter_14_keep_watch_explained.csv
+📊 Summary: 9 analyzed | 3 changed | 0 failed to parse
+
+Analyzing 1 flagged paragraphs in drift_report_chapter0_1_dedication_vs_chapter0_1_dedication.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:02,  2.04s/it]
+Explaining differences: 1it [00:02,  2.04s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter0_1_dedication_vs_chapter0_1_dedication_explained.csv
+📊 Summary: 1 analyzed | 1 changed | 0 failed to parse
+
+Analyzing 3 flagged paragraphs in drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.96s/it]
+Explaining differences: 2it [00:03,  1.82s/it]
+Explaining differences: 3it [00:05,  1.74s/it]
+Explaining differences: 3it [00:05,  1.77s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter0_0_intro_vs_chapter0_0_intro_explained.csv
+📊 Summary: 3 analyzed | 1 changed | 0 failed to parse
+
+Analyzing 4 flagged paragraphs in drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:02,  2.24s/it]
+Explaining differences: 2it [00:04,  2.10s/it]
+Explaining differences: 3it [00:06,  2.19s/it]
+Explaining differences: 4it [00:07,  1.87s/it]
+Explaining differences: 4it [00:07,  1.98s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith_explained.csv
+📊 Summary: 4 analyzed | 3 changed | 0 failed to parse
+
+Analyzing 27 flagged paragraphs in drift_report_chapter13_chapter_13_spiritual_authority_vs_chapter13_chapter_13_spiritual_authority.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.59s/it]
+Explaining differences: 2it [00:03,  1.68s/it]
+Explaining differences: 3it [00:05,  1.68s/it]
+Explaining differences: 4it [00:06,  1.69s/it]
+Explaining differences: 5it [00:08,  1.63s/it]
+Explaining differences: 6it [00:10,  1.71s/it]
+Explaining differences: 7it [00:11,  1.68s/it]
+Explaining differences: 8it [00:13,  1.70s/it]
+Explaining differences: 9it [00:15,  1.78s/it]
+Explaining differences: 10it [00:17,  1.80s/it]
+Explaining differences: 11it [00:20,  2.32s/it]
+Explaining differences: 12it [00:22,  2.20s/it]
+Explaining differences: 13it [00:24,  2.22s/it]
+Explaining differences: 14it [00:26,  2.10s/it]
+Explaining differences: 15it [00:28,  2.01s/it]
+Explaining differences: 16it [00:30,  1.91s/it]
+Explaining differences: 17it [00:31,  1.77s/it]
+Explaining differences: 18it [00:34,  1.95s/it]
+Explaining differences: 19it [00:35,  1.91s/it]
+Explaining differences: 20it [00:37,  1.86s/it]
+Explaining differences: 21it [00:39,  1.75s/it]
+Explaining differences: 22it [00:40,  1.64s/it]
+Explaining differences: 23it [00:43,  1.91s/it]
+Explaining differences: 24it [00:44,  1.89s/it]
+Explaining differences: 25it [00:46,  1.73s/it]
+Explaining differences: 26it [00:47,  1.70s/it]
+Explaining differences: 27it [00:49,  1.67s/it]
+Explaining differences: 27it [00:49,  1.83s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter13_chapter_13_spiritual_authority_vs_chapter13_chapter_13_spiritual_authority_explained.csv
+📊 Summary: 27 analyzed | 17 changed | 0 failed to parse
+
+Analyzing 20 flagged paragraphs in drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.45s/it]
+Explaining differences: 2it [00:03,  1.57s/it]
+Explaining differences: 3it [00:04,  1.60s/it]
+Explaining differences: 4it [00:06,  1.59s/it]
+Explaining differences: 5it [00:07,  1.59s/it]
+Explaining differences: 6it [00:09,  1.57s/it]
+Explaining differences: 7it [00:11,  1.63s/it]
+Explaining differences: 8it [00:12,  1.57s/it]
+Explaining differences: 9it [00:14,  1.81s/it]
+Explaining differences: 10it [00:16,  1.82s/it]
+Explaining differences: 11it [00:18,  1.80s/it]
+Explaining differences: 12it [00:20,  1.79s/it]
+Explaining differences: 13it [00:22,  1.89s/it]
+Explaining differences: 14it [00:24,  1.90s/it]
+Explaining differences: 15it [00:26,  1.82s/it]
+Explaining differences: 16it [00:27,  1.74s/it]
+Explaining differences: 17it [00:29,  1.66s/it]
+Explaining differences: 18it [00:30,  1.61s/it]
+Explaining differences: 19it [00:34,  2.20s/it]
+Explaining differences: 20it [00:35,  2.03s/it]
+Explaining differences: 20it [00:35,  1.79s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship_explained.csv
+📊 Summary: 20 analyzed | 5 changed | 0 failed to parse
+
+Analyzing 1 flagged paragraphs in drift_report_chapter14_back_3_extended_reference_tables_vs_chapter14_back_3_extended_reference_tables.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:04,  4.19s/it]
+Explaining differences: 1it [00:04,  4.19s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter14_back_3_extended_reference_tables_vs_chapter14_back_3_extended_reference_tables_explained.csv
+📊 Summary: 1 analyzed | 1 changed | 0 failed to parse
+
+ℹ️  No non-HIGH paragraphs in drift_report_chapter0_2_acknowledgements_vs_chapter0_2_acknowledgements.csv — skipping.
+Analyzing 20 flagged paragraphs in drift_report_chapter6_chapter_6_faith_toward_god_vs_chapter6_chapter_6_faith_toward_god.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:02,  2.45s/it]
+Explaining differences: 2it [00:04,  2.09s/it]
+Explaining differences: 3it [00:06,  2.07s/it]
+Explaining differences: 4it [00:07,  1.86s/it]
+Explaining differences: 5it [00:10,  1.96s/it]
+Explaining differences: 6it [00:12,  2.06s/it]
+Explaining differences: 7it [00:14,  1.96s/it]
+Explaining differences: 8it [00:18,  2.74s/it]
+Explaining differences: 9it [00:19,  2.34s/it]
+Explaining differences: 10it [00:21,  2.05s/it]
+Explaining differences: 11it [00:23,  2.11s/it]
+Explaining differences: 12it [00:25,  2.04s/it]
+Explaining differences: 13it [00:27,  1.91s/it]
+Explaining differences: 14it [00:28,  1.83s/it]
+Explaining differences: 15it [00:30,  1.74s/it]
+Explaining differences: 16it [00:32,  1.87s/it]
+Explaining differences: 17it [00:34,  1.82s/it]
+Explaining differences: 18it [00:35,  1.80s/it]
+Explaining differences: 19it [00:37,  1.66s/it]
+Explaining differences: 20it [00:38,  1.67s/it]
+Explaining differences: 20it [00:38,  1.94s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter6_chapter_6_faith_toward_god_vs_chapter6_chapter_6_faith_toward_god_explained.csv
+📊 Summary: 20 analyzed | 11 changed | 0 failed to parse
+
+Analyzing 1 flagged paragraphs in drift_report_chapter0_5_foreword_vs_chapter0_5_foreword.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:01,  1.71s/it]
+Explaining differences: 1it [00:01,  1.71s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter0_5_foreword_vs_chapter0_5_foreword_explained.csv
+📊 Summary: 1 analyzed | 1 changed | 0 failed to parse
+
+Analyzing 7 flagged paragraphs in drift_report_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_vs_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.csv...
+
+Explaining differences: 0it [00:00, ?it/s]
+Explaining differences: 1it [00:02,  2.06s/it]
+Explaining differences: 2it [00:05,  2.68s/it]
+Explaining differences: 3it [00:06,  2.20s/it]
+Explaining differences: 4it [00:08,  2.05s/it]
+Explaining differences: 5it [00:10,  1.89s/it]
+Explaining differences: 6it [00:11,  1.83s/it]
+Explaining differences: 7it [00:13,  1.80s/it]
+Explaining differences: 7it [00:13,  1.95s/it]
+✅ Saved explained drift report: /Users/andnie01/repo/pers/kli-translation-pipeline_principles-of-faith/somali/pipeline2/analysis/chapters/explained/drift_report_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_vs_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_explained.csv
+📊 Summary: 7 analyzed | 5 changed | 0 failed to parse
+
+🎉 All files processed.

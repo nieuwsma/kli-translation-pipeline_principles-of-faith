@@ -566,3 +566,30 @@ Our ‘faith toward God’ is not a one-time event for salvation, but a continuo
 <!-- p169 -->
 2. Reflect on the concepts of logos and rhema. Has any specific Scripture verse ever come alive for you and become a personal rhema word in your life? What impact did that have on your faith?
 
+<!-- p170 -->
+3.  How does understanding faith as assurance rather than a mysterious power shape your relationship with God?
+
+<!-- p171 -->
+4.  Obedience is described as the fruit of faith. Can you remember a time when your obedience to God deepened your trust in Him? What was the result?
+
+<!-- p172 -->
+5.  What practical steps can you take this week to grow your faith through prayer, Bible study, and fellowship?
+
+<!-- p173 -->
+## Group discussion questions *(20-30 minutes)*
+
+<!-- p174 -->
+1.  **Introductory question:** “When you think of someone with great faith, who comes to your mind and why?”
+
+<!-- p175 -->
+2.  **Scripture exploration:** <span class="x-scripture" data-book="ROM" data-chapter="10" data-lang="en" data-type="ref" data-verses="17" data-version="NKJV" dir="ltr" style="text-align: left;">Romans 10:17</span> Read। What does this verse teach us about how faith grows? How can we apply this in daily life?
+
+<!-- p176 -->
+3.  **Faith in action:** What does it mean that faith produces obedience? Share examples of how obedience has strengthened your or someone else’s faith journey।
+
+<!-- p177 -->
+4.  **Logos and Rhema discussion:** Discuss the difference between Logos (the written Word) and Rhema (the revealed Word). How can we prepare ourselves to hear and receive a Rhema word from God?
+
+<!-- p178 -->
+5.  **Growth of faith:** Discuss practical disciplines such as prayer, Bible study, and fellowship। Which discipline has been most effective in growing your faith, and why?
+
