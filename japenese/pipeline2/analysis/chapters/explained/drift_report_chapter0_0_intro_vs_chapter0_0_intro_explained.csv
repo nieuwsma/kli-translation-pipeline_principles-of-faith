@@ -1,0 +1,4 @@
+# Drift explanation generated 2026-02-01T01:44:59.716413
+# Source drift file: /Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"8","0.8729","MEDIUM","no","paraphrase","The back-translation maintains the same essential meaning as the original, simply using different phrasing to convey the idea of scripture quotations without altering doctrinal, logical, or intentional aspects.","**Scripture Quotations:**\\\\nScripture taken from:","**Scripture Quotations:**\\\\nQuoted Bible:"

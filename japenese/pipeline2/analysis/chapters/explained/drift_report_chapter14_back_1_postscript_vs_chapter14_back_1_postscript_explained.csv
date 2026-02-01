@@ -1,0 +1,4 @@
+# Drift explanation generated 2026-02-01T01:34:21.655050
+# Source drift file: /Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter14_back_1_postscript_vs_chapter14_back_1_postscript.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"4","0.8653","MEDIUM","no","paraphrase","The back-translation adds the word 'this,' but it does not change the overall meaning or intent of the original statement. Both convey that Paul wrote something.","Paul wrote","Paul wrote this"

@@ -1,0 +1,5 @@
+# Drift explanation generated 2026-02-01T01:38:38.171086
+# Source drift file: /Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter0_3_table_of_contents_vs_chapter0_3_table_of_contents.csv
+"id","similarity","translation_quality","meaning_change","type","summary","source","back_translation"
+"1","0.8548","MEDIUM","no","paraphrase","The back-translated paragraph retains the same content and structure as the original, simply omitting the formatting elements without altering the meaning.","<!-- TOC_START -->\\\\n\\\\n[Dedication [III](#dedication)](#dedication)","[Dedication [III](#dedication)](#dedication)"
+"25","0.9173","MEDIUM","no","paraphrase","The back-translated paragraph retains the same title and reference as the original, indicating no change in meaning or intent.","[Hearing The Voice of God [298](#hearing-the-voice-of-god)](#hearing-the-voice-of-god)\\\\n\\\\n\\\\n<!-- TOC_END -->","[Hearing the Voice of God [298](#hearing-the-voice-of-god)](#hearing-the-voice-of-god)"

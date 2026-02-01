@@ -1,0 +1,152 @@
+{
+  "drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter0_0_intro.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter0_0_intro.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter0_0_intro_vs_chapter0_0_intro.csv",
+    "generated_at": "2026-02-01T01:32:33.509617"
+  },
+  "drift_report_chapter0_1_dedication_vs_chapter0_1_dedication.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter0_1_dedication.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter0_1_dedication.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter0_1_dedication_vs_chapter0_1_dedication.csv",
+    "generated_at": "2026-02-01T01:32:34.653360"
+  },
+  "drift_report_chapter0_2_acknowledgements_vs_chapter0_2_acknowledgements.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter0_2_acknowledgements.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter0_2_acknowledgements.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter0_2_acknowledgements_vs_chapter0_2_acknowledgements.csv",
+    "generated_at": "2026-02-01T01:32:34.962034"
+  },
+  "drift_report_chapter0_3_table_of_contents_vs_chapter0_3_table_of_contents.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter0_3_table_of_contents.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter0_3_table_of_contents.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter0_3_table_of_contents_vs_chapter0_3_table_of_contents.csv",
+    "generated_at": "2026-02-01T01:32:36.226136"
+  },
+  "drift_report_chapter0_4_list_of_tables_vs_chapter0_4_list_of_tables.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter0_4_list_of_tables.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter0_4_list_of_tables.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter0_4_list_of_tables_vs_chapter0_4_list_of_tables.csv",
+    "generated_at": "2026-02-01T01:32:36.603427"
+  },
+  "drift_report_chapter0_5_foreword_vs_chapter0_5_foreword.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter0_5_foreword.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter0_5_foreword.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter0_5_foreword_vs_chapter0_5_foreword.csv",
+    "generated_at": "2026-02-01T01:32:37.831522"
+  },
+  "drift_report_chapter0_6_preface_vs_chapter0_6_preface.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter0_6_preface.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter0_6_preface.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter0_6_preface_vs_chapter0_6_preface.csv",
+    "generated_at": "2026-02-01T01:32:39.270162"
+  },
+  "drift_report_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_vs_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose_vs_chapter10_chapter_10_sanctified_prepared_for_god_s_purpose.csv",
+    "generated_at": "2026-02-01T01:32:41.482592"
+  },
+  "drift_report_chapter11_chapter_11_baptisms_water_and_spirit_vs_chapter11_chapter_11_baptisms_water_and_spirit.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter11_chapter_11_baptisms_water_and_spirit.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter11_chapter_11_baptisms_water_and_spirit.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter11_chapter_11_baptisms_water_and_spirit_vs_chapter11_chapter_11_baptisms_water_and_spirit.csv",
+    "generated_at": "2026-02-01T01:32:46.067008"
+  },
+  "drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter12_chapter_12_discipleship.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter12_chapter_12_discipleship.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter12_chapter_12_discipleship_vs_chapter12_chapter_12_discipleship.csv",
+    "generated_at": "2026-02-01T01:32:48.027867"
+  },
+  "drift_report_chapter13_chapter_13_spiritual_authority_vs_chapter13_chapter_13_spiritual_authority.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter13_chapter_13_spiritual_authority.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter13_chapter_13_spiritual_authority.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter13_chapter_13_spiritual_authority_vs_chapter13_chapter_13_spiritual_authority.csv",
+    "generated_at": "2026-02-01T01:32:51.137770"
+  },
+  "drift_report_chapter14_back_1_postscript_vs_chapter14_back_1_postscript.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter14_back_1_postscript.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter14_back_1_postscript.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter14_back_1_postscript_vs_chapter14_back_1_postscript.csv",
+    "generated_at": "2026-02-01T01:32:51.456383"
+  },
+  "drift_report_chapter14_back_3_extended_reference_tables_vs_chapter14_back_3_extended_reference_tables.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter14_back_3_extended_reference_tables.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter14_back_3_extended_reference_tables.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter14_back_3_extended_reference_tables_vs_chapter14_back_3_extended_reference_tables.csv",
+    "generated_at": "2026-02-01T01:32:51.670630"
+  },
+  "drift_report_chapter14_back_4_end_of_chapter_activities_vs_chapter14_back_4_end_of_chapter_activities.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter14_back_4_end_of_chapter_activities.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter14_back_4_end_of_chapter_activities.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter14_back_4_end_of_chapter_activities_vs_chapter14_back_4_end_of_chapter_activities.csv",
+    "generated_at": "2026-02-01T01:32:56.080870"
+  },
+  "drift_report_chapter14_back_5_hearing_the_voice_of_god_vs_chapter14_back_5_hearing_the_voice_of_god.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter14_back_5_hearing_the_voice_of_god.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter14_back_5_hearing_the_voice_of_god.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter14_back_5_hearing_the_voice_of_god_vs_chapter14_back_5_hearing_the_voice_of_god.csv",
+    "generated_at": "2026-02-01T01:32:56.993512"
+  },
+  "drift_report_chapter14_chapter_14_keep_watch_vs_chapter14_chapter_14_keep_watch.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter14_chapter_14_keep_watch.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter14_chapter_14_keep_watch.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter14_chapter_14_keep_watch_vs_chapter14_chapter_14_keep_watch.csv",
+    "generated_at": "2026-02-01T01:32:58.981465"
+  },
+  "drift_report_chapter1_chapter_1_sound_doctrine_matters_vs_chapter1_chapter_1_sound_doctrine_matters.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter1_chapter_1_sound_doctrine_matters.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter1_chapter_1_sound_doctrine_matters.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter1_chapter_1_sound_doctrine_matters_vs_chapter1_chapter_1_sound_doctrine_matters.csv",
+    "generated_at": "2026-02-01T01:33:00.129223"
+  },
+  "drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter2_chapter_2_god_eternal_creator_and_loving_father.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter2_chapter_2_god_eternal_creator_and_loving_father.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter2_chapter_2_god_eternal_creator_and_loving_father_vs_chapter2_chapter_2_god_eternal_creator_and_loving_father.csv",
+    "generated_at": "2026-02-01T01:33:01.046898"
+  },
+  "drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter3_chapter_3_sin_and_redemption.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter3_chapter_3_sin_and_redemption.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter3_chapter_3_sin_and_redemption_vs_chapter3_chapter_3_sin_and_redemption.csv",
+    "generated_at": "2026-02-01T01:33:02.249320"
+  },
+  "drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter4_chapter_4_jesus_the_messiah.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter4_chapter_4_jesus_the_messiah.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter4_chapter_4_jesus_the_messiah_vs_chapter4_chapter_4_jesus_the_messiah.csv",
+    "generated_at": "2026-02-01T01:33:03.345317"
+  },
+  "drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter5_chapter_5_repentance_from_dead_works.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter5_chapter_5_repentance_from_dead_works.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter5_chapter_5_repentance_from_dead_works_vs_chapter5_chapter_5_repentance_from_dead_works.csv",
+    "generated_at": "2026-02-01T01:33:04.902023"
+  },
+  "drift_report_chapter6_chapter_6_faith_toward_god_vs_chapter6_chapter_6_faith_toward_god.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter6_chapter_6_faith_toward_god.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter6_chapter_6_faith_toward_god.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter6_chapter_6_faith_toward_god_vs_chapter6_chapter_6_faith_toward_god.csv",
+    "generated_at": "2026-02-01T01:33:07.205249"
+  },
+  "drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter7_chapter_7_jesus_the_foundation_of_our_faith.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter7_chapter_7_jesus_the_foundation_of_our_faith_vs_chapter7_chapter_7_jesus_the_foundation_of_our_faith.csv",
+    "generated_at": "2026-02-01T01:33:08.606600"
+  },
+  "drift_report_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_vs_chapter8_chapter_8_holy_spirit_comforter_guide_and_power.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter8_chapter_8_holy_spirit_comforter_guide_and_power.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter8_chapter_8_holy_spirit_comforter_guide_and_power_vs_chapter8_chapter_8_holy_spirit_comforter_guide_and_power.csv",
+    "generated_at": "2026-02-01T01:33:10.421787"
+  },
+  "drift_report_chapter9_chapter_9_the_church_our_role_in_it_vs_chapter9_chapter_9_the_church_our_role_in_it.csv": {
+    "source": "/Users/andrew/repo/principles-of-faith/english/chapters/chapter9_chapter_9_the_church_our_role_in_it.md",
+    "back": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/backtranslation/chapters/chapter9_chapter_9_the_church_our_role_in_it.md",
+    "output": "/Users/andrew/repo/kli-translation-pipeline_principles-of-faith/japenese/pipeline2/analysis/chapters/drift_report_chapter9_chapter_9_the_church_our_role_in_it_vs_chapter9_chapter_9_the_church_our_role_in_it.csv",
+    "generated_at": "2026-02-01T01:33:13.591302"
+  }
+}
